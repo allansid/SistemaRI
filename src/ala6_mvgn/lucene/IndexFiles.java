@@ -14,6 +14,7 @@ import org.apache.lucene.analysis.en.EnglishAnalyzer;
 import org.apache.lucene.analysis.standard.StandardAnalyzer;
 import org.apache.lucene.document.Document;
 import org.apache.lucene.document.Field;
+import org.apache.lucene.document.TextField;
 import org.apache.lucene.index.IndexWriter;
 import org.apache.lucene.index.IndexWriterConfig;
 import org.apache.lucene.store.Directory;
@@ -26,322 +27,90 @@ public class IndexFiles {
 
 	private static boolean stopword;
 	private boolean stemming;
+	private IndexWriter writer;
 
-	public IndexFiles() {
-		super();
-		// TODO Auto-generated constructor stub
+	public IndexFiles(boolean stopword, boolean stemming) {
+		this.stemming = stemming;
+		this.stopword = stopword;
+
 	}
 
 	// Index document
 	private Document getDocument(File file) throws IOException{
 		Document doc = new Document();
 
-		Field contentField = new Field(null, null, null);
+		// index file contents
+		Field contentField = new Field("contents", new FileReader(file), TextField.TYPE_NOT_STORED);
+		// index file name
+		Field fileNameField = new Field("fieldname",file.getName(), TextField.TYPE_STORED);
+		// index file path
+		Field filePathField = new Field("filepath", file.getCanonicalPath(), TextField.TYPE_STORED);
+
 		doc.add(contentField);
+		doc.add(fileNameField);
+		doc.add(filePathField);
 
 		return doc;
 	}
 
-	public void indexer() throws IOException {
+	public void indexer(String indexDirectoryPath) throws IOException {
 		//Create a IndexWriter
-		String indexPath = "index";
-		Path p = Paths.get(indexPath);
-		Directory d = FSDirectory.open(p);
-		Analyzer a; // = new StandardAnalyzer();
+		Path p = Paths.get(indexDirectoryPath);
+		try {
+			Directory d = FSDirectory.open(p);
+
+			Analyz aux = new Analyz(stopword, stemming);
+			Analyzer a = aux.getAnalyzer();
+
+			IndexWriterConfig iwc = new IndexWriterConfig(a);
+			writer = new IndexWriter(d, iwc);
+		} catch (IOException e) {			
+			e.printStackTrace();
+		}
 
 
-
-
-		boolean ignoreCase = true;
-		int startSize = 2;
-		CharArraySet stopWords = new CharArraySet(startSize, ignoreCase);
 		
-		if (stopword) { //
-			String[] stopWordList = {
-					"a", 
-					"à", 
-					"agora", 
-					"ainda", 
-					"alguém", 
-					"algum", 
-					"alguma", 
-					"algumas", 
-					"alguns", 
-					"ampla", 
-					"amplas", 
-					"amplo", 
-					"amplos", 
-					"ante", 
-					"antes", 
-					"ao", 
-					"aos", 
-					"após", 
-					"aquela", 
-					"aquelas", 
-					"aquele", 
-					"aqueles", 
-					"aquilo", 
-					"as", 
-					"até", 
-					"através", 
-					"cada", 
-					"coisa", 
-					"coisas", 
-					"com", 
-					"como", 
-					"contra", 
-					"contudo", 
-					"da", 
-					"daquele", 
-					"daqueles", 
-					"das", 
-					"de", 
-					"dela", 
-					"delas", 
-					"dele", 
-					"deles", 
-					"depois", 
-					"dessa", 
-					"dessas", 
-					"desse", 
-					"desses", 
-					"desta", 
-					"destas", 
-					"deste", 
-					"deste", 
-					"destes", 
-					"deve", 
-					"devem", 
-					"devendo", 
-					"dever", 
-					"deverá", 
-					"deverão", 
-					"deveria", 
-					"deveriam", 
-					"devia", 
-					"deviam", 
-					"disse", 
-					"disso", 
-					"disto", 
-					"dito", 
-					"diz", 
-					"dizem", 
-					"do", 
-					"dos", 
-					"e", 
-					"é", 
-					"e'", 
-					"ela", 
-					"elas", 
-					"ele", 
-					"eles", 
-					"em", 
-					"enquanto", 
-					"entre", 
-					"era", 
-					"essa", 
-					"essas", 
-					"esse", 
-					"esses", 
-					"esta", 
-					"está", 
-					"estamos", 
-					"estão", 
-					"estas", 
-					"estava", 
-					"estavam", 
-					"estávamos", 
-					"este", 
-					"estes", 
-					"estou", 
-					"eu", 
-					"fazendo", 
-					"fazer", 
-					"feita", 
-					"feitas", 
-					"feito", 
-					"feitos", 
-					"foi", 
-					"for", 
-					"foram", 
-					"fosse", 
-					"fossem", 
-					"grande", 
-					"grandes", 
-					"há", 
-					"isso", 
-					"isto", 
-					"já", 
-					"la", 
-					"lá", 
-					"lhe", 
-					"lhes", 
-					"lo", 
-					"mas", 
-					"me", 
-					"mesma", 
-					"mesmas", 
-					"mesmo", 
-					"mesmos", 
-					"meu", 
-					"meus", 
-					"minha", 
-					"minhas", 
-					"muita", 
-					"muitas", 
-					"muito", 
-					"muitos", 
-					"na", 
-					"não", 
-					"nas", 
-					"nem", 
-					"nenhum", 
-					"nessa", 
-					"nessas", 
-					"nesta", 
-					"nestas", 
-					"ninguém", 
-					"no", 
-					"nos", 
-					"nós", 
-					"nossa", 
-					"nossas", 
-					"nosso", 
-					"nossos", 
-					"num", 
-					"numa", 
-					"nunca", 
-					"o", 
-					"os", 
-					"ou", 
-					"outra", 
-					"outras", 
-					"outro", 
-					"outros", 
-					"para", 
-					"pela", 
-					"pelas", 
-					"pelo", 
-					"pelos", 
-					"pequena", 
-					"pequenas", 
-					"pequeno", 
-					"pequenos", 
-					"per", 
-					"perante", 
-					"pode", 
-					"pôde", 
-					"podendo", 
-					"poder", 
-					"poderia", 
-					"poderiam", 
-					"podia", 
-					"podiam", 
-					"pois", 
-					"por", 
-					"porém", 
-					"porque", 
-					"porquê", 
-					"posso", 
-					"pouca", 
-					"poucas", 
-					"pouco", 
-					"poucos", 
-					"primeiro", 
-					"primeiros", 
-					"própria", 
-					"próprias", 
-					"próprio", 
-					"próprios", 
-					"quais", 
-					"qual", 
-					"quando", 
-					"quanto", 
-					"quantos", 
-					"que", 
-					"quem", 
-					"são", 
-					"se", 
-					"seja", 
-					"sejam", 
-					"sem", 
-					"sempre", 
-					"sendo", 
-					"será", 
-					"serão", 
-					"seu", 
-					"seus", 
-					"si", 
-					"sido", 
-					"só", 
-					"sob", 
-					"sobre", 
-					"sua", 
-					"suas", 
-					"talvez", 
-					"também", 
-					"tampouco", 
-					"te", 
-					"tem", 
-					"tendo", 
-					"tenha", 
-					"ter", 
-					"teu", 
-					"teus", 
-					"ti", 
-					"tido", 
-					"tinha", 
-					"tinham", 
-					"toda", 
-					"todas", 
-					"todavia", 
-					"todo", 
-					"todos", 
-					"tu", 
-					"tua", 
-					"tuas", 
-					"tudo", 
-					"última", 
-					"últimas", 
-					"último", 
-					"últimos", 
-					"um", 
-					"uma", 
-					"umas", 
-					"uns", 
-					"vendo", 
-					"ver", 
-					"vez", 
-					"vindo", 
-					"vir", 
-					"vos", 
-					"vós", 
-			};
+		writer.close();
+	}
+	
+	public int createIndex(String FilesPath) throws IOException {
+		// Pega todos os arquivos do diretorio
+		File[] files = new File(FilesPath).listFiles();
 
-			stopWords.addAll(Arrays.asList(stopWordList));
-		} else {
-			String[] noStopWordsList = {};
-			
-			stopWords.addAll(Arrays.asList(noStopWordsList));
+		for (File file : files) {
+			if (!file.isDirectory() && !file.isHidden() && file.exists() && file.canRead()) {
+				//Start Indexing Process
+				Document document = getDocument(file);
+				writer.addDocument(document);
+			}
 		}
+		return writer.numDocs();
+	}
 
-		if (stemming) {
-			a = new BrazilianAnalyzer(stopWords);
-		} else {
-			a = new StandardAnalyzer(stopWords);
-		}
+	
+	public static boolean isStopword() {
+		return stopword;
+	}
 
-		IndexWriterConfig iwc = new IndexWriterConfig(a);
-		IndexWriter iw = new IndexWriter(d, iwc);
+	public static void setStopword(boolean stopword) {
+		IndexFiles.stopword = stopword;
+	}
 
-		//Start Indexing Process
-		Document doc = getDocument();
-		iw.addDocument(doc);
+	public boolean isStemming() {
+		return stemming;
+	}
 
-		iw.close();
+	public void setStemming(boolean stemming) {
+		this.stemming = stemming;
+	}
+
+	public IndexWriter getWriter() {
+		return writer;
+	}
+
+	public void setWriter(IndexWriter writer) {
+		this.writer = writer;
 	}
 
 
-
-}
 }
