@@ -9,7 +9,11 @@ public class SearchFiles {
 		this.stopword = stopword;
 		this.stemming = stemming;
 	}
-
+	
+	
+	public static void main(String[] args) throws Exception {
+		
+	}
 
 	public boolean isStopword() {
 		return stopword;

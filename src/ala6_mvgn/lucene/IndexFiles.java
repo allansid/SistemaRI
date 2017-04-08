@@ -7,6 +7,7 @@ import java.nio.file.Path;
 import java.nio.file.Paths;
 
 import org.apache.lucene.analysis.Analyzer;
+import org.apache.lucene.analysis.en.EnglishAnalyzer;
 import org.apache.lucene.analysis.standard.StandardAnalyzer;
 import org.apache.lucene.document.Document;
 import org.apache.lucene.document.Field;
@@ -19,8 +20,16 @@ import org.apache.lucene.store.FSDirectory;
 
 
 public class IndexFiles {
+	
+	private static boolean stopword;
+	private boolean stemming;
+	
+	public IndexFiles() {
+		super();
+		// TODO Auto-generated constructor stub
+	}
 
-// Index document
+	// Index document
 	private Document getDocument(File file) throws IOException{
 		Document doc = new Document();
 		
@@ -35,13 +44,27 @@ public class IndexFiles {
 		String indexPath = "index";
 		Path p = Paths.get(indexPath);
 		Directory d = FSDirectory.open(p);
-		Analyzer a = new StandardAnalyzer();
+		Analyzer a; // = new StandardAnalyzer();
+		
+		if (stopword) {
+			String[] stopWordList = {"", "", "", "", ""};
+			
+		}
+		
+		if (stemming) {
+			a = new EnglishAnalyzer();
+		} else {
+			a = new StandardAnalyzer();
+		}
+		
 		IndexWriterConfig iwc = new IndexWriterConfig(a);
 		IndexWriter iw = new IndexWriter(d, iwc);
 		
 		//Start Indexing Process
 		Document doc = getDocument();
 		iw.addDocument(doc);
+		
+		iw.close();
 	}
 	
 	
