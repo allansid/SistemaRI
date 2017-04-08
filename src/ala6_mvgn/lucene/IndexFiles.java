@@ -5,8 +5,11 @@ import java.io.FileReader;
 import java.io.IOException;
 import java.nio.file.Path;
 import java.nio.file.Paths;
+import java.util.Arrays;
 
 import org.apache.lucene.analysis.Analyzer;
+import org.apache.lucene.analysis.CharArraySet;
+import org.apache.lucene.analysis.br.BrazilianAnalyzer;
 import org.apache.lucene.analysis.en.EnglishAnalyzer;
 import org.apache.lucene.analysis.standard.StandardAnalyzer;
 import org.apache.lucene.document.Document;
@@ -46,8 +49,16 @@ public class IndexFiles {
 		Directory d = FSDirectory.open(p);
 		Analyzer a; // = new StandardAnalyzer();
 
+
+
+
+		boolean ignoreCase = true;
+		int startSize = 2;
+		CharArraySet stopWords = new CharArraySet(startSize, ignoreCase);
+		
 		if (stopword) { //
-			String[] stopWordList = {"a", 
+			String[] stopWordList = {
+					"a", 
 					"à", 
 					"agora", 
 					"ainda", 
@@ -305,26 +316,32 @@ public class IndexFiles {
 					"vir", 
 					"vos", 
 					"vós", 
-					};
-			}
+			};
 
-			if (stemming) {
-				a = new EnglishAnalyzer();
-			} else {
-				a = new StandardAnalyzer();
-			}
-
-			IndexWriterConfig iwc = new IndexWriterConfig(a);
-			IndexWriter iw = new IndexWriter(d, iwc);
-
-			//Start Indexing Process
-			Document doc = getDocument();
-			iw.addDocument(doc);
-
-			iw.close();
+			stopWords.addAll(Arrays.asList(stopWordList));
+		} else {
+			String[] noStopWordsList = {};
+			
+			stopWords.addAll(Arrays.asList(noStopWordsList));
 		}
 
+		if (stemming) {
+			a = new BrazilianAnalyzer(stopWords);
+		} else {
+			a = new StandardAnalyzer(stopWords);
+		}
 
+		IndexWriterConfig iwc = new IndexWriterConfig(a);
+		IndexWriter iw = new IndexWriter(d, iwc);
 
+		//Start Indexing Process
+		Document doc = getDocument();
+		iw.addDocument(doc);
+
+		iw.close();
 	}
+
+
+
+}
 }
