@@ -1,0 +1,145 @@
+
+1
+Alguns Impactos da Tecnologia da In
+formação sobre a Comunicação Interna 
+Organizacional 
+Autoria:
+ Ricardo Lebbos Favoreto, Eliana Cláudi
+a Mayumi Ishikawa, Gabriela Lebbos 
+Favoreto, Gustavo Pitta Lopes A
+quino, Jaqueline Lebbos Favoreto 
+Resumo do artigo 
+Comunicação  interna  e  TI  são  dois  importantes  objetos  de  estudo  da  
+administração  moderna.  O  atual  contexto  info
+rmacional,  feitio  do  ento
+rno  das  organizações,  
+confere  relevância  sing
+ular  aos  objetos  sob  análise.  A  de
+manda  pela  gestão  da  informação  
+ocasiona  que  se  atente  para  técnicas  capazes
+  de  aprimorar  os  processos  comunicativos  
+internos,  uma  vez  que  deles  resulta  o  tratamen
+to  da  informação.  Ademais,  o  aumento  da  
+complexidade   das   relações   negociais   ex
+ige   uma   comunicação   interna   que   permita   à   
+organização influenciar o ambiente em que atua 
+e, ao mesmo tempo, refleti-lo, com respostas 
+satisfatórias.  Assim,  nesse  clima  de  perspe
+ctivas,  são  vislumbrados  potenciais  impactos  
+favoráveis dos recursos de TI sobre a comuni
+cação interna. O objetivo 
+deste artigo é elencar 
+alguns  deles,  perpassando-se,  liminarmente,  pe
+lo  discurso  de  alguns  
+importantes  aspectos  
+relacionados  à  comunicação  interna  e  à  TI.  Para  
+tanto,  utilizou-se  de  pe
+squisa  bibliográfica.  
+Os principais resultados obtidos 
+indicam serem os impactos causa
+dos pela TI bastante úteis às 
+organizações modernas, face ao contexto ambien
+tal. Ainda, para que se obtenha uma evolução 
+da comunicação condizente com as necessidades 
+organizacionais, é imprescindível que sejam 
+consideradas  as  peculiaridades  de  cada  orga
+nização,  a  fim  de  que  os  impactos  gerados  
+contribuam efetivamente para uma comunicação in
+terna alinhada às estratégias de negócio.  
+1 I
+NTRODUÇÃO
+Os procedimentos comunicativos compõe
+m um conjunto de fatores críticos 
+para   o   êxito   das   atividades   organizacionais
+.   Por   constituir-se   a   organização   de   um   
+agrupamento pessoal, a comunicação é elementar à 
+sua existência; é concatenação das partes 
+–   um   atamento   imprescindível   à   formação   do   todo.   As   ocorrências   organizacionais   
+desenvolvem-se   através   da   comunicação,   
+sendo   que   em   alguma   etapa   de   qualquer   
+procedimento necessariamente terá havido comunicação. 
+Exterioriza-se a comunicação em compor
+tamentos nos quais se identificam 
+sempre  mais  de  um  sujeito.  A  comunicação  en
+voltória  de  apenas  um  sujeito  pode  até  ser  
+pensada;   porém,   noutro   campo   de   anális
+e.   A   comunicação   organizacional   ora   tratada   
+pressupõe atitude múltipla, decorrente de vontades coincidentes em determinado fazer; é um 
+comportamento nitidamente grupal, que impõe
+ o desafio de torná-lo organizacional. 
+Ademais, como coloca Lucena (2005, p. 1), “a comunicação é o espelho da 
+cultura  empresarial  e  reflete,  
+necessariamente,  os  valores  da
+  organização”,  decorrendo  daí  a  
+relevância   de   conferir-lhe   
+atenção   singularizada,   especial
+mente   nas   organizações   cuja   
+administração é eminentemente principiológica. 
+Tratando dos procedimentos comunicativos
+ internos Osório et al. orientam 
+para a constante revisão desses procedimentos, 
+necessidade essa criada pela complexidade 
+ambiental, interna e externa. Escrevem que: 
+Inegavelmente, o processo de globalização 
+e o ambiente de alta competitividade em 
+que  vivem  as  empresas,  praticamente  impõem  uma  constante  análise  dos  credos  e  
+2
+dos valores internos das empresas e as levam por novos caminhos, sempre na busca 
+da melhoria dos seus procedimentos internos. 
+(2005, p. 5)
+Os   autores   ressaltam   ainda   que   “a   globalização   tem   transformado   a   
+sociedade  industrial  numa  sociedade  ávida  
+por  informação  e  conhecimento,  tornando-os  
+fatores fundamentais para a sobrevivência das organizações” (2005, p. 1). 
+Moura (2004, p. 14) lembra que “num cenário cada vez mais competitivo e 
+de  exigências  de  muita  agilidade,  flexibilid
+ade  e  inovação,  a  informação  torna-se  um  aliado  
+decisivo nas estratégias das organizações”. 
+Assim  também  Vismara  (2000,  p.  215)  at
+enta  para  a  importância  adquirida  
+pela informação ao afirmar que “a atenção da so
+ciedade industrializada está direcionada para 
+uma   nova   matéria-prima   que,   diferentemente
+   das   demais,   que   parecem   em   via   de   
+esgotamento, a cada dia aumenta em excesso: 
+a informação”. Para Stoner e Freeman (1999, p. 
+503),  “dizer  que  estamos  passando
+  rapidamente  de  uma  sociedad
+e  baseada  na  indústria  para  
+uma  sociedade  baseada  na  informação  não  é  um
+  exagero”.  Davenport  et  al.  ilustram  a  fase  
+transitória por meio da seguinte figura: 
+Figura 1
+ - Era da Informação 
+  Fonte: Davenport et al. (2004, p.28) 
+Indispensável,  e  de  existência  concomitante  à  comunicação  interna,  a  
+Tecnologia da informação (TI) exige consideraçã
+o. Advinda de técnicas
+ que têm o condão de 
+informar, as referidas tecnologias são impresci
+ndíveis à administração moderna, de simples a 
+complexas organizações. Para Bueno (2003, p. 49
+), as novas tecnologias são grandes aliados 
+da comunicação organizacional, sem as quais
+ “as organizações só tendem a involuir”. 
+Conforme Albertin e Moura (2004, p. 25), 
+A oferta de tecnologias de informação e 
+comunicação, e seu ap
+roveitamento amplo e 
+intenso  pelas  organizações  têm  sido  consid
+erados  como  uma  realidade  nos  vários  
+setores   da   economia   e   condição   básica
+   para   as   empresas   sobreviverem   e   
+competirem.    
+Além  disso,  como  colocam  Osório  et
+  al.  (2005,  p.  3),  
+referindo-se  às  
+mudanças consagradas pela globalização, afirmam que:  
+Planejar,  realizar  e  administrar  tais  muda
+nças  estratégicas  seria  impossível  sem  o  
+uso adequado de recursos da TI, tais como: 
+Intranet
+, Internet e outros recursos mais 
+de   computação   e   telecomunicações,   que   
+são   o   sistema   nervoso   central   das   
+companhias globalizadas de hoje.   

@@ -1,0 +1,226 @@
+See discussions, stats, and author profiles for this publication at: https://www.researchgate.net/publication/228780162
+Barreiras para o uso da tecnologia da
+informação na indústria da construção civil
+Article
+CITATION
+1
+READS
+3,276
+9 authors, including:
+Some of the authors of this publication are also working on these related projects:
+BIMe Initiative View project
+Implications of PAS1192-2:2013 in the Brazilian construction market. View project
+Luiz Antonio do Nascimento
+Anhanguera Educacional
+14 PUBLICATIONS 13 CITATIONS
+SEE PROFILE
+Eduardo Toledo Santos
+University of São Paulo
+81 PUBLICATIONS 140 CITATIONS
+SEE PROFILE
+All content following this page was uploaded by Eduardo Toledo Santos on 27 September 2014.
+The user has requested enhancement of the downloaded file. All in-text references underlined in blue are added to the original document
+and are linked to publications on ResearchGate, letting you access and read them immediately.
+VOLTAR
+BARREIRAS PARA O USO DA TECNOLOGIA DA INFORMAÇÃO NA
+INDÚSTRIA DA CONSTRUÇÃO CIVIL
+Luiz Antonio do NASCIMENTO
+Mestrando pela Escola Politécnica da USP. Av. Prof. Almeida Prado, travessa 2, n° 83, CEP 05508-900 São
+Paulo (SP) Brasil - Correio eletrônico: luiz.denascimento@poli.usp.br
+Eduardo Toledo SANTOS
+Doutor, Eng., Professor da Escola Politécnica da USP. Av. Prof. Almeida Prado, travessa 2, n° 83, CEP
+05508-900 São Paulo (SP) Brasil - Correio eletrônico: eduardo.toledo@poli.usp.br
+RESUMO
+Com os avanços tecnológicos nos últimos anos, a indústria da Construção Civil está incorporando
+gradativamente as novas Tecnologias da Informação (TI), apesar de seu caráter tradicionalmente
+conservador. Atualmente procura-se com o uso da Tecnologia da Informação obter maior
+produtividade e qualidade, porém existem várias barreiras que impedem que o uso desta
+tecnologia se estabeleça no setor da Construção Civil. Neste trabalho, os principais fatores que
+contribuem para estes impedimentos são apresentados com vistas a proporcionar um panorama
+que oriente para a superação destes obstáculos.
+1. INTRODUÇÃO
+A área da Construção Civil é intensiva na utilização de informações já que um projeto típico
+produz milhares de documentos (Newton, 2002), boa parte representada graficamente, o que lhes
+adiciona mais informação ainda. O potencial benefício no uso de tecnologias para gerenciar estas
+informações é óbvio e muito grande. Os resultados de uma iniciativa que fosse capaz de agregar
+a TI de forma eficaz no cotidiano dos profissionais da Construção teria um enorme impacto devido
+a dois fatores: a fatia considerável que o setor representa do PIB (FIESP, 2001) e a baixa
+produtividade que caracteriza o setor (Schwegler et al., 2001). As oportunidades para aumento da
+eficiência desta indústria pela aplicação destas tecnologias são muitas, proporcionando impacto
+significativo no crescimento nacional, provavelmente maior que na maioria dos demais setores
+(Newton, 2002).
+Paradoxalmente, a penetração da TI na indústria da Construção ainda é pequena em relação a
+outros setores. Isso se dá, em grande parte, devido a um conjunto de barreiras ligadas aos
+profissionais que atuam na área, aos seus processos longamente estabelecidos, às
+características do próprio setor e a deficiências da tecnologia. A seguir, são listadas algumas
+destas barreiras, conforme referidas na literatura. Surpreendentemente, a maior parte destas
+barreiras não são ligadas à fatores de subdesenvolvimento. O cenário atual no Brasil, mantidas as
+proporções, se mostra muito semelhante àqueles observados em países desenvolvidos como
+Estados Unidos, Canadá ou Austrália, no que tange ao uso da TI para Construção Civil.
+2. BARREIRAS À TECNOGIA DA INFORMAÇÃO LIGADAS AOS PROFISSIONAIS
+Os profissionais do setor da Construção Civil normalmente possuem mais dificuldades para
+trabalhar com TI em relação a profissionais de outros setores. Existem vários fatores que
+contribuem para este “atraso tecnológico” nas práticas dos profissionais:
+VOLTAR
+· A utilização da TI nas empresas de construção tem características diferentes de outros
+setores da indústria. Na utilização de ferramentas CAD especificas não é exigida muita
+precisão, tanto no detalhamento das medidas quanto nos detalhes de apresentação do
+artefato. Não são utilizadas tecnologias CAM-CNC pois os artefatos são construídos
+manualmente;
+· Os profissionais recrutados têm perfis diferentes aos das outras indústrias e com
+menos exigências. Não há um trabalho de validação dos produtos projetados com
+software de AEC (a verificação é feita e corrigida muitas vezes pela mão de obra
+operacional);
+· A metodologia de trabalho com TI nas diversas empresas do setor são muito diferentes
+ocasionando disparidades na forma de trabalhar de um mesmo profissional de uma
+empresa para a outra;
+· Os diversos profissionais trabalham com ferramentas muito diversificadas, não
+havendo uma ferramenta que tenha hegemonia, à exceção da ferramenta CAD
+genérica, mas que por ser genérica, quando bem utilizada, é customizada para ganhar
+características diferenciadas. No entanto, a maioria dos profissionais sub-utiliza esta
+ferramenta.
+· Os profissionais são conduzidos por gerentes e administradores que têm formação
+técnica porém que não possuem desenvoltura com a TI, já que tiveram pouca ou
+nenhuma experiência com sistemas CAD ou outro software. Atualmente este cenário
+está mudando lentamente já que estes profissionais começam a ter algum
+conhecimento, porém a nível operacional, não compatível com suas funções. Mesmo
+os jovens engenheiros e arquitetos que se formam hoje, terão por muitos anos um
+impacto ainda limitado (Hassell et al., 2000);
+· Não existe uma visão do uso estratégico da TI pelos profissionais do setor. Os cursos
+de formação dos profissionais não prevêem o profissional em um nível estratégico ou
+de avaliação das ferramentas. Os profissionais têm dificuldade para avaliar ou
+diferenciar as ferramentas de TI disponíveis no mercado;
+· Os profissionais estão habituados a utilizar ferramentas para monousuários (ilhas de
+automação) e têm dificuldades em utilizar ferramentas em rede e compartilhadas;
+· Até há pouco tempo atrás (na maioria dos lugares do Brasil em menos de 5 anos) não
+existia nos cursos dos profissionais a utilização de ferramentas informatizadas;
+· Os profissionais do setor que atuam no setor são resistentes a inovações das mais
+várias áreas, e a TI não é exceção (Freitas et al., 2001).
+· Os profissionais não conseguem trabalhar colaborativamente através da TI pois o nível
+diversificado do porte das empresas não permite que todos os intervenientes tenham
+estruturas para suportar a colaboração (estrutura física e de pessoal);
+· A mão-de-obra básica que atua nos canteiros é predominantemente analfabeta ou
+semi-analfabeta (Freitas et al., 2001). Há grandes oportunidades de utilização da TI
+nos canteiros (robótica, PDAs, ferramentas comunicação avançada, realidade virtual
+(Whyte, 2001), etc.) que são inviabilizadas por esta razão.
+3. BARREIRAS À TECNOGIA DA INFORMAÇÃO LIGADAS AOS PROCESSOS
+· Enquanto outros setores vêem a web como uma oportunidade importante para reduzir
+custos com intermediários nas compras, muitos construtores vêem os fornecedores e
+VOLTAR
+empreiteiras locais como um elo crucial e insubstituível da cadeia de suprimentos
+(Hassell et al., 2000);
+· Falta de padronização na comunicação. Apesar dos esforços de organismos como a
+IAI (IFC) e CDCON (www.cdcon.ufjf.br), o desenvolvimento de padrões de
+interoperabilidade para a indústria da construção tem demonstrado ser uma atividade
+complexa (Roe, 2001);
+· Os métodos de gestão de processos são ultrapassados e há uma carência de
+disciplinas voltadas a gestão que tratem de conceitos e ferramentas vindas da
+Sociologia das Organizações (Melhado, 2001).
+4. BARREIRAS À TECNOGIA DA INFORMAÇÃO LIGADAS AO SETOR / EMPRESAS
+· O setor da Construção Civil investe muito pouco em TI comparado com as indústrias
+de outros setores, como atestam vários estudos (Newton, 2002)(Statistics New Zeland,
+2002) internacionais.
+· A área de TI, mesmo quando existe nas empresas do setor, tipicamente não tem
+orçamento significativo que permita investimento adequado para alavancar resultados
+positivos (Hassel et al., 2000);
+· O tamanho da indústria da construção civil é muito grande, diversificado e fragmentado
+(Villagarcía, et al., 1999). Isso faz com que o impacto causado por transformações em
+quaisquer de seus agentes seja muito pequeno no setor como um todo. Agrava a
+situação, o fato de que quanto menos agentes usam a TI, menores são os benefícios
+de tal investimento (Hassel et al., 2000);
+· Há incerteza dos dirigentes do setor sobre a compensação dos investimentos em TI
+devido ao aspecto cíclico do mercado da construção, no qual aquelas empresas que
+minimizaram seus investimentos em equipamento e pessoal foram recompensadas
+com maior lucratividade. Assim, os dirigentes desta indústria temem em ordenar
+investimentos em TI que podem rapidamente se tornar obsoletos (Hassel et al., 2000);
+· Normalmente não há treinamento adequado na implantação de novas tecnologias. Isto
+é fundamental mesmo em se tratando de tecnologias relativamente simples como as
+extranets de projeto para uso adequado de todo o potencial das ferramentas (Froese,
+2002).
+5. BARREIRAS À TI LIGADAS À TECNOLOGIA
+· Incertezas sobre a segurança dos dados (intrusão, violação, vírus), particularmente
+quando a Internet é a mídia de suporte;
+· Apesar dos navegadores (browsers) serem programas simples, requerem constante
+atualização e manutenção (patches) (Lane, 2002);
+· Necessidade de conexão à Internet de banda larga, nem sempre acessível
+(disponibilidade, custo);
+· Custos de aquisição de manutenção de equipamentos. Apesar do barateamento do
+custo, este fator foi identificado como a barreira mais significativa em pesquisa do Prof.
+Rivard (2000), realizada no Canadá. Provavelmente significativa também no Brasil;
+VOLTAR
+· As tecnologias podem facilmente introduzir o problema de excesso de informação
+(Froese, 2002), implicando em maior gasto de tempo e dificuldade para identificar
+informações relevantes;
+6. CONCLUSÕES
+Analisando o estado da arte das Tecnologias da Informação aplicadas à Construção, nota-se
+claramente que a academia tem feito avanços extraordinários, a exemplo das tecnologias CAD-
+4D, Edifícios Virtuais e aplicações de Inteligência Artificial, Lógica Fuzzy, Redes Neurais e
+Realidade Virtual na área da construção, entre outros. Por outro lado, talvez em nenhum outro
+setor a distância entre a pesquisa e sua aplicação na indústria seja tão grande. Há um enorme
+abismo entre os resultados científicos já alcançados e sua efetiva adoção comercial.
+O potencial de utilização da TI na indústria da Construção é muito grande. Dado o tamanho do
+setor, suas características de uso intensivo de informação e a atual ineficiência de comunicação e
+baixa produtividade, os benefícios na integração da TI aos processos do setor seriam enormes.
+Infelizmente, há barreiras de diversas naturezas que ainda impedem a adoção generalizada
+destas tecnologias pela indústria da construção.
+Com relação aos profissionais da área, as barreiras referem-se à sua formação e aspectos
+culturais no tocante à TI ou inovações em geral. As pobres metodologias de gestão das empresas,
+bem como a falta de padronização na comunicação e as práticas arraigadas constituem barreiras
+ligadas aos processos desta área.
+As características do setor e de suas empresas (grande, fragmentado, diversificado) constituem
+fator importante que dificulta a introdução eficiente da TI. A própria tecnologia também apresenta
+algumas deficiências como custo, segurança, acessibilidade, etc.
+Por outro lado, os gestores da indústria da construção civil normalmente não compatibilizam a
+estratégia de negócio das empresas com a implantação das tecnologias de informação.
+Uma das alternativas a longo prazo para solucionar o problema do uso de TI pelas empresas da
+Construção Civil, é a reformulação da estrutura curricular das universidades, dando uma maior
+ênfase nas aplicações de TI para os futuros profissionais, de forma que tenham uma visão mais
+ampla e prática das Tecnologias de Informação existentes para sua área.
+Apesar das inúmeras barreiras, vislumbra-se que o uso da TI na indústria da construção seja
+extremamente recompensador e por isso é um objetivo com valor suficiente para que esforços
+continuem a ser feitos no sentido de vencê-las.
+REFERÊNCIAS BIBLIOGRÁFICAS
+FIESP - Federação das Indústrias do Estado de São Paulo. ConstruBusiness 2001: 4º
+Seminário da Indústria Brasileira da Construção. Documento Base – Propostas. São
+Paulo, 2001.
+FREITAS, M. C.; LIMA, L. M. S.; CASTRO, J. E. E. Aplicação das novas tecnologias para seleção
+da informação no setor da construção civil. Produção On-line, Florianópolis, v. 1,n.1, 2001.
+In: <http://www.producaoonline.inf.br/novosartigos.htm>. Acesso em 29 novembro 2001.
+FROESE, T. Trends in Information Technology for the Construction Industry, E-Construction
+Symposium, 2002. In: << http://ctca.unb.ca/CTCA/connections/e-construction/Thomas
+Froese.pdf>> . Acessado em 9 de setembro de 2002.
+VOLTAR
+HASSELL, S; BERNSTEIN, M.; BOWER, A. The Role of Information Technology in Housing
+Design and Construction. RAND Science and Technology Policy Institute, CF-156-OSTP,
+2000. In: <<http://www.rand.org/publications/CF/CF156/>>. Acessado em 15 de setembro de
+2002.
+LANE, K. Consulting Engineering Perspective on the use of Internet Based Technology, EConstruction
+Symposium, 2002. In: << http://ctca.unb.ca/CTCA/connections/e-construction/
+KentLane.pdf>> . Acessado em 9 de setembro de 2002.
+MELHADO, S. B. Gestão, cooperação e integração para um novo modelo voltado à
+qualidade do processo de projeto na construção de edifícios. – Tese (Livre Docência),
+Escola Politécnica da USP, 2001.
+NEWTON, P. Diffusion of IT in the Building and Construction Industry. Building for Growth
+Innovation Forum, Sydney, 1998. In: <<http://www.isr.gov.au/industry/building/invforum/>> .
+Acessado em 16 de setembro de 2002.
+RIVARD, H. A Survey on the Impact of Information Technology on the Canadian Architecture,
+Engineering and Construction Industry. Electronic Journal of Information Technology in
+Construction, v.5, 2000. In: <<http://www.itcon.org/2000/3/>>. Acessado em 16 de setembro
+de 2002.
+ROE, A., REINA, P. Learning to Share is Tougher Than Anyone Anticipated - Industry
+fragmentation impedes automation. E-construction. 13/08/2001. McGraw-Hill Construction.
+In:<<http://enr.construction.com/features/technologyeconst/archives/010813c.asp>>. Acessado
+em 16 de setembro de 2002.
+SCHWEGLER, B. R. , FISCHER, M. A. , O’CONNELL, J. M., HÄNNINEN, R., LAITINEN, J. Near-
+Medium- and Long-Term Benefits of Information Technology in Construction. CIFE Working
+Paper #65, 2001. In: <<http://www.stanford.edu/group/CIFE/online.publications/WP065.
+pdf>>. Acessado em 16 de setembro de 2002.
+STATISTICS NEW ZEALAND, Information Technology Use in New Zealand 2001, May 2002.
+In: <<http://www.stats.govt.nz/>> . Acessado em 16 de setembro de 2002.
+VILLAGARCIA ZEGARRA, S L; FRIGIERI Jr., V; CARDOSO, F. F. A tecnologia da informação e a
+indústria da construção de edifícios. In: Simpósio Brasileiro de Gestão da Qualidade e
+Organização do Trabalho, 1. Recife, 1999. A competitividade da construção civil no novo
+milênio: anais I SIBRAGEQ, Recife : GEQUACIL/UPE, 1999.v. 1, p. 71-80.
+WHYTE, J. Business Drivers for the Use of Virtual Reality in the Construction Sector. AVR II and
+CONVR 2001 Conference, Sweden, 2001 p.99-105.
+View publication stats

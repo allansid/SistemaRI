@@ -1,0 +1,872 @@
+REVISTA DE INFORMÁTICA APLICADA VOL. 6 - Nº 01 - JAN/JUN 2010 49
+Determinant factors of information
+use or misuse in Wikipedia
+Fatores determinantes do uso ou
+desuso da informação na Wikipédia
+Yin-Leng Theng, Jiang Tao
+Wee Kim Wee School of Communication and Information
+Nanyang Technological University, Singapore
+tyltheng@ntu.edu.sg, jiangtao@ntu.edu.sg
+Resumo: A Wikipédia, maior enciclopédia multilíngue de conteúdos livres na Internet, é muito popular
+entre os estudantes. No entanto, fica a questão: a Wikipédia é uma bênção ou uma desgraça para os
+alunos da sociedade contemporânea? Este trabalho descreve um estudo empírico com o propósito de
+investigar os fatores determinantes do uso ou desuso da informação na Wikipédia. Optou-se aqui por se
+desenvolver um modelo de pesquisa com base na Teoria Unificada de Aceitação e Uso de Tecnologia
+(Uataut). Setenta e três estudantes de uma universidade local tomaram parte na pesquisa. Os resultados
+indicam que a expectativa de desempenho dos entrevistados, a expectativa de esforço e a influência
+social foram aspectos significativos na promoção da utilização da informação. O artigo se conclui com
+implicações para os educadores.
+Palavras-chave: Wikipédia, uso da informação, uso da tecnologia.
+Abstract: Wikipedia, biggest multilingual free-content encyclopedia on the Internet, is popular with students.
+Is Wikipedia a wane or bane for our students? This paper describes an empirical study to investigate
+determinant factors of information use or misuse in Wikipedia. We developed a research model based on
+the Unified Theory of Acceptance and Use of Technology (UATAUT). Seventy-three students of a local
+university took part in the survey. Findings indicate that respondents’ performance expectancy, effort
+expectancy, and social influence were significant in encouraging information use. The paper concludes
+with implications for educators.
+Keywords: Wikipedia, information use, use of technology.
+50 JORNAL OF APPLIED COMPUTING VOL. 6 - Nº 01 - JAN/JUN 2010
+INTRODUCTION
+Wikipedia, launched in January 2001 by
+Wades and Sanger, has become the biggest
+multilingual free-content encyclopedia on the
+Internet, fulfilling the initial goal to become a freecontent
+encyclopedia (ALMEIDA, et al., 2007).
+Wikipedia has grown rapidly into one of the
+largest reference web sites, and in 2008, it attracted
+at least 684 million visitors yearly (WIKIPEDIA
+WEBSITE, 2008). Unique to Wikipedia, it allows
+collaborative contribution and moderation from
+the user communities. As an information source,
+Wikipedia has many advantages: (I) it is easy to
+access online; (II) contents are free; and (II)
+contents can be added very quickly. Compared
+to printed encyclopedias which may take years
+to get their contents updated, Wikipedia contents
+can be updated quickly.
+Many argue that Wikipedia content lacks reliability
+and stability, since anyone can add or change
+content. Authors of articles may not necessarily be
+experts on the topics they write about, leaving a lot
+of room for errors, misinformation, and bias (ERIC,
+2008). Hence, schools and universities do not
+encourage Wikipedia as a major source of
+information. James Wales, founder of Wikipedia,
+also shared similar sentiments that it is not suitable
+for academic uses, acknowledging that it pretty
+good, but one has to discern the correct use of
+information found in Wikipedia (JASCHIK, 2007).
+However, not everyone agrees that Wikipedia
+lacks of reliability and stability. In fact, the contents
+of Wikipedia were highly regarded among the
+online communities. Nature conducted a comparison
+of the Wikipedia and other encyclopedias,
+the articles in Wikipedia were of quality comparable
+to those in the other encyclopedias (GILES,
+2005). Rosenzweig (2006), Director of the Centre
+for History and New Media at George Mason
+University, did an analysis on the accuracy of
+Wikipedia for the Journal of American History,
+and he found that in many entries, Wikipedia was
+as accurate as or even more accurate than those
+traditional encyclopedias.
+The Wikipedia website (2008) also argued that
+any encyclopedia is a starting point for research,
+not an ending point. An encyclopedia is a good
+resource to get a general understanding of a
+subject, but we do need books or other articles for
+more detailed, precise, and careful reasoned
+information. Therefore, all sources need to be
+evaluated. Jaschik (2007) argued that it is not the
+right way to just tell students “don’t use it”, as
+students face “an ocean of information” today,
+much of it of poor quality. Students should instead
+be teaching students how to use other sources and
+equip students with critical thinking skills to
+evaluate information.
+The question we want to ask is: Is Wikipedia a
+wane or bane for our students? This paper
+describes an empirical study to investigate
+determinant factors of information use or misuse
+in Wikipedia. The remaining part of this paper is
+organized as follows. In the following section, the
+conceptual framework based on the Unified
+Theory of Acceptance and Use of Technology
+(UATAUT) is described and discussed. Next, we
+explain the research objectives and hypotheses.
+Finally, the results obtained from analysis are
+shown, conclusions drawn and implications for
+pedagogy and education of information.
+Related Studies and Unified Theory of
+Acceptance and Use of Technology
+(UATAUT)
+In this section, we review eight previous widely
+accepted models in understanding factors that
+influence the use of information systems (IS):
+1. Theories of Information System (IS)
+Adoption.
+IS research has long studied how and why
+individuals adopt new information technologies.
+There are various theories or models for
+information system (IS) adoption studies. They are
+the Theory of Reasoned Action (TRA), the Technology
+Acceptance Model (TAM), the Motivational
+Model (MM), the Theory of Planned Behavior
+(TPB) and Decomposed Theory of Planned
+Behavior (DTPB), Combined TAM and TPB (CTAM-
+TPB), the Model of PC Utilization (MPCU),
+the Innovation Diffusion Theory (IDT), the Social
+Cognitive Theory (SCT), and the Unified Theory
+of Acceptance and Use of Technology (UTAUT).
+REVISTA DE INFORMÁTICA APLICADA VOL. 6 - Nº 01 - JAN/JUN 2010 51
+2. Theory of Reasoned Action (TRA).
+Drawn from social psychology, Theory of
+Reasoned Action (TRA) is one of the most fundamental
+and influential theories of human
+behavior. It has been used to predict a wide range
+of behaviors (Sheppard Hartwick and Warshaw,
+1988). It was proposed by Fishbein and Ajzen
+(1975) in a book “Belief, attitude, intention, and
+behavior: An introduction to theory and research”
+published by Addison-Wesley Publishing
+Company. The theory posits that individual
+behavior is influenced by his/her behavioral
+intentions where behavioral intentions are
+influenced by his/her attitude toward the behavior
+and subjective norms related to performing the
+behavior. There are various researches about the
+TRA theory.
+3. Theory of Planned Behavior (TPB).
+TPB extended TRA by adding the construct of
+perceived behavioral control (PBC). The extension
+was reasoned as the limitation of TRA in dealing
+with behaviors over which people have incomplete
+volitional control (AJZEN, 1991). The theory posits
+that individual behavior is influenced by perceived
+behavioral control and behavioral intentions
+where behavioral intentions are a function of an
+individual’s attitude toward the behavior, the
+subjective norms related to performing the
+behavior, and the perceived behavioral control.
+4. Decomposed Theory of Planned Behavior
+(DTPB).
+DTPB is an extension of the TRA and TPB.
+Taylor and Todd (1995) decomposed the constructs
+of the TPB into more detailed components.
+Attitudes were decomposed into perceived ease of
+use, perceived usefulness, and compatibility.
+Subjective norms were decomposed into peer’s
+influence and superior’s influence. Perceived
+behavioral control was decomposed into selfefficacy,
+resource facilitating conditions, and
+technology facilitation conditions.
+5. Technology Acceptance Model (TAM).
+TAM is an adaptation of the Theory of
+Reasoned Action (TRA) to the field of IS. TAM
+has been widely applied to a diverse set of
+technologies and users. Davis (1989) proposed
+this theory after his study of 152 subjects of 4
+application programs. The theory posits that
+perceived usefulness and perceived ease of use
+determine an individual’s intention to use a
+system, and the intention to use will cause an
+actual system use.
+The TAM is supported by another study done
+by Davis, Bagozzi and Warshaw (1989). Venkatesh
+and Davis (2000) extended TAM into TAM2
+by adding subjective norm as an additional
+predictor of intention in the case of mandatory
+system use, and other additional constructs
+including social influence processes and cognitive
+instrumental processes. The variables in TAM2
+included: usage, intention to use, perceived ease
+of use, perceived usefulness, experience, social
+influence processes (subjective norm, voluntariness,
+and image), cognitive instrumental processes
+(job relevance, output quality, results
+demonstrability).
+6. Motivational Model (MM).
+A significant body of research in psychology
+has supported general motivation theory as an
+explanation for behavior. The Motivational
+Model (MM) comes from self-determination
+theory by Deci and Ryan (1985). The
+motivational model posits that intrinsic
+motivation and extrinsic motivation determine
+the use behavior. Deci and Ryan (1985) included
+the third construct “amotivational style” into the
+model. Figure 2.6 shows the diagram of the
+motivational model. Davis, Bagozzi, and
+Warshaw (1992) used this model to study 240
+students using the word processing and business
+graphics programs. They depicted intrinsic and
+extrinsic motivations into a model using
+enjoyment and perceived usefulness constructs.
+The model also included perceived ease of use
+and output quality. The dependent variables were
+intention and usage. The results indicated that
+the perceived usefulness (extrinsic motivations)
+and enjoyment (intrinsic motivations) were both
+significant on intention. And perceived usefulness
+and enjoyment were found to mediate fully the
+effect of perceived ease of use and output quality
+on both intention and usage.
+52 JORNAL OF APPLIED COMPUTING VOL. 6 - Nº 01 - JAN/JUN 2010
+7. Model of Personal Computers Utilization
+(MPCU).
+Landis, Triandis, and Adamopoulos (1978)
+studied 77 teachers using classroom observation
+technique on their intention and habits affecting
+behavior. The results indicated that habit was
+stronger than intention in predicting behavior.
+Later, Triandis (1980) proposed the MPCU
+model which claimed that a behavior intention
+was determined by three aspects: the attitude
+aspect, the social norms aspect, and the habitual
+aspect. Thompson, Higgins, and Howell (1991)
+excluded the habitual part because of the difficult
+distinction between habits of PC use and the
+behavior of PC use.
+Finally, the model was concluded into that the
+behavior of the PC use was determined by job-fit,
+complexity, long term consequences, affect towards
+use, social factors, and facilitating conditions. Figure
+2.7 shows the diagram of the model of PC
+utilization. Thompson, Higgins, and Howell (1991)
+did a study using 278 knowledge workers on their
+PC usage. The results indicated that job-fit,
+complexity, long term consequences, social factors,
+and facilitating conditions were all significant to
+PC use, but affect was not significant.
+8. Innovation Diffusion Theory (IDT).
+Grounded in sociology, Innovation Diffusion
+Theory (IDT) has been used since the 1960s to study
+a variety of innovations, ranging from agricultural
+tools to organizational innovation (ROGERS, 1995).
+Within information systems, Moore and Benbasat
+(1991) adapted the characteristics of innovations
+presented in Rogers and redefined a set of constructs
+(voluntariness, relative advantage, compatibility,
+image, ease of use, result demonstrability, visibility,
+and trial ability) that could be used to study individual
+technology acceptance. Plouffe, Hulland and
+Vandenbosch (2001) tested sets of antecedent
+constructs drawn from both TAM and the
+innovation diffusion theory, and compared with one
+another. The dependent variable was intention to
+use. The results indicated that the IDT constructs
+explained 45% of the variance in intention, and
+TAM explained 32.7%. The authors concluded that
+the IDT provided more detail than TAM, and TAM
+was simple and might be misleading in certain
+situations. Fitzgerald and Kie (2002) tested a
+comprehensive model which integrated IDT and
+some other proposed models. The study was done
+by a survey of 128 respondents about online
+purchasing. The IDT constructs were used as
+antecedents of attitude. The results indicated that
+attitude was a strong predictor of intention to use.
+For adopters, result demonstrability and risk were
+significant. While for non-adopters, risk was
+significant.
+9. Social Cognitive Theory (SCT).
+This theory identifies human behavior as an
+interaction of personal factors, behavior, and the
+environment (COMPEAU and HIGGINS, 1995a).
+Compeau and Higgins (1995a) tested it and the
+results indicated that all the relationships were
+significant except the other users’ effect on
+personal outcome expectations. Compeau and
+Higgins (1995b) tested a comprehensive model
+which integrated SCT and some other proposed
+models in another study at the same year. The
+study validated an instrument to measure the
+computer self-efficacy (CSE). The results indicated
+that computer self-efficacy would affect usage,
+outcome expectations, anxiety, and affect. Encouragement
+by others and others’ use will affect
+computer self-efficacy and outcome expectations.
+Locke, Frederick, Lee and Bobko (1984)
+concluded that self-efficacy was a strong predictor
+of goal and performance in their study of 209
+students’ behavior. Ability and past performance
+also determined the goal. An interesting finding
+of this study was that self-efficacy was more
+strongly related to past performance than future
+performance, but self-efficacy was still a strong
+predictor of future performance. The findings in
+this study were consistent with the findings by
+Harrison, Rainer, Hochwarter, and Thompson,
+(1997) in testing the computer usage of 776
+university employees.
+10. Unified Theory of Acceptance and Use of
+Technology (UTAUT).
+Venkatesh, Morris, Davis, and Davis (2003)
+formulated the Unified Theory of Acceptance and
+REVISTA DE INFORMÁTICA APLICADA VOL. 6 - Nº 01 - JAN/JUN 2010 53
+Use of Technology (UTAUT) to integrate the main
+computing user acceptance models. The UTAUT
+aims to explain user intentions to use an IS and
+subsequent use behavior. The theory holds that
+four key constructs (performance expectancy,
+effort expectancy, social influence, and facilitating
+conditions) are direct determinants of usage
+intention and behavior. Gender, age, experience,
+and voluntariness of use are posited to mediate
+the impact of the four key constructs on usage
+intention and behavior.
+The theory was developed through a review
+and consolidation of the constructs of 8 models
+from earlier researches to explain IS usage
+behavior. These 8 models are theory of reasoned
+action (TRA), technology acceptance model (TAM/
+TAM2), motivational model (MM), theory of
+planned behavior (TPB), a combined theory of
+planned behavior/technology acceptance model
+(C-TPB- AM), model of PC utilization (MPCU),
+innovation diffusion theory (IDT), and social
+cognitive theory (SCT). The UTAUT supported
+that the effect of performance expectancy on
+behavioral intention was stronger for men and
+younger users. And the effect of effort expectancy
+on behavioral intention was stronger for women,
+older users, and users with less experience. The
+effect of social influence on behavioral intention
+was stronger for women, older users, under
+conditions of mandatory use, and users with less
+experience. Finally, facilitating conditions were not
+significant to behavioral intention, but the effect
+of facilitating conditions on usage was stronger
+for older users and users with more experience.
+One of the important findings of Venkatesh et
+al. (2003) was that self-efficacy and anxiety was
+not direct significant to the behavioral intention.
+Another important finding was that facilitating
+conditions were not significant to behavioral
+intention and direct determined the usage behavior.
+This unified model was able to explain 70% of
+the variance in behavioral intention, while the
+previous models can only account 40% of the
+variance (VENKATESH et al., 2003). Also, this model
+was built from other widely accepted models. Thus,
+the UTAUT model was selected for the particular
+research of the acceptance and use of Wikipedia.
+THE STUDY
+Research Model
+The research model was formulated based
+mainly on the UTAUT model with four constructs
+(Performance Expectancy, Effort Expectancy, Social
+Influence, Facilitating Conditions) adapted from
+the UTAUT model, and three constructs (Selfefficacy,
+Anxiety, Attitude) from other models.
+Protocol
+The undergraduate and postgraduate students
+of a local university were selected for this study.
+The sample was a random sample. The data for
+this research was collected by a survey instrument.
+The questionnaires were given to the
+students outside of the university library and
+collected immediately after completion. The time
+required to complete the survey was about five to
+ten minutes. Responses were collected between 12
+July 2008 and 20 July 2008. A total of seventythree
+students responded to the survey.
+Measurement Items in Survey Instrument
+Measurement Items in Survey Instrument
+Using a seven-point Lickert scale, respondents
+were asked to indicate levels of agreement to each
+item indicated. Each item question was simplified
+and related to educational setting. For each
+variable, there are 3-5 questions to measure it. To
+ensure content validity, the survey questions are
+adapted from previous studies of the UTAUT
+(VANKATESH et al. 2003) and the other 8 models,
+and modified to suit the study of Wikipedia used
+by university students. Table 1 shows measurement
+items of the constructs.
+To make the data “readable and analyzable”
+(BRYMAN & CRAMER, 2005, p.201), this seven-point
+Likert scale ranged from “1”=Strongly Agree to
+“7”=Strongly Disagree” was scaled down into
+three categories representing responses as Agree,
+Neutral, and Disagree. These categories were used
+to achieve the purpose reducing the amount of
+information summarized by using contingency
+tables produced by cross-tabulation.
+To investigate the aggregate measures, the
+Statistical Package for Social Sciences (SPSS) was
+used to recode the aggregate contiguous values
+54 JORNAL OF APPLIED COMPUTING VOL. 6 - Nº 01 - JAN/JUN 2010
+Table 1: Measurement Items
+into distinct categories as “1”<= Agree <= “3.5” <
+Neutral <= “4.5” and “4.5” < Disagree <= “7”. For
+non-aggregated responses, SPSS was also used
+to recode and reassign these discrete variables
+value to the new scale as “1”<= Agree <=”3", “4”
+= Neutral, and “5” <= Disagree <= “7”.
+After completing data preparation, crosstabulation
+was used to test the research
+hypotheses. Statistical significance was tested
+using the Pearson Chi-Square (÷2) test. This test
+confirms the probability of the observed relationship
+between two variables happened by chance.
+Test with p-values of 0.05 or less were statistically
+considered as significant, that means, a relationship
+exists in the test variables and that the null
+hypothesis of independence between test variables
+could safely be rejected. The notation “÷2” refers
+to the value of the Pearson Chi-Square test.
+Constructs Models Items
+Performance UTAUT Q1. I would find Wikipedia useful in my researches or assignments as an information
+Expectancy (Venkatesh et al., source.
+2003) Q2. Using Wikipedia would enable me to do researches or assignments more quickly.
+Q3. Using Wikipedia would increase my productivity in mu researches or assignments.
+Q4. Using Wikipedia would increase my chances to get better academic results.
+Effort UTAUT Q5. I would find Wikipedia casy to use.
+Expectancy (Venkatesh et al., Q6. Learning to use Wikipedia is easy.
+2003) Q7. My interaction with Wikipedia would be clear and understandable.
+Q8. It would be easy for me to become skillful using Wikipedia.
+Social UTAUT Q9. My classmates use Wikipedia as an information resource in their researches or
+Influence (Venkatesch et al., assignments.
+2003) Q10. My friends use Wikipedia as an information resource in their researches or
+assignments.
+Q11. My teachers think l should use Wikipedia as an information resource in my
+researches or assignments.
+Q12. My University support to use Wikipedia as an information resource in the researches
+or assignments.
+Facilitating MPCU Q13. I have the resources necessary to use Wikipedia.
+Conditions (Thompson et al., Q14. I have the knowledge necessary to use Wikipedia.
+1991) Q15. The Wikipedia is always available for me to use.
+Q16. The system is stable to use (no system failure).
+Self-efficacy DTPB Q17. I could use Wikipedia if no one around to tell me what to do.
+(Taylor and Q18. I could use Wikipedia if l could call someone if I fot stuck.
+Todd, 1995; Tan Q19. I could use Wikipedia if only can use the built-in help of Wikipedia.
+and Teo, 1998) Q20. I could use Wikipedia if l have a lot of time to study it first.
+Anxiety SCT Q21. I feel apprehensive to use it.
+(Compeau and Q22. I worry that the information in Wikipedia may be not correct or complete.
+Higgins, 1995b) Q23. I worry about using it as a reference may cause a low grade for my paper.
+Attitude TAM Q24. Using Wikipedia as information source is a good idea.
+Toward (Davis et al., Q25. Using Wikipedia as information source makes my research or assignment more
+Behavior 1989) enjoyable.
+Q26. Using Wikipedia is interesting.
+Q27. I prefer to use the Wikipedia compare to the traditional library.
+Q28. I prefer to use the Wikipedia compare to the online databases.
+Behavioral TRA Q29. I used Wikipedia in my researches or assignments as an information source for the
+Intention (Sheppard et past 12 months.
+al., 1988) Q30. I intend to use Wikipedia in my research and assignments as an information source
+for the next 12 months.
+Q31. I plan to use Wikipedia in my researches or assignments as an information source for
+the next 12 months.
+Q32. I am willing to use Wikipedia in my research or assignment.
+REVISTA DE INFORMÁTICA APLICADA VOL. 6 - Nº 01 - JAN/JUN 2010 55
+FINDINGS AND ANALYSES
+Descriptive Statistics
+Seventy-three students participated in the
+survey. More than 60% of respondents are male,
+with more than half of them did not have working
+experiences. About 80% had less than three years’
+and 72.6% were undergraduates. More than half
+of the respondents (53.7%, n=197) owned desktop
+personal computers and (53.5%, n=193) spent
+more than 15 hours in computing activities. Most
+of the respondents (93.7%, n=338) accessed
+computers for studies at home and other places,
+with 69.8 % (n=252) of them used computers for
+studies at home alone. There was a reported high
+rate of Internet access at home (99.4%, n=359).
+Major respondents (22.7%, n=82) spent 6~10
+hours and 11~15 hours on Internet/World Wide
+Web for their studies. When accessing SLVC, the
+77.3% (n=279) of the respondents also spent their
+time on other activities.
+The study found that only 17.8% of the
+respondents did not have the behavior intention to
+Figure 1: Testing Results of the Research Model
+56 JORNAL OF APPLIED COMPUTING VOL. 6 - Nº 01 - JAN/JUN 2010
+use Wikipedia, and only 6.9% did not have the use
+behavior listed in the questionnaire. However, there
+were 26% of the respondents choose neutral for
+behavior intention, and 28.8% for use behavior.
+Thus about a quarter of the respondents were not
+sure if they intend to use Wikipedia, or not so often
+to use Wikipedia as a major information source.
+Chi-Square Tests of Significance
+After the data preparation is completed, the
+hypotheses are tested using cross-tabulations. In
+SPSS, go to “Analyze->Descriptive Statistics->
+Crosstabs” to run the cross-tabulation. Before
+running the cross-tabulation, the “chi-square” in
+the statistics setting must be enabled. This process
+results two tables. One is the cross-tabulation,
+which shows the relationship between two
+variables. Another is the chi-square tests table,
+which shows the significance between two
+variables. In the chi-square tests table, there are
+two important values. One is “?2”, which refers
+to the value of the Pearson Chi-Square test for the
+contingency table indicated. Another is “p”, which
+refers to the p-value that indicates the level of
+statistical significance of the Chi-Square test. Tests
+with p-value less than 0.05 are considered
+significant. Figure 1 shows the testing results of
+the research model.
+CONCLUSION
+This study investigated the factors influencing
+on the behavior intention and the use behavior to
+use Wikipedia as a major information source. The
+research model was generated mainly based on
+the UATAUT model, and some other previous
+widely accepted models. According to UTAUT,
+behavioral intention was determined by performance
+expectancy, effort expectancy, and social
+influence, and use behavior was determined by
+facilitating conditions and behavioral intention.
+According to some other models, the behavior
+intention was also determined by self-efficacy,
+attitude, and anxiety.
+The study found that the constructs from
+UTAUT (performance expectancy, effort expectancy,
+and social influence) were all significant to
+behavior intention. However, self-efficacy was
+found not significant to behavior intention. The
+other two constructs (attitude, and anxiety) from
+other previous models were significant to behavior
+intention. The use behavior was found determined
+by facilitating conditions and behavioral intention.
+It was surprising that facilitating conditions
+was found significant to both behavioral intention
+and use behavior. However, one of the items (if I
+having the resources necessary to use Wikipedia)
+of facilitating conditions was found not efficiently.
+If this item was ignored, the results would be that
+facilitating conditions was significant to use
+behavior, but not behavior intention.
+Based on the findings, we identify a number
+of implications for Wikipedia use by local
+university students.
+• The findings suggested that performance
+expectancy was an important reason for the
+students to use Wikipedia. If the students
+believed that Wikipedia was useful and
+helpful for their assignment or research, they
+would intend to use it.
+• The findings suggested that the effort
+expectancy was also a reason for the students
+to use Wikipedia. The students would intend
+to use Wikipedia if they believed that it was
+easy to use.
+• Social influence was also suggested by the
+findings as a reason for the students to use
+Wikipedia. The students would intend to use
+Wikipedia if the people around them
+(teachers, friends, classmates, etc.) also used
+Wikipedia or thought the students should use
+Wikipedia as a major information source.
+Thus, if the practitioners of Wikipedia want
+more people to use their system, they should
+try to make more people accept Wikipedia
+and then these people will affect more people.
+The educators can also affect the students by
+their own advices or the university
+suggestion.
+• The findings suggested that facilitating
+conditions was not significant to behavior
+intention, but significant to use behavior.
+Thus, even though there was not enough
+hardware or software supporting the students
+REVISTA DE INFORMÁTICA APLICADA VOL. 6 - Nº 01 - JAN/JUN 2010 57
+to use Wikipedia, they still intended to use it
+if they think they need it. But, facilitating
+conditions are important in influencing
+decision to use Wikipedia.
+• Self-efficacy was found not to be significant
+to behavior intention in this study. Thus, even
+the students did not have the ability to use
+Wikipedia, they might still have the intention
+to use it. Therefore, lack of the ability to use
+Wikipedia is not a problem for students. They
+can learn if they need it.
+• The positive feeling did help the students to
+increase the intention to use. Therefore, if the
+educators or practitioners of Wikipedia want
+to encourage the students to use Wikipedia,
+they should make it interesting or enjoyable.
+• Anxiety was also suggested by the findings
+as a reason to use Wikipedia as a major
+information sources. If the students feel
+apprehensively, or even fear, to use Wikipedia,
+they would have the intention to use it.
+Therefore, if the educators or practitioners of
+Wikipedia want to encourage the students to
+use Wikipedia, they should solve the
+problems that the student may worry about
+• Behavior intention was suggested by the
+findings as an important reason to use
+Wikipedia as a major information sources.
+Thus the intention to use might cause an
+actual use.
+Certainly, more can be done. Firstly, the
+findings and implications were generated based
+on a specific user group. The respondents of this
+survey were undergraduate and graduate
+students from a local university.
+Future research could use a larger sample, the
+respondents from different backgrounds,
+experiences, and countries. Secondly, this research
+did not test the effects of the moderators like age,
+gender, experiences, and voluntariness of use.
+REFERENCES
+AJZEN, Icek. The theory of planned behavior.
+Organizational Behavior and Human Decision Processes,
+v. 50, n. 2, p. 179-211, 1991.
+ALMEIDA, Rodrigo B.; MOZAFARI, Barzan & CHO,
+Junghoo. On the evolution of Wikipedia. In: 1st
+INTERNATIONAL CONFERENCE ON WEBLOGS AND SOCIAL
+MEDIA – ICWSM 2007. Proceedings of...
+Boulder: AAAI, 2007.
+ANDERSON, John E. & SCHWAGER, Paul H. SME
+adoption of wireless LAN technology: applying
+the UTAUT mode. In: 7th ANNUAL CONFERENCE OF
+THE SOUTHERN ASSOCIATION FOR INFORMATION
+SYSTEMS. Proceedings of... Savannah: Sais, 2004.
+p. 39-43.
+ARMITAGE, Chris J. & CONNER, Mark. Efficacy of
+the theory of planned behavior: a meta-analytic
+review. British Journal of Social Psychology, v. 40,
+pt. 4, p. 471-499, December, 2001.
+BANDURA, Albert. Social cognitive theory in cultural
+context: an international review. Journal
+of Applied Psychology, v. 51, n. 2, p. 269-290,
+2002.
+CHAU, Patrick Y. K. & HU, Paul Jen-Hwa. Information
+technology acceptance by professionals:
+A model comparison approach. Decision Sciences,
+v. 32, n. 4, p. 699-719, December, 2001.
+COMPEAU, Deborah R. & HIGGINS, Christopher A.
+Application of social cognitive theory to training
+for computer skills. Information Systems Research,
+v. 6, n. 2, p. 118-143, June, 1995a.
+______. Computer self-efficacy: development of
+a measure and initial test. MIS Quarterly, v. 19, n.
+2, p. 189-211, June, 1995b.
+COMPEAU, Deborah; HIGGINS, Christopher A. &
+HUFF, Sid L. Social cognitive theory and individual
+reactions to computing technology: a longitudinal
+study. MIS Quarterly, v. 23, n. 2, p. 145-
+158, June, 1999.
+DAVIS, Fred D. Perceived usefulness, perceived
+ease of use, and user acceptance of information
+technology. MIS Quarterly, v. 13, n. 3, p. 319-340,
+September, 1989.
+______. User acceptance of information technology;
+system characteristics, use perceptions, and
+behavior impacts. International Journal of Man58
+JORNAL OF APPLIED COMPUTING VOL. 6 - Nº 01 - JAN/JUN 2010
+Machine Studies, v. 38, n. 3, p. 475-487, March,
+1993.
+DAVIS, Fred D.; BAGOZZI, Richard P. & WARSHAW,
+Paul R. Extrinsic and intrinsic motivation to use
+computers in the workplace. Journal of Applied
+Social Psychology, v. 22, n. 14, p. 1.111-1.132, July,
+1992.
+DECI, Edward L. & RYAN, Richard M. Intrinsic
+motivation and self-de-termination in human
+behavior. New York: Plenum, 1985.
+FISHBEIN, Martin & AJZEN, Icek. Belief, attitude,
+intention, and behavior: an introduction to theory
+and research. Reading, MA: Addison-Wesley
+Publishing Company Reading, 1975.
+FITZGERALD, Lynda M.; KIEL, Geoffrey C. & BOYLE,
+Maree V. An exploratory study of consumers’
+perceptions and experiences with on-line
+purchasing. In: CHETTY, Sylvie & COLLINS, Brett
+(Eds.). Proceedings of the Australian and New
+Zealand Marketing Academy Conference. Bridging
+marketing theory and practice. Auckland, NZ:
+Massey University, 2001.
+FRANCIK, Ellen; RUDMAN, Susan E.; COOPER, Donna
+& LEVINE, Stephen. Putting innovation to work:
+adoption strategies for multimedia communication
+systems. Communications of the ACM
+Archive, v. 34, n. 12, p. 52-63, December, 1991.
+GARFIELD, Monica J. Acceptance of ubiquitous
+computing. Information Systems Management, v.
+22, n. 4, p. 24-31, 2005.
+GILES, Jim. Special report Internet encyclopaedias
+go head to head. Nature, v. 438, p. 900-901,
+December, 2005. Available at: <http://
+www.nature.com/nature/journal/v438/n7070/full/
+438900a.html>. Retrieved: July 12, 2008.
+GLASSBERG, Bonnie C; GROVER, Varun & TENG,
+James T. C. Information systems research with an
+attitude. Database for Advances in Information
+Systems, v. 37, n. 2-3, p. 76-86, Spring-Summer,
+2006.
+HARRISON, Allison W.; RAINER JR., R. Kelly;
+HOCHWARTER, Wayne A. & THOMPSON, Kenneth R.
+Testing the self-efficacy performance linkage of
+social-cognitive theory. The Journal of Social
+Psychology, v. 137, n. 1, p. 79-87, February, 1997.
+HAUSENBLAS, Heather A.; CARRON, Albert V. &
+MACK, Diane A. Application of the theories of
+reasoned action and planned behavior to exercise
+behavior: a meta-analysis. Journal of Sport and
+Exercise Psychology, v. 19, n. 1, p. 36-51, 1997.
+HILLEMANN, Eric. Using Wikipedia. Carleton
+College, 2008. Available at: <http://
+apps.carleton.edu/campus/library/for_faculty/
+faculty_find/wikipedia/>. Retrieved: July 12, 2008.
+HU, Paul J.; CHAU, Patrick Y. K.; SHENG, Olivia R. L.
+& TAM, Kar Y. Examining the technology acceptance
+model using physician acceptance of telemedicine
+technology. Journal of Management Information
+Systems, v. 16, n. 2, p. 91-112, Fall, 1999.
+IGBARIA, Magid. An examination of the factors
+contributing to microcomputer technology
+acceptance, accounting. Management and
+Information Technologies, v. 4, n. 4, p. 205-224, 1994.
+JASCHIK, Scott. A stand against Wikipedia. Inside
+Higher ED, January, 2007. Available at: <http://
+www.insidehighered.com/news/2007/01/26/
+wiki>. Retrieved: August 2, 2008.
+JIANG, James J.; HSU, Maxwell K.; KLEIN, Gary &
+Lin, B. E-commerce user behavior model: an
+empirical study. Human Systems Management, v.
+19, n. 4, p. 265-276, 2000.
+KARAHANNA, Elena; STRAUB, Detmar W. &
+CHERVANY, Norman L. Information technology
+adoption across time: a cross-sectional comparison
+of pre-adoption and post-adoption beliefs. MIS
+Quarterly, v. 23, n. 2, p. 183-213, June, 1999.
+LANDIS, Dan: TRIANDIS, Harry C. & ADAMOPOULOS,
+John. Habit and behavioral intentions as
+predictors of social behavior. The Journal of Social
+Psychology, v. 106, p. 227-237, 1978.
+LANDRY, Brett J. L. & GRIFFETH, Rodger, HARTMAN,
+Sandra. Measuring student perceptions of
+blackboard using the technology acceptance
+model. Decision Sciences Journal of Innovative
+Education, v. 4, n. 1, p. 87-99, January, 2006.
+LEGRIS, Paul; INGHAM, John & COLLERETTE, Pierre.
+Why do people use information technology? A
+critical review of the technology acceptance model.
+Information and Management, v. 40, n. 3, p. 191-
+204, January, 2003.
+REVISTA DE INFORMÁTICA APLICADA VOL. 6 - Nº 01 - JAN/JUN 2010 59
+LEONE, Luigi D.; PERUGINI, Marco & ERCOLANI, Anna
+Paola. A comparison of three models of attitudebehavior
+relationships on studying behavior
+domain. European Journal of Social Psychology, v.
+29, n. 2-3, p. 161-189, March/May, 1999.
+LOCKE, Edwin A.; FREDERICK, Elizabeth; LEE,
+Cynthia & BOBKO, Philip. Effect of self-efficacy,
+goals, and task strategies on task performance.
+Journal of Applied Psychology, v. 69, n. 2, p. 241-
+251. 1984.
+LU, June; YU, Chun-Sheng; LIU, Chang & YAO,
+James E. Technology acceptance model for
+wireless Internet. Internet Research: Electronic
+Networking Applications and Polic, v. 13, n. 3, p.
+206-222, 2003.
+MA, Qingxiong & LIU, Liping. The technology
+acceptance model: a meta-analysis of empirical
+findings. Journal of End User Computing, v. 16, n.
+1, p. 59-72, January/March, 2004.
+MARCHEWKA, Jack T.; LIU, Chang & KOSTIWA, Kurt.
+An application of the UTAUT model for
+understanding student perceptions using course
+management software. Communications of the
+IIMA, v. 7, n. 2, p. 93-104, 2007.
+MOORE, Gary C. & BENBASAT, Izak. Development
+of an instrument to measure the perceptions of
+adopting an information technology innovation.
+Information Systems Research, v. 2, n. 3, p. 92-222,
+September, 1991.
+NOTANI, Arti S. Moderators of perceived behavioral
+control’s predictiveness in the theory of planned
+behavior: a meta-analysis. Journal of Consumer
+Psychology, v. 7, n. 3, p. 247-271, 1998.
+O’REILLY, Tim,. What is Web 2.0. O’Reilly Verlag,
+September, 2005. Available at: <http://
+www.oreilly.de/artikel/web20.html>. Retrieved:
+August 1, 2008.
+PLOUFFE, Christopher R.; HULLAND, John S. &
+VANDENBOSCH, Mark. Richness versus parsimony
+in modeling technology adoption decisions:
+understanding merchant adoption of a smartcardbased
+payment system. Information Systems
+Research, v. 12, n. 2, 208-222, June, 2001.
+ROGERS, Everett M. Diffusion of innovations. 4. ed.
+New York: Free Press, 1995.
+ROSENZWEIG, Roy. Can history be open source?
+Wikipedia and the future of the past. Journal of
+American History, v. 93, n. 1, p. 117-146, June, 2006.
+SHEPPARD, Blair H.; HARTWICK, Jon & WARSHAW,
+Paul R. The theory of reasoned action: a metaanalysis
+of past research with recommendations
+for modifications and future research. Journal of
+Consumer Research, v. 15, n. 3, p. 325-343,
+December, 1988.
+TAYLOR, Shirley & TODD, Peter. Decomposition and
+crossover effects in the theory of planned
+behavior: a study of consumer adoption
+intentions. International Journal of Research in
+Marketing, v. 12, n. 2, p. 137-155, July, 1995.
+TAN, Margaret & TEO, Thompson S. H. Factors
+influencing the adoption of the Internet.
+International Journal of Electronic Commerce, v. 2,
+n. 3, p. 5-18, March, 1998.
+THOMPSON, Ronald L.; HIGGINS, Christopher A. &
+HOWELL, Jane M. Personal computing: toward a
+conceptual model of utilization. MIS Quarterly, v.
+15, n. 1, p. 124-143, March, 1991.
+TRIANDIS, Harry C. Interpersonal behavior.
+Monterey, CA: Brooks/Cole, 1977.
+VALLERAND, Robert J. & BISSONNETTE, Robert.
+Intrinsic, extrinsic, and amotivational styles as predictors
+of behavior: a prospective study. Journal of
+Personality, v. 60, n. 3, p. 599-620, September, 1992.
+VENKATESH, Viswanath. Determinants of perceived
+ease of use: integrating perceived behavioral
+control, computer anxiety and enjoyment into the
+technology acceptance model. Information
+Systems Research, v. 11, n. 4, p. 342-365, 2000.
+VENKATESH, Viswanath & DAVIS, Fred D. A
+theoretical extension of the technology acceptance
+model: four longitudinal field studies.
+Management Science, v. 46, n. 2, p. 186-204,
+February, 2000.
+VENKATESH, Viswanath. & MORRIS, Michael G.
+Why don’t men ever stop to ask for directions?
+Gender, social influence, and their role in
+technology acceptance and usage behavior. MIS
+Quarterly, v. 24, n. 1, p. 115-139, March, 2000.
+VENKATESH, Viswanath; MORRIS, Michael G.;
+DAVIS, Gordon B. & DAVIS, Fred D. User
+60 JORNAL OF APPLIED COMPUTING VOL. 6 - Nº 01 - JAN/JUN 2010
+acceptance of information technology: toward a
+unified view. MIS Quarterly, v. 27, n. 3, p. 425-
+478, September, 2003.
+VUONG, Ba-Quy; LIM, Ee-Peng; SUN, Aixim; LE,
+Minh-Tam; LAUW, Hady Wirawan & CHANG,
+Kuiyu. On ranking controversies in Wikipedia:
+models and evaluation. In: 1st INTERNATIONAL
+CONFERENCE ON WEB SEARCH AND WEB DATA
+MINING – WSDM 2008. Proceedings of... Stanford:
+ACM, 2008. p. 171-182.
+WIKIPEDIA WEBSITE. Wikipedia, the free
+encyclopedia. 2008a. Available at: <http://
+en.wikipedia.org/wiki/Wikipedia#cite_note-Who-
+13>. Retrieved: August 10, 2008.
+______. Wikipedia: Academic use. 2008b.
+Available at: <http://en.wikipedia.org/wiki/
+Wikipedia:Academic_use#cite_note-0>. Retrieved:
+August 10, 2008.
+______. Wikipedia: Encyclopedia. 2008c.
+Available at: <http://en.wikipedia.org/wiki/
+Encyclopedia#cite_note-0>. Retrieved: October
+30, 2008.
+WIXOM, Barbara H. & TODD, Peter A. A theoretical
+integration of user satisfaction and technology
+acceptance. Information Systems Research, v. 16,
+n. 1, p. 85-102, March, 2005.

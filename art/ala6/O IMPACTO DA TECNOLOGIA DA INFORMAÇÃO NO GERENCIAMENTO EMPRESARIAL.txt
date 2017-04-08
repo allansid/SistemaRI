@@ -1,0 +1,100 @@
+
+O IMPACTO DA TECNOLOGIA DA INFORMAÇÃO NO GERENCIAMENTO
+EMPRESARIAL
+*
+Diêgo Pereira lozi – UEMG/Unidade Carangola
+Taís Cristina da Silva – UEMG/Unidade Carangola
+Lucas Borcard Cancela – UEMG/Unidade Carangola
+RESUMO
+Este   artigo   aborda   qual   o   impacto   que   a   tecnologia   da   informação   trouxe   ao
+gerenciamento empresarial, com ênfase nas mudanças que as tecnologias da informação
+trouxeram dentro das organizações, assim como, os motivos que tornaram a sua implantação
+necessária e as principais formas em que ela é aplicada. Factualmente, percebe-se a inclinação
+mundial em utilizar as tecnologias com fim de informatizar tarefas, com objetivos múltiplos
+como   a   desburocratização   de   serviços,   agilidade   no   desempenho   de   atividades,
+compartilhamento de informações e maior transparência no gerenciamento de uma entidade.
+A metodologia utilizada trata-se de pesquisas qualitativas, que tiveram por base estudos
+bibliográficos e páginas na web. Constatou-se que com o decorrer dos anos o mercado tem se
+tornado cada vez mais competitivo, exigindo das empresas mais rapidez e eficiência em suas
+atividades como requisito para obter lucro e ganhar espaço na concorrência. Tais necessidades
+passaram a exigir dessas empresas a adesão da tecnologia da informação em seus meios de
+gerenciamento e tal adesão passou a ser praticamente vital para as mesmas no mercado. Em
+seus processos assim como uma maior precisão na coordenação de suas atividades, trazendo
+maior lucratividade e resultados ainda rápidos, o que deixa as organizações que não adotam as
+tecnologias da informação “um passo atrás” daquelas que adotam.
+PALAVRAS-CHAVE:
+ Tecnologia da informação; Gerenciamento; Eficiência.
+1. INTRODUÇÃO
+O presente artigo tem por objetivos apresentar os impactos que as tecnologias da
+informação trouxeram dentro das organizações, assim como, os motivos que tornaram a sua
+implantação necessária e as principais formas em que ela é aplicada. Procura mostrar também
+que,   tal   impacto   ocorre   devido   ao   aumento   da   competitividade,   fazendo   com   que   as
+organizações busquem alternativas mais eficientes e dinâmicas para a realização de seus
+processos, onde a tecnologia da informação ocupa um papel fundamental. O tema proposto foi
+escolhido   devido   ao   grande   avanço   das   tecnologias   da   informação   dentro   do   meio
+empresarial. Parte-se do ponto que a implantação das tecnologias da informação dentro das
+organizações   ocasionou   uma   verdadeira   revolução   estrutural   e   financeira   nas   mesmas,
+tornando-se um fator de sobrevivência para uma empresa no mercado atualmente.
+Compreende-se que a tecnologia da informação é o conglomerado de atividades
+provindas de um computador que permite gerir, guardar e acessar informações assim como
+dados. As mesmas podem ser utilizadas em vários  ramos e para diferentes  fins, desde
+facilitadoras nos processos de comunicações a auxiliares nos processos de gerenciamento de
+empresas. Dentro do ramo da gestão empresarial as tecnologias da informação têm história
+recente,   no   entanto   revolucionária.   Visto   que,   muitas   mudanças   ocorreram   após   a   sua
+implantação dentro das empresas. Outro fator que teve grande influência nas mesmas foi o
+*
+XIII EVIDOSOL e X CILTEC-Online - junho/2016 -
+http://evidosol.textolivre.org
+1
+advento do comercio eletrônico que proporcionou uma nova alternativa para as vendas, assim
+como, um contato mais dinâmico entre cliente e empresa.
+Gates (1995, p. 176) escreveu em seu livro, que “diretores de empresas pequenas e
+grandes  ficarão deslumbrados  com as facilidades  que a tecnologia da informação pode
+oferecer”.
+Com o aumento da concorrência no mercado, sobretudo o das organizações de maior
+porte, as mesmas sentiram-se forçadas a implantar as tecnologias da informação em seu meio,
+já que investir em tais tecnologias lhes permitem maior controle e rapidez em seus processos,
+o que hoje corresponde a um fator decisivo para o sucesso no ramo empresarial.
+2. TECNOLOGIA DA INFORMAÇÃO
+Kenski (2003, p. 18) afirma que,  “segundo o Dicionário  de filosofia de Nicola
+abbagnano (1982), a tecnologia é o estudo dos processos técnicos de um determinado ramo de
+produção industrial ou de mais ramos”. Para a autora as tecnologias surgiram em parceria com
+a humanidade e evoluíram de acordo com a evolução da espécie humana.
+A  tecnologia  se  encontra  nos  mais  diversos   campos   dentro  da  sociedade,  desde
+estruturas   complexas   até   as   mais   simples.   Para   Kenski   (2003),   “muitos   dos   produtos,
+equipamentos, ferramentas que utilizamos no nosso cotidiano não são considerados  por
+muitos como tecnologia. Óculos, dentaduras, alimentos, medicamentos, próteses, vitaminas e
+outros produtos são resultados de sofisticadas tecnologias”.
+A palavra informação, possui os mais variados conceitos, que tem sua diferenciação de
+acordo com a forma com que a mesma é utilizada e também com a finalidade que é utilizada.
+Buckland (1991) 
+apud
+ Lima, Pinto e Laia (2002, p. 81), organiza o conceito de informação
+em:
+1)
+Informação enquanto processo: quando se recebe alguma informação,
+aquilo que se baseia de antemão é mudado pela presença da informação
+atual.   Enquanto   processo,   ela   é   ato   de   informar;   comunicar   o
+conhecimento ou notícias de algum fato ou ocorrência; a ação de dizer
+ou fato de estar sendo dito algo;
+2)
+Informação enquanto conhecimento: é a decodificação daquilo que foi
+percebido   na   informação   como   processo.   Seria   o   conhecimento
+comunicado a respeito de um fato particular, assunto ou evento;
+3)
+Informação enquanto coisa: é aquilo que pode ser manipulado como
+possuem a propriedade de ser informativos, porque possuem a qualidade
+de comunicar informações.
+Compreende-se então como tecnologia da informação o conglomerado de atividades
+provindas de um computador que permite gerir, guardar e acessar informações assim como
+dados. Alecrim (2013, p. 1) afirma que a “tecnologia da informação (TI) pode ser definida
+como o conjunto de todas as atividades e soluções providas por recursos computacionais que
+visam   permitir   a   obtenção,   o   armazenamento,   o   acesso,   o   gerenciamento   e   o   uso   das
+informações”.
+2.1 Sistemas de
+informação
+Um sistema corresponde a um aglomerado de componentes que desenvolvem ações
+para atingir um determinado objetivo, podendo ser esses componentes os mais diversos, e
+cada   espécie   de   componentes   pode   definir   o   tipo   de   sistema   que   está   sendo   tratado.
+Chiavenato (2000), afirma que:
+2

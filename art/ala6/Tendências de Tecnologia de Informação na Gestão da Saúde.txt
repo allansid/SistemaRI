@@ -1,0 +1,479 @@
+Tendências de Tecnologia de Informação na Gestão da Saúde
+
+ARTIGO ORIGINAL / RESEARCH REPORT / ARTÍCULO
+382 
+O M
+UNDO
+DA
+ S
+AÚDE
+, São Paulo: 2011;35(4):382-394.
+ARTIGO ORIGINAL / RESEARCH REPORT / ARTÍCULO
+* Doutor em Administração de Empresas pela Escola de Administração de Empresas da Fundação Getúlio Vargas – EAESP/FGV. Coordena
+dor e Professor do curso de graduação em 
+Administração do Centro Universitário São Camilo-SP. E-mail: adm@saocamilo-sp.br
+Tendências de Tecnologia de Informação na Gestão da Saúde
+Trends of Information Technology in Health Management
+Tendencias de la Tecnología de la Información en la Gerencia de Salud
+Luis Hernan Contreras Pinochet*
+RESUMO: 
+O problema com o gerenciamento da informação tem sido ainda mais dificultado devido a um exponencial aumento na quan-
+tidade de dados a serem gerenciados, no número de profissionais que controlam os processos e nas demandas para acesso em tempo 
+real. O custo para lidar com a informação nos hospitais também tem representado o principal fator para o uso de computadores, n
+a 
+tentativa de fornecer mais dados com menor custo. Nesse sentido, faz-se necessário um posicionamento estratégico das organizaçõ
+es 
+da área da saúde para o tratamento dos recursos informacionais, bem como a escolha de uma ferramenta de Tecnologia de Informaçã
+o 
+capaz de trazer os benefícios esperados para essas organizações. Portanto, o objetivo deste trabalho foi apresentar, de forma a
+mpla, as 
+novas tendências de Tecnologia de Informação emergentes que estão trazendo benefícios diretos e indiretos para a Gestão da Saúd
+e.
+PALAVRAS-CHAVE: 
+Tecnologia da Informação. Gestão em Saúde. Gerenciamento de Informação.
+ABSTRACT: 
+The problem affecting information management has become ever more difficult due to the exponential increase in the 
+amount of data to be managed, in the number of professionals who control the processes and in the demands for real time access.
+ The 
+costs to deal with information in hospitals also have become the main factor for the use of computers, in the attempt to supply
+ more 
+with lesser costs. Because of this, a strategic positioning of organizations of the health area as regards the treatment of inf
+ormational 
+resources becomes necessary, as well as the choice of a tool of Information Technology capable to bring to these organizations 
+the 
+expected benefits. Therefore, the objective of this work was to present, in a broad way, the new emergent trends of Information
+ Tech-
+nology that are bringing direct and indirect benefits to Health Management.
+KEYWORDS: 
+Information Technology. Health Management. Information Management.
+RESUMEN: 
+El problema que afecta a la gestión de la información es siempre más difícil debido al aumento exponencial en la cantidad 
+de datos a ser manejados, en el número de profesionales que controlen los procesos y en las demandas para el acceso en tiempo r
+eal. 
+Los costes de ocuparse de la información en hospitales también se han convertido en el factor principal del uso de computadoras
+, en 
+la tentativa de suministrar más con pocos costes. Debido a esto, una colocación estratégica de las organizaciones del área de s
+alud en 
+lo que concierne al tratamiento de recursos informativos llega a ser necesaria, así como la opción por una herramienta de tecno
+logía 
+de la información capaz de traer a estas organizaciones las ventajas previstas. Por lo tanto, el objetivo de este trabajo era p
+resentar, de 
+manera amplia, las nuevas tendencias emergentes de la tecnología de la información que están trayendo ventajas directas e indir
+ectas 
+a la gerencia de salud.
+PALABRAS-LLAVE: 
+Tecnología de la Información. Gestión en Salud. Gestión de la Información.
+Introdução
+A era da informação não dei-
+xou a área da saúde à margem. 
+De fato, a tecnologia ultrapassou 
+o processamento-padrão de da-
+dos para funções administrativas 
+comuns em todas as organizações, 
+tais como recursos humanos, fo-
+lhas de pagamento, sistemas de 
+contabilidade, entre outros, e agora 
+desempenha um papel fundamen-
+tal tanto no cuidado ao paciente, na 
+interpretação do eletrocardiogra-
+ma, como em escalas de trabalho, 
+prescrição, relatório de resultados e 
+sistemas de prevenção. 
+Segundo Hannan, Ball, Edwar-
+ds, começamos a presenciar o ad-
+vento de registros eletrônicos de 
+saúde em muitos países. Além dis-
+so, os sistemas de informação estão 
+sendo mais amplamente usados no 
+apoio à saúde da população e nas 
+atividades de saúde pública rela-
+cionados à prevenção e promoção 
+de saúde, controle de doenças, vi-
+gilância e monitoramento
+1
+.
+Reduzir custos e aumentar a 
+eficiência é uma busca constante 
+de qualquer empresa, mas, no caso 
+dos hospitais, essa combinação po-
+de ser uma questão de sobrevivên-
+cia. A situação do sistema de saúde 
+brasileiro exige cuidados especiais. 
+Com o crescimento dos gastos em 
+saúde, resultado da adoção de alta 
+tecnologia para diagnóstico, e alto 
+índice de desperdício, o segmento 
+enfrenta dificuldades para equili-
+brar as contas.
+Seja na área pública, reconhe-
+cidamente carente, ou na privada, 
+em que as operadoras de planos de 
+saúde reclamam das perdas conta-
+TENDÊNCIAS DE TECNOLOGIA DE INFORMAÇÃO NA GESTÃO DA SAÚDE
+O M
+UNDO
+DA
+ S
+AÚDE
+, São Paulo: 2011;35(4):382-394. 
+383
+bilizadas, não há dúvidas de que é 
+preciso rever processos e investir 
+em tecnologias capazes de aumen-
+tar o controle e melhorar a quali-
+dade da assistência.
+Nos ambientes hospitalares, é 
+frequente que se encontrem cente-
+nas de aplicações diferentes e que, 
+além disso, os 
+softwares
+ de infor-
+matização hospitalar sejam geral-
+mente complexos, de alto custo e 
+de difícil desenvolvimento e imple-
+mentação. Assim, faz-se necessá-
+rio um posicionamento estratégico 
+das organizações da área da saúde 
+para o tratamento dos recursos in-
+formacionais, bem como a escolha 
+de uma ferramenta de Tecnologia 
+de Informação capaz de trazer os 
+benefícios esperados para essas or-
+ganizações.
+Importância da Gestão de 
+Informação 
+Segundo Spinola, Pessôa, a 
+informação é uma ferramenta 
+poderosa para uma organização, 
+pois, por meio dela, pode-se ter o 
+domínio dos diversos parâmetros 
+que regem a sua dinâmica. Nos sis-
+temas empresariais, a informação 
+é reconhecida como o recurso mais 
+importante para a tomada de deci-
+sões, sendo necessário haver uma 
+malha de informações abrangendo 
+diversos aspectos técnico-científi-
+cos, administrativos, mercadológi-
+cos, econômicos, legais, ambientais 
+e políticos
+2
+.
+Segundo McGee, Prusak, as in-
+formações constituem um impor-
+tante insumo estratégico, capaz de 
+influenciar o negócio da empresa, 
+tornando-se cada vez mais a base 
+para a competição
+3
+. 
+A informação, segundo Swee-
+ney, representa um recurso de vi-
+tal importância para o sucesso das 
+organizações, pois uma empresa 
+será mais competitiva quanto mais 
+se destacar na exploração e no uso 
+da informação para geração de co-
+nhecimento e mais souber aplicá-lo 
+para desenvolver novas oportuni-
+dades de negócios
+4
+.
+Considerando essas diversas 
+abordagens, a informação e o seu 
+adequado gerenciamento consti-
+tuem, atualmente, fatores críti-
+cos de sucesso para as empresas. 
+Na realidade atual, a informação 
+abarca uma série de aspectos, con-
+siderados imprescindíveis ao pro-
+cesso de gestão, e sua importância 
+está fundamentada nos seguintes 
+aspectos: a informação vem sendo 
+considerada cada vez mais a base 
+da competição; a informação é con-
+siderada como um dos principais 
+recursos da empresa, devendo ser 
+gerenciada com a mesma preocu-
+pação que os recursos tradicionais 
+(finanças, materiais, pessoas, entre 
+outros); a obtenção de informações 
+do ambiente e do desempenho e da 
+realidade da organização são con-
+dições estratégicas para o tempo 
+presente; a informação é a base do 
+processo de tomada de decisões 
+e o instrumento de comunicação 
+e desdobramento de objetivos; 
+o registro de dados relacionados 
+aos fatos, processos e atividades 
+da empresa possibilita a obtenção 
+de informação e é a essência do 
+controle; a informação é a base do 
+conhecimento, e o uso do conheci-
+mento é uma condição necessária 
+para o sucesso da empresa.
+Informação como Recurso 
+Estratégico
+Porter destaca que a essência da 
+formulação de uma estratégia es-
+tá em relacionar a empresa ao seu 
+ambiente. Define estratégia com-
+petitiva como o conjunto de ações 
+defensivas ou ofensivas para criar 
+uma posição sustentável no merca-
+do e poder enfrentar as cinco forças 
+competitivas (clientes, fornecedo-
+res, concorrentes diretos, novos 
+concorrentes e substitutos) e obter 
+retorno sobre o investimento
+5
+.
+Oliveira complementa definin-
+do estratégia como um caminho, 
+maneira ou ação, estabelecida e 
+adequada para alcançar os resulta-
+dos da empresa, representados por 
+seus objetivos, desafios e metas
+6
+. 
+Moura relaciona a estratégia com 
+o conjunto de decisões que são to-
+madas visando definir a direção a 
+ser seguida para se posicionar fren-
+te ao ambiente
+7
+. Para McGee, Pru-
+sak, o gerenciamento estratégico 
+da informação implica considerar 
+três questões: a necessidade de se 
+definir uma estratégia
+; a capacidade 
+para compreender e 
+executar a estra-
+tégia
+ definida; e a capacidade para 
+integrar definição e execução
+ de forma 
+efetiva.
+À medida que a integração da 
+estratégia e sua execução tornam-
+-se o desafio organizacional mais 
+importante, o papel da informa-
+ção como uma ferramenta essen-
+cial para chegar a essa integração 
+torna-se mais claro. Ao focalizar a 
+informação, as empresas poderão 
+abordar a forma pela qual serão ca-
+pazes de obter desempenho supe-
+rior e transformar a estratégia em 
+alguma coisa concreta e operativa.
+Essa abordagem de definição, 
+execução e integração para se tra-
+tar a estratégia oferece três pers-
+pectivas relativas à informação a 
+serem examinadas: 
+Informação e 
+definição da Estratégia
+ – a informa-
+ção sobre o ambiente competitivo 
+e sobre a organização atual auxilia 
+os executivos a identificarem tanto 
+as ameaças quanto as oportunida-
+des para a empresa e cria o cená-
+rio para uma resposta competitiva 
+mais eficaz. A informação funciona 
+também como um recurso essen-
+cial para a definição de estratégias 
+alternativas; 
+Informação e execução 
+da Estratégia
+ – a TI propicia novas 
+alternativas para elaboração de 
+processos que criam e oferecem 
+TENDÊNCIAS DE TECNOLOGIA DE INFORMAÇÃO NA GESTÃO DA SAÚDE
+384 
+O M
+UNDO
+DA
+ S
+AÚDE
+, São Paulo: 2011;35(4):382-394.
+produtos e serviços. A informação 
+representa uma das ferramentas 
+mais importantes e maleáveis a 
+serem utilizadas pelos executivos 
+para diferenciar produtos e servi-
+ços. Em alguns casos, a informação 
+é o próprio produto; 
+Informação e 
+Integração
+ – o 
+feedback
+ da informa-
+ção sobre desempenho é essencial 
+para a criação de uma organização 
+flexível no qual existe um cons-
+tante “aprendizado”, que imedia-
+tamente implementa a realização 
+estratégica de seus objetivos quan-
+do esses se tornam ineficazes. 
+Campos, Teixeira verificaram 
+que, entre os recursos tecnológi-
+cos, a Tecnologia de Informação – 
+complexo tecnológico que envolve 
+computadores, 
+software
+, redes de 
+comunicação eletrônica públicas 
+e privadas, rede digital de serviços 
+de telecomunicações, protocolos 
+de transmissão de dados e outros 
+serviços
+8
+ – vem sendo apontada, 
+segundo Marcovitch
+9
+, como im-
+portante fator para potencializar 
+o desenvolvimento dos processos 
+produtivos e da gestão das organi-
+zações segundo Santos, Vieira
+10
+. 
+Logo, a Tecnologia de Infor-
+mação cumpre papel significativo, 
+ao ser utilizada como recurso para 
+subsidiar a administração geral das 
+firmas, quando: a) fornece elemen-
+tos para a definição de estratégias 
+empresariais; b) apoia gestores no 
+acompanhamento dos negócios; c) 
+promove maior rapidez na comu-
+nicação interna e com fornecedores 
+e clientes; d) agiliza tarefas buro-
+cráticas; e) facilita a execução de 
+atividades administrativas; f) ajuda 
+na gestão da produção. 
+Várias pesquisas sobre a relação 
+entre tecnologia e organizações 
+têm sido empreendidas desde a 
+década de 1960, segundo Gerwin 
+apud Roberts e Grabowski
+11
+. A 
+partir delas, muitas questões foram 
+levantadas. Tapscott, Caston ressal-
+tam que são necessárias mudanças 
+nos processos organizacionais para 
+que a tecnologia implantada surta 
+efeitos positivos em ambientes re-
+estruturados para um novo modo 
+de atuação
+12
+.
+Assim, a adoção de tecnologia, 
+em particular dos sistemas de infor-
+mação, se destaca como elemento 
+integrador e útil para promover a 
+reestruturação das organizações. 
+Aplicações bem concebidas de 
+Tecnologia de Informação permi-
+tiriam às empresas se tornarem 
+mais planas com a eliminação de 
+camadas gerenciais, sendo que a 
+própria Tecnologia de Informação 
+é um importante elemento na re-
+estruturação não só de processos de 
+negócios, mas de toda a empresa.
+Outro fator relevante a se con-
+siderar é em que medida a tecno-
+logia influencia e é influenciada 
+pela ação das pessoas. São vários 
+os grupos de interesse – acionistas, 
+empregados de diversos níveis, 
+fornecedores, parceiros de negócio 
+e clientes – atuantes nas organiza-
+ções. Congregar os desejos desses 
+grupos não é tarefa fácil, ainda 
+mais quando as fronteiras das or-
+ganizações estão se tornando cada 
+dia mais tênues, não havendo mais 
+separações claras entre os agentes 
+internos (recursos humanos) e os 
+externos (clientes, fornecedores, e 
+concorrentes).
+No setor da Saúde no Brasil, es-
+sa mudança é ainda maior; novos 
+entrantes, tanto domésticos como 
+internacionais, se apresentam sob 
+as mais diversas formas de negó-
+cios, principalmente com parcerias 
+estratégicas, aumentando ainda 
+mais a competição em um am-
+biente já altamente competitivo. 
+Novos modelos de negócios vêm 
+sendo desenvolvidos buscando so-
+luções que focam a eficiência e a 
+eficácia em relação ao desempenho 
+no mercado. 
+Segundo Oliveira, Spinola, a 
+Tecnologia de Informação tem sido 
+um dos maiores impulsionadores 
+desse processo de mudança. Des-
+de a informatização das empresas 
+integrando suas áreas internas, 
+passando por redes de clientes e 
+fornecedores, até as tecnologias 
+de ponta, como utilização de equi-
+pamentos sem fio, telemedicina, 
+prontuário eletrônico, entre ou-
+tros, vêm acelerando cada vez mais 
+esse setor, de uma forma nunca ob-
+servada anteriormente
+13
+.
+Seybold, Tapscott, Kim, Mau-
+borgne consideram que a cada dia 
+cresce o índice de informação e co-
+nhecimento entre os agentes que 
+compõem o ambiente competitivo 
+do mercado: concorrência, com-
+pradores e fornecedores. E com isso 
+se altera constantemente o poder 
+de negociação entre eles
+14,15,16
+. Ob-
+serva-se uma mudança nas carac-
+terísticas da disputa mercadológica. 
+Os concorrentes estão se trans-
+formando, o foco da disputa tam-
+bém já não é tão evidente, novas 
+regras aparecem e desaparecem do 
+dia para a noite. Produtos substi-
+tutos e novos entrantes derrubam 
+barreiras de entrada e assumem 
+posições importantes em algumas 
+áreas graças aos efeitos dessa eco-
+nomia digital. 
+A Tecnologia da Informação, 
+por sua vez, entre outras especifi-
+cidades, permite redução nos cus-
+tos de transação, abrindo caminhos 
+para novas parcerias entre empre-
+sas e, consequentemente, novas 
+formas de abordar o mercado mu-
+dando o ambiente competitivo. 
+Nesse contexto, se observa, por 
+um lado, o problema de perda de 
+competitividade e mortalidade de 
+algumas empresas, mas, por outro, 
+uma infinidade de oportunidades 
+sendo criadas aos mais inovadores, 
+mudando a geografia dos negócios 
+nos mais variados setores. 
+A hipótese para esse fenômeno 
+é a de que a Tecnologia da Infor-
+mação ora oferece maior eficiência 
+para as empresas em relação à re-
+dução de custos, segundo Laurin-

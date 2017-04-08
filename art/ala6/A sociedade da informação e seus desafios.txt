@@ -1,0 +1,700 @@
+71
+A sociedade da informação e seus desafios
+INTRODUÇÃO
+Dificilmente alguém discordaria de que a sociedade da
+informação é o principal traço característico do debate
+público sobre desenvolvimento, seja em nível local ou
+global, neste alvorecer do século XXI. Das propostas
+políticas oriundas dos países industrializados e das
+discussões acadêmicas, a expressão “sociedade de
+informação” transformou-se rapidamente em jargão nos
+meios de comunicação, alcançando, de forma
+conceitualmente imprecisa, o universo vocabular do
+cidadão. Uno-me a todos os que têm procurado desfazer a
+teia de imprecisões verbais em relação às mudanças do
+mundo contemporâneo e, desta forma, contribuído para
+destruir mitos que impedem uma consciente participação
+nesse processo de mudança. Uma reflexão crítica que
+permita compreender as presentes transformações sociais
+e avaliar suas implicações com base em critérios definidos
+deverá permitir a integração de critérios sócio-culturais e
+éticos aos econômicos e políticos usualmente associados
+à prescrição da “sociedade da informação” e, desta forma,
+colocar à disposição do cidadão caminhos para uma
+participação ativa na construção de seu futuro.
+O ponto de partida nesse artigo é, portanto, definir essa
+expressão com o rigor possível no espaço que dispomos.
+Nas seção 3 serão discutidas algumas das promessas da
+sociedade da informação que justificam o esforço de todos
+em seu desenvolvimento. As preocupações com a direção
+que vem tomando o novo paradigma tecnológico da
+informação concluem o artigo que aponta os inúmeros
+desafios a enfrentar para que a nova sociedade supere
+velhas e novas desigualdades.
+A “sociedade da informação”
+A expressão “sociedade da informação” passou a ser
+utilizada, nos últimos anos desse século, como substituto
+para o conceito complexo de “sociedade pós-industrial” e
+como forma de transmitir o conteúdo específico do “novo
+paradigma técnico-econômico”. A realidade que os
+conceitos das ciências sociais procuram expressar referese
+às transformações técnicas, organizacionais e
+administrativas que têm como “fator-chave” não mais os
+insumos baratos de energia – como na sociedade industrial
+– mas os insumos baratos de informação propiciados
+pelos avanços tecnológicos na microeletrônica e
+telecomunicações. Esta sociedade pós-industrial ou
+Resumo
+Partindo de um conceito que ressalta as características do
+novo paradigma técnico econômico e critica as concepções
+deterministas e evolucionistas da mudança social,
+apresentam-se as promessas da sociedade da informação que
+justificam o esforço da sociedade na sua construção.
+Descontados os exageros utópicos que constituem a
+“computopia”, a justificativa desse esforço prende-se às
+perspectivas oferecidas pelo novo paradigma de avanços
+significativos para a vida individual e coletiva, elevando o
+patamar dos conhecimentos gerados e utilizados na
+sociedade, oferecendo o estímulo para constante
+aprendizagem e mudança, facilitando a salvaguarda da
+diversidade e propiciando dinamismo econômico mais
+condizente com o respeito ao meio ambiente. Suas promessas
+não podem impedir a constatação de inúmeros desafios e
+problemas. Alguns são técnicos, outros de natureza social,
+outros ainda são puramente econômicos e requerem um
+compromisso político para assegurar o acesso a comunidades
+menos privilegiadas. Finalmente, há significativos desafios a
+enfrentar para criar um arcabouço internacional apropriado
+que minimize as desigualdades globais no acesso à
+informação.
+Palavras-chave
+Sociedade da Informação; Acesso à informação; Democratização
+da informação; Tecnologia da informação; Mudança social;
+Disseminação da informação; Busca da informação.
+Information society and its challenges
+Abstract
+The article begins with a discussion of the concept of
+“information society” that stresses the characteristics of the
+new techno-economic paradigm and criticises determinism and
+the evolucionist approach to social change. Discussing the
+great expectations from the information society, the author
+explores the reasons for a global effort to be put into its
+development. Utopian excesses of a “computopia” apart,
+reasons for building an information society stem from the
+possibilities it allows for significant advances in individual and
+social life, raising the level of knowledge produced and put into
+use in society, stimulating continuous change and learning,
+helping the recovery and maintenance of diversity and
+providing a kind of economic dynamism that is more in tune
+with sound environmental policies. Good promises,
+satisfactory as they might be, cannot, however, cover up the
+existence of various problems and challenges. Some of them
+are technical, while others are of a social nature. Economic
+challenges will require deep political commitment to guarantee
+access to the less privileged. Finally, it is a great challenge to
+build an international framework to minimise global
+inequalities in information access.
+Keywords
+Information Society; Access to informação; Democratization of
+informação; Information technology; Social change; Information
+dissemination; Information search.
+Jorge Werthein
+PhD em educação com master em comunicação, Universidade de
+Stanford. Representante da Unesco no Brasil e coordenador do
+Programa Unesco - Mercosul.
+e-mail: werthein@unesco.org.br
+Ci. Inf., Brasília, v. 29, n. 2, p. 71-77, maio/ago. 2000
+72
+“informacional”, como prefere Castells, está ligada à
+expansão e reestruturação do capitalismo desde a década
+de 80 do século que termina. As novas tecnologias e a
+ênfase na flexibilidade – idéia central das transformações
+organizacionais – têm permitido realizar com rapidez e
+eficiência os processos de desregulamentação, privatização
+e ruptura do modelo de contrato social entre capital e
+trabalho característicos do capitalismo industrial.
+As transformações em direção à sociedade da informação,
+em estágio avançado nos países industrializados,
+constituem uma tendência dominante mesmo para
+economias menos industrializadas e definem um novo
+paradigma, o da tecnologia da informação, que expressa a
+essência da presente transformação tecnológica em suas
+relações com a economia e a sociedade. Esse novo
+paradigma tem, segundo Castells (2000) as seguintes
+características fundamentais:
+• A informação é sua matéria-prima: as tecnologias se
+desenvolvem para permitir o homem atuar sobre a
+informação propriamente dita, ao contrário do passado
+quando o objetivo dominante era utilizar informação
+para agir sobre as tecnologias, criando implementos
+novos ou adaptando-os a novos usos.
+• Os efeitos das novas tecnologias têm alta
+penetrabilidade porque a informação é parte integrante
+de toda atividade humana, individual ou coletiva e,
+portanto todas essas atividades tendem a serem
+afetadas diretamente pela nova tecnologia.
+• Predomínio da lógica de redes. Esta lógica,
+característica de todo tipo de relação complexa, pode
+ser, graças às novas tecnologias, materialmente
+implementada em qualquer tipo de processo.
+• Flexibilidade: a tecnologia favorece processos
+reversíveis, permite modificação por reorganização de
+componentes e tem alta capacidade de reconfiguração.
+• Crescente convergência de tecnologias,
+principalmente a microeletrônica, telecomunicações,
+optoeletrônica, computadores, mas também e
+crescentemente, a biologia. O ponto central aqui é
+que trajetórias de desenvolvimento tecnológico em
+diversas áreas do saber tornam-se interligadas e
+transformam-se as categorias segundo as quais
+pensamos todos os processos.
+O foco sobre a tecnologia pode alimentar a visão ingênua
+de determinismo tecnológico segundo o qual as
+transformações em direção à sociedade da informação
+resultam da tecnologia, seguem uma lógica técnica e,
+portanto, neutra e estão fora da interferência de fatores
+sociais e políticos. Nada mais equivocado: processos sociais
+e transformação tecnológica resultam de uma interação
+complexa em que fatores sociais pré-existentes, a
+criatividade, o espírito empreendedor, as condições da
+pesquisa científica afetam o avanço tecnológico e suas
+aplicações sociais. Vale reproduzir um comentário de
+Castells:
+É provável que o fato da constituição desse paradigma ter
+ocorrido nos EUA e, em certa medida, na Califórnia e nos
+anos 70, tenha tido grandes conseqüências para as formas
+e a evolução das novas tecnologias da informação. Por
+exemplo, apesar do papel decisivo do financiamento
+militar e dos mercados nos primeiros estágios da indústria
+eletrônica, da década de 40 à de 60, o grande progresso
+tecnológico que se deu no início dos anos 70 pode, de
+certa forma, ser relacionado à cultura da liberdade,
+inovação individual e iniciativa empreendedora oriunda
+da cultura dos campi norte-americanos da década de 60...
+Meio inconscientemente, a revolução da tecnologia da
+informação difundiu pela cultura mais significativa de
+nossas sociedades o espírito libertário dos movimentos
+dos anos 60. (Castells, 2000, pp.25)
+Além do indevido determinismo, incorre-se muitas vezes
+também em despropositado evolucionismo na discussão
+do novo paradigma tecnológico quando a “sociedade da
+informação” é vista como etapa de desenvolvimento.
+Como muito bem alerta Agudo Guevara (2000), melhor
+seria referir-se a sociedades da informação, no plural, para
+identificar, numa dimensão local, aquelas nas quais as
+novas tecnologias e outros processos sociais provocaram
+mudanças paradigmáticas. A expressão “sociedade da
+informação”, no singular, seria melhor utilizada, numa
+dimensão global (ou mundial), para identificar os setores
+sociais, independente de sua ubicação local, que participam
+“como atores de processos produtivos, de comunicação,
+políticos e culturais que têm como instrumento
+fundamental as TIC [tecnologias de informação e
+comunicação] e se produzem – ou tendem a produzir-se
+– em âmbito mundial” (Agudo Guevara, 2000, pp.4).
+O determinismo e o evolucionismo distorcem a análise
+do complexo processo de mudança social e alimentam
+uma atitude passiva, contemplativa, em relação a esse
+processo. Tais posturas impedem ou ignoram que a
+sociedade, especialmente por intermédio do Estado, tem
+Jorge Werthein
+Ci. Inf., Brasília, v. 29, n. 2, p. 71-77, maio/ago. 2000
+73
+desempenhado, no decorrer da história, um papel muito
+ativo tanto para promover quanto para sufocar o
+desenvolvimento tecnológico e suas aplicações sociais.
+Isso é particularmente claro no que se refere às novas
+tecnologias. O avanço tecnológico no novo paradigma
+foi em grande parte o resultado da ação do Estado e é o
+Estado que está à frente de iniciativas que visam ao
+desenvolvimento da “sociedade da informação” nas
+nações industrializadas e em muitas daquelas que ainda
+estão longe de ter esgotado as potencialidades do
+paradigma industrial.
+Adotando a sugestão de Agudo Guevara, um olhar sobre a
+experiência concreta das sociedades de informação
+permite revelar como a reestruturação do capitalismo e a
+difusão das novas tecnologias da informação lideradas e/
+ou mediatizadas pelo Estado estão interagindo com as
+forças sociais locais e gerando um processo de
+transformação social. Em termos gerais, é consenso entre
+analistas que a realização do novo paradigma se dá em
+ritmo e atinge níveis díspares nas várias sociedades. Junto
+com o jargão da “sociedade da informação” já é lugar
+comum a distinção entre países e grupos sociais “ricos” e
+”pobres” em informação. As desigualdades de renda e
+desenvolvimento industrial entre os povos e grupos da
+sociedade reproduzem-se no novo paradigma. Enquanto,
+no mundo industrializado, a informatização de processos
+sociais ainda tem de incorporar alguns segmentos sociais
+e minorias excluídas, na grande maioria dos países em
+desenvolvimento, entre eles os latino-americanos, vastos
+setores da população, compreendendo os médios e
+pequenos produtores e comerciantes, docentes e
+estudantes da área rural e setores populares urbanos,
+adultos, jovens e crianças das classes populares no campo
+e na cidade, além daquelas populações marginalizadas como
+desempregados crônicos e os “sem-teto” engrossam a fatia
+dos que estão ainda longe de integrar-se no novo
+paradigma (Agudo Guevara 2000). Este fato fundamental
+constitui um dos desafios éticos para a constituição das
+sociedades da informação, desafio que somente a ação social
+consciente poderá superar, já que certamente não será
+resolvido pelo avanço tecnológico em si mesmo, nem por
+uma hipotética evolução natural.
+AS PROMESSAS DO NOVO PARADIGMA
+Por que é desejável promover a sociedade da informação?
+Passadas as primeiras reações de temor diante dos efeitos
+da automação dos setores produtivos, os avanços da
+informática e da telemática provocaram uma fase de
+fascinação quase infantil – felizmente em grande parte já
+superada – particularmente nas três últimas décadas,
+quando a difusão da Internet nos países industrializados
+deu suporte ao sonho de integração mundial dos povos
+por meio de infovias globais. Embora o realismo de estudos
+e análises tenha, desde aquela época, contrabalançado o
+entusiasmo ingênuo, há que reconhecer como em grande
+parte justificadas as bases e evidências que fundamentam
+especulações positivas sobre a sociedade da informação.
+Utilizando as características do novo paradigma técnicoeconômico
+descrito na seção anterior, pode-se destacar
+justificadas expectativas positivas sobre a sociedade da
+informação. Em primeiro lugar, a substituição de insumos
+baratos de energia por informação como fator-chave do
+novo paradigma representa, para a sociedade, uma saída
+inesperada para a questão estrutural da degradação do meio
+ambiente.
+Se a penetrabilidade das novas tecnologias pode, por um
+lado, elevar o temor com possíveis efeitos negativos – a
+serem analisados na próxima seção – e até reforçar a
+inevitabilidade das transformações que acarreta, por outro
+lado fundamenta a concepção da sinergia capaz de conferir
+dinamismo ao processo de mudança desde que deflagrado,
+reforça a idéia da impossibilidade de integração “parcial”
+ao novo paradigma e dá suporte às iniciativas que visam
+preparar a sociedade como um todo para enfrentar e tomar
+partido das tendências de transformações técnicoeconômicas.
+Porque permite implementar materialmente a lógica de
+redes, a tecnologia permite modelar resultados
+imprevisíveis da criatividade que emana da interação
+complexa, desafio quase intransponível no padrão
+tecnológico anterior. Se isso dá vazão aos sonhos mais
+delirantes no âmbito das ciências básicas, das aplicações
+tecnológicas avançadas e da estratégia, não deixa também
+de alimentar sonhos mais prosaicos – e não menos
+significantes – como o de finalmente permitir a integração
+ensino/aprendizagem de forma colaborativa, continuada,
+individualizada e amplamente difundida.
+A flexibilidade que caracteriza a base do novo paradigma
+é, talvez, o elemento que mais fortemente fundamenta as
+especulações positivas da sociedade da informação. É ela
+que incorpora, na essência do paradigma, a idéia de
+“aprendizagem”. A capacidade de reconfiguração do
+sistema refere-se a maior disponibilidade para a
+incorporação da mudança. A noção de “aprendizagem”
+passa a ser empregada em vários níveis, sendo o
+organizacional sua aplicação de maior significado na
+reestruturação capitalista no novo paradigma.
+A sociedade da informação e seus desafios
+Ci. Inf., Brasília, v. 29, n. 2, p. 71-77, maio/ago. 2000
+74
+Obviamente, a flexibilidade também dá fundamento às
+expectativas de contínua adaptação de trabalhadores e
+consumidores, produtores e usuários, o que coloca o
+contínuo aperfeiçoamento intelectual e técnico como
+requisito da sociedade da informação.
+A convergência tecnológica reforça os efeitos da sinergia
+decorrente da penetrabilidade das tecnologias na
+sociedade da informação. Daí é fácil compreender a
+fascinação (e o temor) com uma utópica sociedade
+informatizada em que não apenas o desenvolvimento
+tecnológico parece não ter limites nem desacelerar e, dessa
+forma, alterar continuamente todos os processos que
+afetam a vida individual e coletiva. Se a corrida espacial
+frustrou a imaginação popular de viagens interplanetárias
+ao alcance de todos no século XXI, os avanços da telemática
+e da microeletrônica prometem colocar ao alcance da mão
+facilidades nunca antes imaginadas em termos de bemestar
+individual, lazer e acesso rápido, ilimitado e eficiente,
+ao rico acervo do conhecimento humano.
+As características do novo paradigma justificam, para
+alguns analistas, a crença de que a sociedade da informação
+será completamente diferente da sociedade industrial e
+que podemos aguardar para breve a “computopia”,
+bastando que compreendamos e direcionemos as forças
+sociais subjacentes.
+Uma formulação dessa visão idealizada é a de Masuda
+(1985), autor do Plano Japonês para uma Sociedade da
+Informação publicado nos anos 70. Nessa utopia, a
+tecnologia dos computadores terá como função
+fundamental substituir e amplificar o trabalho mental
+dos homens; permitirá a produção em massa de
+conteúdo cognitivo, informação sistematizada,
+tecnologia e conhecimento. A infra-estrutura pública de
+computadores articulados em redes e bancos de dados
+substituirá os centros de produção de bens como símbolo
+societário. A elevação da capacidade educacional e técnica
+e de criação de novas oportunidades econômicas terão o
+papel desempenhado pela descoberta de novos
+continentes e aquisição de colônias na expansão do
+mercado da sociedade industrial. A liderança da economia
+será ocupada pela indústria intensiva em conhecimento.
+A produção de informação pelo próprio usuário ganhará
+grande espaço e importância na estrutura econômica.
+O mais relevante sujeito de ação social será a comunidade
+de voluntários, não a empresa ou grupos econômicos, e a
+sociedade não será hierárquica, mas multicentrada,
+complementar e de participação voluntária. A meta social
+será a concretização do valor do tempo e não mais a criação
+de uma sociedade de alto bem-estar. A democracia
+participativa substituirá o sistema parlamentar e a regra
+da maioria e os movimentos sociais serão a força por trás
+de mudanças sociais. Em seu estágio avançado, será uma
+sociedade de criação de conhecimento. O globalismo, a
+harmonia entre homem e natureza, a auto-disciplina e a
+contribuição social serão os princípios orientadores dessa
+sociedade (Masuda 1985: 620-625).
+Embora o desenvolvimento nas sociedades da informação
+tenha logo mostrado os exageros de uma tal utopia, traços
+semelhantes são ainda encontrados em formulações que
+procuram antecipar a direção das transformações sociais
+em curso. É curiosa, por exemplo, a especulação de Tiffin
+e Rajansingham sobre as perspectivas que as novas
+tecnologias oferecerão no campo da educação.
+Os autores chamam a atenção para a sala de aula como um
+“sistema de comunicação que torna possível a um grupo
+de pessoas encontrar-se para falar sobre algo que desejam
+aprender, ver figuras e diagramas e ler textos que as ajudem
+a compreender. Numa sala de aula convencional isto é
+tornado possível pelas paredes que dão proteção contra o
+barulho e interferência externos de forma que, aqueles
+que estão dentro da sala, podem ouvir e ver uns aos outros
+e também, no quadro-negro, as palavras, diagramas e
+figuras sobre o assunto que está sendo aprendido. A
+questão é, pode a tecnologia da informação fornecer um
+sistema de comunicação alternativo que seja pelo menos
+tão eficiente quanto a sala de aula convencional?”(Tiffin
+e Rajansingham, 1995, p.6) A realidade de muitos países
+justifica uma resposta afirmativa: vários pontos remotros
+podem ser conectados graças à telemática em
+teleconferência nas “salas de aula virtuais” seja sob a forma
+audiográfica mais simples ou em videoconferências.
+A emergência da tecnologia da realidade virtual (RV), na
+década de 90, levou a previsões quase ficcionais da
+revolução no processo de educação.
+A RV oferece-nos a possibilidade de uma turma
+encontrar-se na Floresta Amazônica ou no topo do Monte
+Everest; poderá permitir-nos expandir nossa perspectiva
+de observação até ver o sistema solar operando como um
+jogo de bolas de vidro à nossa frente, ou encolhê-la de
+forma a poder caminhar em meio à estrutura atômica como
+se ela fosse uma escultura num parque; poderemos entrar
+na realidade virtual ficcional no papel de um personagem
+de uma peça, ou na realidade virtual não ficcional para
+acompanhar um cirurgião na exploração microscópica do
+corpo humano. Usaremos essa extraordinária tecnologia
+para fazer avançar o modo pelo qual aprendemos, ou a
+utilizaremos para criar versões virtuais de salas de aula
+convencionais? (Tiffin e Rajansingham, 1995, pp 7 e 8).
+Jorge Werthein
+Ci. Inf., Brasília, v. 29, n. 2, p. 71-77, maio/ago. 2000
+75
+Em sua especulação, Tiffin e Rajansingham imaginam
+“Shirley”, a “aprendiz autônoma” da futura sociedade da
+informação ,vestida em sua roupa digital e com seu capacete
+ajustado, assistindo Laurence Olivier interpretar Hamlet
+num velho filme preto e branco, uma atividade do curso
+“Encenação de Peças de Shakespeare”. Comparando as
+diferenças entre a encenação do filme com a teatral, ela se
+indaga sobre como teria sido a encenação original. Onde
+era Elsinore?
+“Pare”, ela diz, e o filme mantém a imagem da amurada na
+abertura da cena do fantasma. “Mapeie”, ela pede, e depois,
+“Mostre a Dinamarca”. Em seguida, ordena “Busque
+Elsinore” e... lá está, exatamente onde a Dinamarca e a
+Suécia se defrontam, separadas por uma faixa de água.
+“Deve ter sido uma posição muito estratégica”, pensa e vê
+que o nome em dinamarquês era Helsingor. Com o dedo,
+circula Elsinore e, então diz, “Mostre”, e lá está a vila com
+o terminal do barco de transporte e, numa península ao
+lado do porto, o castelo. Em seguida, ela circula o castelo e
+recebe uma planta baixa de todo o terreno e edificações.
+Neste ponto, entretanto, uma janela abre-se num dos lados
+do plano com os seguintes dizeres: “Castelo de Helsingor,
+Informação Proprietária do Governo Dinamarquês.
+Serviços de informação disponíveis. Todos os principais
+cartões de crédito são aceitos’... (Tiffin e Rajansingham,
+1995, pp.145).
+Apesar das limitações impostas pela apropriação da
+informação relevante, a especulação dos autores nos
+garante que Shirley consegue “entrar” no castelo e
+percorrer os lugares correspondentes às referências feitas
+em Hamlet, à medida que a peça é virtualmente encenada,
+escolhendo ora a posição de “platéia”, ora de ator...
+Sem precisar recorrer a formulações utópicas como as
+representadas pelas especulações de Masuda ou Tiffin e
+Rajansingham, a reflexão sobre as potencialidades do novo
+paradigma permite responder à pergunta que inicia esta
+seção. É desejável promover a sociedade da informação
+porque o novo paradigma oferece a perspectiva de avanços
+significativos para a vida individual e coletiva, elevando
+o patamar dos conhecimentos gerados e utilizados na
+sociedade, oferecendo o estímulo para constante
+aprendizagem e mudança, facilitando a salvaguarda da
+diversidade e deslocando o eixo da atividade econômica
+em direção mais condizente com o respeito ao meio
+ambiente.
+DESAFIOS NA CONSTRUÇÃO DE SOCIEDADES
+DA INFORMAÇÃO
+Exageros especulativos à parte, é preciso reconhecer que
+muitas das promessas do novo paradigma tecnológico
+foram e estão sendo realizadas, particularmente no campo
+das aplicações das novas tecnologias à educação. Educação
+à distância, bibliotecas digitais, videoconferência, correio
+eletrônico, grupos de “bate-papo”, e também voto eletrônico,
+banco on-line, video-on-demand, comércio eletrônico,
+trabalho à distância, são hoje parte integrante da vida diária
+na maioria dos grandes centros urbanos no mundo.
+A satisfação com tais avanços, no entanto, não deve
+impedir-nos de identificar áreas de preocupação com a
+direção e o ritmo da mudança. A sociedade vem observando
+com atenção a evolução histórica do novo paradigma da
+informação e externando, em cada etapa desse
+desenvolvimento, suas preocupações reais ou infundadas
+com as implicações sociais das novas tecnologias.
+Independentemente de aceitarmos ou não a concepção da
+“neutralidade” ou “ambivalência” da tecnologia, não se pode
+ignorar as questões éticas relacionadas a ela.
+Os desafios da sociedade da informação são inúmeros e
+incluem desde os de caráter técnico e econômico, cultural,
+social e legal, até os de natureza psicológica e filosófica.
+Alguns autores, como Leal (1996) chegam a formular os
+desafios éticos da sociedade da informação em termos de
+uma múltipla perda: perda de qualificação, associada à
+automação, e desemprego; de comunicação interpessoal e
+grupal, transformada pelas novas tecnologias ou mesmo
+destruída por elas; de privacidade, pela invasão de nosso
+espaço individual e efeitos da violência visual e poluição
+acústica; de controle sobre a vida pessoal e o mundo
+circundante; e do sentido da identidade, associado à
+profunda intimidação pela crescente complexidade
+tecnológica. Já outros, como Brook e Boal (1995) dedicamse
+a examinar estratégias de resistência para, como um
+novo “luddismo”, lutar contra os aspectos perniciosos da
+tecnologia virtual acusada de disseminar na sociedade a
+utilização de um simulacro de relacionamento como
+substituto de interações face a face e contra a alegada
+usurpação pelo capital do direito de definir a espécie de
+automação que desqualifica trabalhadores, amplia o
+controle gerencial sobre o trabalho, intensifica as
+atividades e corrói a solidariedade.
+Algumas das preocupações acima têm sido transformadas
+com o avanço do novo paradigma, incluindo as ações dos
+movimentos sociais em reação às implicações consideradas
+socialmente inaceitáveis. O desemprego tecnológico e a
+A sociedade da informação e seus desafios
+Ci. Inf., Brasília, v. 29, n. 2, p. 71-77, maio/ago. 2000
+76
+desqualificação do trabalho, por exemplo, tendem a ser
+contrabalançados pelo próprio aprofundamento das
+transformações do paradigma o que inclui uma
+reestruturação sistêmica do emprego e a requalificação
+dos trabalhadores. Em alguns outros casos, como a perda
+da privacidade, a sociedade tem-se mobilizado para
+promover o que Leal identifica como o “comportamento
+normal responsável” inclusive por meio de legislação
+adequada para proteger os direitos do cidadão na era digital.
+A perda do sentimento de controle sobre a própria vida e
+a perda da identidade são temas que continuam
+preocupantes e que estão ainda por merecer estratégias
+eficientes de intervenção.
+Uma questão ética do novo paradigma não discutida por
+analistas como Leal, Brook e Boal diz respeito ao
+aprofundamento de desigualdades sociais, desta vez, sobre
+o eixo do acesso à informação. O ritmo do avanço
+tecnológico no alvorecer do novo paradigma tem sido,
+sob qualquer ótica, extraordinário. O ritmo de expansão
+da Internet no mundo levou apenas um terço do tempo
+que precisou o rádio para atingir uma audiência de 50
+milhões de pessoas (Quéau, 1999). A redução dos preços
+dos computadores por volume de capacidade de
+processamento facilitou grandemente essa difusão, mas
+não permitiu ainda superar a relação entre nível de renda
+e acesso às novas tecnologias. Os dados a seguir
+ilustram o contraste em relação ao acesso à
+informação pelas populações de países industrializados
+e em desenvolvimento.
+Dispondo de uma população algumas vezes maior, os
+baixos níveis de renda per capita nos países em
+desenvolvimento refletem-se em alta taxa de
+analfabetismo adulto, baixo acesso à educação formal
+avançada e à tecnologia da informação tanto convencional
+quanto moderna.
+O nível de agregação dos dados anteriores esconde diferenças
+importantes dentro do mundo em desenvolvimento, mas
+mesmo para o terço mais avançado dentre eles, aplica-se a
+advertência de Mansell e Wehn (1998, capítulo 13) para
+os quais o papel das tecnologias de informação na
+construção de uma “sociedade do conhecimento”
+inovadora poderá ser muito relevante e contribuir para o
+desenvolvimento sustentado, mas será acompanhado de
+muitos riscos. Nesses países, em especial os de nível médio
+de renda – grupo em que se enquadram muitos dos países
+da América Latina e Caribe – as novas tecnologias e seu
+uso requerem investimentos na elevação das capacidades
+tecnológicas locais e no desenvolvimento das instituições
+políticas, culturais, econômicas e sociais. O avanço do
+novo paradigma dependerá de como serão resolvidas as
+tensões entre as culturas e modos de organização social
+existentes e aquelas que começam a se tornar dominantes.
+As sociedades desses países terão de adaptar suas estruturas
+institucionais para tratar questões importantes como a
+proteção da propriedade intelectual. Terão também de
+examinar a conveniência de estabelecer um equilíbrio
+entre suas metas de exportação de produtos e serviços de
+maior conteúdo tecnológico com a criação de
+oportunidades para ampliar a adoção local das novas
+tecnologias. Para Mansell e Wehn, “não se pode esperar
+de estratégias visando acelerar a difusão do novo paradigma
+que erradiquem a pobreza, em curto prazo, e há riscos de
+que as novas políticas e investimentos nas aplicações das
+tecnologias de informação introduzam novas forças de
+exclusão” (pp.258).
+Na sociedade globalizada em que avança o novo paradigma,
+a emergência de novas forças de exclusão se dá tanto em
+nível local quanto global e requer esforços em ambos os
+níveis no sentido de superá-las. Ações fundamentais nessa
+direção são as que promovem o acesso universal tanto à
+infra-estrutura quanto aos serviços de informação a preços
+accessíveis. A conexão internacional dos países em
+desenvolvimento e até da Europa está extremamente
+concentrada em poucos pontos de acesso. Como não há a
+exigência de que os operadores desses pontos de acesso
+partilhem os custos do circuito completo (até o ponto de
+acesso internacional e retorno ao ponto de origem), os
+provedores de serviços de Internet nos países em
+desenvolvimento devem, na maioria das vezes, pagar pelos
+custos totais das ligações nos dois sentidos, o que encarece
+o serviço e restringe suas possibilidades de expansão
+Indicadores Países Países
+industrializados em desenvolvimento
+População estimada, milhões (1995) 1.228,7 4.538,7
+Produto Interno Bruto per capita (US$) 18.158 1,141
+Taxa estimada de analfabetismo 1,3 29,6
+adulto como % da população (1995)
+Matrícula de terceiro grau, milhões (1995) 18,0 4,3
+Estimativa de linhas telefônicas/1000 424 45
+habitantes (1995)
+Estimativa de assinantes de telefone 91,7 5,8
+celular/100 habitantes (1995)
+Aparelhos de TV/100 habitantes (1996) 524 145
+Computadores pessoais/1000 habitantes (1996) 156,3 6,5
+Servidores de Internet, milhares (1996) 15.818 435
+Estimativa de usuários Internet/1000 17,9 0,5
+habitantes, 1996
+Fonte: Unesco World Communication and Information 1999-2000
+Report, pagina 281
+Jorge Werthein
+Ci. Inf., Brasília, v. 29, n. 2, p. 71-77, maio/ago. 2000
+77
+(Quéau, 1999). Novas parcerias e políticas de cooperação
+internacional deverão ser elaboradas para estimular o
+desenvolvimento e fortalecimento de redes intraregionais.
+A instalação de backbones regionais de alta
+capacidade, por exemplo, permitiria ligar cada país a uma
+rede global de múltipla conexão onde ninguém dominaria
+a conectividade.
+O acesso universal ao conteúdo e a fontes de conhecimento
+aponta para a necessidade de resolver vários outros
+desafios. Um dos mais relevantes, como apontam Mansell
+e Wehn, é o reconhecimento dos direitos de propriedade
+intelectual. Do ponto de vista dos países em
+desenvolvimento, uma delicada negociação com os editores
+deveria permitir a extensão da legislação relativa ao “uso
+justo” aos recursos disponíveis na Internet. A essa
+negociação dever-se-ia acrescentar ações visando difundir
+de forma eficiente princípios “info-éticos” em relação aos
+direitos de propriedade intelectual, inclusive na Internet.
+Uma outra questão é elevar o volume de informação de
+qualidade e de domínio público disponível na Internet no(s)
+idioma(s) de expressão da população de cada sociedade. Isso
+envolverá convencer o governo e centros produtores de
+conhecimento financiados por recursos públicos a tornarem
+disponíveis ao público as informações produzidas.
+No campo educacional dos países em desenvolvimento,
+decisões sobre investimentos para a incorporação da
+informática e da telemática, implicam também riscos e
+desafios. Será essencial identificar o papel que essas novas
+tecnologias podem desempenhar no processo de
+desenvolvimento educacional e, isso posto, resolver como
+utilizá-las de forma a facilitar uma efetiva aceleração do
+processo em direção a educação para todos, ao longo da
+vida, com qualidade e garantia de diversidade. As novas
+tecnologias de informação e comunicação tornam-se, hoje,
+parte de um vasto instrumental historicamente mobilizado
+para a educação e aprendizagem. Cabe a cada sociedade
+decidir que composição do conjunto de tecnologias
+educacionais mobilizar para atingir suas metas de
+desenvolvimento.
+O fluxo de informação e da transformação dessa
+informação em conhecimento está no âmago do mandato
+da Unesco de contribuir para a paz e segurança por meio
+da promoção da colaboração entre as nações. Os benefícios
+da participação na sociedade global da informação requer
+um consenso internacional dentro deste amplo mandato.
+O progresso da educação, ciência e cultura é
+fundamentalmente o de compartilhar informação e de
+criar novos meios de aprendizagem e conhecimento.
+Em decorrência de seu mandato, a Unesco tem atuado de
+forma sistemática no sentido de apoiar as iniciativas dos
+Estados Membros na definição de políticas de integração
+das novas tecnologias aos seus objetivos de
+desenvolvimento. Na Unesco, o Programa Geral de
+Informação (PGI) e o Programa Intergovernamental de
+Informática (IIP), hoje fundidos no Programa Informação
+para Todos, enfeixavam as ações desse organismo
+internacional em duas áreas principais, conteúdo para a
+sociedade da informação e “infoestrutura” para esta
+sociedade em evolução, por meio da cooperação para
+treinamento, apoio ao estabelecimento de políticas de
+informação e promoção de conexões em rede.
+No espírito da Declaração Universal dos Direitos do
+Homem que constitui a base dos direitos à informação na
+sociedade da informação, e levando em consideração os
+valores e a visão delineados anteriormente, o novo
+Programa Informação para Todos deverá prover uma
+plataforma para a discussão global sobre acesso à
+informação, participação de todos na sociedade da
+informação global e as conseqüências éticas, legais e
+societárias do uso das tecnologias de informação e
+comunicação. Deverá prover também a estrutura para
+colaboração internacional e parcerias nessas áreas e apoiar
+o desenvolvimento de ferramentas comuns, métodos e
+estratégias para a construção de uma sociedade de
+informação global e justa.
+REFERÊNCIAS BIBLIOGRÁFICAS
+1. AGUDO GUEVARA, Alvaro. Etica en la Sociedad de la Informacion:
+reflexiones desde America Latina. In: SEMINARIO
+INFOETICA, 2000, Rio de Janeiro. [s. l. : s. n., 2000?].
+2. BROOK, James, BOAL, Iain A. Resisting the virtual life: the culture
+and politics of information. San Francisco : City Lights, 1995.
+3. CASTELLS, Manuel. A era da informação: economia, sociedade e
+cultura. In: A Sociedade em rede. São Paulo : Paz e Terra, 2000. v. 1.
+4. LEAL, Fernando. Ethics is fragile: goodness is no. In: KARAMJIT,
+S. Gill. (Ed.). Information Society: new media, ethics and
+postmodernism. London : Springer, 1996.
+5. MANSELL, Robin, WEHN, Uta. Knowledge societies: information
+technologies for sustainable development. Oxford : Oxford
+University, 1998.
+6. MASUDA, Yoneji. Computopia. In: FORESTER, Tom. (Ed.). The
+information technology revolution. Oxford : Basil Blackwell, 1985.
+7. QUÉAU, Philippe. Including the excluded: for the common good of
+all. In: TASKNET CONFERENCE, 1999, Nova Delhi, Índia. [s.
+l. : s. n., 1999?].
+8. TIFFIN, John, RAJASINGHAM, Lalita. In: Search for the virtual
+class: education in an Information Society. London : Routledge,
+1995.
+9. UNESCO. (Paris). World communication and information 1999-2000
+report. Paris, 1999.
+A sociedade da informação e seus desafios
+Ci. Inf., Brasília, v. 29, n. 2, p. 71-77, maio/ago. 2000

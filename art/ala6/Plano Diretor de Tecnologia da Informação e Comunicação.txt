@@ -1,0 +1,1122 @@
+
+
+
+
+
+
+
+
+
+Plano Diretor de Tecnologia da Informação
+e Comunicação
+
+2009 a 2012
+
+
+
+
+
+
+
+
+
+
+CEFET
+Rio Pomba / 2008 
+2
+
+
+Presidente da República Federativa do Brasil
+Luiz Inácio Lula da Silva
+
+Ministro de Estado da Educação
+Fernando Haddad
+
+Secretário de Educação Superior
+Ronaldo Mota
+
+Secretário de Educação Profissional e Tecnológica
+Eliezer Pacheco
+
+CENTRO FEDERAL DE EDUCAÇÃO TECNOLÓGICA DE RIO
+POMBA – MG
+
+Diretor-Geral
+Mário Sérgio Costa Vieira
+
+
+ 
+3
+Comissão de elaboração
+Alexandre Furtado Fernandes
+Carla Patrícia Garcia
+Eloim de Oliveira Campos
+Fabrício Tavares de Faria
+Gustavo Henrique da Rocha Reis
+Samira Fávero Campos
+Wellington Moreira de Oliveira
+ 
+4
+SUMÁRIO
+1 Introdução ................................................................................................................................... 6
+2 Ambiente Organizacional .......................................................................................................... 7
+3 Ambiente de Tecnologia da Informação e Comunicação ........................................................ 9
+ 3.1 Missão ................................................................................................................................... 9
+ 3.2 Objetivos ............................................................................................................................... 10
+4 Cenário Atual ............................................................................................................................. 12
+5 Proposta ...................................................................................................................................... 20
+ 5.1 Planejamento Sistemas de Informação .............................................................................. 20
+ 5.2 Planejamento Redes ............................................................................................................ 21
+ 5.3 Softwares .............................................................................................................................. 22
+ 5.4 Treinamentos ........................................................................................................................ 22
+ 5.5 Servidores ............................................................................................................................. 23
+ 5.6 Redes e Infra-estrutura........................................................................................................ 23
+ 5.7 Recursos Humanos .............................................................................................................. 23
+6 Atribuições ................................................................................................................................. 25
+7 Avaliação e Revisão do PDTIC ................................................................................................. 26
+8 Conclusão ................................................................................................................................... 27
+9 Bibliografia ................................................................................................................................ 28 
+5
+Índice de Tabelas
+Tabela 1 – Quadro de Pessoal do CEFET-RP .............................................................................. 8
+Tabela 2 – Cursos Oferecidos......................................................................................................... 8
+Tabela 3 – Recursos Humanos ..................................................................................................... 12
+Tabela 4 – Recursos de Hardware................................................................................................ 12
+Tabela 5 - Equipamentos de Redes............................................................................................... 13
+Tabela 6 – Servidores..................................................................................................................... 14
+Tabela 7 – Equipamentos Geral ................................................................................................... 15
+Tabela 8 – Computadores por Setor............................................................................................. 15
+Tabela 9 – Sistemas de Informação ............................................................................................. 16
+Tabela 10 – Projetos de Redes ..................................................................................................... 18
+Tabela 11 – Planejamento Sistemas de Informação ................................................................... 20
+Tabela 12 – Planejamento Redes.................................................................................................. 21
+Tabela 13 – Quadro de funcionários de TIC por áreas de atuação ......................................... 24 
+6
+1 Introdução
+ O Plano Diretor de Tecnologia da Informação e Comunicação do CEFET-RP tem por
+objetivo propor estratégias baseadas em diagnósticos da situação atual para que se possa gerir
+corretamente a informação que é base de apoio para a instituição.
+A informação é distribuída em todos os processos de negócio e é responsável por manter a
+operação da instituição. Além disso, também representa a inteligência competitiva dos negócios e é
+influenciada por fatores humanos, tecnológicos e físicos, fazendo crescer a consciência de que a
+informação é o maior patrimônio das instituições. É neste sentido que o Departamento de
+Tecnologia da Informação se dedica a suprir todas as demandas tecnológicas ligadas a informação,
+garantindo a integridade, a confiabilidade e a disponibilidade da mesma.
+ O CEFET-RP vem passando por uma reestruturação organizacional como: criação de duas
+novas UNED's (Araçuaí e Muriaé); aderindo à constituição dos Institutos Federais de Educação,
+Ciência e
+ Tecnologia – IFET.
+ Com o intuito de administrar de forma organizada tais mudanças, surge a necessidade de se
+elaborar um Plano Diretor de Tecnologia da Informação e Comunicação que contemple soluções
+como:
+• Hardwares
+• Softwares
+• Recurso de Pessoal
+• Capacitação de Pessoal 
+7
+2 Ambiente Organizacional
+O CEFET-RP a exemplo das demais instituições de ensino que integram a rede federal de
+educação tecnológica cumpre as características básicas determinadas no art. 3° do Decreto n°
+5.224/2004:
+• ofertar educação tecnológica, levando em conta o avanço do conhecimento tecnológico e
+a incorporação crescente de novos métodos e processos de produção e distribuição de
+bens e serviços;
+• conjugar ensino, teoria e prática;
+• articular, verticalizar e integrar a educação tecnológica aos diferentes níveis e
+modalidades de ensino, ao trabalho, a ciência, a tecnologia e a melhoria da qualidade de
+vida da população;
+• ofertar ensino superior de graduação e de pós-graduação na área tecnológica;
+• ofertar formação especializada em todos os níveis de ensino, levando em consideração
+as tendências do setor produtivo e do desenvolvimento tecnológico;
+• realizar pesquisas aplicadas, prestação de serviços e melhoria das condições ambientais;
+• desenvolver atividade docente, abrangendo os diferentes níveis e modalidades de ensino,
+observada a qualificação exigida em cada caso;
+• utilizar de forma compartilhada os laboratórios e os recursos humanos pelos diferentes
+níveis e modalidades de ensino;
+• desenvolver um processo educacional que favoreça, de modo permanente, a
+transformação do conhecimento em bens e serviços, em benefício da sociedade;
+• oferecer uma estrutura organizacional flexível, racional e adequada às suas
+peculiaridades e objetivos; 
+8
+• integrar ações educacionais com as expectativas do aluno, da sociedade e das tendências
+do setor produtivo.
+Tabela 1 – Quadro de Pessoal do CEFET-RP
+Docentes Efetivos 73
+Técnico-Administrativo em Educação 108
+Subtotal 1 181
+Professores Substitutos 09
+Terceirizados 45
+Subtotal 2 54
+Total 235
+Fonte: CGRH (2008)
+Tabela 2 – Cursos Oferecidos
+Cursos Duração (Anos) Vagas Anuais
+Técnico em Alimentos (integrado com o Ensino
+Médio)
+3 45
+Técnico em Agropecuária (integrado com o Ensino
+Médio)
+3 45
+Técnico em Zootecnia (integrado com o Ensino
+Médio)
+3 45
+Técnico em Florestas (integrado com o Ensino Médio) 3 45
+Técnico em Informática (integrado com o Ensino
+Médio)
+3 45
+Técnico em Informática (concomitante) 1 e meio 45
+Técnico em Secretariado 1 45
+Técnico em Vendas 1 45
+Técnico em Meio Ambiente 1 45
+Técnico em Segurança do Trabalho 1 e meio 45
+Administração 4 40
+Agroecologia 4 35
+Ciência da Computação 4 35
+Ciência e Tecnologia em Alimentos 4 35
+Licenciatura em Matemática 4 40
+Tecnologia em Laticínios 3 35
+Zootecnia 4 35
+Total ---- 705 
+9
+3 Ambiente de Tecnologia da Informação e Comunicação
+ As Tecnologias de Informação e Comunicação (TIC) servem de suporte às atividades
+acadêmicas e administrativas. No contexto acadêmico, servem como instrumentos de pesquisa,
+coleta e armazenamento de dados, meio de acesso e de difusão da informação, meio de
+comunicação intra e extra-muros e, em especial, entre docentes e discentes. No contexto
+administrativo, servem como instrumentos de automação e racionalização de processos
+administrativos, e de gestão (planejamento, acompanhamento, avaliação e controle).
+3.1 Missão
+A Gerência de Tecnologia da Informação e Comunicação é o setor que fornece apoio
+computacional a todos os setores do CEFET-RP, tais como, desenvolvimento do ensino, pesquisa e
+extensão, suporte ao planejamento acadêmico-administrativo e às rotinas administrativas. A
+Gerência de TIC busca garantir a segurança, fidelidade e confiabilidade dos dados que são
+transformados em informação através dos sistemas de informação.
+Sistema de informação é um conjunto de funções integradas voltadas para a transformação
+de dados em informação. Através dos processos de coleta e tratamento de dados, os sistemas geram
+e disseminam as informações necessárias aos diversos níveis organizacionais.
+Em todos os sistemas de informação são necessários recursos humanos, de hardware,
+software, redes de comunicação e recursos de dados que executaram atividades de entrada,
+processamento, saída, armazenamento e controle que transformam recursos de dados em produtos
+de informação.
+A Tecnologia da Informação e Comunicação é o elo entre pessoas, processos e a informação.
+É o principal instrumento para o desenvolvimento de estratégias competitivas, pois as informações
+movimentam-se mais rapidamente do que os dados e, consequentemente, diminuem o tempo de
+resposta aos eventos.
+A cada dia o CEFET-RP necessita de um ambiente mais dinâmico para que as informações
+trafeguem mais facilmente, portanto a necessidade de que os sistemas utilizados sejam integrados,
+confiáveis e de alta velocidade. Neste contexto, a TIC assume papel crítico como mecanismo básico
+e essencial para o funcionamento da instituição. 
+10
+A TIC possibilita apoio a qualquer estrutura organizacional, tornando-se essencial para
+descentralização das atividades enquanto mantêm a capacidade em coordenar e controlar estas
+atividades. Portanto a missão da TIC é possibilitar condições que poderão maximizar a distribuição
+e o uso do conhecimento.
+A TIC, por si só, não é capaz de modificar metodologias de trabalho. Para que ela
+proporcione resultados efetivos, é preciso que esteja integrada a uma estratégia de gerenciamento,
+ou seja, os investimentos em TIC devem estar diretamente associados a um objetivo organizacional,
+contribuindo para o seu alcance. Se não houver a preocupação de relacionar-se investimento de TIC
+com os objetivos da instituição, incorre-se no grande risco de se implementar tecnologia cara e
+inútil, capaz de executar o que os técnicos esperam, mas não o que a instituição necessita.
+3.2 Objetivos
+A TIC pode ser decisiva para o sucesso de uma organização, contribuindo para que ela seja
+ágil, flexível e robusta. Para se atingir o resultado desejado, alguns objetivos devem ser
+especificados, tais como:
+z Desenvolver o projeto de implantação do sistema físico da rede de computadores;
+z Desenvolver o projeto de implantação do sistema lógico da rede de computadores;
+z Implantar e manter os laboratórios de informática de uso discente;
+z Dar suporte em hardware e software em todos os setores;
+z Planejar e definir a implantação ordenada de sistemas de informação para o gerenciamento
+das atividades acadêmicas e administrativas;
+z Difundir políticas de utilização compartilhada dos recursos de informática;
+z Apoiar a implantação de projetos de pesquisa em todo o CEFET Rio Pomba;
+z Difundir a cultura de utilização de software livre no âmbito acadêmico e administrativo;
+z Fomentar a difusão do conhecimento através de cursos de aperfeiçoamento;
+z Apoiar a participação da comunidade acadêmica em eventos de caráter científico;
+z Gerenciar as atividades de desenvolvimento de sistemas;
+z Promover a utilização coerente dos recursos informatizados;
+z Dotar de agilidade, segurança e versatilidade todas as operações que envolvem recursos de
+informática. 
+11
+Os principais serviços realizados pelo setor de TIC são: apoio computacional ao
+desenvolvimento do ensino, pesquisa e extensão, suporte técnico ao usuário, administração e
+gerenciamento da rede, administração de ambientes informatizados, administração do portal WEB,
+desenvolvimento e implantação de sistemas de informação e suporte e manutenção de hardware.
+Embora os recursos humanos do setor de TIC do CEFET-RP sejam insuficientes para
+atender a todas as demandas, o aproveitamento dos recursos tecnológicos ainda não é
+comprometido. Além de novas contratações, é necessário desenvolver uma política de treinamento e
+capacitação dos servidores da área de TIC, pois esta é uma área muito dinâmica, sendo
+imprescindível que seus profissionais estejam em constante processo de atualização e
+aperfeiçoamento. 
+12
+4 Cenário Atual
+ A tabela 3 abaixo apresenta o quantitativo de profissionais que trabalham atualmente na área
+de TIC.
+Tabela 3 – Recursos Humanos
+Cargo Qtde. Atuação Tipo de
+Vínculo
+Analista de Tecnologia da Informação 1 Coordenação de TIC Efetivo
+Analista de Tecnologia da Informação 1 Redes e Segurança Efetivo
+Analista de Tecnologia da Informação 1 Desenvolvimento de Sistemas Efetivo
+Técnico em Tecnologia da Informação 2 Desenvolvimento de Sistemas Efetivo
+Assistente Administrativo 1 Suporte e Manutenção Efetivo
+Técnico em informática 2 Suporte e Manutenção Terceirizado
+Tabela 4 – Recursos de Hardware
+Equipamento Quantidade
+Computador PC 185
+Impressora Jato de Tinta 21
+Impressora Matricial 13
+Impressora Laser 7
+Multifuncional 4
+Notebook 4
+Computador MAC 2
+Scanner 2
+Notebook MAC 1
+Notebook 2
+
+ 
+13
+Tabela 5 - Equipamentos de Redes
+Setor Modelo Descrição Qtde
+DES1026G DLINK 26 PORTAS 1
+ENH924-AUT+ ENCORE 24 PORTAS 1
+ROTEADOR ROTEADOR CISCO 2500 1
+TRANSCEIVER CONVERSOR UTP/FIBRA BICCNET 3
+TI
+MYMAX MYMAX 54MBPS WIRELESS 1
+AGROINDÚSTRIA (AULA) EP816X SURECOM 16 PORTAS 1
+MYMAX MYMAX 54MBPS WIRELESS 1
+AGROINDÚSTRIA (ADM) ENH908-NWY ENCORE 8 PORTAS 1
+OVISLINK WIRELESS 11MBPS 1
+COORD. EaD 3C16792 3COM 16 PORTAS 1
+LAB. INFORMÁTICA 1 3CRWER200-75 3COM WIRELESS SUPER G 1
+LAB. INFORMÁTICA 2 DES1026G DLINK 26 PORTAS 1
+SECRETARIA TÉCNICO 3C16792 3COM 16 PORTAS 1
+TRANSCEIVER CONVERSOR UTP/FIBRA BICCNET 1
+CGAE 3C16792 3COM 16 PORTAS 1
+MYMAX MYMAX 54MBPS WIRELESS 1
+BIBLIOTECA ENH924-AUT+ ENCORE 24 PORTAS 1
+TRANSCEIVER CONVERSOR UTP/FIBRA BICCNET 1
+ADMINISTRAÇÃO DES1026G DLINK 26 PORTAS 2
+MYMAX MYMAX 54MBPS WIRELESS 1
+DES1026G DLINK 26 PORTAS 1
+TRANSCEIVER CONVERSOR UTP/FIBRA BICCNET 1
+FUNDAÇÃO
+MYMAX MYMAX 54MBPS WIRELESS 1
+ZOOTECNIA 1 OVISLINK WIRELESS 11MBPS 1
+ZOOTECNIA 2 OVISLINK WIRELESS 12MBPS 1
+ZOOTECNIA 3 ENH908-NWY ENCORE 8 PORTAS 1
+DWL2100AP WIRELESS 108MBPS 1
+DCC MYMAX MYMAX 54MBPS WIRELESS 1
+OBRAS MYMAX MYMAX 54MBPS WIRELESS 1
+DDI 3CRWER200-75 3COM WIRELESS SUPER G 1
+EMPRESA JUNIOR WIRELESS WIRELESS 22MBPS 1 
+14
+Tabela 6 – Servidores
+Servidor Descrição Qtde
+Pentium 4 2.8Ghz
+512MB RAM
+1 HD 40GB
+Firewall
+3 Placas de Redes
+1
+Pentium 4 2.4Ghz
+1GB RAM
+1 HD 20GB
+Firewall
+3 Placas de Redes
+1
+AMD Athlon(tm) 64 Processor 3500+ 2.2Ghz
+1.2GB RAM
+1 HD 120GB
+1 HD 80GB
+Arquivos /
+Controlador de Domínio
+2 Placas de Redes
+1
+2 Processadores Intel(R) Xeon(TM) CPU 3.20GHz
+2GB RAM
+2 HD's 70GB
+Web/Email
+3 Placas de Redes
+1
+2 Processadores Intel(R) Xeon(TM) CPU 1.60GHz
+2GB RAM
+2 HD's 70GB
+Bancos de Dados
+3 Placas de Redes
+1
+Intel(R) Pentium(R) 4 CPU 2.66GHz
+1GB RAM
+1 HD 80GB
+Impressão
+1 Placa de Redes
+1
+1 Procesasdor Intel(R) Core(TM)2 CPU 6300 1.86GHz
+1GB RAM
+1 HD 80GB
+Web
+2 Placas de Redes
+1
+2 Processadores Intel(R) Pentium 3 CPU 866MHz
+3 HD's 18.2GB
+Novell
+512MB RAM
+1
+EaD 2 Processadores Intel Xeon Quad Core 1.6GHz 1 
+15
+4 HD's 250 GB
+8 Gb RAM
+Tabela 7 – Equipamentos Geral
+Equipamento Quantidade Percentual
+Computador PC 185 77.41%
+Impressora Jato de Tinta 21 8.79%
+Impressora Matricial 13 5.44%
+Impressora Laser 7 2.93%
+Multifuncional 4 1.67%
+Notebook 4 1.67%
+Computador MAC 2 0.84%
+Scanner 2 0.84%
+Notebook MAC 1 0.42%
+Total 239 100%
+Tabela 8 – Computadores por Setor
+Local Equipamento Quantidade Percentual
+Prédio Central Computador PC 132 70.59%
+Administração Computador PC 12 6.42%
+Agroindústria Computador PC 8 4.28%
+Agroecologia Computador PC 5 2.67%
+Agricultura Computador PC 4 2.14%
+Prédio Refeitório Computador PC 4 2.14%
+Zootecnia Computador PC 4 2.14%
+Biblioteca Computador PC 3 1.60%
+CIEC Computador PC 3 1.60%
+Fundação Computador PC 3 1.60%
+Cooperativa Computador PC 2 1.07%
+Laboratório de Solos Computador PC 2 1.07%
+Prédio Central Computador MAC 2 1.07%
+Alojamento Computador PC 1 0.53%
+Empresa Junior Computador PC 1 0.53%
+Irrigação Computador PC 1 0.53%
+Total: 187 
+16
+Tabela 9 – Sistemas de Informação
+Nome do
+Projeto/
+Aplicação
+Descrição Sucinta Status /
+Planejamento
+Áreas
+Usuárias
+Benefícios
+SCB Sistema de Conversão de
+Base. Converte dados do
+MySql para DBF e vice e
+versa.
+Em Produção Tecnologia
+da
+Informação
+Aproveitamento dos
+dados de inscrições em
+exames de seleção e
+outros eventos
+Requerimentos
+RH
+Criação de formulário
+eletrônico para seleção de
+requerimentos
+relacionados ao RH e
+geração automática em
+pdf.
+Em Produção Recursos
+Humanos e
+funcionários
+do CEFETRP
+
+Automação dos
+requerimentos
+relacionados ao RH.
+SIGINET Sistema de
+Gerenciamento Interno.
+Responsável pelo
+cadastramento de
+Notícias, Destaques,
+Boletins, Informativos,
+Licitações e Concursos
+postados no site do
+CEFET-RP.
+Em Produção,
+com alguns
+módulos em
+desenvolvimento
+ou
+acrescentando
+recursos
+Jornalista,
+Recursos
+Humanos
+Automação do cadastro
+de boletins, licitações,
+concursos, notícias e
+destaques do CEFET-RP.
+SIADNET Sistema de Inscrição do
+Vestibular, Exame de
+Seleção e Rematrícula.
+Em Produção Candidatos
+ao
+Vestibular,
+Exame de
+Seleção ,
+EAD,
+Secretaria
+do Técnico,
+Superior,
+Diretoria de
+Ensino e
+Comissão
+de Processo
+Seletivo
+Automação das
+inscrições, controle
+financeiro e relatórios de
+controle dos processos
+seletivos e rematrícula de
+alunos.
+SICADE Cadastramento de dados
+alunos, notas, faltas, etc.
+Emissão de históricos,
+boletins, diários, etc
+Classificação de Exame
+de Seleção.
+Empréstimo e devolução
+de livros, cadastramento
+de estágios,
+cadastramento de
+ocorrências.
+Em Produção,
+com alguns
+módulos em
+desenvolvimento
+ou
+acrescentando
+recursos
+Secretaria
+de Ensino
+Médio,
+Secretaria
+de Ensino
+Técnico e
+Modular,
+Biblioteca,
+Coordenado
+ria de
+Atendiment
+o ao
+Educando
+(C.G.A.E.),
+Coordenado
+ria de
+Integração
+Automação registros
+escolares, biblioteca, etc. 
+17
+Escola
+Comunidad
+e (
+C.I.E.C.),
+etc.
+
+SIENTE Cadastramento de dados
+alunos, notas, faltas, etc.
+Emissão de históricos,
+boletins, diários, etc
+Classificação de
+Vestibular
+Em Produção,
+com alguns
+módulos em
+desenvolvimento
+ou
+acrescentando
+recursos
+Secretaria
+de Ensino
+Superior
+Setor
+pedagógico.
+Automação registro
+escolar superior
+SISERGE Sistema de Serviços
+Gerais :
+Em Produção Almoxarifa
+do,
+patrimônio,
+licitação,
+financeiro,
+pessoal,
+funcionários
+em geral.
+Automação do
+patrimônio,
+almoxarifado,
+requisições de diárias,
+compras e materiais de
+consumo pelos usuários,
+planejamento
+orçamentário e controle
+de gestão.
+SIAD Estoque, controle e venda
+de produtos, controle de
+cheques, etc
+Em Produção Cooperativa
+e Fundação
+Automação do posto de
+vendas e fundação.
+PRODUÇÃO
+ASSISTIDA
+Manutenção preventiva e
+evolutiva de todos os
+sistemas de informação do
+Cefet-RP, bem como
+controle das versões dos
+aplicativos em cada
+ambiente
+(desenvolvimento,
+homologação e produção).
+Contínuo Todos
+usuários dos
+sistemas do
+CEFET-RP.
+Integridade, segurança,
+confiabilidade e maior
+performance dos
+sistemas do CEFET-RP.
+Leiaute do site Reestruturação e
+elaboração de um novo
+leiaut para o site do
+CEFET-RP.
+Em Produção Todos que
+acessam o
+site.
+Melhor exposição da
+instituição, de seus
+cursos e trabalhos
+desenvolvidos.
+HELPDESK –
+SUPORTE
+(SOFTWARE
+LIVRE)
+Controle de chamados de
+suporte e inventário de
+hardware
+Em Produção Setor de
+Suporte e
+demais
+usuários da
+Instituição
+Controles estatísticos de
+demandas e
+agendamentos de
+chamados, possibilitando
+avaliação gerencial do
+setor de suporte,
+proporcionando mais
+agilidade e eficiência no
+atendimento a usuários. 
+18
+Tabela 10 – Projetos de Redes
+Nome Projeto Tarefa Descrição Início Fim
+Banco de Dados Implantação do
+Banco de Dados
+Implantação do servidor de Banco
+de Dados para recebimento das
+informações das plataformas EAD
+e programas futuros. Utiliza o
+MySQL, PostGresql e usando
+RAID1 para maior segurança dos
+dados armazenados.
+16/09/2008 16/09/2008
+Controlador de
+Domínio
+Implantação do
+Controlador de
+Domínio
+Implantação do servidor Samba
+para o gerenciamento e
+compartilhamento de recursos em
+redes formados por computadores
+windows, como disponibilização
+de área pessoal dos usuários do
+CEFET. O serviço Samba está
+sendo autenticado com o LDAP.
+01/04/2008 11/04/2008
+Criptografia da
+rede sem fio
+Implantação de
+Criptografia
+Configuração de criptografia de
+toda a rede wireless do CEFET
+para aumento da segurança da
+rede.
+01/07/2008 31/07/2008
+Firewall Implantação do
+Firewall
+Migração do servidor firewall da
+Indicca para o servidor firewall do
+CEFET para aumento da segurança
+da rede interna.
+02/04/2008 09/05/2008
+LDAP Implantação do
+OpenLDAP
+Protocolo para acesso a bancos de
+dados especializados chamados
+diretórios para autenticação de
+usuários em diversos serviços de
+rede.
+01/03/2008 31/03/2008
+Link Oi Acompanhamento
+Link
+Acompanhamento da instalação do
+link redundante. Em andamento
+Moodle
+Implatação da
+Plataforma
+Moodle
+Implantação do Moodle.
+Plataforma de Educação à
+Distância.
+03/09/2008 03/09/2008
+MSDNAA Utilização do
+MSDNAA
+O MSDN-AA (Microsoft
+Developer Network - Academic
+Alliance) é um programa anual
+para assinantes de departamentos
+técnicos nas áreas da Ciência da
+Computação, Engenharia de
+Sistemas e Sistemas de
+Informação. Como associado, o
+departamento recebe uma
+assinatura do MSDN-AA que
+inclui a plataforma Microsoft,
+servidores e ferramentas de
+desenvolvimento. Todo o conjunto
+de software pode ser instalado em
+todas as máquinas do laboratório
+de computação, sem limite de
+quantidade, desde que usado
+02/04/2008 02/04/2008 
+19
+exclusivamente para fins
+educacionais e de pesquisa.
+Proxy Controle de
+conteúdo
+Controle de conteúdo acessado na
+internet para uma melhor
+utilização do link de internet,
+diminuindo a incidência de vírus
+na rede e diminuição do tráfego
+desnecessário.
+18/11/2008 31/12/2008
+Proxy Implantação do
+Proxy
+Implantação do servidor Proxy
+(Squid), para controle de filtro de
+conteúdo na internet, como
+controle de downloads de arquivos
+exe, avi, mp3. Implementação de
+autenticação para navegação na
+internet utilizando o Samba.
+02/04/2008 09/05/2008
+PVANet
+Implantação da
+Plataforma
+PVANet
+Implantação do PVANet.
+Plataforma de Educação à
+Distância
+08/09/2008 08/09/2008
+Reestruturação da
+Rede
+Equipamentos
+Atuais
+Levantamento dos equipamentos
+atuais. 01/09/2008 01/09/2008
+Reestruturação da
+Rede
+Levantamento dos
+equipamentos
+Levantamento/orçamento dos
+equipamentos de rede para
+reestruturação.
+10/11/08 12/11/2008
+Servidor de
+Impressão
+Controle de
+impressão
+Cadastramento das impressoras,
+criação de grupos de impressão e
+usuários.
+01/10/2008 Contínuo
+Servidor WEB Implantação do
+Servidor WEB1
+Implantação do novo servidor
+WEB para ser instalado o
+Programa de educação à distância
+PVANet e Moodle.
+Configuração/compilação da
+linguagem PHP para trabalhar com
+autenticação via LDAP.
+16/07/2008 08/08/2008 
+20
+5 Proposta
+5.1 Planejamento Sistemas de Informação
+A tabela 11 abaixo apresenta a proposta para a área de Sistemas de Informação.
+Tabela 11 – Planejamento Sistemas de Informação
+Nome do
+Projeto/
+Aplicação
+Descrição Sucinta Status /
+Planejamento
+Áreas
+Usuárias
+Benefícios
+SCAI Sistema de Controle de
+Acesso Integrado. Sistema
+com autenticação
+integrada ao Ldap,
+permitindo estabelecer um
+único usuário e senha de
+acesso para internet, rede
+e sistemas.
+01/12/2008 à
+31/01/2009
+Todos
+usuários dos
+sistemas do
+CEFET-RP
+Facilidade no acesso a
+sistemas, rede e internet
+pelos usuários com a
+utilização de um mesmo
+login e senha.
+SD Implantação, adequação e
+manutenção evolutiva do
+Sistema de Diário do
+Cefet de Uberaba às
+regras de negócio e
+relatórios de controle do
+Cefet de Rio Pomba.
+01/12/2008 à
+30/04/2009
+Professores,
+secretaria,
+coordenador
+es de curso
+e diretoria
+de ensino
+Automação do
+lançamento de notas e
+faltas bem como a
+geração de relatórios de
+controle, diário etc.
+SND Novo Sistema de Notícias
+e Destaques em
+substituição do SIGINET
+com acréscimo de novas
+funcionalidades.
+01/02/2009 à
+30/06/2009
+Jornalista Automação do cadastro
+de notícias e destaques
+do CEFET-RP. Inclusão
+de funcionalidades com
+inserção de figuras,
+agendamentos etc.
+SPS Novo Sistema de Processo
+Seletivo para o vestibular
+e exame de seleção em
+substituição do
+SIADNET, com adição de
+novas funcionalidades,
+parametrizações e
+relatórios gerenciais.
+02/07/2009 à
+30/11/2009
+Candidatos
+ao
+Vestibular,
+Exame de
+Seleção ,
+EAD,
+Secretaria
+do Técnico,
+Superior,
+Diretoria de
+Ensino e
+Comissão
+de Processo
+Seletivo
+Possibilitar um melhor
+gerenciamento e controle
+das inscrições do
+vestibular e exame de
+seleção, através de
+relatórios dinâmicos e
+parametrização do
+sistema.
+SPP Novo Sistema de
+Publicação de Páginas do
+CEFET-RP em
+substituição ao SIGINET.
+Irá gerenciar as páginas e
+01/05/2009 à
+30/10/2009
+Jornalista
+e/ou
+Responsável
+pelo
+departament
+Automação do cadastro
+de boletins, licitações,
+concursos e outros
+documentos e páginas de
+setores/departametos do 
+21
+documentos de cada
+setor/departamento do
+CEFET-RP, através de
+uma interface interativa.
+o CEFET-RP.
+SR Novo Sistema de
+Rematrícula em
+substituição ao SiadNet.
+Inclusão de novas críticas
+em relação a horários de
+aula e integração ao
+Sistema de Diário.
+01/08/2009 à
+30/12/2009
+Secretaria
+do Superior
+e Técnico e
+Diretoria de
+Ensino
+Automação do processo
+de rematrícula dos
+alunos do CEFET-RP.
+Integração com o
+Sistema de Diário.
+SIGA ADM Implantação dos Módulos 01/12/2008 à
+31/12/2012
+Todos
+usuários dos
+sistemas do
+CEFET-RP
+Automação dos
+processos
+administrativos
+institucionais, e
+integração dos sistemas
+existentes
+5.2 Planejamento Redes
+A tabela 12 abaixo apresenta a proposta para a área de Redes.
+Tabela 12 – Planejamento Redes
+Nome Projeto Tarefa Descrição Início Fim
+Backup Site Implantação
+Backup Site
+Implantação do backup site.
+Backup site é um local onde existe
+uma réplica dos serviços
+computacionais oferecidos pelo TI.
+Em caso de um acidente (falha
+elétrica, fenômenos da natureza)
+que por ventura venha causar
+algum dano nos servidores em
+produção, a réplica existente no
+backup site assume a operação.
+A definir
+Controlador de
+Domínio
+Integração das
+estações ao
+controlador de
+domínio
+Adicionar as estações ao
+controlador de domínio para uma
+melhor gerência dos recursos
+disponibilizados na rede do
+CEFET-RP.
+18/11/08 31/07/2009
+DMZ Migração da
+DMZ
+Migração da DMZ (Zona
+Desmilitarizada) do antigo serfidor
+firewall da Indicca para o servidor
+firewall do CEFET. DMZ é a área
+de rede que permanece entre a rede
+interna de uma organização e uma
+rede externa, em geral a internet.
+Comumente, uma DMZ contêm
+equipamentos apropriados para o
+acesso à internet, como servidores
+para web (HTTP), servidores de
+transferência de arquivos (FTP),
+02/05/2008 31/01/2009 
+22
+servidores para e-mail (SMTP) e
+servidores de resolução de nomes
+(DNS).
+DNS Migração do
+Servidor DNS
+Migração do servidor dns
+(resolução de ips reais) que está
+sendo executado no Firewall
+antigo para o servidor web e
+transferência do dns do servidor
+web (resolução de ips internos)
+para o servidor de arquivos.
+18/11/2008 31/01/2009
+Normatização de
+Segurança em TI
+Criação das
+Normas
+Criação das normas para uma
+melhor prática da Segurança da TI 18/11/2008 31/07/2009
+Nova Rede Sem
+Fio Orçamento
+Levantamento dos materiais que
+deverão ser adquiridos para o
+projeto da nova rede sem fio.
+18/11/2008 31/07/2009
+Reestruturação da
+Rede
+Aquisição de
+Servidores de
+Rack
+Aquisição dos servidores de rack
+para melhor acondicionamento dos
+esquipamentos e aproveitamento
+de espaço.
+A definir
+WebMail Troca de Senha
+Implantação de um programa para
+troca de senha de email e a
+disponibilização do mesmo dentro
+do webmail.
+03/11/2008 31/01/2009
+ Serão necessários os seguintes recursos para que possamos atender os novos projetos e
+demandas de TIC:
+5.3 Softwares
+• Aquisição de cinco licenças Macromedia Dreamweaver
+• Aquisição de cinco licenças Macromedia Fireworks
+• Aquisição de cinco licenças Macromedia Flash
+5.4 Treinamentos
+• Framework Miolo
+• Webdesign
+• Auditoria e Análise Forense
+• Gestão de Segurança da Informação
+• Administração de Sistemas Linux: serviços para a Internet
+• Nos sistemas do CEFET-RP aos próprios usuários finais 
+23
+5.5 Servidores
+• Dobrar a quantidade dos servidores existentes (Projeto Backup-Site)
+5.6 Redes e Infra-estrutura
+• Aquisição de quatorze antenas direcionais externas
+• Aquisição de nove antenas omnidirecionais externas
+• Aquisição de vinte e três Pontos de Acessos
+• Aquisição de vinte e três pig tails
+• Aquisição de vinte e três conectores N Macho para RGC213
+• Aquisição de vinte e três conectores N Fêmea para RGC213
+• Aquisição de setecentos e cinquenta metros de cabo RGC213 KMP
+• Aquisição de um notebook
+• Aquisição de vinte placas de rede sem fio
+• Aquisição de um Rack Fechado de 19''
+• Aquisição de vinte e três nobreaks.
+5.7 Recursos Humanos
+ Para melhor atender a toda a infra-estrutura de TIC do CEFET-RP, as atividades desse setor
+serão organizadas em três áreas de atuação: Redes/Segurança, Suporte e Desenvolvimento de
+Sistemas. Para suprir a real necessidade do setor seria ideal que o quadro de funcionários se
+apresentasse conforme Tabela 13 a seguir: 
+24
+Tabela 13 – Quadro de funcionários de TIC por áreas de atuação
+Area Profissional Atuação Funções Qtde
+Gerência Analista/Professor Gestão Gerente da área 1
+Coordenação Analista Coordenação Coordenação de área 1
+Analista Controle/Operacio
+nal
+Coordenação de área 1
+Analista Operacional Implementação de projetos de
+redes
+1
+Redes/Segurança
+Técnico em
+informática
+Operacional Implantação/manutenção de
+redes
+2
+Suporte Técnico Coordenação Coordenação de área 1
+Técnico Operacional Suporte a usuários 2
+Analista Controle/Operacio
+nal
+Coordenação de área 1
+Analista Operacional Elaboração e implementação
+de projetos de sistemas
+1
+Desenvolvimento
+de Sistemas
+Técnico Operacional Codificação de sistemas 2
+Total 13 
+25
+6 Atribuições
+ Abaixo estão descritas as principais atribuições da Comissão de TIC:
+ 1. Propor, avaliar e revisar o Plano Diretor de Tecnologia da Informação e Comunicação do
+CEFET-RP, submetendo os resultados à apreciação do Conselho Diretor.
+ 2. Assessorar o Conselho Diretor e a direção em questões relativas a TIC.
+ 3. Propor as prioridades para as atividades de TIC a serem realizadas pela área de TIC do
+CEFET-RP.
+ 4. Detectar as necessidades de TIC do Centro e propor alternativas de solução.
+ 5. Acompanhar o desempenho das atividades da área de TIC do centro.
+ 6. Tornar público todos os atos administrativos relativos às políticas de TIC do Centro.
+ 7. Divulgar periodicamente à comunidade as atividades de informática em andamento no
+centro.
+ 8. Propor programas de treinamento para a área de TIC e para a comunidade de usuários do
+CEFET-RP.
+ 9. Coordenar a seleção dos estagiários da área de TIC, no âmbito de
+ suas atribuições. 
+26
+7 Avaliação e Revisão do PDTIC
+ O Plano Diretor de Tecnologia da Informação e Comunicação deverá ser avaliado
+anualmente, da seguinte forma:
+ 1. A Comissão Permanente de Elaboração do Plano Diretor de Tecnologia da Informação e
+Comunicação deverá elaborar um relatório de acompanhamento do PDTIC até 30 (trinta) de
+setembro de cada ano e divulgar junto à comunidade.
+ 2. Ouvida a comunidade, a comissão deverá propor revisões do plano e submeter à
+aprovação do Conselho Departamental até 30 (trinta) de novembro de cada ano. 
+27
+8 Conclusão
+ Desta forma pretende-se que TIC desempenhe seu relevante papel estratégico na instituição,
+agregando valores aos seus produtos e/ou serviços e auxiliando a promoção das inteligências
+competitivas e institucionais, à medida que seus recursos computacionais possibilitem a geração de
+cenários decisórios produzidos com as informações oportunas e com os conhecimentos
+personalizados.
+ Os resultados esperados para o cumprimento desta proposta de Plano Diretor da Tecnologia
+da Informação e Comunicação, entre outros, são:
+ 1. Crescimento ordenado do parque de equipamentos de TIC.
+ 2. Economia com a racionalização dos recursos de TIC.
+ 3. Maior facilidade de intercâmbio de informações intra e interinstitucionais.
+ 4. Atendimento eficiente aos usuários.
+ 5. Gerenciamento eficiente da rede, com maior segurança.
+ 6. Motivação da equipe.
+ 7. Usuários mais capacitados a usar a infra-estrutura de TIC.
+ Sendo assim, após uma ampla discussão, este documento foi aprovado pelo Conselho
+Diretor no dia 18 de dezembro de 2008. 
+28
+9 Bibliografia
+INTEGRAÇÃO entre o Planejamento Estratégico Organizacional e o Planejamento Estratégico da
+Tecnologia da Informação. Disponível em:
+<http://www.ead.fea.usp.br/Semead/7semead/paginas/artigos%20recebidos/PGT/PGT13-
+_Integracao_entre_o_planej_estrategico_o.PDF>. Acesso em: 16 dez. 2008.
+PLANO Estratégico de Tecnologia de Informação – PETI. Disponível em:
+<http://www.designvirtual.com/?id=artigos&cod_artigo=9>. Acesso em: 16 dez. 2008.
+CEUNES Plano Diretor de Tecnologia da Informação e Comunicação 2007-2010. Disponível em:
+<http://www.ceunes.ufes.br/downloads/2/ayrtoncristo-PDTIC_CEUNES.pdf>. Acesso em: 16 dez.
+2008. 

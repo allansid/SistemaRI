@@ -1,0 +1,793 @@
+Ciência da Informação - Vol 24, número 1, 1995 - Artigos
+Traçados e limites da
+ciência da informação
+Lena Vania Ribeiro Pinheiro
+José Mauro Matheus Loureiro
+Resumo
+Origens, nascimento, evolução e estágio atual da ciência da informação. Principais teóricos e respectivas correntes
+de pensamento, interdisciplinaridade e dimensões tecnológica e social da nova área. Introdução da ciência da
+informação no Brasil, trajetória e estrutura do Mestrado em Ciência da Informação( CNPq/IBICT -UFRJ/ECO).
+Palavras-chave
+Ciência da informação; Teoria da ciência da informação; Fundamentos da ciência da informação;
+Interdisciplinaridade
+No período imediato à I Guerra Mundial, o capitalismo sofreu transformações que se caracterizaram
+pela participação do Estado na vida econômica, gerando ruptura parcial e aparente com os
+cânones do liberalismo clássico. Esse período, intitulado neocapitalismo e e gestado após a crise
+de 1929, em verdade, constitui-se em falsa mudança, já que preservou a hegemonia burguesa,
+com os princípios básicos do capitalismo: propriedade particular, lucro e desigualdade social, entre
+outros.
+No contexto acima sumarizado, o desenvolvimento científico e tecnológico, proveniente dos
+esforços de guerra dos anos 30, passou a permear o capitalismo industrial, que se deparou com o
+crescimento exponencial da informação. A denominada explosão da informação caracterizou esse
+momento, em que a informação se torna basilar para o progresso econômico, ancorado no binômio
+ciência e tecnologia.
+Na segunda metade da década de 40, Cybernetics or control and communication in the animal and
+the machine, de Wiener1, e, no ano seguinte, The mathematical theory of communication, de
+Shannon e Weaver2, já prenunciam o advento da ciência da informação.
+Semelhante a algumas outras áreas científicas interdisciplinares, a ciência da informação possui
+as raízes embrionárias nesse período histórico, mas é na década de 60 que são elaborados os
+primeiros conceitos e definições e se inicia o debate sobre as origens e os fundamentos teóricos
+na nova área, período em que identificamos marcos, na tentativa de melhor demarcá-la, assim
+como de estabelecer relações interdisciplinares com outros campos do conhecimento e vislumbrar
+qual a atuação dos também novos profissionais.
+Heilprin3 acredita que o termo ciência da informação tenha sido criado em torno de 1960, a partir
+de estudo da produção, processamento e uso da informação como atividade predominantemente
+humana. No entanto, Wellish4, em trabalho de pesquisa terminológica, assegura que o termo
+ciência da informação foi usado pela primeira vez em 1959, para designar o estudo do
+conhecimento registrado e sua transferência, em sentido mais amplo.
+Em 1962, em conferência realizada no Georgia Institute of Technology5, é discutida a formação do
+especialista em ciência da informação, mais relacionada a pesquisadores do que a técnicos, que
+estudariam e desenvolveriam “a ciência do armazenamento e recuperação de informação” e que se
+interessariam pela “informação em si e por si mesma”.
+Outro marco importante, também na década de 60, é o famoso Relatório Weinberg: Ciência,
+Governo e Informação, nos Estados Unidos6. Milkhailov7, diretor do Viniti, de Moscou, em 1966,
+juntamente com Chernyi e Giliarewskii, lança o trabalho Informática: novo nome para a teoria da
+informação científica, cujo conteúdo é analisado no decorrer deste artigo e representa a corrente
+soviética, com forte presença nas discussões sobre ciência da informação, por eles denominada
+informática.
+Em conferência da Special Libraries Association, no ano de 1967, Rees e Saracevic8 elaboram a
+seguinte definição: “A ciência da informação não é uma melhor recuperação de dados, como a
+física não é uma mecânica reforçada... é um ramo de pesquisa que toma sua substância, seus
+métodos e suas técnicas de diversas disciplinas para chegar à compreensão das propriedades,
+comportamento e circulação de informação”. Sinteticamente, ciência da informação é, para os dois
+autores, o “estudo dos fenômenos da comunicação e das propriedades dos sistemas de
+comunicação”.
+Muitos estudiosos abordaram o processo de comunicação com maior ou menor ênfase, o que, de
+certa forma, traduz a influência da teoria de informação na área – enfoque discutível quanto à
+intensidade dessa interferência. Acreditamos que, no âmbito da
+ciência da informação, a comunicação pode ser entendida, mais apropriadamente, como
+transferência da
+informação.
+No artigo Ciência da Informação: o que é?, datado de 1968, Borko9 reúne e reelabora as idéias de
+Taylor10, em uma definição que descortina ampla visão dos caminhos possíveis da reflexão sobre a
+natureza e conceitos da ciência da informação, cujas idéias harmonizam-se, também, com as de
+Rees e Saracevic8: “... ciência da informação é aquela disciplina que investiga as propriedades e o
+comportamento da informação, as forças que governam o fluxo da informação e os meios de
+processamento para acesso e uso otimizados. Ela diz respeito àquele corpo de conhecimento
+ligado à origem, coleta, organização, armazenagem, recuperação, interpretação, transmissão,
+transformação e utilização da informação... possui um comportamento de ciência pura, que
+investiga o interior do assunto sem considerar suas aplicações, é um componente de ciência
+aplicada, que desenvolve serviços e produtos”.
+No mesmo artigo, Borko9 afirma, de for-ma mais sintética, que, “em essência, a pesquisa na
+ciência da informação investiga as propriedades e comportamento da informação, a utilização e a
+transmissão da informação, bem como o processamento da informação para armazenagem e
+recuperação ótimas”.
+Este artigo não aborda, especificamente, nenhuma das áreas com as quais a ciência da
+informação mantém interface e cuja presença vai se dar em maior ou menor grau, à medida que são
+componentes de conceitos e definições. Assim, pode-se perceber a ênfase de alguns autores nas
+relações interdisciplinares com a biblioteconomia, da qual a ciência da informação incorpora
+técnicas, ou com a informática, na qual vai buscar as tecnologias da informação. Daí,
+provavelmente, a tendência de certos estudiosos em considerá-la evolução da biblioteconomia ou
+até confundi-la com a informática.
+Os autores do presente trabalho fazem parte da corrente que reconhece a
+ciência da informação como área do conhecimento autônoma e com seu próprio estatuto científico
+e cuja natureza interdisciplinar é evidenciada com distintos campos. Por este motivo, deixam de
+enfocar os termos documento e documentação, mais vinculados à interrelação de ciência da
+informação e biblioteconomia.
+NATUREZA E EVOLUÇÃO CONCEITUAL DA CIÊNCIA DA INFORMAÇÃO
+A ciência da informação, nos seus mais de 30 anos de evolução, tem propiciado o surgimento de
+correntes dos mais diferentes matizes e estimulado discussões que vão desde o seu estatuto e
+autonomia científicos, passando pelo objeto de estudo, a informação, problemas terminológicos,
+até suas conexões interdisciplinares.
+Tem sido assinalada a ausência, na área, de um corpo de fundamentos teóricos que possam
+delinear o seu horizonte científico, e ainda se encontra em construção a epistemologia da ciência
+da informação ou a investigação dos conhecimentos que a permeiam. A falta de estudos nessa
+linha e, mesmo, a presença incipiente de teóricos, mantém a ciência da informação em um estado
+de fragilidade teórico-conceitual.
+Sobre a sua autonomia como disciplina, há diversas correntes que podem ser evidenciadas pela
+abordagem de alguns autores.
+Equívocos relacionados à denominação da área ocorreram por problemas de tradução e
+interpretação. Hagar Espanha Gomes, no prefácio da coletânea Ciência da informação ou
+informática?, título por si só provocativo, elucida a questão: “Na realidade, o que havia era
+ambigüidade: o termo informática era tomado pelos bibliotecários e documentalistas com a
+acepção dos soviéticos e pelos analistas segundo os franceses”.
+Shera5, refletindo acerca da interrelação
+entre biblioteconomia, documentação e ciência da informação e os profissionais desses
+campos, ressalta que “(...) a ciência da informação não se opõe à biblioteconomia, ao contrário,
+ambas as disciplinas são aliadas naturais, e os bibliotecários não deveriam rechaçar esse novo
+membro de sua família intelectual, do mesmo modo que o especialista em informação não deveria
+desacreditar os bibliotecários. (...) No momento, pelo menos, o bibliotecário e o especialista da
+ciência da informação podem falar línguas diferentes, pois as novas noções exigem também uma
+terminologia nova, porém finalmente se chegará a um acordo e a uma compreensão mútua”.
+Muitos anos depois, em 1987, Dougherty12 estuda as relações entre bibliotecários e analistas de
+sistemas, ao abordar a atuação de sistemas de bibliotecas universitárias e centros de
+processamento de dados nos campi. Ele também os considera aliados naturais e ressalta a
+necessidade de um trabalho de cooperação e de conhecimento recíproco das suas distintas
+culturas profissionais .
+No início dos anos 70, Goffman13 propôs como alvo principal da ciência da informação a instituição
+de princípios de comportamento dos processos comunicacionais em sua ligação com os sistemas
+de informação, indicando para tal uma abordagem científica unificada que compreende todos os
+fenômenos informacionais no âmbito biológico, na existência humana e na órbita tecnológica.
+Foskett14, em 1973, deixa claro, ao se referir à ciência da informação, a sua natureza interdisciplinar
+como “... disciplina que surge de uma ‘fertilização cruzada’ de idéias que incluem a velha arte da
+biblioteconomia, a nova arte da computação, as artes dos novos meios de comunicação e aquelas
+ciências como psicologia e lingüística, que, em suas formas modernas, têm a ver diretamente com
+todos os problemas da comunicação – a transferência do conhecimento organizado”.
+Em 1975, as discussões acerca da denominação do que mais tarde se convencionaria chamar
+ciência da informação persistiam. Mikhailov15, por exemplo, continuava afirmando que sua
+denominação anglo-saxônica, no lugar do termo Informatika, daria margem ao entendimento da
+mesma como uma “ciência que trata de todos os tipos de informação, da informação em geral,
+quando se refere somente à informação científica”.
+Zunde e Gehl16 apontaram o reduzido alcance das teorias, das leis e hipóteses da ciência da
+informação e suas características como disciplina empírica, cujos princípios se constituíram em
+seus fundamentos. Ao contrário de alguns estudiosos europeus, eles não circunscreveram o sujeito
+e o objeto da ciência da informação ao domínio da ciência e tecnologia e chamaram a atenção para
+o fato de que, como uma disciplina científica, a ciência da informação não se vincula à reflexão
+metafísica ou ontológica do que a informação é, de sua natureza.
+A preocupação quanto aos fundamentos e ao universo da comunicação parece haver se convertido
+em argumentação dominante na década de 70, por inspiração da teoria da informação. Assim,
+Otten17 relaciona quatro pontos que são alicerces para o desenvolvimento das bases de ciência de
+informação, destacando o “reconhecimento da existência de diferentes conceitos de informação” e
+a “importância fundamental do processo de comunicação para a existência da informação”. Em
+trabalho posterior, com Debons18, considera informação e suas operações fenômenos, cujos
+princípios fornecem os fundamentos para uma metaciência da informação, chamada informatologia.
+Artandi19 também vai buscar, na teoria da informação, o ponto de partida para “ampliar o
+pensamento sobre os problemas da informação em geral”.
+Borko9 ressalta a complexidade e multidimensionalidade do sujeito da ciência da informação, cujo
+caráter inter e multidisciplinar é assinalado, por alguns estudiosos, como um empecilho ao seu
+desenvolvimento. Boyce e Kraft20, por exemplo, sustentam que “a principal razão para o progresso
+limitado diante da teoria é que a ciência da informação é interdisciplinar” e seu desenvolvimento
+“dependeria de uma síntese de inputs vindos de muitas ciências”. Heilprin3, seguindo a mesma
+direção, asseverou que, “embora muitas leis, teorias, hipóteses e especulações acerca da
+informação tenham sido propostas, fundamentos científicos e epistêmicos adequados a uma
+ciência geral da informação ainda não surgiram. A provável razão para isso é que os fundamentos
+da ciência da informação são multidisciplinares e de algum modo intratáveis, até que os campos
+estabeleçam uma síntese”.
+Em nossos dias, Wersig21 tem apresentado novas abordagens e perspectivas que permitem maior
+compreensão de todo o significado e extensão da ciência da informação. As soluções oferecidas
+para essa ciência, até o momento, têm se caracterizado por campos de reflexão ou experiências
+práticas e não em ciências em seu sentido clássico. Desse modo, os cientistas da informação têm
+centrado suas discussões em torno de “paradigmas”, buscando afirmar maturidade científica. Para
+o autor, no entanto, a ciência da informação não deve ser pensada em termos de uma ciência
+clássica, mas como protótipo de uma nova ciência. As reflexões sobre o que constituiria essa
+nova ciência e suas estruturas têm alcançado uma grande amplitude e se destinam a subsidiar as
+vanguardas desse novo desenvolvimento científico.
+Esta nova ciência não dirige sua pesquisa preliminarmente para um desvendamento do mundo,
+mas se constrói por abordagens estratégicas voltadas para a solução ou trato de problemas.
+Wersig21 assinala, como um dos principais problemas no estudo da ciência da informação, seu
+fracionamento em inúmeras disciplinas, obrigando o cientista a lidar com dados fragmentados de
+natureza empírica e teórica. Prossegue, afirmando que, “se a ciência da informação existe,
+qualquer que seja a denominação dada a esse campo, ela não possuirá uma teoria, mas uma
+estrutura proveniente de um amplo conceito científico ou modelos e conceitos reformulados. Esses
+serão intertecidos a partir de seu desenvolvimento e do problema do uso do conhecimento nas
+condições pós-modernas de informatização. Havendo uma interconexão entre tudo, ciência da
+informação deve desenvolver um sistema de navegação conceitual”.
+A INFORMAÇÃO – ESTE OBSCURO OBJETO DE FAZER CIÊNCIA DA INFORMAÇÃO
+Inerentemente aos estudos e discussão teórica da ciência da informação, informação aparece
+como termo complexo, de múltiplas acepções e riqueza semântica.
+A existência e necessidade da informação para quase todas as profissões, ciências e culturas,
+bem como o desenvolvimento de pesquisas sobre a mesma como fenômeno ou processo, é
+ressaltado por Yuexiao22, para quem a informação não é ainda um conceito singular. Ao contrário,
+caracteriza-se como um conceito controverso e enganoso de variadas definições que se forma por
+uma série de conceitos heterogêneos com complexos relacionamentos. Conseqüentemente, para
+Yuexiao22, a ciência da informação não se constituiria em metaciência ou interdisciplina, porém
+nome coletivo para todas as ciências lidando com a informação e com seu conceito básico ou
+maior em seu sistema conceitual.
+Etimologicamente, informação vem do latim formatio e forma, é sinônimo de notícia e expressa a
+“idéia de dar a forma a alguma coisa”23. A este significado mais fechado, podemos contrapor
+outro, aberto, relativo à representação, criação de idéias ou noção, além da informação trocada com
+o exterior, e não apenas informação recebida, o que, por sua vez, remete-nos ao conceito de
+sistema, oriundo da teoria geral de sistemas, de Bertalanffy24, no qual a noção mais forte é meio
+ambiente, que traduz as interrelações do sistema e determina as suas influências.
+No capítulo “Conhecer e ser informado”, do seu livro Do documento à informação: um conceito em
+evolução, McGarry25 analisa o termo informação, tal como é pensado em diferentes campos de
+conhecimento, além de sua proximidade com dados e conhecimento. Nesse sentido, informação
+seria “matéria-prima de que deriva conhecimento”, assim como dados são a matéria-prima a partir
+da qual estruturam-se ou baseiam informações.
+McGarry25 levanta uma série de definições, entre as quais destacamos três:
+1ª ) “Informação, tanto no sentido em que é usada pelo biólogo, como no sentido em que nós
+bibliotecários a usamos, é um facto. É o estímulo que recebemos através de nossos sentidos.
+Pode tratar-se de um facto isolado, ou de todo um conjunto de factos; mas é sempre uma unidade,
+é uma unidade de pensamento” (Jesse Shera5).
+2ª ) “É o que se acrescenta a uma representação. Recebemos informação se o que conhecemos é
+alterado. Informação é o que logicamente justifica alteração ou reforço de uma representação ou de
+um estado de coisas. As representações podem ser explícitas (como em um mapa, ou em uma
+proposição), ou podem estar implícitas no estado de atividade dirigida do receptor” (D. McKay).
+“Informação é tudo o que for capaz de transformar a estrutura” (N. Belkin).
+3ª ) Farradane26 propôs a informação como representação ou substituto físico do conhecimento –
+por exemplo, a linguagem, usada para a comunicação. O mesmo autor afirmou que, para o
+desenvolvimento da ciência da informação, é fundamental o estudo de suas conexões com o
+conhecimento e mostrou, ainda, a imperiosa necessidade de maior atenção ao usuário.
+A teoria da informação ou teoria matemática da comunicação, de Shannon e Weaver2, traz
+importante contribuição ao conceito da informação, ainda que sua origem esteja na solução de
+problemas técnicos de transmissão de sinais, na comunicação. Para Shannon, “informação é uma
+redução de incerteza oferecida quando se obtém resposta a uma pergunta”.
+Assim como a Teoria Geral de Sistemas (TGS) expandiu-se por muitas áreas, a teoria da
+informação e algumas de suas noções básicas, como entropia, ruído e redundância, tiveram
+repercussão em diversos campos do conhecimento, inclusive a ciência da informação, e áreas não
+técnicas como a psicologia, a pedagogia e a economia.
+Informação não é só um termo matemático, mas também filosófico, conforme ressalta Zeman23, ao
+enfocá-la dentro do materialismo dialético. Informação está relacionada tanto à quantidade quanto à
+qualidade, é medida de organização e a organização em si, relacionada à ordem e ao organizado
+(resultado) e ao organizante (processo). “A informação é, pois, a qualidade da realidade material de
+ser organizada (o que representa, igualmente, a qualidade de conservar este estado organizado) e
+sua capacidade de organizar, de classificar um sistema, de criar (o que constitui, igualmente, sua
+capacidade de desenvolver a organização)...”
+Na “corrente de informação”, Zeman23 conclui que “a informação não existe fora do tempo, fora do
+processo: ela aumenta, diminui, transporta-se e conserva-se no tempo”.
+Sokolov e Mankevich27, nos anos 70, apontam a existência de três tipos de informação – elementar
+ou física, biológica e social – e afirmam que a ciência da informação diz respeito à última categoria.
+Por outro lado, Schreider28 desenvolve uma outra linha, apresentando conceituação da informação
+em bases semânticas.
+Instrumentalizando as categorias de variedade e reflexão utilizadas para as propriedades da
+matéria, acrescidas de alguns tópicos filosóficos, baseados no marxismo-leninismo, Ursul29 propôs
+“que a informação, em si mesma, é uma propriedade da matéria e da percepção, agindo para
+conectar os dois por meio de seu relacionamento com a variedade e a reflexão”. O mesmo autor,
+associado a Kazantseva30, deu feição econômica à informação
+científica, afirmando que a mesma possuía algumas características de comodities, no senso
+marxista. Faz-se necessário salientar que a justificativa ideológica dos autores anteriormente
+enfocados caracteriza-se pelo entendimento de um conhecimento científico socializado.
+Quanto ao conceito de informação, outra questão que se coloca está relacionada à natureza ou
+abrangência da informação, no âmbito da ciência da informação.
+Sobre o termo “informação científica”, adotado na União Soviética, Foskett14 esclarece que
+“científico, para os russos, refere-se a todo o conhecimento e não é utilizado no sentido restrito das
+ciências naturais, como é para os anglo-saxões”.
+A presença da corrente soviética no debate teórico da ciência da informação se dá principalmente
+por meio de Mikhailov15, que, pela primeira vez, propôs a denominação informática (informatik), e
+deu origem a algumas interpretações equivocadas, conforme citado anteriormente. Esta proposta
+consta de um documento de capital importância para a área que se tornou um clássico: a
+coletânea FID 43531. Trata-se do conjunto de trabalhos do Comitê de Estudos FID/RI sobre a
+pesquisa das bases teóricas da ciência da informação, elaborados para a conferência que deveria
+ter sido realizada em Moscou, em 1961/62, e não aconteceu. Ficou o registro nessa publicação,
+básica e fundamental para os estudos de ciência da informação.
+E qual o significado, o sentido de informação na ciência da informação? Quem elabora melhor o
+conceito, dentro dessa área, é Saracevic32, em trabalho de capital importância sobre relevância,
+conceito ao qual informação está associada. Saracevic distingue informação e informação
+relevante, esta última relacionada a mecanismos de comunicação seletiva e à orientação aos
+usuários de sistemas de recuperação da informação. A efetividade da comunicação do
+conhecimento se dá , segundo Saracevic, na medida de sua transmissão de um arquivo ao outro,
+ocasionando mudanças. Portanto, relevância é a medida de tais mudanças, e a ciência da
+informação, ao lado da lógica e da filosofia, apresenta-se como disciplina essencial no território dos
+estudos e reflexões sobre relevância e, conseqüentemente, informação.
+DIMENSÕES TECNOLÓGICA E SOCIAL DA CIÊNCIA DA INFORMAÇÃO
+Artigos de revisão da literatura, publicados no Annual Review of Information Science (Arist), têm
+abordado aspectos tecnológicos dentro da discussão dos fundamentos, princípios, teorias e
+mesmo a história da ciência da informação, sobretudo no que se refere à representação e
+recuperação da informação.
+Shera5e Cleveland33 atribuem à emergência da ciência da informação não somente a introdução do
+microfilme, mas, sobretudo, o uso do equipamento de cartões perfurados da IBM, o que está
+relacionado à análise do documento (indexação). Ambos concluem que “a história desses
+desenvolvimentos de automação iniciais ainda está para ser escrita”.
+Boyce e Kraft20 dedicam parte de sua revisão à recuperação da informação, assim como à
+aplicação da teoria da informação, de Shannon, à ciência da informação, por eles considerada de
+menor impacto do que em outras disciplinas. Também Zunde e Gehl16, em documento sobre
+fundamentos empíricos da ciência da informação, discutem a extensão da teoria da informação à
+ciência da informação.
+Artigo de revisão relevante para a ampliação das discussões sobre os fundamentos da ciência da
+informação é o de Heilprin3, de 1989, que pretende reexaminar a questão. Entretanto, é um trabalho
+complexo, enfocando canais e terminais, e mais relacionado à cibernética e à teoria da
+informação.
+No questionamento sobre a natureza da pesquisa em ciência da informação, autores, entre os
+quais os já mencionados Boyce e Kraft20, são partidários da idéia de que certos setores da área
+são baseados em pesquisa aplicada.
+Salton34, por exemplo, acredita que muitas contribuições recentes da ciência da informação “têm
+potencial considerável em aplicações práticas”, entre as quais modelos booleanos de
+processamento de recuperação da
+informação, modelos de realimentação de relevância para recuperação, redes de citação, análise
+lingüística para indexação automática, hardware
+dedicado à automação etc.
+Indiscutivelmente, na representação e recuperação da informação são aspectos da ciência da
+informação em que a interveniência do computador se faz sentir de forma mais acentuada.
+Outra linha de pesquisa na ciência da informação é a que trabalha a interação on-line, isto é, a
+interface entre homem e computador, com base no sistema de recuperação, no qual Yovits35 e
+outros autores consideram o “macro- modelo de fluxo de informação”.
+Independentemente dos questionamentos sobre o processo automatizado na representação e
+recuperação da informação, há uma discussão mais ampla e mais teórica sobre as influências da
+automação na construção da ciência da informação e o grau em que esse fenômeno ocorre.
+Já Landau36, por exemplo, traça um panorama do impacto da tecnologia da informação, afirmando
+que, embora a ciência da informação tenha “dificuldades em colocar a sua casa intelectual em
+ordem”, a tecnologia segue em frente, carregando-a praticamente a reboque.
+Os já citados Shera e Cleveland33 ressaltam o excelente debate sobre o processamento da
+informação, em geral, na Enciclopédia Britânica, publicada em 1968, no qual Fairthorne37 enfatiza a
+atuação dos computadores. Eles acreditam que a ciência da informação não possa ser igualada a
+máquinas e tecnologias, embora seja “verdade que, sem tecnologia, uma proporção significativa da
+atividade não existiria”. O que Kochen38 ratifica , pois muito do que é praticado na área não
+ocorreria sem o computador: indexação automática, busca e estrutura de arquivo, negociação da
+pergunta, análise de conteúdo etc.
+Mas Shera e Cleveland33 se opõem a essa corrente exageradamente tecnológica da ciência da
+informação, uma vez que, se as máquinas não forem adequadas a uma determinada tarefa e se
+suas limitações e capacidade diante dessa tarefa não forem compreendidas, as máquinas serão
+apenas intrincados e espetaculares instrumentos.
+Sobre os aspectos tecnológicos da ciência da informação, Foskett14 considera perigoso o caminho
+que a maioria das pesquisas da área está tomando, “reduzindo a comodities, com ênfase na
+tecnologia do processamento da informação, sem olhar para o seu significado ou destino”. Para
+ele, “uma nova disciplina não surge porque aqueles que a praticam aperfeiçoaram suas tarefas,
+mas porque dinamicamente novas relações aparecem com outros campos”.
+Em trabalho que reúne 39 definições de ciência informação, desde o início da “economia da
+biblioteca” até informática, o seu autor, já citado neste artigo, Wellish4, conclui que há pouco
+consenso entre aqueles que fazem (practioners) a ciência da informação sobre o que é ou o que
+poderia ser a área.
+Entre os mais importantes nomes da ciência da informação, Tefko Saracevic39 é dos que mais têm
+contribuído para o crescimento e avanços da área. Recentemente, escreveu
+artigos sobre a American Society for Information Science (Asis) e sobre a própria ciência da
+informação, nos quais discute as origens, evolução e as relações da ciência da informação com
+outras áreas. Entre as três características gerais da ciência da informação, Saracevic destaca a
+sua conexão “inexorável” à tecnologia da informação, o que não é prerrogativa apenas desse
+campo. Portanto, na ciência da informação, a chamada sociedade da informação, idade da
+informação ou sociedade pós-industrial, também esta decorrente do “imperativo tecnológico”, é fator
+determinante na sua evolução.
+Saracevic39 parte de suas reflexões através da recuperação da informação, citando Mooers e sua
+definição desse termo como aquele que “envolve aspectos intelectuais da descrição da informação
+e suas especificações para busca e também tudo o que se refere a sistemas, técnicas ou
+máquinas empregadas para operacionalizá-las.”
+Ao lado de problemas e questões relacionadas a processos, variáveis, causas, efeitos,
+comportamento e manifestações no terreno da recuperação da informação, Saracevic39 relaciona
+outros que tratam da indústria da
+informação ou, mais precisamente, da “criação e distribuição de bases de dados, serviços on-line a
+eles relacionados, assim como acesso e disseminação da informação”.
+Na trajetória da indústria da informação, Saracevic39 demarca os trabalhos de recuperação da
+informação dos anos 50 e 60 que culminaram com a emergência dos serviços on-line, na década
+de 70, e no crescimento e viabilidade internacional da indústria da informação, nos anos 80. Assim,
+ele atribui à recuperação da informação a responsabilidade do desenvolvimento de aplicações de
+grande sucesso: produtos, sistemas, redes, serviços etc. E vai mais além nas suas observações,
+afirmando que a recuperação da informação contribui para o desenvolvimento da própria ciência da
+informação, da mesma forma que influenciou a indústria da informação. No entanto, para
+Saracevic39, a ciência da informação transcende o âmbito da recuperação da informação. Tanto a
+ciência da informação, quanto a indústria da informação são mais do que recuperação da
+informação, embora esta última seja ainda o seu núcleo.
+Nesse artigo, Saracevic39 deixa claro o quanto as definições de ciência da informação foram
+especificando mais os seus fenômenos e processos e cita a definição de Borko9, de 1968. Sob o
+ponto de vista do presente trabalho, é importante ressaltar que, na sua definição, Borko apenas
+menciona o processamento da informação para utilização e acessos ótimos, sem explicitar os
+aspectos tecnológicos da questão.
+Já a definição de Goffman13, datada de 1970, e também citada neste artigo, inclui, entre os objetos
+de estudo da ciência da informação, “vários fenômenos envolvendo a noção de informação, quer tais
+fenômenos sejam fundados em processamentos biológicos, na existência humana ou
+máquinas” (grifo nosso).
+Pelo conjunto de definições e conceitos estudados, a partir de 1980, a tecnologia é definitivamente
+incorporada e associada à ciência da informação, o que é coerente com as suas origens. O mesmo
+acontece com as sociedades da área, pois a Asis, por exemplo, é definida como uma “organização
+profissional para aquilo que se relaciona com projeto, administração e usos de sistemas de
+informação e tecnologia”. Saracevic39 a redefine em 1990, considerando seu foco contemporâneo e
+expansão como o “campo dedicado à investigação/pesquisa científica e prática profissional que
+trata dos problemas da comunicação efetiva do conhecimento e registros do conhecimento entre
+pessoas e no contexto social, usos individuais ou institucionais e necessidades de informação. No
+tratamento desses problemas de interesse particular, tira-se maior vantagem possível da moderna
+tecnologia da informação”. Portanto, as novas tecnologias da informação parecem estar
+definitivamente atreladas à ciência da informação, na resolução de problemas.
+Ao abordar a interdisciplinaridade da ciência da informação, Saracevic39 inclui quatro campos nos
+quais se concentram essas relações: biblioteconomia, ciência da computação, ciência cognitiva
+(incluindo inteligência artificial) e comunicação. As relações com as ciências da computação
+seriam complementares e referem-se “à aplicação de computadores e computação na recuperação
+da informação, assim como à associação com produtos, serviços e redes”. Saracevic39 lança uma
+estimulante questão sobre automação: “o que pode ser (eficientemente) automatizado?”
+Cientistas da computação têm estado estreitamente engajados em pesquisa e desenvolvimento na
+recuperação da informação, a ponto de serem reconhecidos como líderes também na ciência da
+informação.
+As áreas da ciência da computação têm, segundo Saracevic39, um “componente informacional
+significativo, associado à representação da informação, sua organização intelectual, acoplamento/
+articulação, busca e recuperação da informação, com qualidade, valor e uso da
+informação e tudo tradicionalmente relacionado com a ciência da informação.”
+Outra disciplina ligada à ciência da
+informação, a inteligência artificial, é abordada por Saracevic como parte da terceira relação
+interdisciplinar com a ciência cognitiva. Mas essa relação com a inteligência artificial tanto se dá
+forte, quanto fracamente. Entre as relações de interesse direto, mas frágeis para a ciência da
+informação, estão a inteligência artificial como fonte de muitas das inovações de sistemas de
+informação/sistemas especialistas, hipertexto, bases de conhecimento, interface inteligente e a
+interação homem-computador – áreas para as quais a ciência da informação pode contribuir
+diretamente.
+A relação interdisciplinar é de interesse direto para a ciência da informação como fonte de estrutura
+teórica para cognição, na qual a informação enquanto fenômeno desempenha o mais importante
+papel.
+Nas conclusões de seu artigo, Saracevic39 inclui – entre as pressões que estão obrigando a ciência
+da informação a reexaminar os problemas tratados e as soluções oferecidas técnica, experimental
+e praticamente – o imperativo tecnológico é a primeira, para aumentar o alcance e o refinamento
+substantivo de produtos e serviços.
+A terceira pressão é a mudança das relações interdisciplinares, particularmente com a ciência da
+computação e inteligência artificial, mais pronunciadas nas aplicações, destacando-se a
+emergência da informática médica nas faculdades de medicina.
+A CIÊNCIA DA INFORMAÇÃO NO BRASIL
+Diferentemente do exterior, no Brasil há pouca literatura sobre ciência da informação como campo
+científico. Aqui também existe consenso quanto à interdisciplinaridade da área, algumas de suas
+interfaces são mais evidenciadas e, inicialmente, ciência da informação se confunde com
+informática, segundo relato de Gomes: “A década de 60 registrou, entre nós, as primeiras
+tentativas de utilização de computadores em serviços de biblioteca e documentação, e o então
+Instituto Brasileiro de Bibliografia e Documentação (IBBD), atual Instituto Brasileiro de Informação
+em Ciência e Tecnologia (IBICT), realiza, em novembro de 1968, um seminário de informática em
+que analistas e bibliotecários são chamados a apresentar suas experiências e mostrar “a
+importância do desenvolvimento dos novos métodos automáticos aplicados à documentação,
+caracterizados como nova disciplina – informática”. Mais adiante, depois de mencionar o Curso de
+Informática implantado, em 1969, na PUC/RJ, e o Seminário sobre Documentação e Informática, da
+Fundação Getúlio Vargas, Gomes11 esclarece que “o IBBD logo percebeu essa confusão, tanto que
+em 1970 cria o mestrado em ciência da informação...”
+Zaher41 e Gomes42, ambas diretoras do IBBD, escreveram sobre a área, enfatizando a sua
+interdisciplinaridade, para a primeira, “um ponto muito importante”. Ao mesmo tempo, Zaher nega
+que o novo campo seja “evolução ou técnica da biblioteconomia”.
+E, já naquele momento da introdução da ciência da informação no Brasil, Gomes42 tem clara
+percepção dos seus componentes sociais e tecnológicos, enfoque bastante atual: “No caso
+da ciência da informação, verifica-se que é uma disciplina científica interdisciplinar, como as
+demais.
+Aproveita-se ela da contribuição da tecnologia moderna, como atividade-meio, enquanto os
+aspectos sociais e de comunicação constituiriam sua atividade-fim...”.
+Braga43, estudiosa da bibliometria e continuadora dessa linha de pesquisa iniciada por Tefko
+Saracevic, no Brasil, elabora uma definição na qual incorpora leis, naturalmente as bibliométricas,
+que, de certa forma, asseguram o status científico da área: “A ciência da informação, como ciência
+em si, possui aspectos básicos (orientados para a teoria) e aplicados (orientados para os
+sistemas, técnicas e equipamentos). Embora estes últimos tenham sido bem mais enfatizados que
+os primeiros, a ciência da informação não é uma disciplina pragmática: dispõe de teorias próprias –
+embora ainda inadequadas – que se desenvolveram gradualmente a partir das pesquisas efetuadas
+na teoria da informação. Gradualmente outras técnicas (behavio-ristas, semânticas, sintáticas etc.)
+e diversas leis foram sendo incorporadas à nova ciência”.
+Algumas dissertações produzidas no mestrado também abordam a ciência da informação e seus
+profissionais: Rodrigues44 (1981), Araújo45 (1982), Gonzáles de Gómes46 (1982), Neves47 (1992) e
+Fernandes48 (1993), sendo de interesse direto para este artigo as pesquisas de Gonzáles de
+Gómes e de Neves.
+A ciência da informação foi introduzida no Brasil, em 1970, por meio do curso de mestrado,
+instituído pelo então IBBD – a partir de 1976 IBICT – com mandato acadêmico da Universidade
+Federal do Rio de Janeiro (UFRJ).
+O Instituto, criado em 1954, já oferecia, desde 1955, um curso de pesquisas bibliográficas em
+ciências médicas e em ciências agrícolas, depois Curso de Documentação Científica (CDC), hoje
+Curso de Especialização em Documentação e Informação, mantendo a mesma sigla49. Como
+atividades decorrentes da implantação do mestrado, foi criada a revista Ciência da Informação, em
+1972, e foram realizadas duas reuniões brasileiras de ciência da informação, a primeira, em 1975, e
+a segunda, em 1979.
+Para chegarmos à configuração da ciência da informação como campo do conhecimento, com suas
+respectivas áreas e conexões interdisciplinares, é fundamental fazer um breve relato da trajetória do
+mestrado em ciência da informação, pioneiro no Brasil e na América Latina, de onde,
+freqüentemente, chegam alunos para o curso. Isto, porque o diagrama a ser apresentado no final
+deste artigo refletirá, fatalmente, uma visão particular da ciência da informação formada ao longo do
+desenvolvimento do curso. Podemos identificar três fases do mestrado:
+– a primeira, de implantação, 1970 - 1982;
+– a segunda, transitória, de 1983 a 1986;
+– a terceira, de consolidação, a partir de 1987.
+O surgimento do mestrado ocorreu em momento próprio, quando se discutia o Sistema Nacional de
+Informação em Ciência e Tecnologia (SNICT), que não chegou a ser implantado e, por sua vez, foi
+decorrência de ações empreendidas pela Unesco, desde a década de 60, para a criação do
+Sistema Mundial de Informação Científica e Tecnológica (Unisist) e, posteriormente, os Sistemas
+Nacionais de Informação Científica e Tecnológica (Natis).
+Por outro lado, a informação vinha sendo incorporada, gradativamente, nos planos governamentais
+brasileiros.
+O mestrado tem início semelhante a outros cursos de pós-graduação brasileiros, contando com a
+participação de professores estrangeiros.
+Entre os professores vindos do exterior, conhecidos e reconhecidos internacionalmente,
+destacamos Frederick Wilfrid Lancaster, Tefko Saracevic, LaVahn Marie Overmyer, Bert Roy
+Boyce, Jack Mills, John Joseph Eyre, Ingetraut Dahlberg e Suman Datta47. Até 1981, esses
+professores também exerceram o papel de orientadores: Lancaster, com 34 orientações; Tefko
+Saracevic, 13; Lavan Overmyer, 3; Jack Mills e Bert Boyce, ambos responsáveis por duas
+orientações.
+A presença de estrangeiros também ocorreu através de conferências, como as de Derek de Solla
+Price, físico e especialista em história da ciência, cujas obras são fundamentais sobretudo para os
+estudos de comunicação científica. Solla Price manteve, durante a sua vida, freqüentes contatos
+com professores brasileiros de ciência da informação, notadamente Gilda Braga.
+Simultaneamente à influência, sobretudo dos Estados Unidos e da
+Grã-Bretanha, países onde a ciência da informação é mais avançada, participaram do mestrado
+professores brasileiros de outras áreas, o que possibilitou compreender e interpretar os problemas
+de informação no panorama e realidades nacionais e incorporar métodos e teorias de disciplinas
+afins: Victor Vincent Valla, José Luiz Werneck da Silva, Hilton Japiassu, Eduardo da Silva,
+Margarida Maria de P. Bazílio, Marisa Barbar Cassim, Ana Maria Cintra e muitos outros, em
+diferentes momentos.
+Na primeira fase, as áreas de concentração são duas, planejamento de sistemas e processamento
+da informação, e cinco disciplinas obrigatórias46, 47:
+– Organização de serviços de informação;
+– Catalogação avançada;
+– Sistemas de classificação;
+– Técnicas de indexação e resumo; e
+– Processamento de dados na documentação.
+Estas disciplinas demonstram que, no início, o curso esteve fortemente voltado ao processamento
+técnico da informação, tendência que foi se diluindo, ao longo do mestrado.
+O conjunto de disciplinas optativas constitui-se de programação, epistemologia, didática, teoria dos
+conjuntos, metodologia da pesquisa, lingüística e teoria da comunicação.
+Posterirormente, a disciplina organização de serviços de informação passou a ser chamada
+organização de sistemas de informação.
+Em 1976, eram três as áreas de concentração: usuários, administração de sistemas de informação
+e transferência de informação, mas, no ano seguinte, a área de usuários passou a ser apenas
+disciplina. No período 1977/79, a estrutura curricular compunha-se de disciplinas de nivelamento,
+obrigatórias e comuns às duas áreas de concentração, obrigatórias por área de concentração e
+optativas para as duas área de concentração47. Nesse programa, é introduzida, pela professora
+Hagar Espanha Gomes, a disciplina comunicação científica, que passou a obrigatória em 1982/83
+e se manteve no curso, mesmo sem ser obrigatória, e aglutinou um grande número de
+dissertações, até porque, em certo sentido, é disciplina ligada às origens da ciência da informação.
+Em 1980/81, faz parte do curso um ciclo preparatório, equivalente ao nivelamento anterior. A ênfase
+é nos sistemas de informação, tanto entre as disciplinas obrigatórias (recuperação da informação e
+automação de sistemas de informação), quanto no chamado ciclo avançado: administração de
+sistemas de informação, análise de sistemas e avaliação de sistemas de informação. Nesse
+período, as disciplinas eletivas são mais numerosas.
+Em 1980, o IBICT foi transferido para Brasília; em maio de 1983, é assinado convênio, pelo qual o
+curso passa a fazer parte da estrutura curricular da Escola de Comunicação (ECO), da UFRJ, na
+forma de área de concentração do mestrado em comunicação. Somente em 1986, por
+recomendação do MEC, o mestrado em ciência da informação readquiriu a sua autonomia, voltando
+a ser um curso de mestrado em ciência de informação.
+Certamente, as mudanças político-administrativas do Instituto afetaram a trajetória do curso. No
+entanto, o núcleo de professores permaneceu e foi possível manter o conjunto de disciplinas que
+caracterizam a área, não permitindo que o seu perfil fosse desfigurado.
+Quanto às alterações do programa curricular, é importante mencionar a inclusão tardia da
+disciplina eletiva bibliometria, anteriormente parte integrante de “recuperação da informação”, uma
+vez que dissertações tendo como tema estudos bibliométricos vinham sendo apresentadas desde o
+início do curso – a primeira, de Gilda Braga, em 1972, seguida, em 1973, pela de Laura Maia de
+Figueiredo, ambas tendo como orientador Tefko Saracevic.
+Em 1982/83, a ênfase continuava a ser em sistemas de informação (administração, planejamento e
+avaliação).
+A partir de 1985, o doutorado em comunicação inclui uma linha de pesquisa em “informação,
+cultura e sociedade”.
+Em 1987, a Comissão de Convênio CNPq/IBICT-UFRJ/ECO elabora um artigo sobre a pósgraduação
+em ciência da informação em que são assinaladas as áreas temáticas ”processamento
+da informação” e “estrutura e fluxo de informação” e a inclusão de uma terceira área, “informação,
+cultura e sociedade”, que abre um novo espaço curricular49. Estas são, até hoje, as três áreas do
+programa do mestrado em ciência da informação.
+Das 129 dissertações estudadas até 1990 e a partir de categorias de pesquisa, títulos e/ou
+resumos de dissertações, Neves47 chegou a cinco categorias por ela consideradas consolidadas,
+no mestrado:
+– Estudos de uso/usuários e de transferência da informação, reunindo 48 dissertações:
+– Estudos bibliométricos, com 38 dissertações;
+– Gerência da informação e de sistemas de informação, 37 dissertações;
+– Processamento e recuperação da informação, com 23 dissertações;
+– comunicação científica e tecnológica, abrangendo 15 dissertações.
+Convém salientar que, pelos critérios de Neves47, uma dissertação pode estar classificada em mais
+de uma categoria, o que depende das interrelações existentes entre os temas.
+Em relação à bibliometria, deve-se esclarecer que, embora seja na realidade método, pela
+importância que assume na ciência da informação, galga a posição de disciplina.
+Em 1992, é, finalmente, criado o doutorado em ciência da informação, portanto, 22 anos após o
+início do mestrado. Esse longo período provavelmente contribuiu para que as dissertações
+apresentassem características de tese, quanto às exigências acadêmicas, e o tempo de sua
+elaboração também se prolongasse. Este é o caso particular do mestrado em ciência da
+informação, mas parece ser generalizável, pois o Ministério da Educação, preocupado com esse
+problema, não só diminuiu o tempo de duração relativo aos créditos, como ao de elaboração da
+dissertação. Hoje, os mestrandos têm quatro anos para iniciar e concluir um mestrado. Outra
+tendência, a de tornar o curso mais flexível, reduziu as três disciplinas obrigatórias, até 1993, a
+apenas uma – Perspectivas da Ciência da Informação –, excluindo da obrigatoriedade Metodologia
+da Pesquisa e Seminários em Ciência da informação, na qual eram apresentadas, por professores
+do curso, disciplinas e pesquisas realizadas no mestrado, além de temas de interesse para a área,
+por docentes e especialistas de outras instituições. No entanto, essa mudança está sendo
+repensada, a partir das características e da natureza da ciência da informação. Como ciência
+interdisciplinar emergente, mas não consolidada, na qual atuam profissionais das mais diversas
+formações, é fundamental transmitir o seu conteúdo básico e contornos atuais, ainda que se
+reconheçam, também, as múltiplas correntes de pensamento existentes.
+Na evolução da ciência da informação, a disciplina Divulgação Científica é recente, foi introduzida
+em 1987 pela professora Heloisa Tardin Christovão.
+A partir de 1995, mais duas novas disciplinas foram institucionalizadas: Informação Estética (que
+complementa informação, cultura e sociedade), e
+Redes de Comunicação – disciplina profundamente relacionada a redes e sistemas de informação.
+No 1º Encontro de Pesquisa da Pós-Graduação em Ciência da Informação50, 44 pesquisas foram
+apresentadas, já incluindo as novas disciplinas. O evento, que contou com a presença de mais de
+300 especialistas da área, demonstrou a vitalidade da ciência da informação, comprovada pela
+produção científica de professores e alunos do Curso do IBICT/CNPq e ECO/UFRJ.
+O estudo da ciência da informação e, particularmente, do mestrado em ciência da informação foi a
+base em torno da qual foi traçado um diagrama abaixo, composto por disciplinas científicas e
+tecnológicas da área/campo ciência da informação com as respectivas ligações interdisciplinares.
+Não fazem parte do diagrama as disciplinas curriculares ou cursos que integram o programa,
+dentro de cada disciplina científica ou tecnológica.
+A figura certamente reflete a visão do grupo que a desenvolveu, em um espaço e tempo
+determinados*.
+Ao esboçarmos os campos interdisciplinares da ciência da informação, fomos guiados pela idéia
+de que "...a característica central da interdisciplinaridade consiste no fato de que ela incorpora os
+resultados de várias disciplinas, tomando-lhes de empréstimo esquemas conceituais de análise, a
+fim de fazê-los integrar depois de havê-los comparado e julgado" 51 , na certeza de que "a exigência
+interdisciplinar impõe a cada especialista que transcenda a própria especialidade, tomando
+consciência do seus limites para acolher as contribuições das outras disciplinas"52.
+ESPECTROS DA CIÊNCIA DA INFORMAÇÃO
+Como podemos observar, discordância quanto aos fundamentos e relações inter e
+multidisciplinares fazem com que as concepções e a literatura sobre ciência da informação
+originem-se de correntes de pensamento heterogêneas, algumas até mesmo dicotômicas, rumo à
+construção teórica. Segundo Wersig21, “as soluções oferecidas, até o momento, caracterizam-se
+como campos de reflexão ou experiências práticas, não em ciências em seu sentido clássico. Isto
+talvez explique a imperiosa necessidade que sentem os cientistas da informação em possuir um
+paradigma, no intuito de afirmar maturidade científica”. No entanto, apesar dessaafirmação, muitos
+consideram algumas assertivas provenientes das origens cartesianas do pensar e das experiências
+práticas iniciais – marcos balizadores essenciais das construções teóricas da ciência da
+informação.
+Não podemos perder de vista que a ciência da informação possui, em sua configuração estrutural,
+um caráter eminentemente interdisciplinar, e, ainda que hoje coexistam múltiplas reflexões e
+pensares, não se pode negligenciar que o espectro dos conhecimentos envolvidos em ciência da
+informação se estende por todos os campos científicos. Lembremos que Yuexuao22 se refere à
+transdisciplinaridade da ciência da informação, ressaltando que “não deve ser vista como uma
+ciência clássica, mas como o protótipo de um novo tipo de ciência”. Saracevic39 completa essa
+idéia, quando enfatiza que “problemas complexos demandam abordagens interdisciplinares e
+soluções multidisciplinares”. A essas assertivas se opõem inúmeras outras de caráter contrário, o
+que, para muitos, inviabiliza a construção teórica dentro dos padrões de uma ciência clássica. No
+entanto, parecem residir, nestas indefinições e múltiplas abordagens, a força e a beleza da ciência
+da informação.
+Contrariamente a Belkin53, para quem, talvez, não interessariam “outros gêneros de informação” e
+afigura-se “trabalhar com uma idéia implícita de ciência da informação, cujo objeto de investigação
+seria, exclusivamente, a informação científica formalmente documentada”, é imperativo nos
+voltarmos para Wersig21, ao ponderar que existe a necessidade de intertecer conceitos, modelos e
+definições, cujos resultados seriam a “formação de uma proto-rede de conceitos básicos, formada
+a partir da internegociação entre amplos modelos formulados e interconceitos”, o que permitiria,
+ainda, que outros sujeitos fossem intertecidos.
+Wersig21 nos exibe também uma nova visão do que pode vir a ser a ciência da informação, ao
+escrever que “as ciências clássicas ainda podem ser muito produtivas, entretanto pesquisadores
+discutem e desenvolvem novas estruturas para um novo estágio de desenvolvimento da ciência –
+são vanguardas de um novo tipo de desenvolvimento”.
+Da confluência ou conjunto dessas discussões ou inquietações, o que fica, se alguma coisa é
+permanente? Alguma certeza, cercada de dúvidas por todos os lados – uma ilha de reflexão. Afinal,
+as ciências caracterizam-se pela permanência e insistência das dúvidas. Duvidar é preciso... numa
+espécie de efêmera permanência ou infinitude enquanto durar... A poesia é capaz de nos evocar
+essas imagens.
+Conforme afirma Japiassu54, no seu artigo sobre “epistemologia e novo espírito científico”, em torno
+das idéias de Bachelard e sobre o ato de criar na ciência e na poesia, criar (ciência) é ”desatar
+uma angústia...” Provavelmente, para logo em seguida novas angústias surgirem, tecendo outros
+nós epistemológicos.
+Aqueles que constroem a ciência da informação, quando discutem seus fenômenos, objeto de
+estudo e problemática, com todas as incertezas que os cercam, imaginam viver e sofrer uma
+condição única, o que não é verdade. A ciência da informação, nos seus trinta e poucos anos,
+poderia ter conformação e configuração mais claras, mais distintas, menos impressionistas?
+É oportuno comparar o estágio teórico-reflexivo da ciência da informação com o da
+comunicação, já que lidam com fenômenos semelhantes. Muniz Sodré55 , no prefácio de seu livro A
+comunicação do grotesco, reconhece que “uma ciência não progride sem uma idéia precisa de sua
+natureza e de seus meios de desenvolvimento, o que só pode ser conseguido por árduo esforço
+teórico”. Aqui reside o âmago da questão e um dos muitos pontos de aproximação entre a ciência
+da informação e a comunicação – ambas padecem dos males ou malefícios da indústria da
+informação, das novas tecnologias da informação, nos seus campos particulares. Assim como na
+comunicação, nos EUA, há mais “prática industrial” do que “prática teórica”. No pensar de Muniz
+Sodré,55 também na ciência da informação, a “prática teórica” é frágil. Tanto nos EUA (e nós
+herdamos as suas tendências), como no Brasil – aqui com maior ênfase –, a “prática teórica” ainda
+está sendo ensaiada, diferentemente dos Estados Unidos, país que vive, realmente, sob a égide da
+sociedade informatizada. No Brasil, não chegamos sequer a uma “prática industrial”, ou melhor,
+prática tecnológica – as duas faces da ciência da informação são difusas, obscuras.
+Para Saracevic39, os inúmeros e complexos problemas, a impossibilidade de solução dos mesmos
+por uma só disciplina e a participação de profissionais de setores heterogêneos na busca de
+soluções tornam a interdisciplinidade inerente à ciência da informação. Ele salienta, ainda, um
+ponto fundamental para a ciência da informação, ao asseverar que a mesma tem oscilado entre o
+humano e o tecnológico, porém os assuntos principais, apesar da exigência da resolução dos
+aspectos técnicos, prendem-se à esfera do social, ao político, ao econômico e ao cultural; “a
+ciência da informação tem uma forte dimensão social e humana, acima e além da tecnologia”.
+Saracevic39 encerra seu trabalho com algumas inquietações e questionamentos sobre “com que fim
+ou em que bases poderiam esses problemas ser tratados: humanos ou tecnológicos? É a
+tecnologia, por si mesma, um problema ou uma solução? Ou ambos? A tecnologia é, sem dúvida,
+uma questão central para a ciência da informação, mas é também fundamental, por exemplo, na
+ciência da computação.
+Na verdade, entre os fins humanos e sociais, de acordo com Saracevic39, a ciência da informação
+tem oscilado, “nunca assumindo um forte compromisso com ambos, nem alcançado um equilíbrio
+confortável”, direcionada ao que ele chama de “ecologia da informação”, que se constitui em um
+artigo. A ecologia da informação refere-se ao sistema
+ecológico social, no qual se desenvolve a comunicação do conhecimento, é fundamentalmente
+social na sua natureza, pois alcança fatores econômicos, políticos, culturais e educacionais, mas
+no qual a tecnologia assume um papel crítico”.
+É preciso que apuremos nossos instintos e reflexões para percebermos, como nos mostra
+Foucault56, que, no fundo da prática científica, existe o seguinte discurso: “nem tudo é verdadeiro,
+mas em todo lugar e a todo momento existe uma verdade a ser dita e a ser vista, uma verdade
+talvez adormecida, mas que, no entanto, está somente à espera de nosso olhar para aparecer, à
+espera de nossa mão para ser desvelada. A nós cabe achar as boas perspectivas, o ângulo
+correto, os instrumentos necessários, pois de qualquer maneira ela está presente aqui e em todo
+lugar”.
+A ciência da informação deve balizar sua trajetória pelo acolhimento do pensar heterológico, voltado
+ao desenvolvimento das bases tecnológicas e socioculturais.
+REFERÊNCIAS BIBLIOGRÁFICAS
+1. WIENER, Norbert. Cybernetics or control and communication in the animal and the machine. New York, John
+Wiley, 1948. 194 p.
+2. SHANNON, Claude E., WEAVER, Warren. The mathematical theory of communication urbana, University of Illinois
+Press, 1949. 117p.
+3. HEILPRIN, Laurence B. Foundations of information science reexamined. Annual Review of Information Science and
+Technology (Arist),v. 24, p. 343-372, 1989.
+4. WELLISH, Hans. From Information Science to Informatics: a terminological investigation apud SHERA, J. H. ,
+CLEVELAND, D. B. History and foundations of Information Science. Annual Review of Information Science and
+Technology, v.12, p. 249-275, 1977. p.266.
+5. SHERA, Jesse H. Sobre biblioteconomia, documentação e ciência da informação. In: ciência da informação ou
+Informática? Rio de Janeiro, Calunga, 1980. p. 91-105. Publicado, originalmente, no Unesco Bulletin for
+Libraries, em 1968.
+6. U.S. President’s Science Advisory Commitee. Science, Government in the transfer of information, a report.
+Washington, DC: Government Printing Off. 1963.
+7. MIKHAILOV, A. I., CHERNY I, A.I; GILYAREVSKII, R.S. Osnovy informatiki. apud. FOSKETT, D.J. Informática. In:
+ciência da informação ou Informática? Rio de Janeiro, Calunga, 1980. p. 9-51.
+8. REES, Alan, SARACEVIC, Tefko. Education for Information Science and its relation to librarianship apud. SHERA,
+Jesse H. opus cit. p. 98.
+9. BORKO, H. Information Science: what is it? American Documentation, p. 3-5, Jan. 1968.
+10. TAYLOR, R. S. Profissional aspects of Information Science and Technology apud BORKO, H. Information Science:
+what is it? opus cit p. 8.
+11. GOMES, Hagar Espanha. Apresentação. In: ciência da informação ou Informática? Rio de Janeiro, Calunga, 1980.
+p.7.
+12. DOUGHERTY, R. M. Libraries and computing center: a blueprint for collaboration. College & Research Libraries, v.
+48, n. 4, p. 289-298, July 1987.
+13. GOFFMAN, Willian. Information Science: discipline or disappearence? Aslib Proceedings, v. 22, n.12 , p. 589-595,
+Dec. 1970.
+14. FOSKETT, D. J. Ciência da informação como disciplina emergente; implicações educa-cionais. In: Ciência da
+informação ou Informática? Rio de Janeiro, Calunga, 1980. p. 53-69. Artigo publicado originalmemnte no Journal
+of Librarianship, 1973.
+15. MIKHAILOV, A.I; CHERNYI, A.I., GILYAREVSKII, R. S. Estrutura e principais propriedades da informação científica
+(a propósito do escopo da infor-mática). In: ciência da informação ou informática? Rio de Janeiro, Calunga,
+1980 p. 71-89. Trabalho publicado, originalmente, na Fid Publication 530, em 1975.
+16. ZUNDE, Pranas , GEHL, John. Empirical foundations of Information Science. Annual Review of Information Science
+and Technology (Arist). v. 14, p.67-92, 1972.
+17. OTTEN, Klaus . Basis for a science of information. apud. SHERA, Jesse H., CLEVELAND, Donald B. opus cit. p.
+263.
+18. OTTEN, Klaus, DEBONS, Anthony. Toward a metascience of information: informatology apud SHERA, Jesse H.,
+CLEVELAND, Donald B. p.263.
+19. ARTANDI, Susan. Theories of information. apud SHERA, Jesse H., CLEVELAND, Donald B. opus cit. p. 261.
+20. BOYCE, Bert, KRAFT, Donald H. Principles and theories in Information Science. Annual Review of Information
+Science and Technology (Arist). v.20, p.153-178, 1985.
+21. WERSIG, Gernot. Information Science: the study of postmodern Knowledge usage. Information Processing and
+Management, v. 29, n.2, p.229-239, 1993.
+22. YUEXIAO, ZHANG. Definitions and sciences of information. Information Processing & Management, v. 24, n.4,
+p.479 - 491, 1988.
+23. ZEMAN, Jiri. Significado filosófico da noção de informação. In: O conceito de Informação na Ciência
+contemporânea. Coló-quios Filosóficos Internacionais de Royaumont. Trad. de Maria Helena Kühner. Rio de
+Janeiro, Paz e Terra, 1970. p. 154-179.
+24. BERTALANFFY, Ludwig von. General systems theory: foundations, development, applications. London, Allan
+Lane, Penguin Press, 1971.
+25. MCGARRY, K. J. Da documentação à informação: um conceito em evolução. Lisboa, Editorial Presença, 1984.
+196p.
+26. FARRADANE, J. Knowledge information and Information Science. Journal of Information. Science, v.2, p. 75-80,
+1980.
+27. SOKOLOV, A. V., MANKEVICH, A. I. Informatika. Apud BELKIN, N. J. Information concepts of information for
+Information Science. Journal of Documentation, v. 34, n.1, p. 55-85, 1978.
+28. SCHREIDER, I. A. apud BELKIN, N. J. Information concepts of Information for Information Science. opus cit. p.71.
+29. URSUL, A. D. Informatsiia ... apud BELKIN, N. J. Information concepts of information for Information Science. opus
+cit. p.71.
+30. URSUL, A. D. , KARANTSEVA, K. V. Iavliaetsa... apud BELKIN, N. J. Information concepts of information for
+Information Science opus cit. p. 64.
+31. FID. Comitê de estudos “Pesquisa das bases Teóricas da Informação FID/RI. On theoretical problems of
+Informatics. FID 435. Moscow, All-Union Institute for Scientific and Technical Information, 1969.
+32. SARACEVIC, Tefko. The concept of “relevance” in Information Science: an historical review. In: ______, ed.
+Introduction to Information Science. New York, R. R. Bowker Co., 1970. p. 111-154.
+33. SHERA, Jesse H., CLEVELAND, Donald B. History and foundations of information Science. Annual Review of
+Information Science and Technology, v. 12, p. 249-275, 1977.
+34. SALTON, Gerard. A note about Information Science research apud BOYCE, B. R., KRAFT, Donald H. opus cit.
+p.155.
+35. YOVITS, M. C. FOULK, C. R.; ROSE, L. L. Information flow and analysis: theory, simulation and experiments, 1, 2
+apud BOYCE, B. R., KRAFT, D. H. opus cit. p. 162.
+36. LANDAU, Robert M. Impact of information technology apud SHERA, J.H., CLEVELAND, D. B. opus cit. p.259.
+37. FAIRTHORNE, R. A. The scope and aims of the information sciences and technologies. In: FID. 435 opus cit. p. 25-
+31.
+38. KOCHEN, Manfred M. Views on the foundations of Information Science apud SHERA, Jesse H., CLEVELAND,
+Donald B. opus cit. p. 259.
+39. SARACEVIC, Tefko. Information science: origen, evolution and relations.In: VAKKARI, P., CRONIN, B. eds.
+Conceptions of Library and Information Science. Proceedings of the COLIS Conference Tampère, 1991. Los
+Angeles, Taylor Grahan,1992.
+40. MOOERS, O. N. apud SARACEVIC, Tefko. Information science: origem, evolution and relations opus cit.
+41. ZAHER, Célia Ribeiro. Da Documentação à Informática. In SILVA, Benedito. et. al. Da documentação à Informática.
+Rio de Janeiro, FGV, 1974 p. 49-86.
+42. GOMES, Hagar Espanha. Experiência do IBBD em programas de pós-graduação. R. Esc. Biblioteconomia UFMG,
+Belo Horizonte, v.3, N.1, P. 13-26, mar. 1974.
+43. BRAGA, Gilda Maria. Relações bibliométricas entre a frente de pesquisa (refearch front) e revisões de literatura;
+estudo aplicado à ciência da informação. Rio de Janeiro, 1972. Dissertação (Mestrado em Ciência da
+Informação).
+44. RODRIGUES, Maria da Paz Lins. Estudo das citações constantes das dissertações do Mestrado em Ciência da
+Informação do IBICT/ UFRJ. Rio de Janeiro, 1981, Dissertação (Mestrado em Ciência da Infor-mação).
+45. ARAÚJO, Ester Lucked. Estudo da atuação profissional dos egressos do Curso de Mestrado em Ciência da
+Informação do IBICT, comparativamente à situação dos profissionais na Inglaterra e nos Estados Unidos. Rio de
+Janeiro, 1982. Dissertação (Mestrado em ciência da informação).
+46. GONZÁLEZ de GÓMES, Maria Nélida. A configuração temática de ciência da informação no currículo dos cursos
+do IBICT: estudo do caso. Rio de Janeiro, UFRJ/ECO, CNPq/IBICT, 1982. Dissertação (Mestrado em Ciência da
+Informação).
+47. NEVES, Teodora Marly Gomes de. História e temática do Curso de mestrado em ciência da informação do Instituto
+Brasileiro de Informação em Ciência e Tecnologia. Rio de Janeiro, UFRJ/ ECO, CNPq/ IBICT, 1992. Dissertação (
+Mestrado em Ciência da Informação).
+48. FERNANDES, Geni Chaves. O que é ciência da informação: identificação através de relações, conceituação a partir
+de três visões. Rio de Janeiro, UFRJ/ECO, CNPq/IBICT, 1993. Dissertação (Mestrado em Ciência da Informação).
+49. CNPq/IBICT - UFRJ/ECO. Comissão de Convênio. A pós-graduação em ciência da informação na UFRJ. Ciência da
+informação, Brasília, 16 (2): 112-24, jul./dez. 1987.
+50. ENCONTRO de Pesquisa da Pós-graduação em ciência da informação (1: Rio de Janeiro: 1995). Resumo de
+trabalhos. Rio de Janeiro, UFRJ/ECO, CNPq/IBICT, agosto 1995.
+51. JAPIASSU, Hilton. Interdisciplinaridade e patologia do saber. Rio de Janeiro, Imago, 1976. 221p. (Logoteca).
+52. GUSDORF, Georges. Prefácio. In: Japiassu, Hilton. Interdisciplinaridade e patologia do saber. opus cit. p. 26.
+53. BELKIN, N. J. Information concepts of information for Information Science. Journal of Documentation, v. 34, n.1, p.
+55-85, 1978.
+54. JAPIASSU, Hilton. A epistemologia do “novo espírito científico”: da criação científica ou da razão aberta. São
+Paulo, Folhetim da Folha de S. Paulo, 1º de julho de 1984. p. 3-5.
+55. MUNIZ SODRÉ. A comunicação do grotesco; introdução à cultura de massa brasileira. Petrópolis, Vozes, 1988.
+56. FOUCAULT, Michel. Microfísica do poder. 6 ed. Rio de Janeiro: Graal, 1986.
+Lines and borders of the
+information science
+Abstract
+Origins, birth, evolution and present stage of the information Science. Most proeminent researchers and trends of
+thought to which they are related, interdisciplinarity and technological and social dimensions of that new area.
+Introduction to the Information Science in Brazil, history and structure of the M. S. Program in Information Science (
+CNPq/IBCT – UFRJ/ ECO).
+Information Science. Theory of the Information Science. Basic principles of the Information Science.
+Interdisciplinanty.
+Keywords
+Information science; Theory of the information science; Basic principles of the information science;
+Interdisciplinarity.
+Lena Vania Ribeiro Pinheiro
+Departamento de Ensino e Pesquisa (DEP-RJ) IBICT
+José Mauro Matheus Loureiro
+Museólogo, mestrando em ciência da informação, IBICT/CNPq - ECO/UFRJ.

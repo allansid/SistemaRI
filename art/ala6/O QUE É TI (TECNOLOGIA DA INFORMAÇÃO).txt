@@ -1,0 +1,53 @@
+Se você não tem ideia do que significa TI, ou já é um estudante ou profissional de TI, mas nunca parou para pensar no que realmente é Tecnologia da Informação; esse artigo é para você. Além disso, descubra o que faz o profissional, qual faculdade escolher e como começar a estudar.
+
+Primeiramente, você já deve ter percebido que o acrônimo TI se refere a Tecnologia da Informação. Mas vamos a definição…
+
+O que é TI?
+
+A Tecnologia da Informação ou TI, é o conjunto de atividades e soluções envolvendo hardware, software, banco de dados, e redes que atuam para facilitar o acesso, análise e gerenciamento de informações. Simplificando, a TI foi criada para auxiliar o ser humano a lidar com informações.
+
+É cada vez maior o número de informações disponíveis. Imagine só, uma biblioteca capaz de guardar todos os livros já escritos no mundo. Parece fisicamente impossível, não é? Mas a tecnologia torna possível armazenar milhões de livros em formato digital em um único computador.
+
+Quer mais um exemplo?
+
+Quantas pessoas seriam necessárias para calcular o imposto de renda de todos os cidadãos brasileiros? Pode ter certeza que o número de funcionários públicos iria aumentar exponencialmente. Mas nada disso é necessário. Graças a um sistema integrado de software que analisa todos os informes enviados e ainda descobre se tem alguém burlando o leão. Mas toda essa tecnologia não existiria se não fosse pelos profissionais de TI.
+
+O que faz o profissional de TI?
+
+A área de Tecnologia da informação possui diversos segmentos de atuação. Vou listar algumas das áreas sem ordem particular como exemplo:
+
+Programação
+Segurança da Informação
+Redes
+Análise de Sistemas
+Infraestrutura e Hardware
+Suporte técnico
+Cada profissional tem seu papel para que as empresas de TI operem, para que novas tecnologias sejam desenvolvidas e ainda tudo que já foi feito continue funcionando.
+
+Os cargos de TI estão entre os mais bem remunerados no mercado, e existem mais vagas do que profissionais qualificados para preenche-las.
+
+
+Apesar de ser muito bem remunerado, ser um profissional de TI não é uma tarefa fácil, e exige bastante estudo.
+
+Qual faculdade escolher?
+
+Cada curso de TI pode levar a uma formação especifica para exercer determinada profissão. Com o avanço da Tecnologia o número de faculdades e cursos também aumenta.
+
+Entre os cursos mais populares estão: Ciência da Computação, Análise e Desenvolvimento de Sistemas e Engenharia da Computação, mas existem muitos outros.
+
+Nesse artigo aqui, eu escrevi sobre as diferenças entre os cursos e listei algumas das faculdades onde é possível estudar:
+Diferenças entre os cursos de Tecnologia da Informação
+
+Existe idade máxima para ser um profissional de TI?
+
+A área de TI não é como outras onde é necessário exercer grande esforço físico, e o profissional tem um prazo de validade. Na Tecnologia da Informação o esforço é mental, e profissionais com mais experiências são valorizados.
+
+Há um tempo atrás eu realizei uma pesquisa com as empresas que contratam profissionais de TI para saber se eles tinham alguma restrição quanto a profissionais mais velhos. Nesse artigo aqui você pode ver o resultado da pesquisa:
+Estou velho demais para ser Profissional de TI?
+
+Como começar à Estudar TI?
+
+Existe muito material disponível na internet para quem quer aprender Tecnologia da Informação, porém nem tudo é de boa qualidade e encontrar um roteiro de estudos pode ser uma tarefa bem complicada.
+
+Pensando nisso, eu criei o Estudar TI. Esse projeto é uma iniciativa para conectar as pessoas que querem aprender Tecnologia da Informação com aquelas que estão aptas a ensinar. Através do site do Estudar TI você pode começar a estudar de graça e sem sair de casa.
+

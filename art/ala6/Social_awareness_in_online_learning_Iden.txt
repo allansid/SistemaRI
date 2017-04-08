@@ -1,0 +1,1032 @@
+See discussions, stats, and author profiles for this publication at:
+http://www.researchgate.net/publication/261247078
+Social awareness in online learning:
+Identifying requirements for
+Amadeus LMS
+CONFERENCE PAPER · JANUARY 2011
+DOWNLOADS
+76
+VIEWS
+40
+5 AUTHORS, INCLUDING:
+Alex Sandro Gomes
+Federal University of Pernambuco
+184 PUBLICATIONS 100 CITATIONS
+SEE PROFILE
+Rosângela Carvalho
+Federal University of Pernambuco
+39 PUBLICATIONS 2 CITATIONS
+SEE PROFILE
+Available from: Ivanildo José de Melo Filho
+Retrieved on: 07 September 2015
+ORGANIZAÇÃO:
+Editores
+Álvaro Rocha
+Ramiro Gonçalves
+Manuel Pérez Cota
+Luís Paulo Reis
+Sistemas
+e Tecnologias
+de Informação
+VOL. I - ARTIGOS
+
+CISTI 2011 | 1
+Sistemas e Tecnologias de Informação
+Actas da 6ª Conferência Ibérica de Sistemas e Tecnologias de Informação
+Chaves, Portugal
+15 a 18 de Junho de 2011
+AISTI | UTAD
+Editores
+Álvaro Rocha
+Ramiro Gonçalves
+Manuel Pérez Cota
+Luís Paulo Reis
+ISBN:
+978-989-96247-4-0
+Vol. I – Artigos
+CISTI 2011 | 2
+CRÉDITOS
+TÍTULO
+Sistemas e Tecnologias de Informação
+SUB-TÍTULO
+Actas da 6ª Conferência Ibérica de Sistemas e Tecnologias de Informação
+Chaves, Portugal
+15 a 18 de Junho de 2011
+Vol 1 - Artigos
+EDITORES
+Álvaro Rocha, Universidade Fernando Pessoa
+Ramiro Gonçalves, Universidade de Trás-os-Montes e Alto Douro
+Manuel Pérez Cota, Universidad de Vigo
+Luís Paulo Reis, Universidade do Porto
+EDIÇÃO, IMPRESSÃO E ACABAMENTOS
+APPACDM – Associação Portuguesa de Pais e Amigos do Cidadão Deficiente
+Mental, Braga, Portugal
+DEPÓSITO LEGAL
+329676/11
+ISBN
+978-989-96247-4-0
+WEB
+http://www.aisti.eu/cisti2011
+CopyRight 2011 - AISTI (Associação Ibérica de Sistemas e Tecnologias de
+Informação)
+Percepção social na aprendizagem online:
+identificando requisitos para o LMS Amadeus
+Ivanildo José de Melo Filho
+IFPE – Campus Belo Jardim – Pernambuco – Brasil
+UFPE – Centro de Informática – Pernambuco – Brasil
+ivanildo.melo@belojardim.ifpe.edu.br
+Rosangela Maria de Melo
+ITEP – Instituto de Tecnologia de Pernambuco – Brasil
+rmdemelo@gmail.com
+Alex Sandro Gomes
+UFPE – Centro de Informática – Pernambuco – Brasil
+asg@cin.ufpe.br
+Rosângela Saraiva Carvalho
+Escola Superior de Relações Públicas de Pernambuco –
+Brasil
+UFPE – Centro de Informática – Pernambuco – Brasil
+rosangelac@gmail.com
+Josilene Almeida Brito
+IF-SERTÃO Pernambucano – Brasil
+UFPE – Centro de Informática – Pernambuco – Brasil
+josilene.brito@ifsertao-pe.edu.br
+Abstract— With the increasing sophistication of virtual
+learning environments, online learning has at its disposal
+resources that provide an education more effectively.
+Importantly say, the collaborative activities can be
+enhanced in virtual learning environments, since the
+elements of social awareness are willing and will allow
+participants to share knowledge and experiences.
+The present work aims to establish requirements
+related to the phenomena of social awareness and
+collaboration in Amadeus LMS. This research was an
+exploratory qualitative study. The methodological
+approach applied in this work was the interaction with the
+environment, questionnaires, conducting focus group, video
+recording and observation. The participants are students of
+final year coach IFPE – Campus Belo Jardim. Needs were
+identified and the results indicate that the functionality of
+the elements of social awareness of Amadeus LMS needs to
+be complemented, and that other elements must be
+integrated. The results of this research were prototyped for
+Amadeus LMS.
+Keywords-component; social awareness, online learning, LMS
+Amadeus
+I. INTRODUÇÃO
+A convergência tecnológica tem permitido que as
+modalidades de ensino alavanquem e conquistem novos
+espaços, quebrando paradigmas na educação, no sentido de
+ultrapassar os limites dos quais se costumava a lidar.
+No Brasil, atualmente, presencia-se a massificação do
+ensino a distância, bem como, a sua inserção como alternativa
+complementar aos cursos presenciais. Um exemplo é o que
+ocorre no nível profissionalizante, através da Escola Técnica
+Aberta do Brasil – Projeto e-Tec BRASIL1 – e, no ensino
+superior ou de pós-graduação, através da UAB2 – Universidade
+Aberta do Brasil.
+Neste sentido, as instituições têm buscado soluções que
+permitam aos alunos desta modalidade de ensino atuarem de
+forma concreta no seu processo de aprendizagem. A utilização
+dos LMS – Learning Management System – apoiados pelas
+tecnologias da informação e comunicação tem servido de base
+para a oferta, condução e instrumentalização na educação.
+Os LMS possuem a capacidade de fortalecer as práticas
+educativas em diferentes modalidades de ensino, dispondo de
+mecanismos que permitem a convergência de diferentes mídias
+como texto, imagem, som e vídeo. Entretanto, em certas
+ocasiões, esses mecanismos se tornam insuficientes na medida
+em que a possibilidade de interação entre os participantes no
+ambiente funciona de maneira restritiva, limitando a sua
+percepção e a do grupo no ambiente para realização das
+atividades propostas. O que frequentemente gera frustração e
+impossibilita a formação de grupos, além de reforçar a
+sensação de solidão.
+Para [1], no domínio do CSCL – Computer Supported
+Collaborative Learning – a percepção de grupo é um tema
+emergente e abrange o conhecimento e a percepção das
+1 Escola Técnica Aberta do Brasil - e-Tec Brasil, é um programa do
+governo federal para desenvolvimento da educação profissional técnica na
+modalidade de educação a distância. Disponível em:<
+http://www.etecbrasil.mec.gov.br/gCon/recursos/upload/file/Decreto_etec(2).
+pdf>
+2 A Universidade Aberta do Brasil é um sistema integrado por
+universidades públicas que oferece cursos de nível superior para camadas da
+população que têm dificuldade de acesso à formação universitária, por meio
+do uso da modalidade de educação a distância. Disponível em:<
+http://www.uab.capes.gov.br/>
+CISTI 2011 | 209
+capacidades cognitivas, sociais e o contexto da informação,
+comportamento de um grupo ou de seus membros.
+Desta forma, a questão central deste trabalho é identificar
+as dificuldades, bem como estabelecer requisitos de percepção
+social no LMS Amadeus, objetivando o aperfeiçoamento de
+algumas interfaces de navegação e da interface distribuída para
+discussão de vídeo com chat em grupo.
+A estrutura desta pesquisa está organizada da seguinte
+forma: a segunda seção apresenta a percepção social nos
+ambientes virtuais de aprendizagem; a terceira aborda a
+importância da aprendizagem online; na quarta – o LMS
+Amadeus – ambiente virtual de aprendizagem utilizado nesta
+pesquisa é apresentado. A quinta seção descreve o método
+utilizado; a sexta apresenta os requisitos estabelecidos; na
+sétima são sugeridos alguns dos protótipos gerados a partir dos
+resultados obtidos. Na oitava seção é realizada a discussão dos
+resultados, e por fim, é evidenciada a conclusão deste trabalho.
+II. PERCEPÇÃO SOCIAL NOS AMBIENTES VIRTUAIS DE
+APRENDIZAGEM
+Segundo [2], a percepção social abrange o estudo da forma
+como os seres humanos formam impressões sobre outras
+pessoas, e sobre como fazemos inferências sobre elas. Um
+aspecto importante da percepção social é que esta nos permite
+dar sentido ao mundo social em que fazemos parte, e influencia
+as nossas decisões com outras pessoas. Para [3], a percepção
+social é definida como a compreensão de uma situação
+contextual em um momento presente. Em ambientes virtuais
+colaborativos, a percepção desempenha um papel importante
+para alcançar uma real comunicação digital entre os
+participantes.
+De acordo [4], os elementos de percepção social contidos
+nos ambientes virtuais de aprendizagem podem ser definidos
+como mecanismos destinados a auxiliar as pessoas a
+construírem e manterem a consciência das atividades umas das
+outras. Bem como, o contexto ou situação, mesmo quando os
+participantes não estão no ambiente de aprendizagem. Além
+disso, os elementos de percepção social proporcionam
+benefícios, como: o aumento da colaboração entre os
+participantes, promove relações sociais, melhora o bem-estar
+dos indivíduos, no sentido de eliminar a sensação de estar
+sozinho no ambiente de aprendizagem.
+Através da percepção social, os participantes conseguem
+constituir o sentido da presença social dos seus pares, e a partir
+deste, iniciam o processo de interação social através do
+ambiente. Para [5], normalmente, nos LMS os membros do
+grupo estão localizados em lugares diferentes e, possuem quase
+nenhuma pista social sobre a existência dos outros. Para se
+construir uma comunidade online entre pessoas sem ligações
+anteriores, a presença social desempenha um papel decisivo
+para a mobilização e coesão do grupo, conforme citam [6].
+Outros estudos foram realizados objetivando o fornecimento de
+mecanismos de percepção social em LMS, e podem ser
+encontrados em [7]; [8] e [9].
+III. APRENDIZAGEM ONLINE
+A aprendizagem online é uma constante no dia a dia, no
+trabalho, em casa, na vida [10]. Esta permite que a mensagem
+seja modificável e que ocorra o envolvimento e a participação
+dos aprendizes, destaca [11]. Em [11] ainda é reforçado que
+esta modalidade habilita o emissor, a definir e a ofertar uma
+gama de possibilidades a serem exploradas, navegadas, abertas
+a interferências e modificações dos alunos, gerando
+colaboração. E, desta forma, faz com que o receptor manipule,
+edifique e torne-se participante ativo na construção do seu
+conhecimento.
+Para garantir – na aprendizagem online – o envolvimento
+ou engajamento, a participação e a colaboração dos alunos fazse
+necessário a utilização adequada dos LMS. Neste sentido,
+[3] esclarecem que nos LMS, os participantes devem perceber
+as pessoas com as quais estão interagindo, suas
+responsabilidades e contribuições, bem como, estar ciente das
+atividades de colaboração, e do acompanhamento do seu nível
+de progresso.
+De acordo com [10]: “O importante é que os alunos
+aprendam de verdade no presencial e no online”. A
+aprendizagem online necessita incorporar em profundidade
+todas as possibilidades propostas pelos ambientes virtuais de
+aprendizagem, principalmente, com foco no aluno e na
+participação como eixos de uma educação ativa e
+transformadora. Ele ressalta que é possível, quando necessário,
+combinar atividades colaborativas para vários alunos de modo
+a construir situações vivas de aprendizagem compartilhada. E,
+assim, inúmeras possibilidades de aprendizagem podem ser
+combinadas com o melhor do presencial, quando possível, com
+as facilidades do virtual.
+IV. LMS AMADEUS
+O LMS Amadeus tem origem em um conjunto de pesquisas
+acadêmicas nas áreas de Interação Humano Computador e
+Tecnologia Educacional. Foi desenvolvido pelo grupo de
+pesquisa CCTE 3 – Ciências Cognitivas e Tecnologia
+Educacional do Centro de Informática da UFPE – Universidade
+Federal de Pernambuco. Esse LMS é definido por [12] como
+um sistema de gestão de aprendizagem para educação
+presencial, a distância e todas as suas variações. Ele é baseado
+no conceito de blended learning, segundo o qual, para se
+atingir um grande público com projetos de formação a
+distância, faz-se necessário uma combinação de formas de
+mediar a apresentação e as interações com os conteúdos das
+aulas. A interação entre os usuários, e destes, com o conteúdo
+no ambiente permite a execução de novas estratégias de ensino
+e de aprendizagem orientadas por teorias construtivistas ou
+sócio-interacionista do desenvolvimento humano.
+O LMS Amadeus é distribuído sob uma licença de Software
+Livre, e desde março de 2009, passou a integrar o PSPB4 –
+Portal do Software Público Brasileiro. Atualmente, a
+3 CCTE na Internet: <http:/www.cin.ufpe.br/~ccte>.
+4 Portal do Software Público Brasileiro na Internet:
+http://www.softwarepublico.gov.br.
+CISTI 2011 | 210
+comunidade do LMS Amadeus no PSPB conta com
+aproximadamente 4000 participantes.
+V. MÉTODO
+Esta seção apresenta os procedimentos metodológicos
+adotados nesta pesquisa. Primeiramente, é apresentado o
+contexto, em seguida, os participantes, e finalmente a descrição
+dos procedimentos que foram adotados e as técnicas que foram
+aplicadas na condução desta investigação.
+Para tanto, o desenho metodológico que foi aplicado nesta
+pesquisa, durante o acesso ao campo foi planejado de forma
+que, no seu desenvolvimento pudessem ocorrer interações com
+os participantes. Desta forma, foram utilizadas técnicas de
+observação, questionários, grupo focal, gravações das ações em
+tela do computador, de áudio e de vídeo durante o processo de
+coleta de dados.
+A. Contexto da pesquisa
+Este trabalho centrou-se na busca dos fenômenos de
+percepção social no processo de navegação da interface web do
+LMS Amadeus, e na utilização de sua interface distribuída para
+discussão de vídeo com chat em grupo. O conteúdo utilizado
+nesta investigação foi o entendimento do conceito e da relação
+entre grandezas elétricas (tensão, corrente e resistência) que são
+estabelecidas pela Lei de OHM. As Figuras 1, 2, 3 e 4 são
+algumas das interfaces do LMS Amadeus que foram objeto
+desta pesquisa.
+Figura 1. Interface de entrada.
+Figura 2. Interface para seleção de curso.
+Figura 3. Interface para visualização dos colegas de sala.
+Figura 4. Interface distribuída pra discussão de vídeo com chat em grupo.
+B. Participantes
+Os participantes desta pesquisa são alunos do IFPE –
+Campus Belo Jardim, do curso técnico em informática.
+C. Procedimentos
+É recomendado por [13] que um método de pesquisa seja
+descrito numa sequência de passos, para demonstrar que os
+objetivos que estão sendo propostos foram atingidos. Portanto,
+os procedimentos que foram adotados para a coleta dos dados
+ocorreram em 3 (três) sessões a saber:
+ Sessão 1 – Interação inicial dos alunos participantes
+no LMS AMADEUS – Esta sessão teve como
+objetivo observar o nível de aceitação e compreensão
+dos alunos quanto ao ambiente, e registrar as primeiras
+impressões desses em relação ao LMS Amadeus. Ao
+final desta sessão, os alunos responderam o
+Questionário de Aceitação que teve como objetivo,
+registrar as primeiras impressões desses em relação ao
+LMS Amadeus, relacionadas a facilidade, flexibilidade
+e satisfação na utilização do ambiente. Além disso, este
+CISTI 2011 | 211
+instrumento abordou aspectos relacionados a
+importância das informações pessoais dos
+participantes, a disposição dos materiais e das
+atividades no ambiente, bem como, a verificação do
+grau de dependência que um usuário deve ter para
+utilizar o ambiente.
+ Sessão 2 - Interação no LMS Amadeus – Nesta
+etapa, os alunos participaram das sessões de interação
+no LMS para a realização das tarefas. Foram definidas
+3 (três) sessões de interação com duração de 60
+minutos em dias distintos. As atividades propostas aos
+alunos consistiram na exibição de seis vídeos – de
+domínio público – que foram agrupados dois a dois
+por sessão de interação, resultando em três momentos
+para a discussão em grupo através da interface
+distribuída para discussão em grupo de vídeo com
+chat, vide Figura 4. Ao final desta sessão, os alunos
+responderam o Questionário de Percepção – que
+objetivou registrar a percepção social desses em
+relação ao ambiente de aprendizagem, e entre os seus
+pares. O questionário tratou de questões relacionadas a
+dificuldade de encontrar os participantes no LMS, de
+distinguir o perfil dos participantes, quais informações
+e funcionalidades deveriam ser acrescentadas ao LMS,
+de modo que, os alunos tenham uma participação mais
+efetiva no ambiente. Por fim, os alunos foram
+questionados em relação a interface distribuída para
+discussão de vídeo com chat em grupo (Figura 4), com
+vistas a identificar a facilidade de uso, e quais aspectos
+presentes na interface facilitaram ou dificultaram a sua
+participação nas respectivas sessões.
+ Sessão 3 – Grupo focal com os participantes – A
+decisão pelo grupo focal deve-se ao fato de que a
+observação natural é um método para coleta que
+demanda um tempo maior para captar as reações dos
+participantes. Sendo assim, o principal objetivo em
+utilizar esta técnica, neste trabalho, foi conhecer as
+opiniões dos participantes e promover a discussão
+coletiva a respeito das sessões realizadas, visando a
+validação e a consensualização das impressões geradas
+a partir dos questionários de aceitação e percepção.
+Desta forma, as percepções comuns aos participantes
+levantadas nesta pesquisa, foram reforçadas e as
+divergentes foram discutidas coletivamente. Ao final
+desta sessão , os alunos foram convidados a sugerir
+protótipos, com vistas a aperfeiçoar as interfaces do
+LMS Amadeus com as quais estes interagiram. Isto
+permitiu que os alunos fornecessem um feedback
+informátivo sobre suas compreensões em relação ao
+ambiente, e ainda participar ativamente das discussões
+durante a avaliação dos protótipos.
+D. Análise dos dados
+Para análise dos dados foi considerada análise dos vídeos
+gerados através da captura das ações realizadas no LMS
+Amadeus, dos chats, das gravações do áudio durante as sessões
+de interação, dos registros manuais gerados pelos participantes
+ao longo das sessões de colaboração, e da gravação em vídeo
+do grupo focal
+VI. REQUISITOS ESTABELECIDOS
+Baseado na análise qualitativa dos dados, os requisitos
+foram estabelecidos a partir da identificação das dificuldades e
+das necessidades expressadas pelos participantes durante a
+realização dos procedimentos. Estes foram agrupados por
+interface e apresentados nas Tabelas 1 e 2.
+TABELA I. INTERFACE WEB DO LMS AMADEUS
+Requisitos Descrição Protótipo
+[REQ_01] A apresentação do LMS Amadeus deve estar
+disponível ao visitante
+1
+[REQ_02] As interfaces devem conter o recurso de
+“Ajuda”
+Todos
+[REQ_03] Indicações diretas sobre a oferta e andamento
+de cursos ou módulos
+2
+[REQ_04] Interação com os usuários online 2
+[REQ_05] Separação dos contextos da interface Todos
+[REQ_06] Mudança de cor da indicação de presença 2
+[REQ_07] Relatórios do histórico de acesso e de
+atividades – Aluno
+2
+[REQ_08] Indicações diretas sobre a oferta e andamento
+de cursos ou módulos
+2
+[REQ_09] Integração com redes sociais 2
+[REQ_10] Envio de mensagens através de SMS 2
+[REQ_11] Inclusão de Serviço de Inbox 2,3
+[REQ_12] Registro de mensagens gravadas de áudio e de
+vídeo
+2
+[REQ_13] Inclusão de histórico de acesso e atividades
+realizadas – Professor
+2
+TABELA II. INTERFACE DISTRIBUÍDA PARA DISCUSSÃO DE VÍDEO COM CHAT
+EM GRUPO
+Requisitos Descrição Protótipo
+[REQ_14] Redimensionamento da área de apresentação da
+discussão na tela e do tamanho da fonte
+3
+[REQ_15] Inclusão da imagem do participante e
+readequação da indicação de sua satisfação
+3
+[REQ_16] Inclusão de identificações diferenciadas para
+aluno, monitor e professor:
+2,3
+[REQ_17] Possibilitar ao usuário a troca da cor da fonte 3
+[REQ_18] Mecanismo para a moderação da sessão de
+interação
+3
+[REQ_19] A interface deve permitir o envio de mensagens
+entre os usuários
+3
+[REQ_20] Lista de perguntas ou dúvidas 3
+REQ_21] Gravação das sessões de interação 3
+[REQ_22] Utilização de chat com vídeo 3
+[REQ_23] Integração da interface distribuída com o
+Slideshare
+3
+[REQ_24] Liberação do áudio e vídeo durante as sessões 3
+VII. PROTOTIPAÇÃO
+Esta etapa consistiu na construção de protótipos de telas,
+que apontaram sugestões a serem implementadas de acordo
+com os aspectos de percepção e de colaboração identificados.
+A. Avaliação dos protótipos
+Os protótipos foram apresentados aos alunos, em papel
+impresso, e a avaliação de cada interface permitiu descrever
+problemas de comunicabilidade com os usuários. A avaliação
+também contribuiu para elucidar dúvidas quanto aos protótipos
+sugeridos na Sessão 3. O processo avaliativo fez com que os
+alunos interagissem com os protótipos e discutissem
+CISTI 2011 | 212
+coletivamente buscando a validação das funcionalidades
+propostas, como também, permitiu a discussão e a busca para
+resolução refinada dos problemas encontrados.
+B. Prototipos Sugeridos
+As figuras 5, 6 e 7 representam alguns dos protótipos
+sugeridos, e que foram avaliados pelos participantes.
+Figura 5. Protótipo “1” – Interface de entrada do LMS Amadeus.
+Figura 6. Protótipo “2” – Interface do curso/módulo.
+Figura 7. Protótipo “3” – Interface distribuída – Vídeo e Apresentação Online.
+VIII. RESULTADOS
+Observou-se que os elementos de percepção social
+existentes no LMS Amadeus são importantes. Contudo, há
+indícios de frustração por parte dos alunos quanto a este
+elemento, visto que este possibilita identificar os usuários
+presentes no LMS, no entanto, não os permite estabelecer
+contato online através do ambiente. Os alunos demonstraram
+interesse em detalhes, como por exemplo, a mudança –
+temporizada – da cor da indicação de presença, como ocorre
+nos sistemas de bate-papo e redes sociais. As necessidades
+identificadas mostram que perceber a quantidade, e ter ciência
+dos usuários que estão online – em uma única interface – é
+insuficiente para o processo de formação de grupos e
+engajamento em atividades.
+A probabilidade de manter contato com os seus pares,
+mesmo que estes não estejam online no LMS Amadeus foi
+apontada pelos alunos como um fator que pode auxiliar na
+manutenção das relações no ambiente, visto que esta seria uma
+forma adicional de comunicação. O estabelecimento de
+comunicação entre os alunos através do LMS – seja por meio
+de redes sociais, dispositivos móveis ou utilização de
+mensagens gravadas de áudio e vídeo – mostram-se em
+consonância com [14] e que são ratificadas por [15] e [16].
+Vale evidenciar, que os alunos demonstraram preocupação
+constante quanto à percepção do professor, no que diz respeito
+às informações de suas atividades.
+A interface distribuída não dispõe de nenhum mecanismo
+que permita ao professor moderar a condução das sessões. Isto
+pode ser averiguado, se, por exemplo, ocorrer diálogos fora do
+contexto da interação entre os alunos na sessão. Os alunos
+registraram no questionário e ratificaram na discussão coletiva,
+que a área onde são exibidas e/ou registradas as discussões por
+chat é pequena, o que dificulta a sua compreensão e seu
+acompanhamento. Isto ocorre mesmo quando se deseja
+retroceder – através da barra de rolagem – para acompanhar a
+discussão. Também, descreveram a sensação de frustração,
+CISTI 2011 | 213
+CISTI 2011 | 214
+resultante entre outros aspectos: da forma como os
+participantes, na interface distribuída para discussão de vídeo
+com chat, são identificados. Esta os impossibilita de distinguir,
+por exemplo, quem é o monitor ou professor durante a sessão.
+Outro ponto ressaltado foi a tentativa e o insucesso do contato
+com o professor para esclarecimento de dúvidas.
+Os participantes selecionaram através do questionário e
+descreveram na discussão coletiva a importância de manter
+contato privado, tanto com o professor quanto com os seus
+pares, isso pode colaborar positivamente para o esclarecimento
+de dúvidas e discussão sobre o conteúdo abordado, através da
+interface. Ainda ressaltaram que do mesmo modo que se utiliza
+o vídeo para discussão, outros objetos de aprendizagem
+poderiam ser integrados à interface, como apresentações online
+com a participação simultânea do professor e dos alunos e
+discussões através de vídeo com chat. Esta última também foi
+identificada recentemente no trabalho de pesquisa de [17].
+IX. CONCLUSÃO
+Ficou evidenciado que os elementos de percepção social
+existentes nas interfaces web do LMS Amadeus limitam-se a
+indicação da quantidade dos usuários e do seu status. Isto torna
+difícil a comunicação e o engajamento dos alunos, para não
+dizer que é inexistente. Os alunos demonstraram sentimento de
+solidão e frustração durante sua navegação, considerando desde
+a sua entrada no ambiente, até a utilização dos materiais ou das
+atividades disponibilizadas pelo professor.
+Os requisitos de percepção social estabelecidos nesta
+pesquisa para o LMS Amadeus apontaram que os seus atuais
+mecanismos de percepção precisam ser complementados,
+enquanto outros necessitam ser adicionados, visto que existe
+apenas a indicação da presença, seja do aluno ou do professor.
+Na descrição dos resultados percebe-se que tais melhorias
+beneficiarão a comunicação, a formação de grupos, e
+consequentemente a participação dos alunos, além de promover
+a redução da sensação de solidão comum aos LMS. A
+utilização da interface distribuída do LMS Amadeus
+possibilitou a constatação de dificuldades, limitações e
+necessidades que precisam ser revistas, analisadas e superadas,
+para permitir ao professor explorar a potencialidade da
+interface na utilização de outras atividades com os alunos.
+As contribuições geradas nesta pesquisa estão representadas
+através dos requisitos estabelecidos e dos protótipos sugeridos.
+A adoção destas permitirá ao LMS Amadeus a dar
+continuidade ao seu novo ciclo de vida, que se encontra em
+curso. Os resultados obtidos, neste trabalho, foram reportados a
+comunidade do LMS Amadeus, através do Portal do Software
+Público Brasileiro. É importante lembrar, que as contribuições
+aqui mostradas podem ser aplicadas a outros LMS, visto que o
+processo de avaliação de qualquer ambiente de aprendizagem
+deve ser contínuo, de forma que as necessidades identificadas
+possam ser incorporadas. E, a partir destas, novas avaliações
+possam ser realizadas, com vistas ao aprimoramento do LMS,
+respeitando as capacidades, necessidades e preferências dos
+seus usuários.
+REFERÊNCIAS
+[1] Bodemer, D., & Dehler, J. – Group awareness in CSCL environments.
+Computers in Human Behavior. 2010.
+[2] Pilati, R. Percepção Social - Laboratório de Psicologia Ambiental -
+Instituto de Psicologia – Universidade de Brasília. 2007.
+[3] Idrus Z., Abidin S., Hashim R., OMAR N. – Social awareness: the
+power of digital elements in collaborative environment. WSEAS
+Transactions on Computers 9 (6): 644-653, 2010.
+[4] Markopoulos, P., Ruyter,· B. de, Mackay, W. – Awareness Systems –
+Advances in Theory, Methodology, and Design – Human – Computer
+Interaction. 2009. Series – Springer.
+[5] Cress, U. & Kimmerle, J. – Knowledge Exchange as a Motivational
+Problem – Results of an Empirical Research Program. 2009. CSCL 2009
+Proceedings – Computer Supported Collaborative Learning Practices.
+[6] Deng L. & Yuen A.H. K. – Designing Blended Learning Communities.
+228-243 pp In: Handbook of Research on Hybrid Learning Models:
+Advanced Tools, Technologies, and Applications. Chapter 14 IGI
+Global. 2010.
+[7] Gerosa, M.A., Fuks, H. & Lucena, C.J.P. – Elementos de percepção
+como forma de facilitar a colaboração em cursos via Internet, Anais do
+XII Simpósio Brasileiro de Informática na Educação, Vitória-ES, p. 194-
+202. 2001
+[8] Souza Neto, M. – Direto Online:Percepção de Presença em Ambientes
+de Educação a Distância baseados na Web. Dissertação de Mestrado,
+Universidade Estadual de Campinas, Campinas – SP. 2004
+[9] Alves, S. V. L. – Suporte à percepção em groupware síncronos de
+aprendizagem. Dissertação de mestrado em Ciência da Computação –
+UFPE – Universidade Federal de Pernambuco. Centro de Informática.
+Recife. 2006.
+[10] Moran, J. M. Os modelos educacionais na aprendizagem online. 2007.
+Disponível em: <http://www.eca.usp.br/prof/moran/modelos.htm>.
+Acesso em: 09 out. 2010.
+[11] Silva, M. – Sala de Aula Interativa - A Era da Interatividade – 3ª Edição
+– Editora Quartet. 2002.
+[12] Gomes, A.S; Monteiro, B.S.; Carvalho, R.S; Melo Filho, I.J.; Rolim,
+A.L.S.; Oliveira, G.R.S. – AMADEUS - Novas Formas de Interação
+para Educação a Distância. Revista Espírito Livre – Edição 008 –
+Páginas 73 - 78. Novembro/2009
+[13] Wazlawick, R. S. – Metodologia de pesquisa para ciência da
+computação. Editora Elsevier. Rio de Janeiro. 2008.
+[14] The Horizon Report – New Media Consortium and Educause Learning
+Initiative – Edition 2007.Diposnível em:<
+http://www.nmc.org/pdf/2007_Horizon_Report.pdf>. Acesso em: 10
+out. 2010.
+[15] Litto, F. M. – Aprendizagem a distância. Editora Imprensa Oficial. São
+Paulo. 2010.
+[16] Tori, R. – Educação sem distâncias - Tecnologias interativas na redução
+de distâncias em ensino aprendizagem. Escola do Futuro – Universidade
+de São Paulo. Editora SENAC. São Paulo. 2010.
+[17] Carvalho, R. S. – Sistemas de gestão da Aprendizagem e Sistemas de
+Gestão Acadêmica: Avaliados pela Ótica do Docente. Universidade
+Federal de Pernambuco – Centro de Informática – Pós-Graduação em
+Ciência da Computação. 2010.
+Blog como ferramenta colaborativa na interação em
+aulas presenciais: investigando a aceitação dos alunos
+de formação técnica
+Josilene Almeida Brito
+IF-SERTÃO Pernambucano – Brasil
+UFPE – Centro de Informática –
+Pernambuco – Brasil
+josilene.brito@ifsertao-pe.edu.br
+Rosângela Saraiva Carvalho
+Escola Superior de Relações Públicas de
+Pernambuco – Brasil
+UFPE – Centro de Informática –
+Pernambuco – Brasil
+rosangelac@gmail.com
+Ivanildo José de Melo Filho
+IFPE – Campus Belo Jardim –
+Pernambuco – Brasil
+UFPE – Centro de Informática –
+Pernambuco – Brasil
+ivanildo.melo@belojardim.ifpe.edu.br
+Alex Sandro Gomes
+UFPE – Centro de Informática –
+Pernambuco – Brasil
+asg@cin.ufpe.br
+Rosangela Maria de Melo
+ITEP – Instituto de Tecnologia de
+Pernambuco – Brasil
+rmdemelo@gmail.com
+Alessandra da Silva L. Latorre
+IF-SERTÃO Pernambucano – Brasil
+alessandra.latorre@ifsertao-pe.edu.br
+Abstract— This reaserch aimed to investigate the acceptance of
+technical training students in the using of the blog as a
+collaborative tool. To that end, we conducted a case study with
+students from the technical computing IFPE – Campus Belo
+Jardim in the discipline of ethics in computing, in traditional
+teaching. The results indicate that using this tool as a
+collaborative tool is well accepted by participants, and these,
+considered a relevant factor in building their knowledge.
+Keywords-component; blog; interaction; Computer Supported
+Colaborative Learning
+I. INTRODUCÃO
+De acordo com [1], no último trimestre de 2009, 67,5
+milhões de brasileiros utilizavam à Internet, considerando as
+mais diversas atividades. Este crescimento abre um leque de
+opções para sua utilização como ferramenta de auxílio à prática
+pedagógica de forma a propiciar uma flexibilização do ensino
+presencial.
+Para [2], o aluno que navega no ciberespaço possui uma
+forma diferenciada de lidar com o conhecimento. Através das
+redes eletrônicas estabelecem-se novas formas de comunicação
+e de interação entre grupos, o que favorece a aprendizagem
+colaborativa.
+Dentre os softwares sociais existentes tais como:
+mensageiros instantâneos, wikis, ferramentas de edição
+colaborativa, entre outros, o blog segundo [3] permite que o
+aluno deixe de ser um mero receptor, passando a ter uma
+função ativa na construção do seu saber. Esses possuem
+algumas características como permitir criação e manipulação
+de uma rede de contatos, fornecimento de locais onde pessoas
+com interesses comuns podem trocar idéias, como também,
+compartilhar conhecimento, propiciar uma forma de
+aprendizado diferenciada através da colaboração entre
+indivíduos com interesses comuns.
+Neste contexto, o processo de ensino aprendizagem pode
+como alternativa beneficiar-se dessa ferramenta, objetivando
+estimular a aprendizagem colaborativa e fomentar a construção
+do conhecimento coletivo. Assim, acredita-se que o seu uso
+como meio de interação, pode auxiliar na construção do
+conhecimento coletivo.
+Partindo desta premissa, é possível fazer uma junção do uso
+de blogs com as metodologias de trabalho sugeridas pelos
+estudos de CSCL – Computer Supported Colaborative
+Learning – onde, de modo geral, um grupo comunica-se
+através de computadores, para realizar um projeto comum, de
+forma colaborativa, através da trocas de experiências. Neste
+estudo de caso, as interações fomentam uma espécie de fusão
+entre a teoria e a prática, utilizando ferramentas que já são
+parte da rotina dos alunos, tais como computadores, e-mails,
+chats, entre outros.
+Desta forma, este trabalho investiga a aceitação dos alunos
+de formação técnica quanto ao uso do blog como ferramenta
+colaborativa na interação em aulas presenciais.
+II. A INTERAÇÃO EM AMBIENTES COMPUTACIONAIS
+A interatividade não é meramente um produto da
+tecnicidade informática. Este adjetivo tem sua raiz anterior à
+década de 70, e na virada para o século XXI apresenta-se como
+um novo ambiente comunicacional, como um novo paradigma
+que pode substituir o da transmissão que é próprio da mídia de
+massa [4].
+Atualmente, tem-se utilizado o termo “interativo” para
+qualificar: computador e derivados, brinquedos eletrônicos,
+eletrodomésticos, shows, programas de rádio e TV, etc., cujo
+funcionamento, permite ao usuário-consumidor-espectadorreceptor
+algum nível de participação, de troca de ações e de
+controle sobre acontecimentos.
+Diferentes estudos descritivos em [5], [6], [7] e [8] têm se
+preocupado em demonstrar as possibilidades de interação em
+ambientes educacionais online, estabelecendo relações entre o
+ambiente e o usuário, o papel do professor, o papel do aluno e
+os fatores psicopedagógicos.
+CISTI 2011 | 465
+Neste trabalho o estudo da interação tem como base as
+ferramentas disponíveis nos blogs (Blog UOL, Blog do Google
+e Blog Spot) que foram utilizados pelos alunos, explorando as
+possibilidades de interação pela linguagem escrita
+disponibilizada nas informações postadas nas ferramentas.
+III. BLOGS: UMA NOVA FORMA DE INTERAÇÃO NA WEB
+Os blogs surgidos ao final dos anos 90 difundiram-se
+rapidamente, pela facilidade de produção, que não exige
+profundos conhecimentos de linguagem
+HTML. Diferentemente de uma página pessoal, o blog pode ser
+atualizado diariamente, de forma datada e apresenta registros
+de situações diárias de quem o escreve. Por esta razão, de
+acordo com [4], os blogs ainda são classificados como diários
+pessoais em formato eletrônico, por apresentarem
+características como: relatos sobre a pessoa que escreve, “sua
+família, seus gostos, atividades e sentimentos, crenças e tudo
+que for conversável”.
+Por ser uma ferramenta interativa, os blogs apresentam
+características técnicas que podem ser consideradas
+pedagógicas, embora não tenham sido criados com
+este objetivo. Apresenta a possibilidade de publicação
+instantânea de textos, imagens, músicas, a capacidade de
+arquivamento de mensagens anteriores, disponível ao leitor,
+além de hiperlinks, que tanto podem complementar o assunto
+em debate, da mesma forma que pode relacionar um blog a
+outros blogs. Sendo assim, tais características, sinalizam ser
+este um excelente contexto de comunicação mediada por
+computador para ampliar a expressão individual, e interações
+colaborativas entre grupos.
+IV. APRENDIZAGEM COLABORATIVA
+A aprendizagem colaborativa apoiada por computadores –
+CSCL – é um método de ensino mediado por recursos
+computacionais onde um grupo formado por duas, ou mais
+pessoas, reconstroem conhecimentos a partir de discussões e
+reflexões coletivas. De acordo com [9] tal fato só é possível
+porque o CSCL oferece as ferramentas tecnológicas
+necessárias para um "compartilhamento virtual" dos
+entendimentos sobre os temas propostos.
+A colaboração é vista como o processo de construção de
+significado de modo compartilhado. Essa construção de
+significado não é vista como uma expressão de representações
+mentais dos participantes individuais, mas sim, como o
+resultado da interação entre os indivíduos durante a realização
+de uma atividade em conjunto. A construção de significado
+pode ser analisada como se ocorresse durante as sequências de
+declarações ou mensagens dos múltiplos participantes. “O
+significado não é atribuível às declarações individuais dos
+alunos porque o significado tipicamente depende das
+referências indexadas à situação compartilhada, das referências
+elípticas para declarações anteriores e das preferências que
+serão usadas em declarações futuras”. [9].
+Segundo [9] “os participantes não se isolam para realizar
+atividades individualmente, mas mantêm-se engajados em uma
+tarefa compartilhada que é construída e mantida pelo e para o
+grupo como tal”. O fenômeno central da atividade colaborativa
+é a negociação e o compartilhamento social de como o grupo
+entende o tema que está em discussão. Dessa forma, o
+conhecimento é construído pelo indivíduo a partir de sua
+interação com os demais integrantes do grupo durante a
+realização de atividades.
+De acordo com [10], os indivíduos têm capacidade de
+desenvolvimento diferente em situações colaborativas das que
+eles apresentam quando estão trabalhando sozinhos. Os seres
+humanos, como seres sociais, vivem em constante interação
+entre si e com o meio no qual estão inseridos. Para [9] essa
+relação é dialética no sentido que o meio afeta o indivíduo,
+provocando mudanças neste, que serão refletidas novamente no
+meio. Ao transformar o meio, os seres humanos criam cultura,
+refinam técnicas, instrumentos e transformam a si mesmos:
+desenvolvem suas funções mentais. [9] considera a
+aprendizagem como um processo social, no qual os indivíduos
+constroem seus conhecimentos através da interação com o
+meio e com os demais indivíduos. A interação social representa
+um elemento necessário ao processo de aprendizagem e de
+desenvolvimento do indivíduo.
+V. ESTUDO DE CASO
+O presente trabalho é resultado de uma pesquisa qualitativa
+e quantitativa, no qual foi realizado um estudo de caso com
+ênfase na investigação da aceitação na utilização de blogs
+como ferramenta de auxilio para a educação e aprendizagem
+colaborativa em aulas presenciais do curso de formação
+técnica.
+O estudo foi desenvolvido baseado nas seguintes hipóteses:
+ Hipótese 1: os alunos aprovariam o uso, dado o caráter
+inovador da discussão da ética na aplicação;
+ Hipótese 2: a ferramenta se mostraria eficaz como
+apoio à aula presencial;
+ Hipótese 3: a ferramenta viabilizaria a construção do
+conhecimento e aprendizagem colaborativa;
+ Hipótese 4: haveria diferenças significativas entre a
+opinião dos alunos do curso de formação Integrado ao
+Ensino Médio e do Subseqüente;
+O tema discutido buscou ultrapassar os muros da escola na
+discussão da ética através da utilização dos recursos da web
+2.0.
+Os participantes foram alunos de três turmas da disciplina
+Ética em Informática: duas turmas do ensino técnico
+subseqüente e uma turma ensino técnico integrado com ensino
+médio
+A decisão pelo uso do blog ocorreu em virtude da sua
+funcionalidade, justificando-se pela sua dinamicidade e
+interação possibilitadas pela facilidade de acesso e de
+atualização. Com poucos cliques, qualquer internauta pode
+criar seu próprio diário virtual, mesmo que não tenha
+conhecimentos de programação. A manutenção também é
+simples. Pois, o sistema organiza automaticamente as
+mensagens (posts) do usuário, ainda de ser bem mais fácil
+acrescentar textos a um blog do que a um site tradicional. Além
+CISTI 2011 | 466
+disso, é possível criar diários coletivos, mantidos por vários
+usuários [11].
+Para sistematização do trabalho, inicialmente, foram
+apresentados conceitos teóricos acerca da ética em
+computação, visando construir subsídios teóricos para a defesa
+de um comportamento ético e exemplar compatível com as
+exigências da profissão e da sociedade. Após apresentação dos
+conceitos teóricos referentes à Ética Profissional, Ética no
+Cotidiano, Ética no Serviço Público e Código de Ética da ACM
+(Association for Computer Machine), os alunos foram
+estimulados pelo professor a expandirem tal discussão de
+forma colaborativa em grupo utilizando a ferramenta blog.
+Cada equipe definiu qual a ferramenta disponível na web
+seria utilizada, dentre elas, foram utilizadas: Blog UOL, Blog
+do Google e Blog Spot, por serem ferramentas livres. Cada
+grupo escolheu a ferramenta que mais lhe foi conveniente.
+Alguns optaram pela familiaridade com a ferramenta, outros
+grupos aceitaram a indicação da ferramenta que foi apresentada
+pelos próprios colegas. Para os grupos que não dispunham de
+conhecimento sobre a ferramenta blog, os participantes se
+solidarizaram na apresentação de alternativas para estes.
+A. Pesquisa de Campo
+A pesquisa de campo foi realizada entre junho e agosto de
+2009, com alunos do curso Técnico em Informática em duas
+modalidades de ensino – Integrado com o Ensino Médio
+(diurno) e subseqüente (noturno), do Instituto Federal de
+Educação, Ciência e Tecnologia de Pernambuco – Campus
+Belo Jardim, teve como objetivo investigar a aceitação dos
+alunos de formação técnica quanto ao uso do blog como
+ferramenta colaborativa na interação em aulas presenciais.
+Após a apresentação teórica dos conteúdos em aulas
+presenciais, os alunos foram divididos em grupos de três ou
+quatro membros, cada grupo recebeu um tema relacionado com
+a Ética no Cotidiano, Ética no Serviço Público, Ética
+Profissional e Código de Ética da ACM (Association for
+Computer Machine), e, sob a orientação do professor, foram
+estimulados a ampliar a discussão da ética além dos muros da
+escola, utilizando a ferramenta blog.
+Para validar a aprendizagem colaborativa, os grupos foram
+orientados que, durante o processo de produção dos blogs,
+colaborassem entre si na construção de significado,
+compartilhando nas atividades em grupo. Como produto final,
+seus trabalhos deveriam viabilizar a ampliação das
+competências construídas no decorrer das aulas teóricas para os
+demais grupos (trazendo algo de novo para a discussão) bem
+como, oportunizar a interação entre os colegas de classe,
+comunidade interna e externa através de atividades interativas.
+Os trabalhos foram construídos durante as aulas práticas,
+com apoio do professor. Após a conclusão, cada grupo
+disponibilizou para o restante da classe seus blogs. Durante
+uma semana todos foram orientados a contribuir com os blogs
+dos colegas de forma interativa, favorecendo, desta forma, a
+ampliação dos conhecimentos através das matérias postadas,
+estudos de casos, enquetes, questionários, vídeos, dentre
+outros.
+B. Metodologia da Pesquisa
+Para realização do estudo de caso, aplicou-se um
+questionário online com os alunos das três turmas que estavam
+cursando a disciplina de Ética em Informática, que totalizaram
+60 alunos – 30 do Integrado – ensino médio (diurno) e 30 de
+subseqüente – noite – resultando em um universo de 56
+questionários respondidos e válidos, ou 93% do total de alunos,
+correspondendo a 53% para os alunos de formação Integrado
+ao ensino médio e 47% para os alunos de formação
+subsequente noite.
+O questionário foi elaborado e continha um conjunto de
+perguntas que buscava verificar se havia conhecimento prévio
+da ferramenta, também foi perguntado a respeito do uso de
+outros meios de interação online pelos participantes.
+Para auxiliar a análise, os dados coletados foram
+categorizados em três áreas, a saber:
+ Utilização de ferramentas online de interação:
+ Identificação de conhecimento da ferramenta blog;
+ Identificação da facilidade/dificuldade do uso
+proposto.
+ Utilização como material de apoio à aula
+presencial:
+ Identificação do interesse pelo uso do recurso;
+ Reconhecimento do blog como complemento de
+conteúdo da disciplina.
+ Aprendizagem colaborativa:
+ Identificação do interesse de contribuir para a
+atividade proposta;
+ Identificação da importância de conhecer a opinião
+de outros colegas acerca dos temas de estudo.
+Adicionalmente foi disponibilizado no questionário um
+espaço para que os alunos fizessem comentários.
+VI. DISCUSSÃO DOS RESULTADOS
+A análise dos dados apresentou que cerca de 79% dos
+alunos participantes desta pesquisa conheciam a ferramenta
+blog e que 70% a consideravam de fácil uso. Contudo
+demonstraram haver algumas dificuldades quando ao uso no
+que diz respeito à criação de questionários, bem como, quanto
+a definição do layout da página, principalmente em relação a
+organização do texto e das imagens
+Outro ponto que analisado esteve relacionado à percepção
+dos alunos sobre o suporte que o uso dessas ferramentas pode
+trazer as aulas presenciais. Dos alunos que responderam ao
+questionário, 88% acharam que o uso dos blogs foi importante
+para complementar as atividades dos momentos presenciais,
+sobretudo por possibilitarem a interação entre os participantes,
+através da troca de conhecimentos e opiniões fora da sala de
+aula. Desse modo, os alunos tiveram a oportunidade de
+discutirem o assunto entre si, como também, com outras
+pessoas que não estavam cursando a disciplina, mas que
+CISTI 2011 | 467
+deixaram opiniões e comentários nos blogs criados pelos
+participantes da disciplina.
+Desta forma, a análise dos dados obtidos possibilitou
+observar que:
+1) A maioria dos participantes avaliou a ferramenta como
+interessante e importante, por permitir conhecer a opinião dos
+colegas;
+2) A maioria dos alunos aprovou o uso do blog como
+ferramenta de apoio à aula presencial;
+3) Os alunos do ensino integrado afirmaram, em sua
+maioria, não conhecer a ferramenta, no entanto, consideraram
+a ferramenta de fácil uso comparado aos alunos do ensino
+subsequente;
+4) 50% dos participantes consideraram que as informações
+postadas nos blogs complementaram o conteúdo da disciplina.
+Vale ressaltar que nenhum aluno desprezou o valor das
+informações postadas, enquanto 7% relataram que a
+contribuição das informações foi parcial no que tange a
+construção do seu conhecimento;
+5) Quanto à participação das atividades através da
+contribuição de materiais e comentários, o questionário
+revelou que apenas 5% não consideram interessante, 5%
+apenas em parte e em sua maioria 50% considera interessante;
+6) Ao serem questionados sobre o interesse em conhecer a
+opinião dos pares com relação aos conceitos postados 93%
+acham interessante, por outro lado, apenas 2% não vêem
+importância em tal fato, enquanto 5% acreditam ser
+interessante em parte;
+7) Sobre a construção do conhecimento através da
+discussão, utilizando o blog, 80% afirmaram que esta
+ferramenta aprimorou seus conhecimentos, enquanto que 7%
+afirmaram que não contribuiu e 11% disseram que contribuiu
+parcialmente, 2% não opinaram sobre este ponto.
+Sendo assim, há indícios de que os alunos acharam a
+atividade de criação e manutenção de blogs útil como
+ferramenta para a troca de informações e construção. Há sinais
+de que o blog é uma ferramenta útil como ferramenta
+colaborativa na interação em aulas presenciais. Sendo possível
+sua utilização com alunos adolescentes e adultos, porém
+percebeu-se, nesta pesquisa, uma sensível preferência dos
+alunos da formação subsequente em utilizar tal ferramenta.
+VII. CONCLUSÕES
+Este trabalho teve como objetivo investigar a aceitação dos
+alunos de formação técnica quanto a utilização da ferramenta
+blog como ferramenta colaborativa na interação em aulas
+presenciais.
+Este estudo sinaliza que a ferramenta blog contribui para a
+construção do conhecimento individual e coletivo, pois
+funciona como um veículo de disseminação e troca da
+informação através das diversas possibilidades de atividades
+que podem ser propostas. Através da inserção de links pode-se
+direcionar o aluno para a pesquisa de maneira ordenada,
+minimizando a ocorrência de desvios na navegação, o que pode
+resultar em um maior aproveitamento no estudo online. Disto
+pode resultar a ampliação da interação necessária para
+construção do conhecimento, por mediar às relações entre os
+alunos.
+Com relação às necessidades de melhorias das ferramentas
+blog utilizadas, podem-se evidenciar alguns pontos relevantes
+que foram identificados durante a execução deste estudo e
+estão relacionados ao limite de caracteres para postagem dos
+comentários dos usuários; a falta de suporte técnico; a
+impossibilidade de contabilizar os acessos; a instabilidade do
+sistema; a demora na edição do template para inserção de
+outros recursos que não são oferecidos originalmente pelas
+ferramentas utilizadas.
+As conclusões das análises pelos pesquisadores, na
+amostra, indicam que a utilização da ferramenta, enriqueceu as
+discussões em aula, favorecendo a aprendizagem dos alunos.
+Do ponto de vista da colaboração, há indícios que a ferramenta
+permitiu que a aprendizagem ocorresse a partir do momento
+que os alunos passaram a participar ativamente do processo de
+aprendizagem.
+Os resultados obtidos, nesta pesquisa, forneceram uma
+visão dos participantes em relação a aceitação do blog como
+ferramenta de apoio ao ensino presencial. Entretanto, uma
+limitação deste trabalho concentra-se em não fornecer uma
+visão de outros grupos, participantes, com características
+diferentes das que foram apresentadas. Isto permitiria
+identificar, comparar e validar outras necessidades que, por
+ventura, surgissem.
+REFERENCIAS
+[1] IBOPE (2010). “67,5 milhões de pessoas têm acesso à internet no
+Brasil”. Disponível em:
+http://www.ibope.com.br/calandraWeb/servlet/CalandraRedirect?docid=
+581CAAB33B5EB6CF832576F700654339&temp=6&nome=home_mat
+eria&db=caldb&pub=T&proj=PortalIBOPE. Acesso em: 17 fev. 2011.
+[2] Lévy, P. (1996). “O que é o virtual”. SP: Editora 34. 2ª edição.
+[3] Baltazar, N. e Germano, J. (2006). “Os WeBlogs e a sua apropriação por
+parte dos jovens universitários. - O caso do curso de Ciências da
+Comunicação da Universidade do Algarve” - Escola Superior de
+Educação – Universidade do Algarve – Revista da Ciência de
+Informação e Comunicação – Outubro 2006. Disponível
+em:http://prisma.cetac.up.pt/artigospdf/1_neusa_baltazar_e_joana_germ
+ano_prisma.pdf. Acesso em: 19 ago. 2009.
+[4] Grotto, E. M. B.,et all. (2005). “Interação em ambientes baseados na
+web: uma reflexão necessária”. Disponível em:<
+http://www.cinted.ufrgs.br/ciclo3/af/13-interacao.pdf>. Acesso em: 26
+mar.2009.
+[5] The Horizon Report – New Media Consortium and Educause Learning
+Initiative – Edition 2007. Disponível em: <
+http://www.nmc.org/pdf/2007_Horizon_Report.pdf>. Aceso em: 09 out.
+2010.
+[6] TORI, R. – Educação sem distâncias - Tecnologias interativas na
+redução de distâncias em ensino aprendizagem. Escola do Futuro –
+Universidade de São Paulo. Editora SENAC. São Paulo. 2010.
+[7] Litto, F. M. – Aprendizagem a distância. Editora Imprensa Oficial. São
+Paulo. 2010.
+[8] Brito, J. A. (2010). “Engajamento em atividades assíncronas na
+modalidade de ensino a distancia: requisitos de interfaces colaborativas”.
+Dissertação de mestrado em computação. Universidade Federal de
+Pernambuco (UFPE). Cin. Ciência da Computação (UFPE).
+[9] Stahl, G., Koschmann, T., Suthers, D. (2006). “Aprendizagem
+colaborativa com suporte computacional: Uma perspectiva histórica”.
+Traduzido por Hugo Fuks, Tatiana Escovedo (Português do Brasil).
+CISTI 2011 | 468

@@ -1,0 +1,171 @@
+
+Revista  Eletrônica  Machado  Sobrinho.  Edição  7: 
+A 
+influência  do  uso  das  Tecnologias  da 
+Informação e Comunicação 
+–
+TIC e suas interfaces com as áreas do conhecimento
+.
+2013/1. 
+ISSN: 2178
+-
+9568
+1
+-
+10
+Revista Eletrônica
+Machado Sobrinho
+A TECNOLOGIA DA INFORMAÇÃO COMO FATOR DE SOBREVIVÊNCIA E 
+VANTAGEM COMPETITIVA
+Mariana Paes da Fonseca Maia
+1
+Resumo
+: 
+As mudanças no contexto econômico global e a dinamização dos mercados vêm alterando a 
+maneira como as organizações se posicionam em seus 
+setores. A diferenciação e a sobrevivência das 
+empresas,  antes  condicionadas  principalmente  à  eficiência  produtiva,  agora  se  encontram  também 
+determinadas  pelo  grau  de  conhecimento  e  aprendizado  que  estas  conseguem  gerar  e  reter.  Na  nova 
+Era do Conheciment
+o é necessário, como nunca antes, utilizar as informações de mercado e das partes 
+interessadas  em  prol  da  definição  de  estratégias  assertivas,  eficazes  e  flexíveis,  além  de  em  tempo 
+hábil  e  aos  menores  custos  possíveis.  O  objetivo  do  presente  artigo  é  apre
+sentar  os  benefícios  da 
+Tecnologia  da  Informação  para  a  análise  desse volumoso  conjunto de  dados  e  a tomada de  decisões, 
+quando bem alinhada ao planejamento estratégico de negócios. 
+Palavras
+-
+chave:
+Tecnologia da Informação, Vantagem Competitiva.
+Abstract:
+Changes  in  the  global  economic  context  and  markets  dynamics  are  changing  the  way 
+organizations  are  positioned  in  their  industries.  The  differentiation  and  survival  of  firms,  mainly 
+conditioned prior to production efficiency, now they are also determined b
+y the degree of knowledge 
+and  learning  that  they  can  generate  and  retain.  In  the  new  age  of  knowledge  is  necessary,  as  never 
+before,  using  market  information  and  stakeholders  towards  the  definition  of  assertive
+, 
+effective
+and
+flexible  strategies,  in  a  time
+ly  manner  and  at  the  lowest  cost  possible.  The  aim  of  this  paper
+is  to 
+present  the  benefits  of  Information  Systems
+to  the  analysis  of  this  voluminous  data  set  and  decision 
+making, when properly aligned to strategic business planning.
+Keywords: 
+Information 
+Systems
+, Competitive Advantage.
+Introdução
+As  alterações  na  dialética  da  economia  geraram  importantes  mudanças  no  cenário 
+econômico
+-
+social  em  países  de  todo  o  mundo.  As  indústrias  manufatureiras  colapsaram  e  o 
+valor  dos  produtos  passou  a  ser  atribuído  pou
+co  a  pouco  ao  conhecimento
+(SILVA, 
+et  al
+, 
+2010). 
+Sob  esse  contexto,  evidenciam
+-
+se  como  consequência  novas  práticas  de  produção, 
+comercialização   e   consumo   de   bens   e   serviços,   além   do   fortalecimento   de   arranjos 
+cooperativos  (Sistemas  Locais  de  Inovação)  e  da
+intensificação  do  uso  da  informação  nos 
+processos decisórios. 
+Do  ponto  de  vista  da  gestão  empresarial, 
+Bessant 
+et  al
+.(1999)
+apud
+Lastres 
+&
+Ferraz 
+(1999)
+entendem o processo de aprendizado como constituído de três componentes principais: 
+a   acumulação   e 
+o 
+d
+esenvolvimento  de  “competências  centrais”,  responsáveis  pela 
+1
+Engenheira de Produção e Mestre em Ambiente Construído (UFJF). Professora da Faculdade Machado 
+Sobrinho. E
+-
+mail: 
+marianapfonseca@gmail.com
+Revista  Eletrônica  Machado  Sobrinho.  Edição  7: 
+A 
+influência  do  uso  das  Tecnologias  da 
+Informação e Comunicação 
+–
+TIC e suas interfaces com as áreas do conhecimento
+.
+2013/1. 
+ISSN: 2178
+-
+9568
+2
+-
+10
+Revista Eletrônica
+Machado Sobrinho
+diferenciação  e  potencial  vantagem  competitiva;  a  dimensão  temporal  do  aprendizado  como 
+um  processo  contínuo  e  cumulativo  (de  longo  prazo);  e  sua 
+idiossincrasia
+,  que  o  torna 
+propriedade de uma or
+ganização e dificilmente replicável por outra.
+O   conflito   entre   a   velocidade   no   acesso   às   informações   e   a   capacidade   das 
+orga
+nizações em assimilá
+-
+las e torná
+-
+las úteis às  tomadas de decisão, 
+configura
+ndo
+de fato o 
+aprendizado,  pode  ser  contornado  pela  adoç
+ão  de  processos  de  gestão  estruturados  e  pelo 
+alinhamento da tecnologia da informação com o planejamento estratégico, o que não é tarefa 
+fácil.
+1.
+A tecnologia da informação nas organizações
+Durante  muito  tempo,  o  uso  da  tecnologia  da  informação  pelas  empresa
+s  esteve 
+associado  apenas  ao  emprego  de 
+hardwares
+e 
+softwares
+que  simbolizavam  o  status  de 
+“crescimento empresarial”, sem fundamentalmente incorporarem esses recursos a aplicações 
+objetivas  e  que  agregassem  valor  ao  negócio.  Atualmente,  a  TI  como  suporte 
+a
+o  sistema  de 
+informação
+é vista como responsável pela integração de toda a cadeia valor da empresa e do 
+seu  ambiente  externo,  ampliando  suas  fronteiras  org
+anizacionais  e  contribuindo  para  o
+seu 
+sucesso o
+u, quando mal implementada, para o
+seu fracasso. 
+A T
+I só adquire relevância estratégica em uma organização quando possibilita mapear 
+seus   processos   de   negócio   com   eficiência   e   eficácia;   aplicar   as   melhores   práticas   e 
+metodologias  de  gestão  de  suas  informações;  e  dimensionar  e  estruturar  corretamente
+as 
+nece
+ssidades específicas de suas atividades operacionais, gerenciais e de mercado. 
+De acordo com Plachta (2013), a aplicação da TI deve possuir os seguintes objetivos: 
+Apoiar   os   processos   de   negócio,   garantindo   sua   continuidade; 
+auxiliar na tomada de decisõe
+s; aumentar a produtividade; otimizar a 
+troca  de  informações  internas  e  externas;  garantir  a  segurança  das 
+informações;   buscar   novos   negócios;   e   muito   mais,   ou   seja, 
+“maximizar o negócio”.
+A  figura  1  ilustra  a  integração  da  TI   e  seus  Sistemas  de   Informaçã
+o   com   o 
+Planejamento Estratégico e suas atividades.

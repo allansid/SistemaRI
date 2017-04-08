@@ -1,0 +1,512 @@
+1
+Modelo para avaliar o impacto da Tecnologia da Informação (TI) nas variáveis
+estratégicas dos bancos brasileiros
+Autores: Antonio Carlos Gastaud Maçada e João Luiz Becker
+Resumo:
+Para atingir um estágio de competitividade com instituições internacionais, os bancos, no
+Brasil, têm investido elevadas somas de recursos financeiros em Tecnologia de Informação
+(TI). Os ganhos oriundos da utilização da TI, embora percebidos, são difíceis de medir, já que
+seus efeitos não se evidenciam somente em forma de retornos econômicos. O objetivo do
+trabalho é o desenvolvimento e a validação de um modelo que revele os efeitos da TI sobre as
+variáveis estratégicas dos bancos. As variáveis foram extraídas da literatura de Sistema de
+Informação (SI) no contexto nacional (doméstico) e global (internacional). O processo de
+validação dos constructos e do instrumento de medida foram efetuados em conformidade com
+as orientações do estudo de Benbasat e Moore (1992). Adicionalmente, as variáveis foram
+empiricamente validadas e sua fidedignidade testada. Os dados foram coletados junto a 30
+executivos de dois bancos brasileiros, que combinam o uso da TI com as estratégias
+organizacionais, a fim de obter vantagens competitivas. O modelo proposto e o instrumento
+apresentam utilidade para pesquisadores e executivos na identificação de fatores estratégicos
+específicos face ao uso da TI.
+Introdução
+As organizações industriais e de serviços têm investido tempo, dinheiro e, mesmo, seu
+próprio futuro em Tecnologia de Informação (TI) (Wang, Gopal e Zionts, 1995). Segundo
+vários autores, a concorrência e a rivalidade entre elas são os principais fatores que têm justificado
+os elevados investimentos em TI (Parson, 1983; McFarland, 1984; Clemons, 1986;
+Mahmood e Soon, 1991; Nolan e Crosson, 1996). Mas é necessário cautela, conforme salienta
+Venkatraman (1994), pois os efeitos produzidos pela sua introdução reconfiguram a
+estratégia do negócio, podendo, em muitos casos, redefinir seu próprio escopo. Ainda não é
+de todo evidente que os investimentos em TI melhoram as posições competitivas das organizações
+nos mais variados setores da economia americana (Strassmann, 1997). É, pois, extremamente
+importante saber como são aplicados e gerenciados os recursos da TI e seus
+possíveis efeitos nas variáveis estratégicas da organização.
+A área bancária abrange as organizações que mais têm investido em TI, projetando
+suas estratégias com apoio na sua utilização e aplicação (Nolan e Crosson, 1996). “Fazendo
+um retrospecto, o setor bancário é o lugar mais evidente para se procurar as manifestações
+da tecnologia de informação do século XXI” (Peters, 1993, p.137). De fato, os investimentos
+em TI realizados pela indústria bancária, em países como Estados Unidos e Brasil, acumularam,
+durante o ano de 1996, montantes de 18 bilhões de dólares (Institutional Investitor,
+1996) e 1,5 bilhões de reais (Febraban, 1997), respectivamente. A TI passa a ser um fator de
+sobrevivência para muitos bancos, sendo necessário que seus executivos entendam e
+administrem seus recursos como uma ferramenta para a competitividade.
+Embora haja uma quantidade significativa de pesquisas realizadas na área, muito da
+literatura falha em explicar conclusivamente o impacto estratégico e econômico que os
+investimentos em TI têm sobre a produtividade e performance organizacional (Mahmood,
+1997). Para os autores, apenas um estudo encontrou uma relação positiva e clara entre
+investimentos em TI e performance (Hitt e Brynsolfsson, 1996). Os resultados das pesquisas
+de impacto de TI são falhos e inconclusivos devido a erros em seu processo de medição 
+2
+Brynjolfsson (1993) e Wilson (1993). Conclui-se que há necessidade de mais estudos na área,
+a fim de atender as organizações e seus executivos (Mahmood, 1997). O desenvolvimento de
+instrumentos adequados para investigação, entretanto, é um requisito fundamental.
+O objetivo do presente trabalho é apresentar um modelo de análise dos efeitos da TI
+nas variáveis estratégicas dos bancos e um instrumento dele derivado, bem como os passos
+realizados em sua construção e validação. O estudo está organizado da seguinte forma: na
+seção 1, apresenta-se o problema de pesquisa e a justificativa para os objetivo do trabalho; na
+seção 2, desenvolvem-se os constructos e seleção das variáveis; na seção 3, são relatados os
+procedimentos de pesquisa e, na seção 4, apresenta-se o modelo proposto, em sua forma final;
+e por último, na seção 5, apresentam-se algumas considerações finais.
+2 Desenvolvimento dos constructos do modelo
+ 2.1 Seleção das Variáveis
+ A seleção das variáveis estratégicas afetadas pela TI que servirão de base para o
+modelo de análise foi feita a partir de uma extensa revisão da literatura.
+ Os estudos sobre os efeitos da TI nas organizações têm se desenvolvido durante as
+últimas quatro décadas, a partir do trabalho seminal de Leavitt e Whisler (1958). Markus e
+Robey (1988) revelam os antecedentes históricos da origem desses estudos. Além de Leavitt
+e Whisler, já citados, Simon (1977) dedicou atenção às questões dos efeitos da TI sobre a
+forma das organizações e a natureza do gerenciamento das tarefas. Para Simon, os
+computadores não teriam impacto na natureza hierárquica das organizações, apenas
+centralizariam o processo de decisão. Já Leavitt e Whisler alertavam os administradores para
+os inevitáveis efeitos da TI nas organizações. Um dos grandes desafios na década de 1990,
+segundo Wiseman (1988) seria definir que fatores ou critérios são mais apropriados para
+avaliar o valor estratégico da TI utilizada em um contexto particular. Para Santos e Peffers
+(1991) a TI tem muitos impactos sobre as organizações, afetando produtos, serviços e os
+processos de negócios.
+ Pesquisas na área de Sistemas de Informação (SI) têm sugerido uma variedade de
+fatores que afetam as organizações em sua formulação estratégica e busca de vantagens
+competitivas (Mata, Fuerst e Barney, 1995). A identificação dos primeiros fatores e dos
+efeitos da TI sobre as variáveis estratégicas tiveram origem no trabalho de Porter (1980). O
+modelo sugerido por Porter foi posteriormente ampliado nos trabalhos de Parson (1983),
+MacFarlan (1984), Rockart e Morton (1984), Porter e Millar (1985) e Bakos e Treacy (1988).
+Mahmood e Soon (1991) e Palvia (1997) criticam a validade destes modelos, pois: a) nenhum
+foi desenvolvido sob a forma de modelos explicativos; b) nenhum foi empiricamente testado;
+e c) nenhum conduziu a observações para a tomada de decisão estratégica.
+ Os fatores selecionados para atingir os objetivos desta pesquisa têm por base as
+pesquisas desenvolvidas e validadas por Mahmood e Soon (1991) e Palvia (1997). Os
+modelos propostos pelos autores visam medir os efeitos da TI sobre as variáveis estratégicas
+nos níveis doméstico (nacional) e global (internacional). O modelo de Palvia é um extensão
+do modelo de Mahmood e Soon, que é composto por dez variáveis estratégicas, tendo sido
+aplicado apenas em empresas americanas (contexto doméstico). O modelo ampliado por
+Palvia (1997) para medir os impactos estratégicos da TI na dimensão global é composto por
+vinte variáveis: dez variáveis domésticas adaptadas ao contexto internacional e outras dez
+variáveis extraídas da literatura que relaciona SI com o processo de globalização, que ainda é
+embrionária.
+ As variáveis selecionadas são apresentadas no Quadro 1. 
+3
+Quadro 1: Variáveis Selecionadas para o estudo
+Mahmood e Soon (1991) Nacional Palvia (1997) Internacional
+1.Clientes 1. Redução de Risco de Negócios
+2.Competitividade 2. Outsourcing
+3.Fornecedores 3. Transferência de Conhecimento
+4.Custos de Coleta e Troca 4. Operações Flexíveis
+5.Mercado 5. Recursos
+6.Produtos e Serviços 6. Requisitos de Governos e Países
+7.Estrutura de Custos e Capacidade 7.Recursos Humanos
+8.Eficiência Organizacional Interna 8. Alianças e Crescimento
+9.Eficiência Interorganizacional 9. Fuso Horário
+10.Preços 10. Coordenação
+ 11. Integração
+ 12. Sistemas de Informação
+ 13. Geral
+A escolha das variáveis domésticas e globais para a composição do modelo refletem o
+cenário econômico competitivo atual em que estão inseridos os bancos brasileiros, que são a
+unidade de análise deste trabalho. Esse novo cenário desencadeou o início de um processo de
+restruturação do setor, marcado pela redução de custos, introdução acelerada de novas
+tecnologias e pelo esforço das instituições financeiras em conquistar e manter o cliente, com a
+oferta de novos e sofisticados produtos. Conseqüentemente, as fusões e as alianças entre
+bancos tornaram-se alternativas utilizadas por algumas instituições com o propósito de reduzir
+custos e aumentar a competitividade. As alternativas envolvem obrigatoriamente a utilização
+de TI que permitam um estágio de concorrência com instituições de todo o mundo (Suma
+Econômica, dez., 1996).
+2.2 Como medir os efeitos da TI ?
+Mesmo nos primeiros lugares onde foi aplicada e utilizada a TI, nem sempre os
+ganhos de produtividade foram imediatamente quantificáveis, embora fossem identificáveis,
+revelaram-se difíceis de medir.
+ Os resultados dos estudos sobre impacto da TI não são conclusivos, pois sua análise
+está apoiada na leitura de trabalhos publicados na década de 80 e 90, que investigam apenas
+se os efeitos foram positivos ou negativos, e suas hipóteses estão fundamentadas em questões
+como produtividade e retorno econômico (Barua, Kriebel e Mukhopadhyay, 1995). A ironia,
+segundo Nolan e Croson (1996), é a ênfase dada à economia industrial. Desde que a filosofia
+de administração científica de Frederick Taylor formalizou a análise do processo de produção,
+tornando o status quo mensurável e quantificável, uma alternativa de investimento em
+tecnologia é aconselhável se o valor presente líquido dos fluxos de caixa futuros descontados
+ao custo de capital adequado for positivo.
+As dificuldades de quantificar esses ganhos não significa que os investimentos devam
+ser reduzidos, mas que devem ser desenvolvidos instrumentos mais sofisticados para que se
+possam medir tais benefícios (Nolan e Croson, 1996)
+ Ao analisar os efeitos da TI sobre as organizações americanas, Cornella (1994)
+identificou aspectos que justificam o desenvolvimento de instrumentos mais sofisticados,
+como:
+• os benefícios promovidos pela TI não são visíveis imediatamente; 
+4
+• o impacto da TI é escasso se sua aplicação não vem acompanhada de trocas no
+gerenciamento da organização;
+• a implantação da TI não tem correspondido às necessidades fundamentais da
+empresa;
+• o impacto da TI não se evidencia em forma de retornos econômicos, mas em
+melhorias sociais da qualidade de vida.
+Percebe-se que os métodos tradicionais de avaliação de orçamento de capital não são
+apropriados para avaliar os investimentos de TI, pois seus benefícios, diferentemente dos
+investimentos da tecnologia industrial tradicional, não assumem a forma de fluxos de caixa
+incrementais.
+Este é o nosso desafio: desenvolver modelos de análise que consigam, efetivamente,
+identificar integralmente os benefícios derivados da TI, substancialmente distintos dos
+benefícios derivados de tecnologias tradicionais.
+ Com o objetivo de identificar os efeitos da TI, neste artigo, apresenta-se o processo de
+desenvolvimento e validação de um instrumento para avaliar os possíveis impactos da TI com
+base na percepção dos executivos dos bancos brasileiros. O desenvolvimento do instrumento é
+descrito na seção 3.
+3. Procedimentos de Pesquisa
+ Esta seção descreve o processo de desenvolvimento, validade, fidedignidade e
+refinamento do instrumento utilizado para identificar os efeitos da TI nas variáveis
+estratégicas dos bancos brasileiros.
+ O desafio inicial para o desenvolvimento da pesquisa surgiu a partir da leitura do
+trabalho de Weill e Olson (1989) que salientam as dificuldades de comparação de resultados
+nos estudos sobre impactos ou efeitos da TI nas organizações nos anos oitenta, pois cada
+pesquisador utilizou uma definição diferente de TI. A busca por definições comuns que
+possibilitem comparações com outros estudos é uma orientação descrita no trabalho de
+Kraemer e Dutton (1991). Segundo os autores, o procedimento evita o problema que
+denominaram de “fragmentação” do estudo, e, conseqüentemente, impossibilita a
+confrontação dos resultados com outras pesquisas. O conceito de TI usado nesta pesquisa é: “
+a TI envolve todos os aspectos de computadores (hardware e software), sistemas de
+informação, telecomunicações e automação de escritórios” (Palvia, 1997, p.241).
+Com o objetivo de descrever o processo de validação de constructos e instrumentos de
+medida, Benbasat e Moore (1992), após comparar três estudos na área de SI, sugerem o
+cumprimento de etapas no desenvolvimento de instrumentos mais fidedignos e robustos. A
+Figura 1 apresenta as etapas. 
+5
+Figura 1: O Processo de desenvolvimento e validação de medidas para constructos
+criação operacional da
+definição do construto
+desenvolvimento da rede
+nomológica
+avaliar a validade
+de conteúdo
+avaliar a validade
+convergente/discriminante
+avaliar a confiabilidade
+reavaliar a validade
+convergente/discriminante
+teste das relações
+nomológicas
+desenvolvimento dos itens
+da escala
+Revisão da literatura
+Desenvolvimento Teórico
+“card sorting”
+Alpha de Cronbach
+Guttman’s Lower Bound
+MTMM
+Análise Fatorial
+(exploratória/confirmatória)
+Análise discriminante
+Análise de regressão
+Equação estrutural modelada
+Busca de literatura
+Criatividade
+Método sugerido
+Estágio Teórico
+Estágio Empírico
+Processo
+1
+1
+2
+3
+4
+5
+6
+7
+ Fonte: Benbasat & Moore, 1992, p. 324
+Após a elaboração preliminar do instrumento (processo 1 e 2, Figura 1), composto por
+vinte e três variáveis e oitenta e cinco itens (Quadro 1), a partir de revisão da literatura com
+base nos modelos finais desenvolvidos e validados por Mahmood e Soon (1991) e Palvia
+(1997), efetuaram-se o teste piloto, validações, testes de fidedignidade e validade convergente
+e discriminante, conforme os passos enumerados:
+1. entrevistas com cinco executivos de bancos brasileiros, selecionados pela
+Federação Brasileira da Associações de Bancos (FEBRABAN);
+São cento e quarenta e três bancos associados à FEBRABAN, que representam 93
+% do patrimônio líquido total dos bancos brasileiros.
+2. revisão do instrumento por alunos de pós-graduação em finanças;
+3. revisão do instrumento pelos executivos da Comissão Nacional de Automação
+Bancária (CNAB - FEBRABAN);
+4. aplicação de teste piloto em executivos de dois bancos brasileiros.
+Cada passo de validação e refinamento é descrito a seguir.
+3.1 Validação junto a executivos de bancos brasileiros
+ Após a seleção das variáveis na literatura foram efetuadas entrevistas estruturadas por
+telefone com 5 executivos de bancos selecionados pela FEBRABAN. Nessas entrevistas
+apresentaram-se aos profissionais as variáveis selecionadas. Conjuntamente com essa
+apresentação, foram formuladas quatorze perguntas de resposta aberta para aferir o 
+6
+entendimento dos efeitos da TI nas variáveis estratégicas nos bancos brasileiros. As perguntas
+foram formuladas e extraídas a partir dos trabalhos publicados por Weill e Olson (1989),
+Bender (1986), Harris & Katz (1989), Mahmood e Soon (1991), Brynjolfsson e Hitt (1993),
+Brynjolfsson e Hitt (1996), e Palvia (1997). O resultado dessa etapa foi positivo, sendo que o
+conjunto de variáveis foi mantido na sua integra para o desenvolvimento do instrumento.
+Durante esta etapa o conhecimento dos pesquisadores acerca do tipo de organização em
+estudo também foi ampliado. Basicamente todos os entrevistados apontaram a TI como sendo
+a ferramenta mais importante no processo de implementação das estratégias e na manutenção
+da competitividade.
+3.2 Validação e revisão do questionário pelos estudantes de pós-graduação
+ O instrumento foi distribuído a vinte oito anos estudantes do curso de pós-graduação
+em Finanças na disciplina Sistemas de Informação em Finanças da Universidade do Vale dos
+Sinos (UNISINOS) . A turma era composta por vinte e um executivos de bancos e os outros
+sete executivos financeiros de organizações industriais e de serviços. A partir dos comentários
+recebidos, alguns itens do questionário foram modificados, excluídos ou acrescentados. O
+“lay-out” também foi modificado. O questionário em sua primeira versão foi apresentado com
+vinte e três variáveis e oitenta e cinco itens. Foram eliminados nove itens por redundância e
+duplicidade, e acrescentados dois novos, totalizando setenta e oito itens para o instrumento.
+Utilizou-se um modelo de “card sorting” simplificado.(processo 2)
+3.3 Validação junto aos executivos da FEBRABAN e CNAB
+ Após a realização dos dois primeiros passos, o questionário foi enviado para o CNAB
+que, em conjunto com os executivos da FEBRABAN, refinaram o documento. Vários itens
+foram reescritos e alterados para melhorar a clareza e a precisão da resposta pretendida.
+Alguns itens foram deslocados para outras variáveis e outros foram excluídos.
+ Houve grande evolução nessa fase. O conjunto de variáveis foi simplificado e
+reduzido, devido à redundância em seu conjunto. As variáveis Recursos Humanos, Fuso
+Horário, Coordenação, Integração, Sistemas de Informação, Operações Flexíveis, Outsourcing
+e Alianças e Crescimento foram eliminadas e introduziu-se uma nova: Internacionalização.
+Após estas modificações e realocações, corte de itens, o instrumento ficou estruturado com
+quatorze variáveis e sessenta e oito itens.
+ Os procedimentos com o instrumento descritos anteriormente asseguram a validade de
+conteúdo (processo 4, Figura 1). Para Nachimias e Nachimias (1996) e Hoppen (1996) um
+instrumento de coleta de dados deve ter forma e vocabulário adequados aos propósitos da
+mensuração, e a medida deve representar a substância ou conteúdo do que se quer medir.
+As variáveis do modelo foram operacionalizadas em uma escala de intensidade tipo
+“likert” de 5 pontos (1 = pouco; 5 = muito). Cada item foi apresentado em forma de questão,
+utilizando-se o formato padrão: “ Em que medida a TI afeta ... (afeta o item) ? “
+Na primeira versão do instrumento, distribuída no estudo piloto, os itens foram
+dispostos aleatoriamente.
+3.4 Resultados do Estudo Piloto
+Os respondentes do estudo piloto foram os executivos de dois bancos estaduais
+brasileiros. A escolha foi por conveniência, face às dificuldades em conseguir outros bancos.
+O questionário foi enviado via correio eletrônico e sua distribuição aos executivos 
+7
+coordenadores de departamento dos dois bancos, sendo vinte e um e nove respondentes de
+cada.
+3.4.1 Coeficientes de fidedignidade
+Inicialmente, procedeu-se uma análise de fidedignidade (processo 5, Figura 1), usando
+o coeficiente alfa de Cronbach, que utiliza o método de consistência interna. Os resultados
+encontram-se no Quadro 2.
+Quadro 2: Coeficientes Alfa de Cronbach das pesquisas e das versões do modelo proposto
+Variáveis Alfa de Cronbach
+ Mahmood
+& Soon
+(1991)
+Palvia
+(1997)
+Modelo
+Proposto
+1 versão
+Modelo
+Proposto
+Versão Final
+1. Tomadores de Recursos Financeiros(Clientes) 0.67 0.59 0.66
+2. Competitividade 0.90 0.67 0.73
+3. Fornecedores de Recursos Financeiros(Clientes) 0.92 0.73 0.74
+4. Coleta e Troca de Informações 0.81 0.45 0.98
+5. Mercado 0.90 0.78 0.66
+6. Produtos e Serviços 0.84 0.60 0.72
+7. Estrutura de Custos e Capacidade 0.93 0.80 0.75
+8. Eficiência Organizacional Interna 0.94 0.80 0.80
+9. Eficiência Interorganizacional 0.90 0.59 0.68
+10. Preços 0.96 0.54 -
+11. Redução de Risco 0.91 0.70 0.70
+12. Internacionalização - - 0.57 -
+13. Aquisição de Conhecimento - 0.91 0.60 0.60
+14. Requisitos de Governos e Países - 0.93 0.35 -
+Instrumento 0.93 0.99 0.95 0.92
+A fidedignidade de cada variável foi examinada. Os coeficientes, como atesta o
+Quadro 2, estão no intervalo 0.60 e 0.98. O coeficiente de 0.92 para o instrumento como um
+todo garante a sua fidedignidade.
+3.4.2 Correlação entre escores dos itens e escores totais das variáveis
+Com o objetivo de incluir apenas itens relevantes em cada variável, assim como para
+aumentar o poder dos testes estatísticos que serão empregados nas próximas etapas da
+pesquisa, procedeu-se a uma análise de correlação item-total corrigida. Neste procedimento,
+utilizam-se os coeficientes de correlação entre cada item e o escore corrigido (escore do grupo
+menos o escore do item) de seu grupo. Se o coeficiente de correlação não for
+significantemente diferente de zero (nível de significância maior que 0.01), o item deve ser
+eliminado do instrumento. Para aumentar o poder dos testes empregados, Baroudi e
+Orlikowski (1989) sugerem a aplicação baixos níveis de significância.
+Esse procedimento eliminou vinte e nove itens do instrumento, incluindo aqueles
+relativas às variáveis Preços, Internacionalização, e Requisitos de Governos e Países, que
+foram, conseqüentemente, também eliminadas. Os itens remanescentes apresentam
+coeficientes de correlação item-total corrigidos, variando de 0.42 a 0.97, o que sugere que
+esses itens são significantemente correlacionados com o conteúdo de seus constructos. O 
+8
+Quadro 3 apresenta o refinamento sucessivo do instrumento, relativamente ao número de itens
+de cada variável, obtido no processo de validação.
+3.4.3 Validade convergente e discriminante
+A validação convergente e discriminante (processo 4, Figura 1) do modelo foi obtida
+usando-se o método da matriz multi-traço/multi-método (MTMM) (processo 6, Figura 1). A
+validação convergente exige correlações positivas entre os itens do mesmo grupo. No
+presente estudo, todas as correlações entre os itens remanescentes de um mesmo grupo são
+significantemente positivas em nível de 0.001. Com tal performance, o processo de validação
+pôde ser prosseguido, com a análise de validade discriminante.
+A validade discriminante de cada item é testada através da contagem do número de
+vezes (k) que um item correlaciona-se mais fortemente com itens de outras variáveis do que
+com itens de sua própria variável (uma violação). Campbell e Fiske apud Mahmood e Soon
+(1991) sugerem que o valor de k não deve ser superior a 50% do total de comparações
+possíveis. Após este procedimento, outros dez itens foram eliminados do instrumento, ficando
+este estruturado com vinte e nove itens e onze variáveis (ver Quadro 3).
+Quadro 3: Refinamento sucessivo do instrumento
+Variáveis Número de itens
+ Modelo
+Proposto
+1a
+ Versão
+Correlação
+Item Total
+2a
+ Versão
+Validação
+Convergente e
+Discriminante
+3a
+ Versão
+Modelo
+Proposto
+Versão Final
+1.Tomadores de Recursos Financeiros 3 2 2 2
+2.Competitividade 2 2 2 2
+3.Fornecedores de Recursos Financeiros 5 3 3 3
+4.Coleta e Troca de Informações 3 2 2 2
+5.Mercado 10 7 3 3
+6.Produtos e Serviços 3 2 2 2
+7.Estrutura de Custos e Capacidade 11 8 4 4
+8.Eficiência Organizacional Interna 9 6 4 4
+9.Eficiência Interorganizacional 6 3 3 3
+10.Preços 2 - - -
+11.Redução de Risco 2 2 2 2
+12.Internacionalização 6 - - -
+13.Aquisição de Conhecimento 2 2 2 2
+14.Requisitos de Governos e Países 4 - - -
+Total Itens 68 39 29 29 
+9
+Estrutura de Custos e
+Capacidade 7
+Eficiência
+Organizacional 8
+Efeitos da TI sobre
+as variáveis
+estratégicas
+4. Modelo Final
+O modelo final é resultado dos procedimentos de pesquisa descritos na seção 3.
+ Figura 2: Modelo Final
+5. Considerações Finais
+Este artigo apresentou o processo de desenvolvimento de um modelo para medir os
+efeitos da TI nas variáveis estratégicas nos bancos brasileiros. O modelo é uma extensão dos
+dois trabalhos que focalizaram os efeitos da TI no contexto internacional e nacional. As
+variáveis utilizadas foram empiricamente validadas e suas fidedignidades testadas.
+ O modelo desenvolvido neste trabalho tem implicações para pesquisadores e
+administradores. O modelo é composto por variáveis que podem ser testadas empiricamente
+em novas pesquisas sobre os impactos da TI, nas variáveis estratégias, em outros tipos de
+organizações. Pode também apoiar pesquisadores no processo de elaboração, refinamento e
+validação de novos modelos. O processo de desenvolvimento e validação de medidas para
+constructos deve ser cuidadosamente efetuado e revisado. O cumprimento dos processos de
+validação de constructos sugeridos por Benbasat e Moore (1991) contribuíram para a
+elaboração do instrumento mais fidedigno e eficaz.
+Administradores podem usar o modelo para observar criticamente suas organizações,
+prospectando o impacto da TI nas variáveis estratégicas e seu alinhamento com os negócios.
+Ao utilizar o conjunto de variáveis contidos no instrumento, uma organização pode
+determinar se a TI pode ser utilizada para obtenção de vantagem competitiva. Outra aplicação
+prática é avaliar se seus executivos são capazes de perceber os efeitos da TI e suas relações
+com as estratégias da organização.
+Tomadores de
+Fundos (Clientes) 1
+Competitividade 2 Fornecedores de
+Recursos (Clientes) 3
+Coleta e Troca de
+Informações 4
+Mercado 5
+Produtos e Serviços 6
+Eficiência
+Interorganizacional 9
+Redução do
+Risco 11
+Aquisição de
+Conhecimento 13
+10
+6. Referencias Bibliográficas:
+BAKOS, J. L., e TREACY, M. E. “Information Tecnology and Corporate Strategy: A
+Research Perspective.” MIS Quarterly, Vol. 10, n.2, June 1988.
+BAROUDI, J. J.; ORLIKOWSK, W. J. “The Problem of Statistical Power in MIS Research.”
+MIS Quarterly, Vol. 1, n. 13, 1989, p.87-106
+BARUA, A.; KRIEBEL, C. H. And MURKHOPHYAY, T. “Information technologies and
+business value: an analytic and empirical investigation.” Information Systems Research,
+Vol. 6, n. 1, p.3-23, March. 1995.
+BENBASAT, I.; MOORE, G. C. “Development of Measures of Studing Emerging
+Technologies.” Proceedings, Hawaii International Conference on Systems Science
+(HICSS), Vol. 4, jan. 1992, p. 315-324.
+BENDER, D. H. “Financial impact of information processing”. Journal of Management
+Information Systems, , Vol. 2, n. 3, 1986, p. 22-32.
+BRYNJOLFSSON, E ; HITT, L. M. “Paradox Lost? Firm-Level Evidence of High Returns to
+Information Systems Spending”. Management Science, April 1993.
+BRYNJOLFSSON, E. “The Productivity Paradox of Information Technology: Review and
+Assessment.” Communications of the ACM, December, 1993.
+CLEMONS, E. K. “Information systems for sustainable competitive advantage.” Information
+and Management, n.11, 1986, p.131-136.
+CORNELLA, A. “Los recursos de informacion: ventaja competitiva de las empresas.”
+McGraw-Hill/Interamericana de España, 1994.
+FEBRABAN. I Pesquisa Nacional de Tecnologia Bancária – 1997. Ernst & Young, Relatório
+de Pesquisa, São Paulo, 1997.
+HARRIS, S. E. and KATZ, J. L. “Differentiating Organizational Performance Using
+Information Technology Managerial Control Ratios in the Insurence Industry.” Office:
+Technology and People, Vol. 5, n. 4, December 1989, p.275-297.
+HITT, L. M.; BRYNJOLFSSON, E. “Productivity, Business Profitability and Consumer
+Surplus: Three Different Measures of Information Technology Value.” MIS Quarterly, ,
+June 1996, p.121-142
+HOPPEN, N.; LOPOINTE, L. MOREAU, E. “Um guia para avaliação de artigos de pesquisa
+em sistemas de informação.” Cadernos de Estudos Programa de Pós-graduação em
+Administração -UFRGS -, 1996.
+KRAEMER, K. L.; DUTTON, W. H. “Survey Research in the Study of Management
+Information Systems.” In: Harvard Business School Research Colloquium. Chapter 1,
+1991, p.3-57.
+LEAVITT, H. J.; WHISLER, T. L. “Management in the 1980s”. Harvard Business Review,
+n.. 36, 1958, p.41-48.
+MAHMOOD, M. A. “How Information Technology Resources Affect Organizational
+Performance and Productivity.” Editorial Preface, Information Resources Management
+Journal, Winter, 1997.
+MAHMOOD, M. A.; SOON, S. K. “A Comprehensive Model for Measuring the Potencial
+Impact of Information Technology on Organizational Strategic Variables.” Decision
+11
+Sciences, Vol 22, n.4, 1991, p.869-897.
+MARKUS, L. M.; ROBEY, D. “Information Technology and Organizational Change: Causal
+Structure in Theory and Research.” Management Science, Vol.34, n. 5, May 1988, p.583-
+598.
+MATA, F. J.; FUERST, W. L..; BARNEY J. B. “Information Technology and Sustained
+Competitive Advantage: A Resource-Based Analysis.” MIS Quarterly, Vol.19, n. 4,
+December, p.487-506, 1995.
+McFARLAN, F. W. “Information Technology changes the way you compete.” Harvard
+Business Review, Vol. 3, n. 62, ,1984, p.98-103
+NACHIMIAS, C. F.; NACHIMIAS, D. “Research Methods in the Social Sciences.” St.
+Martin’s Press Inc, 1996.
+NOLAN, R. L.; CROSON, D. C. “Destruição criativa: um processo de seis etapas para
+transformar sua organização.” Campus, 1996, p. 314.
+PALVIA, P. C. “Developing a model of the global and strategic impact of information
+technology.”. Information and Management, n. 32, 1997, p.229-244.
+PARSON, G. L. “Information Technology: A new competitive weapon.” Sloan Management
+Review, 1983, Vol. 1, n. 25, p.3-14.
+PETERS, T. “Rompendo as Barreiras da Administração, A Necessária Desorganização para
+Enfrentar a Nova Realidade.” Editora Harbra, São Paulo, SP, 1993.
+PORTER, M.; MILLAR, V. E. “How Information gives you competitive advantage.”
+Harvard Business Review, Vol. 63, n.4, 1985. p.149-161
+ROCKART, J. F.; SCOTT, M. S. “Implications of changes in information technology for
+corporate strategy.” Interfaces, Vol. 1,n. 14, 1984, p. 84-95.
+SANTOS, B. L.; PEFFERS, K. “The Effects of Early Adoption of Information Technology:
+na Empirical Study.” Proceedings of the Twelfth International Conference on Information
+Systems. New York, December, 1991, p.16-18
+SIMON, H. A. “The New Science of Management Decision.” Prentice-Hall, Englewood, New
+York, New Jersey, 1977.
+STRASSMANN, P. A . “The Squandered Computer: evaluating the business alignment of
+information technology.” The Information Economics Press, USA, 1997.
+VENKATRAMAN, N. “IT – Enable Business Transformation: From Automation to Business
+Scope Redefinition.” Sloan Management Review, , Winter 1994, p. 73-87.
+WANG, C. H.; GOPAL, R. D.; ZIONTS, S. “Use of Data Envelopment Analysis in Assessing
+Information Technology Impact on Firm Performance.” State University of New York at
+Buffalo / Zionts Home Page, Working Paper, April,1995, pp. 1-31.
+WEILL, P.; OLSON, M. H. “Managing Investment in Information Technology: Mini Case
+exemplos and implications.” MIS Quarterly, March 1989, p.3-17.
+WILSON, D. D. “Assessing the Impact of Information Technology on Organizational
+performance.” In Strategic Information Technology Management, R. Banker, R.
+Kauffman, and M. A . Mahmood (eds.) Idea Group, Harrisburg, PA, 1993.
+WISEMAN, C. “Strategic Information Systems: Trends and Challenges over the next
+decade.” Information Management Review, Vol. 4, n. 1. 1988. 

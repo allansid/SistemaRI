@@ -1,0 +1,37 @@
+Tecnologia da Informação Aplicada à Gestão do Conhecimento
+Rodrigo Baroni de Carvalho
+Marta Araújo Tavares Ferreira*
+O papel principal da Tecnologia da Informação na Gestão do Conhecimento consiste
+em ampliar o alcance e acelerar a velocidade de transferência do conhecimento. As
+ferramentas de Gestão do Conhecimento pretendem auxiliar no processo de captura e
+estruturação do conhecimento de grupos de indivíduos, disponibilizando este
+conhecimento em uma base compartilhada por toda a organização.
+O objetivo das ferramentas de Gestão do Conhecimento é modelar parte do
+conhecimento que existe nas cabeças das pessoas e nos documentos corporativos,
+disponibilizando-o para toda a organização. A mera existência de conhecimento na
+empresa é de pouco valor, se este não estiver acessível. Com estas ferramentas
+pretende-se que o conhecimento possa fluir através de redes de comunidades,
+transformando a tecnologia em um meio e o conhecimento em uma mensagem.
+No entanto, é importante ressaltar que a Tecnologia da Informação desempenha um
+papel de infra-estrutura, pois o tema Gestão do Conhecimento envolve também
+aspectos humanos e gerenciais. A Gestão do Conhecimento é muito mais do que
+tecnologia, mas certamente a tecnologia faz parte da Gestão do Conhecimento.
+O maior desafio para as ferramentas de Gestão do Conhecimento está em como obter
+o conhecimento que se encontra disperso na organização e representá-lo de uma
+forma acessível para todos. Este aspecto toma dimensões ainda mais críticas quando
+se percebe que os processos responsáveis pela diferenciação da empresa no mercado
+são justamente os menos estruturados, envolvendo portanto muita concentração do
+conhecimento. Algumas propostas para a representação do conhecimento, como os
+diagramas de estrutura do conhecimento e os mapas do conhecimento, têm sido
+implementadas por algumas ferramentas. Implementações destas ferramentas incluem
+repositórios de conhecimento, sistemas de apoio a decisão baseados em casos, mapas
+do conhecimento, softwares de workgroup como suporte a redes de competência,
+softwares de modelagem de processos ou até mesmo sistemas especialistas e redes
+neurais. Esta diversidade de abordagens tem confundido as organizações no momento
+da escolha da solução mais adequada para o seu tipo de problema.
+Sem que se faça uma avaliação correta, as ferramentas de Gestão do Conhecimento
+podem ser sub-utilizadas, tornando-se mais um software inútil e caro na prateleira.
+Portanto, o uso adequado destas ferramentas será um aspecto crítico para as
+organizações que pretendem potencializar a Tecnologia da Informação como veículo
+de suporte para a Gestão do Conhecimento.
+*Professora

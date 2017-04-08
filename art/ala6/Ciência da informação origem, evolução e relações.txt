@@ -1,0 +1,1394 @@
+1 Introdução
+Oobjetivo deste ensaio é explorar a evolução e a natureza mutante da ciência
+da informação (CI). Pretendo realizar esta exploração do ponto de vista de
+sua problemática, atendendo ao argumento de POPPER (1972) de que "...
+não somos estudantes de assuntos, mas estudantes de problemas. E os problemas
+constituem os recortes de qualquer assunto ou disciplina." Um campo é definido pelos
+problemas que são propostos e a CI é definida como um campo englobando, tanto a
+pesquisa científica quanto a prática profissional, pelos problemas que propõe e pelos
+métodos que escolheu, ao longo do tempo, para solucioná-Ios. Qualquer campo,
+41
+Perspec. Ci. Inf., Belo Horizonte, v. 1, n. 1, p. 41-62, jan./jun. 1996
+1 Trabalho apresentado na International Conference on Conceptions of Library and Information Science: historical,
+empirical and theoretical perspectives. Aug.26-28, 1991. University of Tampere, Finland. Traduzido por Ana Maria
+P. Cardoso (Professora adjunta da Escola de Biblioteconomia da UFMG).
+2 School of Communication, Information and Library Studies, Rutgers University, USA.
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
+Evolução da ciência da informação (CI) enfocando os problemas surgidos ao longo dos
+tempos. A origem histórica da CI é discutida, juntamente com seu papel social na evolução
+da sociedade da informação. O trabalho de recuperação da informação é analisado em
+termos de sua influência no desenvolvimento da CI e da indústria da informação. A evolução
+dos diferentes enfoques do problema é apresentada e proposta uma definição
+contemporânea de CI. São examinadas as relações interdisciplinares com quatro campos:
+biblioteconomia, ciência da computação, ciência cognitiva (incluindo inteligência artificial) e
+comunicação. Como conclusão são sumariadas algumas questões e problemas enfrentados
+contemporaneamente pela CI.
+Tefko Saracevic²
+Ciência da informação:
+origem, evolução e relações¹
+incluindo a CI, não pode ser entendido ou explorado através apenas de definições
+léxicas ou ontológicas.
+Três são as características gerais que constituem a razão da existência e da
+evolução da CI; outros campos compartilham-nas. Primeira, a CI é, por natureza,
+interdisciplinar, embora suas relações com outras disciplinas estejam mudando. A
+evolução interdisciplinar está longe de ser completada. Segunda, a CI está
+inexoravelmente ligada à tecnologia da informação. O imperativo tecnológico
+determina a CI, como ocorre também em outros campos. Em sentido amplo, o
+imperativo tecnológico está impondo a transformação da sociedade moderna em
+sociedade da informa ão, era da informa ão ou sociedade p s-industrial. Terceira, a CI
+é, juntamente com muitas outras disciplinas, uma participante ativa e deliberada na
+evolução da sociedade da informação. A CI teve e tem um importante papel a
+desempenhar por sua forte dimensão social e humana, que ultrapassa a tecnologia.
+Essas três características ou razões constituem o modelo para compreensão do
+passado, presente e futuro da CI e dos problemas e questões que ela enfrenta.
+2 Origem e antecedentes sociais
+Como muitos outros campos interdisciplinares (como ciência da computação,
+pesquisa operacional) a CI teve sua origem no bojo da revolução científica e técnica
+que se seguiu à Segunda Guerra Mundial. Esse processo de emergência de novos
+campos ou de refinamento/substituição de conexões interdisciplinares dos campos
+antigos, de forma alguma está terminado, como testemunha a emergência, na última
+década ou pouco mais, da ciência cognitiva. Portanto, a CI está seguindo os mesmos
+passos evolutivos de muitos outros campos.
+Dentre os eventos históricos marcantes, o ímpeto de desenvolvimento e a
+própria origem da CI podem ser identificados com o artigo de VANNEVAR BUSH,
+respeitado cientista do MIT e chefe do esforço científico americano durante a Segunda
+Guerra Mundial (BUSH,1945). Nesse importante artigo, BUSH fez duas coisas: (1)
+definiu sucintamente um problema crítico que estava por muito tempo na cabeça das
+pessoas, e (2) propôs uma solução que seria um ajuste tecnológico, em consonância
+com o espírito do tempo, além de estrategicamente atrativa. O problema era (e,
+basicamente, ainda é) "a tarefa massiva de tornar mais acessível, um acervo crescente
+de conhecimento"; BUSH identificou o problema da explosão informacional- o
+irreprimível crescimento exponencial da informação e de seus registros,
+particularmente em ciência e tecnologia. A solução por ele proposta era a de usar as
+incipientes tecnologias de informação para combater o problema. E foi mais longe,
+propôs uma máquina chamada MEMEX, incorporando (em suas palavras) a
+Perspec. Ci. Inf., Belo Horizonte, v. 1, n. 1, p. 41-62, jan./jun. 1996
+42
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
+capacidade de associar idéias, que duplicaria "os processos mentais artificialmente". É
+bastante evidente a antecipação do nascimento da CI e, até mesmo, da inteligência
+artificial.
+Cientistas e engenheiros de todo o mundo, e os mais importantes governos e
+agências de financiamento em muitos países ouviram e agiram. Nos Estados Unidos,
+o Congresso e outras agências governamentais aprovaram, durante os anos 50 e 60,
+inúmeros programas estratégicos que financiaram os esforços em larga escala para
+controlar a explosão informacional, primeiro na ciência e tecnologia, e depois em todos
+os outros campos. Empresas privadas uniram-se a eles. Eventualmente, esses
+programas e esforços foram responsáveis pelo desenvolvimento da moderna indústria
+da informação e das concepções que a direcionam.
+A lógica estratégica original que fundamentou tais programas e esforços era a
+seguinte: uma vez que a ciência e a tecnologia são críticas para a sociedade (por
+exemplo, para a economia, saúde, comércio, defesa) é também crítico prover os meios
+para o fornecimento de informações relevantes para indivíduos, grupos e organizações
+envolvidas com a ciência e a tecnologia, já que a informação é um dos mais
+importantes insumos para se atingir e sustentar o desenvolvimento em tais áreas.
+Posteriormente, essa justificativa, baseada na importância estratégica da informação,
+foi estendida a todos os campos, a todas as tarefas humanas e a todos os tipos de
+empreendimentos. Esta justificativa foi e é aplicada globalmente. Atualmente, ela
+reapareceu entre outros, nos esforços de companhias e agências em fornecer
+inteligência estratégica ou competitiva, e em diferentes programas de informação da
+União Européia e de outros países.
+Como WERSIG & NEVELLlNG (1975) apontaram, a CI desenvolveu-se
+historicamente porque os problemas informacionais modificaram completamente sua
+relevância para a sociedade ou, em suas palavras, "atualmente, transmitir o
+conhecimento para aqueles que dele necessitam é uma responsabilidade social, e
+essa responsabilidade social parece ser o verdadeiro fundamento da CI". Problemas
+informacionais existem há longo tempo, sempre estiveram mais ou menos presentes,
+mas sua importância real ou percebida mudou e essa mudança foi responsável pelo
+surgimento da CI, e não apenas dela.
+Apesar de os Estados Unidos desempenharem o papel mais proeminente no
+desenvolvimento da CI (como fizeram com a ciência da computação), nem os
+problemas informacionais nem a CI são americanos em sua natureza. Eles são
+internacionais ou globais. Não existe mais uma "CI americana", assim como não
+existem ciência da computação ou ciência cognitiva americanas. A evolução da CI nos
+vários países ou regiões acompanhou diferentes acontecimentos ou prioridades
+distintas, mas a justificativa e os conceitos básicos são os mesmos globalmente. O
+despertar da CI foi o mesmo em todo o mundo.
+43
+Perspec. Ci. Inf., Belo Horizonte, v. 1, n. 1, p. 41-62, jan./jun. 1996
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
+3 Evolução da recuperação da informação³
+Nos anos 50, uma massa crítica de cientistas, engenheiros e empreendedores
+começaram entusiasticamente a trabalhar o problema e a solução apontados por
+BUSH. Nos anos 60, esse trabalho tornou-se uma atividade relativamente ampla, bem
+financiada e organizada, que deu origem a debates estimulantes e a acalorada
+argumentação acerca das melhores e mais adequadas soluções (técnicas, conceitos,
+sistemas, etc).
+Calvin MOOERS (1951) cunhou o termo recuperação da informação,
+destacando que ele "engloba os aspectos intelectuais da descrição de informações e
+suas especificidades para a busca, além de quaisquer sistemas, técnicas ou máquinas
+empregados para o desempenho da operação."
+Considerando o problema da informação conforme definido, isto é, a explosão
+informacional, a recuperação da informação tornou-se uma solução bem sucedida
+encontrada pela CI e em processo de desenvolvimento até hoje. Como toda solução
+suscita seus próprios e específicos problemas, assim também a recuperação da
+informação e esses problemas estão contidos na concepção proposta por MOOERS:
+a) como descrever intelectualmente a informação?
+b) como especificar intelectualmente a busca?
+c) que sistemas, técnicas ou máquinas devem ser empregados?
+Embora tenham surgido outros problemas, mais específicos, esses três
+continuam fundamentais ainda hoje.
+De tais questões, surgiu uma grande variedade de conceitos e construtos
+teóricos, empíricos e pragmáticos, bem como numerosas realizações práticas. Muitos
+exemplos históricos podem ilustrar a marcante evolução de sistemas, técnicas e/ou
+máquinas utilizados para recuperação da informação. Sua variedade vai dos cartões
+perfurados aos CD-ROMs e acesso on line; dos sistemas não-interativos àqueles de
+múltiplas possibilidades de interação, com interfaces inteligentes, transformando a
+recuperação de informação em um processo altamente interativo; de bases
+documentais para bases de conhecimento; dos textos escritos aos multimídia; da
+recuperação de citações à recuperação de textos completos; e ainda aos sistemas
+inteligentes e de respostas a perguntas.
+O trabalho determinado pela necessidade de recuperar informações suscitou
+questões e promoveu pesquisas exploratórias de fenômenos, processos e variáveis,
+bem como das causas, efeitos, comportamentos e manifestações relacionados.
+Perspec. Ci. Inf., Belo Horizonte, v. 1, n. 1, p. 41-62, jan./jun. 1996
+3 No original "INFORMATION RETRIEVAL"
+44
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
+Historicamente, este fato conduziu a estudos teóricos e experimentais sobre a natureza
+da informação, a estrutura do conhecimento e seus registros (incluindo bibliometria), o
+uso e os usuários, levando a estudos do comportamento humano frente à informação;
+a interação homem-computador, com ênfase no lado humano da equação; relevância,
+utilidade, obsolescência e outros atributos do uso da informação juntamente com
+medidas e métodos de avaliação dos sistemas de recuperação da informação;
+economia, impacto e valor da informação, dentre outros.
+Bastante significativa, também, foi a emergência do pragmatismo na aplicação
+empresarial da recuperação da informação: a indústria informacional ou, para ser mais
+preciso, o setor que lida com a criação e distribuição de bases de dados e de serviços
+on line decorrentes, bem como o acesso à informação e sua disseminação. Essa
+indústria da informação tem suas raízes diretamente relacionadas com os trabalhos de
+recuperação da informação dos anos 50 e 60, que culminaram com a emergência de
+serviços on line nos 70 e com a viabilização internacional da indústria da informação
+nos anos 80.
+Resumindo, o trabalho com a recuperação da informação foi responsável pelo
+desenvolvimento de inúmeras aplicações bem sucedidas (produtos, sistemas, redes,
+serviços). Mas, também, foi o responsável por duas outras coisas: primeiro, pelo
+desenvolvimento da CI como um campo onde se interpenetram os componentes
+científicos e profissionais. Certamente, a recuperação da informação não foi a única
+responsável pelo desenvolvimento da CI, mas pode ser considerada como principal; ao
+longo do tempo, a CI ultrapassou a recuperação da informação, mas os problemas
+principais tiveram sua origem aí e ainda constituem seu núcleo. Segundo, a
+recuperação da informação influenciou a emergência, a forma e a evolução da indústria
+informacional. Novamente, a recuperação da informação não foi o único fator, mas o
+principal. Como a CI, a indústria da informação atualmente não é apenas recuperação
+da informação, mas esta é o seu componente mais importante.
+4 Evolução das definições e da orientação por problemas
+Se aceitamos a afirmativa feita na Introdução de que um campo é definido pelos
+problemas que coloca, então, uma descrição de alguns conceitos pode permitir uma
+visão da evolução da CI relativa aos problemas propostos desde sua origem. O
+conceito de CI como um campo emergiu no início dos anos 60. As discussões feitas
+nessa época foram sintetizadas por BORKO (1968): .
+"CI é a disciplina que investiga as propriedades e o comportamento da informação,
+as forças que governam seu fluxo, e os meios de processá-la para otimizar
+45
+Perspec. Ci. Inf., Belo Horizonte, v. 1, n. 1, p. 41-62, jan./jun. 1996
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
+sua acessibilidade e uso. A CI está ligada ao corpo de conhecimentos relativos à
+origem, coleta, organização, estocagem, recuperação, interpretação, transmissão,
+transformação e uso de informação... Ela tem tanto um componente de ciência
+pura, através da pesquisa dos fundamentos, sem atentar para sua aplicação,
+quanto um componente de ciência aplicada, ao desenvolver produtos e serviços. "
+Na década de 70, o conceito e a abrangência da CI enquanto ciência foram
+afunilados pela definição mais específica dos fenômenos e processos que deveriam
+ser analisados. GOFFMAN (1970) sumarizou-o como se segue:
+"O objetivo da disciplina CI deve ser o de estabelecer um enfoque científico
+homogêneo para estudo dos vários fenômenos que cercam a noção de
+informação, sejam eles encontrados nos processos biológicos, na
+existência humana ou nas máquinas... Conseqüentemente, o assunto deve
+estar ligado ao estabelecimento de um conjunto de princípios fundamentais
+que direcionam o comportamento em todo processo de comunicação
+e seus sistemas de informação associados... (A tarefa da CI) é o estudo
+das propriedades dos processos de comunicação que devem ser traduzidos no
+desenho de um sistema de informação apropriado para uma dada situação física".
+Tendo se iniciado no começo dos anos 60, prolongando-se até hoje, as
+questões acerca da natureza, manifestações e efeitos dos fenômenos básicos (a
+informação, o conhecimento e suas estruturas) e processos (comunicação e uso da
+informação) tornaram-se os principais problemas propostos pela pesquisa básica em
+CI. Incluem-se aí, dentre outras, tentativas de se formalizarem as propriedades da
+informação pela aplicação da teoria da informação, da teoria das decisões e outros
+construtos da ciência cognitiva, da lógica e/ou da filosofia; várias formas de estudos de
+uso e de usuários; formulações matemáticas da dinâmica das comunicações (como a
+teoria epidêmica da comunicação); ricas análises em bibliometria e cienciometria, pela
+quantificação das estruturas do conhecimento (como a literatura e a esfera científica) e
+de seus efeitos (como as redes de citações), etc. Portanto, paralelamente com a
+aplicação da pesquisa e desenvolvimento, principalmente centrados em torno da
+recuperação da informação, uma linha básica de pesquisa evoluiu para CI, sendo em
+alguns casos tão rigorosa, matemática, lógica ou estatisticamente, como qualquer
+outra pesquisa científica similar.
+Por volta dos anos 70, o paradigma da recuperação da informação deslocou-se
+em direção à uma contextualização mais ampla, voltando-se para os usuários e suas
+interações. No sentido dado por POPPER, esse fato reflete uma compreensão mais
+aprofundada do problema do que originalmente identificado por MOOERS. Discutindo
+os princípios da recuperação da informação e a necessidade de se construir
+sua teoria, KOCHEN (1974) afirmou:
+Perspec. Ci. Inf., Belo Horizonte, v. 1, n. 1, p. 41-62, jan./jun. 1996
+46
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
+"Podemos conceitualizar o sistema de conhecimento, no qual se inscreve a
+recuperação de informação, como composto por três partes; (a) as pessoas em
+seu papel de processadores de informações; (b) os documentos em seu papel de
+suportes de informações; (c) os tópicos como representações. Estamos
+interessados no ciclo de vida de cada um destes três objetos e na dinâmica de
+interação entre eles. Portanto, devemos considerar a variável comum aos três:
+tempo. "
+Em meados da década de 70, era amplamente reconhecido que a base da CI
+dizia respeito aos processos de comunicação humana (isto é, um aprofundamento da
+definição proposta por BUSH), ou como BELKIN & ROBERTSON (1976) resumiram:
+"O propósito da CI é facilitar a comunicação de informações entre seres humanos."
+Similarmente, BECKER (1976) definiu a CI como o estudo do modo pelo qual
+as pessoas "criam, usam e comunicam informações".
+Mais recentemente (começo da década de 80) a administração foi
+acrescentada como um elo básico da CI. Na literatura do período, a American Society
+for Information Science (ASIS) definiu-se como: "(A) organização profissional para
+aqueles envolvidos com o desenho, a administração e o uso de sistemas e tecnologias
+de informação."
+Finalmente, devo redefinir a CI nos termos em que evoluiu e no seu enfoque
+contemporâneo (1990):
+“A CIÊNCIA DA INFORMAÇÃO é um campo dedicado às questões científicas e à
+prática profissional voltadas para os problemas da efetiva comunicação do
+conhecimento e de seus registros entre os seres humanos, no contexto social,
+institucional ou individual do uso e das necessidades de informação. No
+tratamento. destas questões são consideradas de particular interesse as vantagens
+das modernas tecnologias informacionais."
+As palavras-chave desta definição indicam as áreas de concentração de
+problemas para a pesquisa e a prática profissional - significando os enfoques
+intelectual e profissional, bem como as fronteiras da CI. Estas são propostas na CI
+através de esforços teóricos, experimentais, profissionais e/ou pragmáticos,
+individualmente ou em várias combinações interrelacionadas. São elas:
+a) efetividade
+b) comunicação humana
+c) conhecimento
+d) registros do conhecimento
+e) informação
+f) necessidades de informação
+g) usos da informação
+h) contexto social
+i) contexto institucional
+47
+Perspec. Ci. Inf., Belo Horizonte, v. 1, n. 1, p. 41-62, jan./jun. 1996
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
+j) contexto individual
+I) tecnologia da informação
+Pela sua própria natureza, essas são áreas-problema altamente complexas e,
+como todos os problemas complexos são tratados de várias formas em muitos campos
+(assim como o são os problemas relacionados com a energia, matéria, vida, etc).
+Então, pelo imperativo dos problemas propostos, a CI é um campo interdisciplinar.
+5 Evolução das relações interdisciplinares
+Os problemas básicos de se compreender a informação e a comunicação, suas
+manifestações, o comportamento informativo humano e os problemas aplicados
+ligados ao "tornar mais acess vel um acervo crescente de conhecimento", incluindo as
+tentativas de ajustes tecnológicos, não podem ser resolvidos no âmbito de uma única
+disciplina. Este fato ficou claro, a partir da afirmação de BUSH, para todos que
+refletiram acerca das complexidades envolvidas. Problemas complexos demandam
+enfoques interdisciplinares e soluções multidisciplinares.
+A interdisciplinaridade foi introduzida na CI pela própria variedade da formação
+de todas as pessoas que se ocuparam com os problemas descritos. Entre os pioneiros
+havia engenheiros, bibliotecários, químicos, lingüistas, filósofos, psicólogos,
+matemáticos, cientistas da computação, homens de negócios e outros vindos de
+diferentes profissões ou ciências. Certamente, nem todas as disciplinas presentes na
+formação dessas pessoas tiveram uma contribuição igualmente relevante, mas essa
+multiplicidade foi responsável pela introdução e permanência do objetivo
+interdisciplinar na CI.
+Enfocarei as relações interdisciplinares entre a CI e quatro campos:
+biblioteconomia, ciência da computação, ciência cognitiva (incluindo inteligência
+artificial - IA) e comunicação. Obviamente, outros campos também mantêm relações
+interdisciplinares com a CI, mas nenhum desenvolveu-as de forma tão pronunciada e
+significante como esses quatro.
+6 Biblioteconomia
+A biblioteconomia tem uma longa e orgulhosa história, remontando a três mil
+anos, devotada à organização, à preservação e ao uso dos registros gráficos humanos.
+Essas atividades são realizadas pelas bibliotecas não apenas como uma organização
+particular ou um tipo de sistema de informação, mas principalmente, como uma
+instituição social, cultural e educacional indispensável, de valor comprovado muitas
+Perspec. Ci. Inf., Belo Horizonte, v. 1, n. 1, p. 41-62, jan./jun. 1996
+48
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
+vezes ao longo da história humana e através das fronteiras das diferentes culturas,
+civilizações, nações ou épocas. SHERA (1972) define as bibliotecas como:
+"...contribuindo para o sistema total de comunicação na sociedade... Embora as
+bibliotecas tenham sido criadas como instrumentos para maximizar a utilização dos
+registros gráficos em benefício da sociedade, elas atingem sua meta trabalhando
+com os indivíduos e através deles, atingem a sociedade. "
+O campo comum entre a biblioteconomia e a CI, que é bastante forte, consiste
+no compartilhamento de seu papel social e sua preocupação comum com os problemas
+da efetiva utilização dos registros gráficos. Mas existem também diferenças
+significativas em alguns aspectos críticos, dentre eles: (1) seleção dos problemas
+propostos e a forma de sua definição; (2) questões teóricas apresentadas e os modelos
+explicativos introduzidos; (3) natureza e grau de experimentação e desenvolvimento
+empírico, assim como o conhecimento prático/competências derivadas; (4)
+instrumentos e enfoques usados; e (5) a natureza e a força das relações
+interdisciplinares estabelecidas e sua dependência para o avanço e evolução dos
+enfoques interdisciplinares. Todas estas diferenças comprovam a conclusão que
+biblioteconomia e CI são dois campos diferentes, com forte relação interdisciplinar e
+não um único campo, em que um consiste na manifestação especial do outro. Não se
+trata de uma polêmica, acadêmica ou profissional, ou ainda argumentações do tipo
+melhor ou pior. Tais argumentos, embora comuns entre muitos campos modernos (por
+exemplo, psicologia e ciência cognitiva, ou entre os oponentes e os proponentes
+quando se considera a ciência da computação como um ramo das engenharias),
+significam pouco para o avanço de qualquer área e são completamente irrelevantes na
+aplicação científica, técnica ou profissional. São importantes, entretanto, as diferenças
+na seleção e/ou definição de problemáticas, paradigmas, metodologias e soluções
+teóricas ou práticas. A conclusão, então, é que biblioteconomia e CI, embora
+relacionadas, constituem campos diversos.
+As diferenças ficam mais evidentes pela agenda das pesquisas. O que as
+agências de fomento estão financiando como pesquisa em CI é inteiramente diferente
+daquilo que financiam em pesquisas biblioteconômicas. Isso é válido para todos os
+países que tem pesquisas financiadas nas áreas de CI e de biblioteconomia.
+Similarmente, existem muitas e pronunciadas diferenças nos programas dos
+respectivos congressos, por exemplo, entre os encontros do Special Group of Interest
+on Information Retrieval (SIGIR) da Association of Computing Machinery e os
+encontros de qualquer associação de bibliotecas.
+Embora a CI e a biblioteconomia sejam grandes aliadas, a ponto de muitos
+assumirem o termo biblioteconomia e ciência da informação para descrever um mesmo
+campo de estudos, na realidade, as diferenças apontadas são de tamanha importância
+qualitativa que desautorizam tal união, além de refletirem-se de algum modo em ambos
+os campos. Mas, a relação está posta e continua evoluindo.
+49
+Perspec. Ci. Inf., Belo Horizonte, v. 1, n. 1, p. 41-62, jan./jun. 1996
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
+7 Ciência da Computação
+A base da relação entre CI e ciência da computação reside na aplicação dos
+computadores e da computação na recuperação da informação, assim como nos
+produtos, serviços e redes associados. Para ilustrar a conexão, usarei uma definição
+recente (DENNING et al.,1989):
+“A disciplina da computação é o estudo sistemático dos processos algorítmicos que
+descrevem e transferem informações; sua teoria, análise, desenho, eficiência,
+implementação e aplicação. A questão fundamental subjacente a toda computação
+é "o que pode ser eficientemente automatizado?"
+Como pode ser percebido, a ciência da computação trata de algoritmos que
+transformam informações enquanto a CI trata da natureza mesma da informação e sua
+comunicação para uso pelos humanos. Ambos os objetos são interrelacionados e não
+competidores, mas complementares. Eles levam a agendas básicas e aplicadas
+diferentes.
+Um grande número de cientistas da computação estiveram proximamente
+envolvidos com pesquisa e desenvolvimento em recuperação da informação, assim
+como em muitos de seus desdobramentos, a ponto de serem reconhecidos como
+líderes em CI. Gerald SALTON é um bom exemplo. Por outro lado, existe uma vertente
+de pesquisa e desenvolvimento em ciência da computação que pouca ligação tem com
+os estudos iniciais em CI. Essa inclui os trabalhos com sistemas inteligentes, bases de
+conhecimento, hipertextos e sistemas relacionados, interfaces inteligentes e interação
+homem-computador e mesmo reutilização de software. Essas áreas tem um
+significativo componente informacional, associado com a representação da informação,
+sua organização intelectual e encadeamentos; busca e recuperação de informação; a
+qualidade, o valor e o uso da informação - todos tradicionalmente tratados pela CI. De
+modo inverso, essa corrente de pesquisa e desenvolvimento na ciência da computação
+fornece diferentes visões, modelos e enfoques e um paradigma diverso para a
+pesquisa e desenvolvimento em CI. Portanto, as relações interdisciplinares estão
+evoluindo em direção a um nível diferente de cooperação intelectual. Aqui também,
+como no caso da biblioteconomia, este não é um argumento fortuito. Se existe um
+questionamento, esse deve relacionar-se com a adequação do paradigma, isto é, a
+interrelação dos problemas e do enfoque das soluções.
+Uma das áreas chave de interesse para ambas, ciência da computação e CI, é
+a inteligência artificial (IA). Embora a IA possa ser discutida por si só, prefiro discutí-Ia
+na perspectiva da ciência cognitiva para ilustrar os interesses compartilhados acerca
+dos processos da mente. Enfim, a fonte e o alvo da CI tem sido a informação da e para
+a mente.
+Perspec. Ci. Inf., Belo Horizonte, v. 1, n. 1, p. 41-62, jan./jun. 1996
+50
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
+8 Ciência cognitiva
+Também chamada "nova ciência da mente" (GARDNER, 1985), a ciência
+cognitiva situa-se entre os mais novos campos interdisciplinares e foi disseminada na
+última década, com grande sucesso, seduzindo a imaginação de muitos estudiosos nos
+mais diversos campos. A razão para isto é que ela aponta, de uma nova forma,
+questões sobre a mente que tem sido debatidas desde a antigüidade. "O objetivo da
+ciência cognitiva" segundo JOHNSON-LAIRD, (1988), um cientista líder na área, "é
+explicar como funciona a mente". A ciência cognitiva surgiu como um "amálgama da
+psicologia, filosofia, antropologia, neurofisiologia, ciência da computação e ling ística,
+organizado em torno do uso do computador como uma ferramenta para extrair os
+segredos do cérebro e da mente" (CASTI, 1989). Embora existam diversos enfoques
+de pesquisa, os campos que compõem a ciência cognitiva compartilham um interesse
+básico acerca da compreensão dos processos cognitivos, sua realização no cérebro, a
+estrutura da mente e várias manifestações da mente como inteligência. Na ciência
+cognitiva o computador desempenha um importante papel, tanto como ferramenta
+quanto como fonte de modelagem e teste.
+Os livros de GARDNER, JOHNSON-LAIRD e CASTI apresentam um
+abrangente relato da interdisciplinaridade da ciência cognitiva, mostrando as correntes
+de pensamento e os campos que aí interagem. A importância determinante da ciência
+cognitiva reside na interação de enfoques extremamente diferenciados no tratamento
+de questões acerca do cérebro e da mente, das humanidades às ciências da vida, das
+ciências sociais às matemáticas, da lógica às engenharias. Embora todos esses
+tenham um interesse potencial para a CI, o mais próximo é constituído pelas questões
+levantadas e soluções tentadas na IA.
+Assim como o artigo de BUSH tornou-se o clássico ponto inicial na evolução da
+CI, o artigo de Alan TURING (1950), Computing Machinery end Intelligence, foi o
+detonador para a IA. Nas duas primeiras sentenças do artigo, TURING sintetizou o que
+se tornaria a agenda da IA: "proponho que se considere a questão: podem as
+máquinas pensar? A resposta deve começar pela definição do significado dos termos
+máquina e pensar. "
+Uma definição popular de IA estabelece que "IA é a arte de se programarem
+computadores para fazer coisas inteligentes" (WALDROP, 1987). Mas WALDROP
+também destacou que existem muitas vertentes de atividades em IA, cada uma com
+agenda específica, estudando diferentes problemas:
+"(IA pode ser definida):
+- como um ramo da engenharia de software IA é um conjunto de técnicas de
+programação que fazem o computador executar alguns truques... Certamente,
+51
+PerspecT. Ci. Inf., Belo Horizonte, v. 1, n. 1, p. 41-62, jan./jun. 1996
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
+algumas pessoas estão começando a ganhar rios de dinheiro com estes truques..
+- como uma teoria da ciência da computação, ... IA é uma concepção
+mpar do que seja programação...
+- como um ramo da filosofia, IA é um tipo de epistemologia experimental:
+o que é o conhecimento? como pode o conhecimento ser representado
+no computador - ou na mente?
+- como uma ciência da mente, IA incorpora uma idéia controversa e
+instigante: que a mente ... é basicamente um mecanismo processador de
+informações ... Em seu nível mais profundo, IA liga-se a um dos grandes
+mistérios não resolvidos da ciência: como pode a mente surgir de uma
+não-mente? Como pode o cérebro, um objeto feito de matéria comum...
+dar nascimento a sentimento, objetivo, pensamento e consciência?"
+Atualmente, a IA é classificada como IA fraca, concentrada nos dois primeiros
+pontos descritos por WALDROP, e IA forte, direcionada aos dois últimos. Não se pode
+negar que a IA forte, com suas teorias da inteligência, mente e pensamento conectadas
+com as máquinas, seja controversa, causando numerosos desafios, especialmente
+entre filósofos (por exemplo, DREYFUS, 1979; SEARLE, 1984; PENROSE, 1989; e
+outros). Por sua vez, as refutações foram rejeitadas, resultando em liberdade
+intelectual para todos. De toda forma, esses são alguns dos debates mais instigantes
+e significativos do século, reunindo pessoas de todas as áreas acadêmicas. Tais
+debates certamente terão conseq ências de longo alcance sobre as nossas formas de
+pensar o pensamento.
+Tanto a IA fraca quanto a forte tem interesse direto para a CI. A IA fraca é fonte
+de muitas das inovações nos sistemas de informação, tais como sistemas inteligentes,
+hipertextos, bases de conhecimento, interfaces inteligentes e as questões sobre a
+interação homem-computador - todas elas de interesse para a CI e para as quais ela
+pode contribuir diretamente. A IA forte é a fonte do modelo teórico da cognição, no qual
+a informação, enquanto fenômeno, desempenha o mais importante papel. Portanto,
+esse modelo pode também contribuir para a pesquisa básica em CI.
+9 Comunicação
+Se existe alguma palavra que tenha mais conotações, maior uso em muitos e
+diferenciados contextos e maiores motivos para confusão do que informação, essa
+palavra é comunicação. Em primeiro lugar, existe confusão entre o processo de
+comunicação enquanto objeto de investigação e comunicação como nome do campo
+em que o processo é investigado, isto é, a comunicação (campo) estuda a
+comunicação (processo). Quase todo texto de comunicação principia com a descrição
+Perspec. Ci. Inf., Belo Horizonte, v. 1, n. 1, p. 41-62, jan./jun. 1996
+52
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
+da miríade de usos do termo. O significado de comunicação, assim como o de
+informação é uma discussão disseminada por si mesma. Embora interessante, a
+argumentação não produziu nenhum resultado notável e, portanto, não vale a pena
+prosseguir. De qualquer forma, o debate e os estudos acadêmicos sobre as relações
+envolvidas entre informação como fenômeno e comunicação como processo, são
+importantes, pois cada conceito atua de forma complexa sobre o outro, formas ainda
+não completamente elaboradas, compreendidas ou mesmo investigadas (veja, por
+exemplo, RUBEN, no prelo). De forma fundamental, as relações entre o fenômeno e o
+processo - informação e comunicação - definem as relações entre CI e comunicação
+(campo).
+Os estudos acadêmicos da comunicação são tão antigos quanto a filosofia. No
+estudo da retórica por Aristóteles e por outros filósofos, o interesse era o discurso
+público, não apenas como arte de persuasão, mas também como uma área de estudo
+voltada para a natureza da comunicação e os efeitos decorrentes.
+A pesquisa em comunicação, englobando estudos empíricos, coleta de dados,
+teste de hipóteses e todos os outros ornamentos da ciência moderna, tiveram início nas
+primeiras décadas do século, como um suplemento à filosofia e como uma resposta a
+muitas das questões e problemas, bastante evidentes, relacionados com os vários
+aspectos da sociedade industrial, como urbanização, migração, emergência dos mass
+media, da propaganda na Primeira Guerra Mundial e coisas tais. (Para uma visão
+histórica da pesquisa e da ciência da comunicação, ver ROGERS, 1986 e DELlA,1987).
+Os modernos estudos acad micos da comunicação evoluíram em um campo
+específico (mencionado, algumas vezes, como comunicação simplesmente e outras,
+como ciência da comunicação) com ênfase no estudo de problemas associados com a
+comunicação humana, definida como (RUBEN,1984):
+"...o processo através do qual os indiv duos em rela ão, grupos, organiza es
+e sociedades criam, transmitem e usam informação para organizar a informa ão
+com o ambiente e entre si."
+Pesquisadores que trabalharam tanto em CI como em comunicação entendem
+que o foco unilateral em informação ou em comunicação, por si mesmo é muito
+estreito, enfraquecendo a pesquisa em ambos. Segundo eles, existem questões
+emergentes necessitando da atenção de ambas as disciplinas em um trabalho conjunto
+(por exemplo, PAISLEY, 1989). Como BORGMAN & SCHEMENT (1989) destacaram:
+"Por algum tempo, pudemos observar os elos entre as duas disciplinas em
+diferentes níveis. Pesquisadores de ambos os campos estudaram tópicos
+semelhantes, como as lacunas do conhecimento, os colégios invisíveis, a difusão
+de inovações, a interação humana com as tecnologias da comunicação, o
+comportamento na busca de informações, a teoria da informação, a teoria de
+sistemas e a sociedade da informação. "
+53
+Perspec. Ci. Inf., Belo Horizonte, v. 1, n. 1, p. 41-62, jan./jun. 1996
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
+Eles também notaram (juntamente com outros observadores) que esses tópicos
+aparecem nas revistas de ambos os campos e que alguns acadêmicos mudaram suas
+afiliações de escolas de comunicação para as de CI e vice-versa. Isto evidencia a
+confluência de pessoas e correntes de pesquisa em CI e comunicação, semelhante às
+confluências discutidas previamente entre CI, ciência da computação e ciência
+cognitiva.
+Concluindo, o desenvolvimento da relação entre CI e comunicação apresenta
+várias dimensões: um interesse compartilhado na comunicação humana, juntamente
+com a crescente compreensão de que a informação como fenômeno e a comunicação
+como processo devem ser estudadas em conjunto; uma confluência de certas
+correntes de pesquisa; algumas permutas entre professores; e o potencial de
+cooperação na área da prática profissional e dos interesses comerciais/empíricos.
+10 Conclusão
+A CI parece estar atingindo um ponto crítico em sua evolução. Inúmeras são as
+pressões que impõem um reexame da sua problemática e das soluções encontradas
+de forma teórica, experimental ou prática. As mesmas pressões afetam muitos outros
+campos. Vamos considerar três classes gerais de pressões.
+Em primeiro lugar, o imperativo tecnológico que vem apresentando ou mesmo
+forçando o desenvolvimento e aplicação de uma crescente gama de produtos e
+serviços de informação ou impelindo a refinamentos substantivos. Isso vem de dentro
+e de fora da CI, com crescente competição. Uma ampla variedade de redes de
+informação, algumas empurrando as fronteiras, outras em diferentes estágios de
+concretização, está prometendo mudar radicalmente a qualidade e a quantidade da
+comunicação e mesmo da informação comunicada.
+Em seguida, e em sentido mais amplo, a evolução da sociedade da informação
+está em aceleração, sendo claramente visível na Europa, nos Estados Unidos e na orla
+do Pacífico. Os papéis econômico e social de toda e qualquer atividade de informação
+estão se tornando mais e mais pronunciados; sua importância estratégica ultrapassa o
+nível da cooperação regional e global, em direção ao desenvolvimento nacional e ao
+progresso social, bem como em direção aos avanços organizacionais e vantagens
+competitivas.
+Finalmente, as relações interdisciplinares estão mudando. Particularmente as
+relações com a ciência da computação e a inteligência artificial estão se tornando mais
+aparentes em aplicações, e com a ciência cognitiva, nos trabalhos teóricos e
+experimentais. Os princípios e técnicas da recuperação da informação estão sendo
+Perspec. Ci. Inf., Belo Horizonte, v. 1, n. 1, p. 41-62, jan./jun. 1996
+54
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
+disseminados para aplicações fora da CI, como por exemplo, a reutilização de
+software. Além disso, um crescente número de campos, não diretamente ligados à
+informação como objeto de estudo ou aplicação, está adentrando a arena da
+informação de forma séria, haja vista a emergência da informática médica nas escolas
+de medicina.
+Em quaisquer dessas áreas, os problemas da informação não estão
+diminuindo, mas sendo transformados. Algumas apresentam maiores desafios e
+questões para a pesquisa, o desenvolvimento e a prática profissional da CI, como
+discutiremos a seguir.
+10.1 O humano nas relações homem-tecnologia
+Se existe um consenso de que as áreas citadas na seção acerca da definição
+de problemas sejam as que apresentam as questões principais e mais amplas
+sugeridas pela CI - e a revisão de literatura indica que esse consenso de fato existe -
+então, o próximo passo é, obviamente, refletir sobre a pergunta: a partir de qual
+enfoque, ou em que bases devem ser colocados os problemas: humana ou
+tecnológica? A tecnologia constitui, por si mesma, um problema ou uma solução? ou
+ambos? A tecnologia é, sem dúvida, central em CI, mas é também fundamental, por
+exemplo, para a ciência da computação? Ou são os aspectos humanos (conhecimento,
+registros do conhecimento, comunicação, contextos individual, institucional e social,
+necessidade e uso da informação...) fundamentais como alicerces sobre os quais as
+soluções tecnológicas devem ser construídas?
+A relação homem-tecnologia é o ponto fraco, a questão não resolvida filosófica,
+científica ou profissionalmente na CI, assim como também o é em outros campos
+fortemente envolvidos com a tecnologia. A CI tem oscilado entre dois extremos -
+humano e tecnológico - sem se definir claramente por qualquer deles ou estabelecer
+um equilíbrio confortável. Embora exista, ultimamente, uma clara oscilação do pêndulo
+em direção ao lado humano da equação, o extremo tecnológico continua sendo a
+amarra que dirige a inclinação do campo em sua totalidade e não apenas do campo -
+é visível que esta é a característica da sociedade da informação. De toda forma, muitas
+décadas de experiência com as mais diversas soluções tecnológicas para acessar e
+utilizar a informação (algumas mais sedutoras, elegantes ou convenientes) nos
+demonstram que ainda estamos engatinhando, com uma modesta compreensão do
+quão pouco conhecemos, em sentido formal, sobre os aspectos humanos (social,
+institucional, individual...) e comportamentais relacionados com o conhecimento e a
+informação. Sobretudo, nos demonstram que muitos dos conceitos acerca desses
+aspectos, humanos e comportamentais, que constituem a base sobre a qual são
+planejadas as aplicações tecnológicas, não funcionam mais. Então, a síntese final
+indica, não um conflito, mas uma necessidade de equilíbrio.
+55
+Perspec. Ci. Inf., Belo Horizonte, v. 1, n. 1, p. 41-62, jan./jun. 1996
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
+Parece que a pesquisa em CI atingiu um patamar. Podem as aplicações
+tecnológicas sem clareza ou ajustes acerca dos aspectos humanos e
+comportamentais, atingir seu ponto alto? Parece que sim. Mas, podem os
+direcionamentos dados agora, com as novas perspectivas cognitivas ou com a ênfase
+na inteligência ou na IA, prover o impulso para se buscar novo patamar? para atingir o
+equilíbrio entre os aspectos humanos e tecnológicos? Essas proposições são mais
+específicas que aquelas genéricas sobre a relação homem-tecnologia.
+Essas questões estão adquirindo maior visibilidade e maior urgência pela
+rápida mudança da própria tecnologia da informação e pela significativa extensão da
+capacidade técnica disponibilizada pelos avanços na computação, armazenagem,
+exposição, comunicação, interligação em redes, etc. Um levantamento de tais
+capacidades é em si mesmo, uma tarefa complexa. Em outras palavras, o lado
+tecnológico da equação homem-tecnologia está em contínua expansão. Esse fato
+torna o equilíbrio da relação muito mais difícil, a ponto de prevalecer uma concepção
+que acredita ser mais fácil ensinar e ajustar os humanos, isto é, moldar o humano ao
+sistema, do que vice-versa.
+A importância crítica de se buscar o equilíbrio da relação homem-tecnologia na
+problemática estudada pela CI reside no simples e incontroverso tru smo de que, toda
+e qualquer aplicação da tecnologia e das técnicas, sem objetivos claros, com conceitos
+indefinidos ou uma filosofia nebulosa, introduzirão a barbárie. Gostaria de sugerir que
+os objetivos, a filosofia e os conceitos determinantes para o equilíbrio homemtecnologia
+precisam originar-se do seu lado humano. O testemunho de que isso não
+está acontecendo vem das inúmeras associações e comitês em muitos países, todos
+enfocando a necessidade de orientação aos usuários no fornecimento de informação
+ou aplicações da tecnologia de informação. Subjacente à variedade de recomendações
+desses grupos, existe uma certa "revolta do usuário", uma avaliação consciente ou
+uma compreensão subconsciente de que em lugar da adaptação da tecnologia ao
+entendimento racional do comportamento humano frente à informação e ao ambiente
+informacional amplo, a situação foi revertida, criando mais o exacerbamento do que a
+solução para os problemas da explosão informacional.
+10.2 Mudando os critérios de eficácia
+O segundo ponto a ser considerado aqui diz respeito à eficácia que resulta
+proximamente, ou mesmo diretamente, da questão da tecnologia. Desde os primórdios
+da CI, a noção de eficácia (por exemplo, a comunicação eficaz do conhecimento, o
+acesso eficiente aos recursos informacionais, a relevância e utilidade da informação, a
+qualidade da informação...) tem sido uma preocupação central. Os critérios de eficácia
+foram e continuam, claramente, sendo derivados da perspectiva humana, ou de
+Perspec. Ci. Inf., Belo Horizonte, v. 1, n. 1, p. 41-62, jan./jun. 1996
+56
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
+considerações do comportamento informativo, mais do que de perspectivas ou
+critérios tecnológicos. Em outras palavras, enquanto a tecnologia é usada
+abundantemente, a eficácia de seu uso é colocada estritamente em termos humanos.
+Neste sentido, a relação eficácia-tecnologia torna-se um acontecimento acima e além
+da própria tecnologia. A pergunta: "até que ponto as aplicações tecnológicas permitem,
+realmente, o eficiente acesso à informação e à comunicação dos amplos estoques
+disponíveis de conhecimento?" transforma-se em questão fundamental. Geralmente,
+esses pontos ficam perdidos em meio à sedução das aplicações tecnológicas. Em
+muitas situações de pesquisa e desenvolvimento elas sequer são colocadas, como por
+exemplo, em muitas das pesquisas sobre sistemas inteligentes.
+O ponto destacado é: "pode a noção de eficácia ser recuperada ou novamente
+redefinida como um aspecto crítico central da CI, um parâmetro para se avaliarem os
+avanços na pesquisa e na prática profissional? Em caso afirmativo, sob quais critérios?
+Por muito tempo, o principal critério para se enfocar a eficácia foi a relevância
+e/ ou utilidade da informação. Mas, mais recentemente, tem-se escutado apelos por
+outros critérios - como qualidade, seletividade, veracidade, síntese, e/ou impacto da
+informação. O fato estatístico chave da explosão informacional está bem estabelecido
+- por exemplo, em ciência e tecnologia, o número de publicações dobra
+aproximadamente a cada catorze anos. A qualidade destas publicações varia
+amplamente. Algumas investigações estabeleceram leis empíricas, demonstrando que
+apenas uma pequena parte é altamente utilizada, considerada de alta qualidade, ou
+citada, e o uso, qualidade e citação das restantes declinam rapidamente. Parece que
+um processo natural, darwiniano, de seleção está em curso. Foram estabelecidos
+muitos sistemas de informação abrangentes, justificadamente, para controlar a
+explosão informacional em muitos campos. De toda forma, devido à natureza dessa
+explosão, os grandes sistemas de informação, inclusive as bibliotecas, arriscam-se
+(parafraseando Goethe), a serem transformadas de uma casa do tesouro em armazém
+e deste, em depósito de sucata.
+Afinal, essa é uma percepção crescente por parte de muitos usuários
+frustrados. A orientação para o desenvolvimento de bases de conhecimento
+(sintetizadas, avaliadas, continuamente atualizadas e ligadas de forma variada, a
+acervos de conhecimento ou manuais eletr nicos) está baseada de forma inequívoca
+nessa percepção e assertiva. Do mesmo modo o são as idéias de sistemas seletivos
+de informação (concentrados apenas nas melhores revistas ou fontes de um
+determinado campo ou área) ou sistemas fornecedores de informa es de qualidade
+ou informações de valor para o processo decisório de altos escalões gerenciais. A
+mudança das demandas e dos critérios de eficácia estão dando ímpeto ao
+desenvolvimento de novos produtos em sistemas de informação.
+57
+Perspec. Ci. Inf., Belo Horizonte, v. 1, n. 1, p. 41-62, jan./jun. 1996
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
+As questões que devem ser propostas, então, são: até que ponto estão claros
+estes novos critérios de qualidade? São compreensíveis? Como são os novos critérios
+de qualidade face aos antigos de relevância ou utilidade? Que relações podem ou
+devem ser mantidas entre os critérios novos e os antigos? A configuração futura dos
+serviços e sistemas de informação será determinada pelas respostas a essas
+questões.
+10.3 Isolamento na ecologia informacional
+Tendo principiado com a Renascença e a invenção da imprensa, seguida pela
+emergência da ciência moderna, a comunicação do conhecimento evoluiu em um
+sistema sócio-ecológico, tão complexo e interrelacionado como qualquer ecologia
+biológica. Grosso modo, essa ecologia informacional envolve: os produtores de
+conhecimento (autores, inventores, pesquisadores, coletores...) e as instituições onde
+trabalham ou residem; os financiadores dessas instituições e trabalhos; os editores (em
+qualquer media), incluindo seus próprios mecanismos de seleção, editoração,
+julgamento, avaliação, publicação...; os canais de divulgação; os reelaboradores4 (por
+exemplo, produtores de bases de dados, em qualquer media também) incluindo seus
+mecanismos próprios de seleção, tratamento, disseminação...; as bibliotecas e serviços
+de informação, também com seus mecanismos; os usuários e suas instituições
+fechando a cadeia ecológica. Existem muitas elaborações específicas, cada qual com
+seus jogadores, depositários e mecanismos que, eventualmente, afetam o conjunto da
+ecologia informacional. As perturbações em qualquer dos elementos principais da
+ecologia afetam o todo.
+Obviamente, a tecnologia sempre desempenhou papel importante na ecologia
+informacional (o chamado efeito de Gutemberg); presentemente, tem um papel crítico
+tanto na sua evolução, assim como na evolução da sociedade contemporânea. De todo
+modo, não se pode exagerar o fato de que a ecologia informacional é
+fundamentalmente social em sua natureza. Ela é uma ecologia social, onde o social,
+incluindo os fatores econômicos, políticos, culturais e educacionais, desempenha papel
+predominante.
+Os vários elementos ou atores na ecologia informacional, embora claramente
+interrelacionados, funcionam, na prática, em relativo isolamento uns dos outros. Além
+disto, as tensões naturais entre os vários atores estão evoluindo para conflitos abertos,
+tais como entre editores X reelaboradores; editores e reelaboradores X bibliotecários;
+setores privados X públicos; autores X editores; usuários X todos; e assim
+sucessivamente. Vários desses atores estão em conflito quanto às suas funções, cada
+Perspec. Ci. Inf., Belo Horizonte, v. 1, n. 1, p. 41-62, jan./jun. 1996
+4 No original "repackagers". Optou-se pela forma "reelaboradores", para uso no texto, por ser esta uma possibilidade
+de preservar a compreensão do trabalho refeito em continuidade a um já terminado (Nota da tradutora).
+58
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
+um deles enxergando a ecologia informacional segundo um ponto de vista singular e
+aguardando desdobramentos diferentes. Tais isolamentos e conflitos não permitem um
+cenário adequado para a ecologia como um todo.
+No nível mais específico, os vários mecanismos e padrões para tratamento da
+informação pelos muitos atores da cadeia ecológica não são compatíveis; por exemplo,
+os editores tratam os textos de forma totalmente diferenciada daquela usada pelos
+reelaboradores que trabalham com as representações desses textos, ou ainda da
+forma utilizada pelos bibliotecários em sua catalogação. Até que a tecnologia tenha
+capacidade para permitir a interação direta entre os vários manipuladores da
+informação, tal incompatibilidade não constitui problema sério. Mas, com o aumento
+das novas capacidades tecnológicas e do número de novos atores no processo, além
+das crescentes demandas de informação orientada para o usuário, o alto grau de
+incompatibilidade torna-se crítico, um empecilho à evolução contínua da ecologia,
+possivelmente, até mesmo uma ameaça ao seu desempenho e funcionamento globais.
+Dois pontos devem ser considerados aqui. Primeiro, buscar soluções e
+mecanismos que diminuam o isolamento e os conflitos entre os vários elementos da
+cadeia. Segundo, propiciar maior grau de compatibilidade, para que os vários atores
+possam interagir com toda a potencialidade permitida pela moderna tecnologia e
+demandada pelas necessidades contemporâneas e futuras de informação.
+Certamente, existem muitas questões técnicas complexas envolvidas que requerem
+grande esforço de trabalho e atenção, como a criação e implementação de padrões
+técnicos. Ainda assim, as questões não são primeiramente técnicas, mas sociais, isto
+é, econômicas, políticas e culturais. Desafortunadamente, os problemas e relações em
+ecologia informacional, da forma como evoluíram nas duas últimas décadas, ainda não
+estão bem estabelecidos ou claramente entendidos. Essas relações e problemas
+constituem uma área importante para estudo.
+A noção de ecologia informacional aponta para uma questão adicional mais
+ampla. Qualquer estudo sobre problemas específicos da informação e as tentativas de
+solução, para serem significativos e bem sucedidos, não podem ser desenvolvidos
+isoladamente dos demais atores e mecanismos da cadeia ecológica. Os princípios
+ecológicos devem ser invocados. Por exemplo, a otimização de um elemento ecológico
+não significa, necessariamente, um melhor funcionamento total da ecologia; ao
+contrário, algumas vezes pode representar o declínio do seu equilíbrio. Em outras
+palavras, o estudo e a solução de qualquer problema específico da informação exige,
+como regra, a consideração dos vários outros atores e mecanismos no conjunto maior
+da ecologia informacional. Os problemas tratados pela CI, ou por algum outro campo
+relacionado com qualquer aspecto da ecologia informacional, devem ser enfocados
+como complexos problemas ecológicos.
+59
+Perspec. Ci. Inf., Belo Horizonte, v. 1, n. 1, p. 41-62, jan./jun. 1996
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
+10.4 A necessidade da ciência da informação
+O problema proposto pela CI "a tarefa massiva de tornar mais acessível um
+acervo crescente de conhecimento", assim como todos os problemas mais específicos
+que se seguiram, estão ainda à nossa volta e estarão aí com ou sem a CI. A questão
+de se aplicar a tecnologia da informação na solução dos problemas informacionais
+continua e continuará com ou sem a CI. A evolução da ecologia informacional pode se
+processar com ou sem a CI. Existindo ou não um campo organizado chamado CI, os
+problemas não terminarão. Os problemas estão aí, independentemente de sua
+rotulação. As razões sociais para sua colocação são evidentes e urgentes. A questão
+é, então, quem vai direcioná-Ios, como e onde.
+Nas últimas quatro décadas a CI apresentou contribuições que influenciaram o
+modo como a informação é manipulada na sociedade e pela tecnologia e também
+permitiu melhor compreensão para um rol de problemas, processos e estruturas
+associados ao conhecimento, à informação e ao comportamento humano frente à
+informação. A CI desenvolveu um corpo organizado de conhecimentos e competências
+profissionais ligados às questões informacionais. Os fatos demonstram a veracidade
+dessas conclusões.
+Certamente, a CI não é o único campo que se ocupa com estas questões. Ela
+não detém o seu monopólio, como também não o faz nenhum outro campo. Entretanto,
+mudanças significativas estão ocorrendo em muitos campos pelo surgimento de
+problemas informacionais semelhantes, embora algumas vezes, de forma bastante
+diferente. Eventualmente, a questão é: que formas parecem ser mais promissoras no
+desvendamento do rol de questões informacionais? Como poderemos atingir maior
+aprofundamento no trato dessas questões? Essas são situações legítimas para o
+debate intelectual e profissional.
+Finalmente, não importa se a atividade que trata dessas questões seja
+chamada de CI, informática, ciências da informação, estudos de informação, ciências
+da computação e da informação, inteligência artificial, ciência da informação e
+engenharia, biblioteconomia e ciência da informação, ou qualquer outra forma, desde
+que os problemas sejam enfocados em termos humanos e não tecnológicos. Mas, a CI
+sob qualquer nome, significando um corpo organizado de conhecimentos e
+competências, teve e pode continuar tendo grande contribuição nesses estudos. Tem
+um registro comprovado de interdisciplinaridade. Sob qualquer nome ou patrocínio, as
+atividades profissionais e científicas desempenhadas pela CI são necessárias.
+Sobretudo, a necessidade dessa atividade organizada é crítica para a sociedade
+moderna. Preenchendo tal necessidade, a CI poderá ser melhor definida e
+reestruturada, como a sociedade requer.
+Perspec. Ci. Inf., Belo Horizonte, v. 1, n. 1, p. 41-62, jan./jun. 1996
+60
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
+Information Science: origin, evolution and relations
+The essay traces the evolution of information science through problems addressed over
+time. The historic origin of information science is discussed, together with the social role of
+information science in the evolution of information society. The work in information retrieval
+is analyzed in terms of its influence on development of both information science and
+information industry. Evolution of problem orientation is discussed and a contemporary
+definition of information science is provided. Interdisciplinary relations with four fields are
+examined: librarianship, computer science, cognitive science (including artificial intelligence)
+and communication. In conclusion, several contemporary issues and problems facing
+informa tion science are summarized.
+REFERÊNCIAS BIBLIOGRÁFICAS
+1. BORGMAN, C.L., SCHEMENT,J.R. Information science and communication research: an essay on
+convergence. In: PEMBERTON, J.M., PRENTICE A.E. (Eds.). Information science in its interdisciplinary
+context. New York: Neal-Schuman, 1989.
+2. BORKO, H. Information science: what is it? American Documentation, v.19, n.1, p. 3-5, 1968.
+3. BUSH, V. As we may may think. Atlantic Monthly, v.176, n.1, p. 101-108, 1995
+4. CASTI, J.L. Paradigms lost: images of man in the mirrar of science. New York: William Morrow ,
+1989.
+5. DELlA, J.G. Communication research: a history. In: BERGER, C.R., CHAFFEE S.H. (Eds.) Handbook
+of communication science. Newbury Park, CA: Sage, 1978. P. 20-98.
+6. DENNING, P.J. et aI. Computer as a discipline. Communications of the ACM, v. 32, n.1, p. 9-23, 1989.
+7. DREYFUS, H.L. What computer can't do: the limits of artificial intelligence. New York: Harper & Row,
+1979.
+8. GOFFMAN, W. Information science: discipline or disappearance. ASLlB Proceedings, v. 22 n.12, p.
+589-596, 1970.
+9. GRAUBARD. S.R. (Ed.). The artificial intelligence debate: false starts, real foundations. Cambridge,
+MA: MIT Press, 1988.
+10. JOHNSON-LAIRD, P.N. The computer and the mind: an intraduction to cognitive science. Cambridge,
+MA: Harvard University Press, 1988.
+11. KOCHEN, M. Principies of information retrieval. Los Angeles :Melville, 1974.
+12. MOOERS, C.N. Zatocoding applied to mechanical organization of knowledge. American
+Documentation, v. 2, p. 20-32, 1951.
+13. PAISLEY, W. Information science as a multidiscipline: twenty questions and a few answers. In: PEM-
+61
+Perspec. Ci. Inf., Belo Horizonte, v. 1, n. 1, p. 41-62, jan./jun. 1996
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
+BERTON, J.M., PRENTICE, A.E. (Eds.) Information science in its interdisciplinary context. New
+York :Neal-Schuman, 1989.
+14. POPPER, K.R. Conjectures and refutations: the growth of scientific knowledge. 4.rev.ed. New York:
+Basic Books, 1972.
+15. ROGERS, E.M. Communication technology: the new media in society. New York :The Free Press,
+1986.
+16. RUBEN, B.D. Comunication and human behavior. New York :MacMillan, 1984.
+17. _______________. The communication-information relationship in system theoretic perspective.
+Journal of the American Society for Information Scienee. (no prelo)
+18. SEARLE, J. Minds, brains and science. Cambridge, MA :Harvard University Press, 1984.
+19. SHERA, J.H. The foundations of education for librarianship. New York: Becker and Hayes, 1972.
+20. TURING, A.M. Computing machinery and intelligence. Mind, v.59, p. 433-460, 1950.
+21. WALDROP, N.M. Man-made minds: the promise of artificial intelligence. New York :Walker, 1987.
+22. WERSIG, G., NEVELlNG, U. The phenomena of interest to information science. Information Scientist,
+v.9, p. 127-140, 1975.
+Perspec. Ci. Inf., Belo Horizonte, v. 1, n. 1, p. 41-62, jan./jun. 1996
+62
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++

@@ -1,0 +1,1655 @@
+v.8, n.2, p.160-179, ago. 2001
+O PAPEL DA TECNOLOGIA DA
+INFORMAÇÃO (TI) NA ESTRATÉGIA
+DAS ORGANIZAÇÕES
+Fernando José Barbin Laurindo
+Tamio Shimizu
+Marly Monteiro de Carvalho
+Roque Rabechini Jr
+Depto. de Eng. de Produção – Escola Politécnica da USP
+Av. Prof. Almeida Prado, 128 Tr.2 Biênio 2° and.
+05508-900 – São Paulo, SP – Brasil
+Tel. (011) 3818-5363 – Fax 3818-5399
+E-mails: fjblau@usp.br, tmshimiz@usp.br
+marlymc@usp.br, roquejr@usp.br
+Resumo
+Há uma grande expectativa acerca das aplicações da Tecnologia da Informação (TI), que possibilitam
+novas alternativas de estratégias de negócios e novas possibilidades para as organizações, como é o caso
+do “e-business”. Contudo, há também um grande questionamento sobre os reais ganhos advindos dos
+investimentos em TI. Um enfoque centrado unicamente na eficiência das aplicações de TI não permite
+responder estas questões. Para avaliar os impactos da TI nas operações e estratégias das organizações,
+é necessário que haja foco na sua eficácia, i.e., nos resultados advindos das aplicações da TI em relação
+aos objetivos, metas e requisitos destas organizações. A eficácia deve ser mantida ao longo do tempo e,
+para este fim, é fundamental o conceito de Alinhamento Estratégico entre a TI e o negócio. O presente
+estudo apresenta uma análise comparativa dos diversos trabalhos que abordam o papel da TI nas
+organizações. Com base numa revisão bibliográfica elabora-se um quadro teórico que procura elucidar os
+principais pontos que transformam a TI numa real ferramenta de competitividade para as organizações.
+Palavras-chave: Tecnologia da Informação, Organizações e Estratégia.
+1. Introdução
+conceito de Tecnologia da Informação é
+mais abrangente do que os de processamento
+de dados, sistemas de informação, engenharia
+de software, informática ou o conjunto de
+hardware e software, pois também envolve
+aspectos humanos, administrativos e organizacionais
+(KEEN, 1993).
+Alguns autores, como ALTER (1992), fazem
+O
+GESTÃO & PRODUÇÃO v.8, n.2, p.160-179, ago. 2001 161
+distinção entre Tecnologia da Informação e
+Sistemas de Informação, restringindo à primeira
+expressão apenas os aspectos técnicos, enquanto
+que à segunda corresponderiam as questões
+relativas ao fluxo de trabalho, pessoas e
+informações envolvidas. Outros autores, no
+entanto, usam o termo tecnologia da informação
+abrangendo ambos aspectos, como é a visão de
+HENDERSON & VENKATRAMAN (1993).
+Neste texto, adota-se o conceito mais amplo
+de Tecnologia da Informação (TI), incluindo os
+sistemas de informação, o uso de hardware e
+software, telecomunicações, automação, recursos
+multimídia, utilizados pelas organizações
+para fornecer dados, informações e conhecimento
+(LUFTMAN et al., 1993; WEIL, 1992).
+Nos últimos anos, tem crescido a expectativa
+e o questionamento acerca do papel da TI, tanto
+nas publicações acadêmicas como naquelas
+voltadas aos executivos e empresários e mesmo
+naquelas voltadas ao público em geral. De um
+lado, surgem dúvidas acerca dos resultados
+oriundos dos investimentos em TI. Por outro, há
+uma espécie de “encantamento” com as
+aplicações de TI que viabilizam mecanismos da
+chamada “economia globalizada”, em especial
+os chamados e-commerce e e-business
+(PORTER, 2001; DRUCKER, 2000; EVANS &
+WURSTER, 1999; FRONTINI, 1999).
+A TI evoluiu de uma orientação tradicional
+de suporte administrativo para um papel
+estratégico dentro da organização. A visão da TI
+como arma estratégica competitiva tem sido
+discutida e enfatizada, pois não só sustenta as
+operações de negócio existentes, mas também
+permite que se viabilizem novas estratégias
+empresariais.
+Apesar disso, segundo muitos autores (entre
+eles HENDERSON & VENKATRAMAN,
+1993) paira uma grande dúvida acerca da
+existência de evidências de ganhos significativos
+de produtividade devido à utilização de TI ao se
+considerar o agregado global da economia. É o
+que muitos chamam de “paradoxo da produtividade
+da TI” ou o “paradoxo dos computadores”
+(LANDAUER e SOLOW apud WILLCOCKS &
+LESTER, 1997; BRYNJOLFSSON, 1993;
+STRASSMAN, 1990; GUROVITZ, 1997).
+De acordo com HENDERSON &
+VENKATRAMAN (1993), esta falta de
+habilidade das empresas em obter retornos
+consideráveis dos investimentos em TI se deve
+(ainda que não totalmente) à falta de coordenação
+e de alinhamento entre as estratégias de
+negócio e de TI. Este ajuste entre as estratégias
+de negócio, de TI e as estruturas internas da
+empresa, considerando o seu posicionamento e
+sua atuação no mercado, não é um evento isolado
+ou simples de ser obtido, mas um processo
+dinâmico e contínuo ao longo do tempo.
+Desta forma, pode-se afirmar que nenhuma
+aplicação de TI, considerada isoladamente, por
+mais sofisticada que seja, pode manter uma
+vantagem competitiva. Esta só pode ser obtida
+pela capacidade da empresa em explorar a TI de
+forma contínua.
+O uso eficaz da TI e a integração entre sua
+estratégia e a estratégia do negócio vão além da
+idéia de ferramenta de produtividade, sendo
+muitas vezes fator crítico de sucesso. Hoje, o
+caminho para este sucesso não está mais
+relacionado somente com o hardware e o
+software utilizados, ou ainda com metodologias
+de desenvolvimento, mas com o alinhamento da
+TI com a estratégia e as características da
+empresa e de sua estrutura organizacional.
+Nas palavras de ROCKART et al. (1996):
+“In sum, the load on IT organizations is
+heavier than ever before, and the management of
+IT is more complex”.
+Com base neste cenário, este texto propõe-se
+a analisar os diversos trabalhos que tratam do
+papel da TI nas organizações. Em outras
+palavras, como a TI pode contribuir de maneira
+eficaz para o sucesso ou para a maior competitividade
+das organizações (HENDERSON &
+VENKATRAMAN, 1993; SETHI & KING,
+1994; SPÍNOLA & PESSÔA, 1997). Destaquese
+que a lista de artigos analisados não pretende
+ser exaustiva, mas apresentar um panorama
+representativo de diversas visões acerca deste
+tema. Com base neste levantamento, elabora-se
+162 Laurindo; Shimizu; Carvalho & Rabechini Jr – O Papel da Tecnologia da Informação (TI)
+um quadro teórico que procura elucidar os
+principais pontos que distinguem cada abordagem,
+destacando-se ainda aqueles pontos que
+permeiam todos os trabalhos.
+1.1 Eficiência e Eficácia de Sistemas de
+Informação
+Os conceitos de eficiência e de eficácia são
+muito úteis para a compreensão do papel da TI
+nas organizações (LAURINDO, 1995 e
+MAGGIOLINI, 1981).
+De maneira geral, eficiência significa fazer
+bem as coisas, enquanto que eficácia significa
+fazer as coisas certas. A eficiência está associada
+ao uso dos recursos, enquanto a eficácia está
+associada com a satisfação de metas, objetivos e
+requisitos. Eficiência está relacionada com
+aspectos internos à atividade de TI e a adequada
+utilização dos recursos, enquanto que a eficácia
+confronta os resultados das aplicações de TI com
+os resultados no negócio da empresa e os
+possíveis impactos na sua operação e estrutura.
+Ser eficaz em TI significa utilizá-la para
+alavancar o negócio da empresa, tornando-a
+mais competitiva (Figura 1).
+2. Um Quadro Teórico para a Análise das
+Abordagens sobre o Papel da TI nas
+Organizações
+e maneira geral, os diversos modelos analisados
+que tratam do papel da TI nas
+organizações podem ser classificados em quatro
+grupos:
+• Modelos de diagnóstico: fornecem instrumentos
+e critérios para que seja diagnosticado
+o papel da TI nas organizações;
+• Modelos prescritivos: são aqueles que
+indicam padrões de benchmark a serem
+seguidos ou que relatam as melhores práticas
+relativas ao uso estratégico da TI;
+• Modelos voltados para ações: indicam
+procedimentos para o planejamento da TI e
+para a seleção de aplicações de TI a serem
+desenvolvidas de forma a trazer impactos
+positivos para o desempenho da organização;
+• Modelos integrativos: são aqueles que agregam
+vários elementos das abordagens acima formando
+uma estrutura mais ampla de análise.
+A seguir, serão analisados artigos representativos
+de cada um destes modelos. Os artigos
+foram selecionados segundo a facilidade de
+D
+APLICAÇÃO
+D E
+TECNO LO G IA
+DA
+INFO RM AÇÃO
+EM PRESA
+R EQ U IS IT O S
+(OB JE T IV OS , M E T AS ,E T C .)
+EFICÁ C IA
+ÁREA T I
+EN T RADAS S AÍD AS
+(PROC E D IM E NTOS, Q UALIDADE)
+E F IC IÊN C IA
+Figura 1 – Eficiência e Eficácia de um Sistema de Informação
+(Adaptado de MAGGIOLINI, 1981)
+GESTÃO & PRODUÇÃO v.8, n.2, p.160-179, ago. 2001 163
+operacionalização, sendo excluídos aqueles
+cujos conceitos, embora relevantes para a análise
+do papel da TI perante a estratégia do negócio, já
+foram adequadamente explorados por outros
+trabalhos.
+3. Modelos de Diagnóstico do Papel da TI nas
+Organizações
+3.1 Estágios de Informatização das Empresas
+ma das primeiras abordagens constituiu em
+estabelecer um modelo que permitisse
+mostrar a organização da TI e sua relação com o
+negócio da empresa de acordo com uma abordagem
+de estágios de crescimento e/ou de maturidade.
+O modelo mais conhecido e difundido é o de
+NOLAN (1979) que, após estudo do processo de
+informatização nas empresas, propôs um
+esquema de classificação baseado em quatro
+estágios da evolução da informática. Posteriormente,
+o mesmo autor ampliou seu modelo para
+seis estágios de informatização na empresa,
+conforme a Figura 2.
+O modelo permite visualizar a evolução de
+características (processos de crescimento) entre
+os seis estágios. Podemos citar, por exemplo, o
+planejamento e controle da TI, no qual, nos
+estágios iniciais, há um controle pouco rígido do
+orçamento de TI (para facilitar a disseminação
+de seu uso), o que vai mudando com a passagem
+para os demais estágios, até que se passe a
+planejar os dados e informações em termos de
+recursos estratégicos.
+Note-se que uma mesma empresa pode
+apresentar diferenças entre os estágios de
+informatização, dependendo da área de negócio
+ou função analisados.
+3.2 Análise da Centralização e Descentralização
+da TI
+BUCHANAN & LINOWES (1980a) desenvolveram
+alguns trabalhos analisando a descentralização
+da TI nas empresas. Segundo estes
+autores, há três razões que levam à descentralização
+da TI:
+- Pressões por diferenciação: heterogeneidade
+de tarefas e funções ou distribuição geográfica
+que levem às unidades administrativas a
+terem diferenças em metas, perspectivas de
+tempo e estrutura.
+U
+ESTÁGIOS
+PROCESSO
+DE CRESCIMENTO
+ESTÁGIO 1
+INICIAÇÃO
+ESTÁGIO 2
+CONTÁGIO
+ESTÁGIO 3
+CONTROLE
+ESTÁGIO 4
+INTEGRAÇÃO
+ESTÁGIO 5
+ADMINISTRAÇÃO
+ESTÁGIO 6
+MATURIDADE
+“PORTFOLIO” DE
+APLICAÇÕES
+MECANIZAÇÃO
+REDUÇÃO DE
+CUSTOS
+PROLIFERAÇÃO CONSOLIDAÇÃO
+SISTEMAS
+GERENCIAIS
+CONVERSÃO
+APLICAÇÕES
+PARA APLICAÇÕES
+DE BANCO
+DE DADOS
+INTEGRAÇÃO
+APLICAÇÕES
+ESPELHANDO
+FLUXO DE
+INFORMAÇÕES
+ORGANIZAÇÃO
+DAS FUNÇÕES DA
+INFORMÁTICA
+APRENDIZADO
+TECNOLÓGICO
+REORIENTAÇÃO
+FUNCIONAL
+ATENDIMENTO
+À MÉDIA
+GERÊNCIA
+ESTRATIFICAÇÃO
+E
+ADAPTAÇÃO
+ADMINISTRADOR
+DE DADOS
+GERÊNCIA DE
+RECURSOS DE
+DADOS
+PLANEJAMENTO E
+CONTROLE DA
+INFORMÁTICA
+ORÇAMENTO
+FLEXÍVEL
+ORÇAMENTO
+MUITO FLEXÍVEL
+PLANEJAMENTO
+E CONTROLES
+FORMALIZADOS
+SISTEMAS DE
+PLANEJAMENTO
+E CONTROLE
+“SOB MEDIDA”
+COMPARTILHAMENTO
+DE DADOS
+E DE SISTEMAS
+COMUNS
+PLANEJAMENTO
+ESTRATÉGICO DE
+RECURSOS DE
+DADOS
+PAPEL DOS
+USUÁRIOS
+“POR FORA DO
+JOGO”
+ENTUSIASMO
+SUPERFICIAL
+FORÇADO A
+SER
+RESPONSÁVEL
+APRENDENDO A
+SER
+RESPONSÁVEL
+EFETIVAMENTE
+RESPONSÁVEL
+ACEITAÇÃO DA
+RESPONSABILIDADE
+CONJUNTA
+ENTRE USUÁRIOS
+E INFORMÁTICA
+Figura 2 – Estágios de Evolução da Informática, segundo Nolan
+(Adaptado de NOLAN, 1979 e de FERNANDES & KUGLER, 1990)
+164 Laurindo; Shimizu; Carvalho & Rabechini Jr – O Papel da Tecnologia da Informação (TI)
+- Desejo de controle direto: necessidade de
+controlar sistemas que são críticos para sua
+operação ou quando há o desejo de controlar
+a prioridade no desenvolvimento.
+- Ligação do suporte à Informática ao poder:
+quando o controle das informações é um dos
+fatores para obtenção do poder ou a TI é um
+veículo para implementar mudanças estruturais.
+Para analisar o grau de descentralização da
+TI adequado a uma empresa, BUCHANAN &
+LINOWES (1980b) propuseram ferramentas
+para análise e planejamento, que consideram
+tanto os recursos técnicos como administrativos
+em quatro grupos de atividades: operação da
+execução, desenvolvimento da execução,
+operação do controle e desenvolvimento do
+controle (Tabela 1).
+3.3 “Grid Estratégico”: Impacto Estratégico
+de Aplicações de TI
+O Grid Estratégico de MCFARLAN (1984)
+permite visualizar como a TI está relacionada à
+estratégia e à operação do negócio da empresa.
+Este modelo analisa o impacto de aplicações de
+TI presentes e futuras no negócio, definindo
+quatro “quadrantes” (Figura 3), cada um
+representando uma situação para a empresa:
+“Suporte”, “Fábrica”, “Transição” e “Estratégico”
+(ver também FERNANDES & KUGLER, 1990;
+MENDES, 1987).
+“Suporte”: a TI tem pequena influência nas
+estratégias atual e futura da empresa. Não há
+necessidade de posicionamento de destaque da
+área de TI na hierarquia da empresa. Usualmente
+é o que acontece em uma manufatura tradicional.
+“Fábrica”: as aplicações de TI existentes
+contribuem decisivamente para o sucesso da
+empresa, mas não estão previstas novas
+aplicações que tenham impacto estratégico. A
+área de TI deve estar posicionada em alto nível
+hierárquico. O exemplo clássico é o caso das
+companhias aéreas, que dependem de seus sistemas
+de reservas de passagens, mas novos desenvolvimentos
+apenas atualizam estas aplicações.
+“Transição”: a TI passa de uma situação mais
+discreta (quadrante “suporte”) para uma de
+maior destaque na estratégia da empresa. A área
+de TI tende para uma posição de maior importância
+na hierarquia da empresa. O exemplo
+usualmente citado na bibliografia é a editoração
+eletrônica. Hoje, o e-commerce apresenta o
+mesmo perfil, pois de um papel de suporte na
+operação de uma empresa comercial, passa a ser
+agente transformador do negócio.
+Tabela 1 – Resumo da análise do grau de descentralização
+EXECUÇÃO – OPERAÇÃO CONTROLE – OPERAÇÃO
+• Telecomunicações
+• Manutenção de sistemas aplicativos
+• Operação de hardware
+• Programação de sistemas
+• Provimento de segurança
+• Programação de tarefas
+• Padronização de tarefas
+• Orçamento
+• Estabelecimento de prioridades
+• Acesso a dados
+• Planejamento de pessoal
+• Avaliação de produtos
+EXECUÇÃO – DESENVOLVIMENTO CONTROLE – DESENVOLVIMENTO
+• Documentação de sistemas
+• Programação de aplicações
+• Administração de banco de dados
+• Treinamento do usuário
+• Análise de sistemas
+• Padronização de tarefas
+• Programação de tarefas
+• Planejamento de pessoal
+• Orçamento
+• Provimento de segurança
+• Avaliação de produtos
+• Acesso a dados
+• Estabelecimento de prioridades
+(Adaptado de BUCHANAN & LINOWES, 1980b)
+GESTÃO & PRODUÇÃO v.8, n.2, p.160-179, ago. 2001 165
+“Estratégico”: a TI tem grande influência na
+estratégia geral da empresa. Tanto as aplicações
+atuais como as futuras são estratégicas, afetando
+o negócio da empresa. Neste caso, é importante
+que a TI esteja posicionada em alto nível de sua
+estrutura hierárquica. Nos bancos, por exemplo,
+a TI apresenta este papel estratégico.
+3.4 Matriz de Intensidade de Informação
+PORTER & MILLAR (1985) discutiram o
+problema destacando o “quanto” de informação
+estava contido no processo e no produto, usando
+para isto a “matriz de intensidade da informação”
+(Figura 4). Em empresas cujos produtos e
+processos contém muita informação, os sistemas
+de informação vão ter grande importância.
+Exemplo: bancos.
+No artigo original de PORTER & MILLAR,
+não havia indicação de exemplo para o quadrante
+“alta informação contida no produto” e “baixa
+de intensidade da informação no processo”,
+posição que é corroborada por DOYLE (1991).
+Contudo, para WARD (1988), este seria o caso
+de empresas de educação e de advocacia; para
+DUHAN et. al. (2001), empresas de consultoria
+também estariam neste mesmo enquadramento.
+3.5 “Casos Clássicos” de Sistemas de
+Informação Considerados Estratégicos
+EARDLEY et al. (1996) desenvolveram um
+estudo no qual analisam oito casos “clássicos”
+de sistemas estratégicos, cujo histórico de desenvolvimento,
+implantação e operação estivessem
+suficientemente documentados. Para a verificação
+de que maneira os sistemas poderiam ser
+chamados de estratégicos, os autores buscaram
+eventuais conexões entre os sistemas e a estrutura
+das forças competitivas de PORTER (1996),
+conforme a Tabela 2.
+Além de mostrarem que o modelo competitivo
+de PORTER (1996) pode auxiliar na identificação
+do impacto estratégico de aplicações de
+TI, as conclusões mais significativas foram que
+não se encontraram evidências de que o impacto
+IMPACTO FUTURO
+BAIXO ALTO
+ALTO
+IMPACTO
+“FÁBRICA”
+Ex.: companhias aéreas
+ESTRATÉGICO
+Ex.: bancos, seguradoras
+PRESENTE
+BAIXO
+SUPORTE
+Ex.: indústrias
+TRANSIÇÃO
+Ex.: editoras, e-commerce
+Figura 3 – “Grid Estratégico”: impacto estratégico de aplicações de TI
+(Adaptado de MCFARLAN, 1984)
+INFORMAÇÃO CONTIDA NO PRODUTO
+BAIXA ALTA
+ALTA
+INTENSIDADE DA
+INFORMAÇÃO NA
+REFINARIA
+DE PETRÓLEO
+BANCOS, JORNAIS,
+COMPANHIAS AÉREAS
+CADEIA DE VALOR
+(PROCESSO)
+BAIXA
+CIMENTO
+Figura 4 – Matriz de intensidade da informação
+(Adaptado de PORTER & MILLAR, 1985)
+166 Laurindo; Shimizu; Carvalho & Rabechini Jr – O Papel da Tecnologia da Informação (TI)
+estratégico destes sistemas tivesse sido
+planejado e que vários destes sistemas não
+passariam pelo crivo de uma análise financeira.
+Complementando este estudo, AVISON et al.
+(1998) propuseram um modelo de visualização
+dos impactos estratégicos provenientes de
+aplicações de TI, decorrentes da visão da
+estratégia futura da empresa.
+3.6 Relação entre Investimentos em TI e
+Desempenho Organizacional
+O estudo efetuado por BYRD & MARSHALL
+(1997) buscou aprofundar o trabalho de
+MAHMOOD (1993) acerca do relacionamento
+entre investimentos da TI e desempenho da
+empresa. A pesquisa baseou-se em dados de 350
+empresas por um período de quatro anos,
+tentando com isso abranger um período de
+tempo no qual se pudesse notar os efeitos das
+aplicações de TI, cujo retorno de investimentos
+muitas vezes têm um tempo de maturação maior
+do que um ano. Para efetuar este estudo, foi feita
+análise do relacionamento entre variáveis de
+investimentos em TI e indicadores tradicionais
+de desempenho de empresas.
+Algumas das principais conclusões e dos
+questionamentos resultantes deste estudo:
+• O dispêndio na totalidade do pessoal de staff
+mostrou relacionamento negativo com os
+resultados da empresa, pois se prioriza quadros
+de funcionários numerosos em detrimento
+de pessoal melhor qualificado.
+• Há necessidade de abordagem híbrida: qualitativa
+e quantitativa. Os estudos qualitativos
+focam casos de sucessos, mas muito seria
+aprendido estudando-se os casos de fracasso
+de implantação de aplicações de TI. Por outro
+lado, seria interessante estudar quanto que os
+estudos quantitativos não captam “o contexto
+organizacional”, ou seja, não permitem compreender
+o contexto que se dá a aplicação.
+Tabela 2 – Relação entre as forças competitivas de Porter e oito casos “clássicos” de sistemas de
+informação considerados estratégicos
+FORÇAS COMPETITIVAS (PORTER)
+EMPRESA SISTEMA COMPETIÇÃO
+ENTRE RIVAIS
+MOBILIDADE
+DE CONSUMIDORES
+PODER DE
+BARGANHA
+DE FORNECEDORES
+PRODUTOS/
+SERVIÇOS
+SUBSTITUTOS
+NOVAS
+ENTRADAS NO
+MERCADO
+AMERICAN
+AIRLINES
+SABRE MUDANÇA DE
+BASE
+INCENTIVO VALOR
+ADICIONADO
+UNITED
+AIRLINES
+APOLLO CUSTOS DE
+MUDANÇA
+AMERICAN
+HOSPITAL ASAP MUDANÇA DE
+BASE
+CUSTOS DE
+MUDANÇA
+ERGUIMENTO
+DE BARREIRAS
+FEDERAL
+EXPRESS COSMOS MUDANÇA DE
+BASE
+VALOR
+ADICIONADO
+DEMOLIÇÃO
+DE BARREIRAS
+McKESSON ECONOMOST MUDANÇA DE
+BASE
+CUSTOS DE
+MUDANÇA
+CITICORP GTN CUSTOS DE
+MUDANÇA
+MERRIL LYNCH CMA MUDANÇA DE
+BASE
+AMPLITUDE
+DE SERVIÇOS
+ERGUIMENTO
+DE BARREIRAS
+PHILADELPHIA
+NATIONAL BANK MAC MUDANÇA DE
+BASE DEMOLIÇÃO
+DE BARREIRAS
+(Adaptado de EARDLEY et al., 1996)
+GESTÃO & PRODUÇÃO v.8, n.2, p.160-179, ago. 2001 167
+• A importância de taxonomias e tipologias da
+estratégia, negócio, estrutura, cultura da
+empresa e da TI.
+Principal conclusão que os autores destacam,
+após discutirem os aspectos acima, é que a
+pergunta “aumento de investimentos em TI
+levam a um maior desempenho organizacional?”
+não é adequada, pois há necessidade de
+uma análise mais abrangente para concluir sobre
+os resultados das aplicações de TI.
+3.7 O Modelo do Alinhamento Estratégico
+HENDERSON & VENKATRAMAN (1993)
+propuseram um modelo que destaca e analisa a
+importância estratégica do papel desempenhado
+pela TI dentro das empresas. O modelo proposto
+baseia-se em fatores internos e externos à empresa.
+É feita analise do impacto da TI nos negócios
+da empresa, como estes afetam a organização e a
+estratégia de TI e também quais as disponibilidades
+no mercado em termos de novas tecnologias.
+A proposta apresentada é denominada de
+“Modelo do Alinhamento Estratégico”.
+HENDERSON & VENKATRAMAN propõem
+que, além da amplamente reconhecida
+necessidade de ajuste entre a estratégia da
+empresa e sua estrutura interna, também deve,
+analogamente, haver ajuste entre a estratégia
+externa de TI (posicionamento no mercado de
+TI) e a estrutura interna de Sistemas de
+Informação (sua organização e administração).
+Portanto, segundo este modelo, para planejar
+a TI, devem ser considerados fatores externos
+(estratégia) e internos (infra-estrutura), quais
+sejam: estratégia de negócio; estratégia de TI;
+infra-estrutura organizacional e processos e
+infra-estrutura de sistemas de informação e
+processos.
+Outra premissa do Modelo do Alinhamento
+Estratégico é que uma administração eficaz da
+TI requer um balanceamento entre as decisões
+em todos os quatro fatores listados acima. O
+modelo destaca dois tipos de integração entre os
+domínios do negócio e de TI, quais sejam: o
+estratégico e o operacional.
+Este modelo traz como novidade o fato de
+considerar que a estratégia de TI pode mudar a
+estratégia de negócios da empresa, já que usualmente
+esta última é considerada como ponto de
+partida para o planejamento de TI. Este planejamento
+deve ser um processo contínuo, pois os
+fatores externos apresentam-se em constante
+mutação. Se a empresa não estiver acompanhando
+estas mudanças, pode ser seriamente prejudicada
+na acirrada competição pelo mercado. Isto é
+particularmente verdadeiro quando uma nova
+tecnologia passa a ser adotada por quase todas
+empresas de um ramo de atividades, de tal
+maneira que deixa de ser fator de vantagem
+competitiva para quem a detém, para ser fator de
+desvantagem para quem não a utiliza.
+HENDERSON & VENKATRAMAN (1993)
+e LUFTMAN et al. (1993) apontaram quatro
+principais perspectivas de alinhamento estratégico,
+tendo como ponto de partida ou a estratégia
+de negócio ou a estratégia de TI como impulsionadora
+deste processo, a saber:
+1 – Execução de estratégia
+Estratégia
+do Negócio ? Estrutura
+do Negócio ? Estrutura
+de TI
+Esta é a perspectiva mais difundida e melhor
+compreendida, uma vez que corresponde ao
+modelo clássico de visão hierárquica de administração
+estratégica.
+2 – Transformação tecnológica
+Estratégia
+do Negócio ? Estratégia
+de TI ? Estrutura
+de TI
+Nesta perspectiva, nota-se que a estrutura de
+TI não é restringida pela estrutura de organização
+de negócios.
+3 – Potencial competitivo
+Estratégia
+de TI ? Estratégia
+do Negócio ? Estrutura
+do Negócio
+A escolha da estratégia de negócios decorre
+de uma nova estratégia de TI adotada.
+168 Laurindo; Shimizu; Carvalho & Rabechini Jr – O Papel da Tecnologia da Informação (TI)
+4 – Nível de Serviço
+Estratégia
+de TI ? Estrutura
+de TI ? Estrutura
+do Negócio
+Esta perspectiva visa a um atendimento ao
+cliente “classe mundial” em serviços de Sistemas
+de Informação.
+A Tabela 3 resume as características destas
+quatro perspectivas.
+3.8 Outros Modelos para Diagnóstico do
+Papel da TI nas Organizações
+Além dos estudos apresentados acima, há
+diversos outros que fornecem contribuições
+interessantes à compreensão do papel da TI em
+relação ao negócio e à estratégia das organizações.
+Não obstante, estes trabalhos não serão
+expostos no mesmo nível de detalhe que nos
+itens anteriores, pois são similares aos conceitos
+já apresentados, apresentando uma maior
+dificuldade de operacionalização. Entre eles,
+pode-se citar:
+• DONOVAN (1988) propôs um modelo de
+análise da descentralização ou centralização da
+TI nas empresas, no qual são levados em conta
+três fatores e como eles estão distribuídos (de
+forma centralizada ou descentralizada) nestas
+empresas: desenvolvimento de sistemas,
+equipamentos, tomada de decisões (de como
+e quais sistemas desenvolver).
+• SETHI & KING (1994) desenvolveram um
+modelo para medir a vantagem competitiva
+oriunda de aplicações de TI.
+• EARL & FEENY (1994) discutem como os
+executivos de TI (CIO) devem agir para
+agregar valor ao negócio e serem eficazes.
+• EVANS & WURSTER (1997) analisam o
+impacto na estratégia de negócios da empresa
+de novas aplicações de TI (notadamente o
+e-business e e-commerce), implicando muitas
+vezes em uma radical mudança nos parâmetros
+de competição.
+• CHOE et al. (1998) estudam os fatores
+(internos, externos e relacionados a TI) que
+influenciam aplicações estratégicas de TI.
+• SMITHSON & HIRSCHEIM (1998) apresentaram
+um estudo sobre a evolução ao
+longo do tempo das idéias aplicadas na
+avaliação da TI, bem como criaram uma
+classificação (já descrita acima) acerca dos
+modelos já apresentados.
+• GRAEML (1998), embora analisando o
+processo de avaliação da TI de maneira geral,
+dá ênfase a questões financeiras: a idéia do
+que o nível de investimentos em TI está
+associado ao desempenho da empresa e a
+Tabela 3 – Características das Perspectivas de Alinhamento Estratégico
+PERSPECTIVA IMPULSIONADORA
+PAPEL DA ALTA
+DIREÇÃO DA
+EMPRESA
+PAPEL DA
+DIREÇÃO DE TI
+CRITÉRIO DE
+DESEMPENHO
+1
+EXECUÇÃO DA
+ESTRATÉGIA
+ESTRATÉGIA DE
+NEGÓCIOS
+FORMULADOR DE
+ESTRATÉGIAS
+IMPLANTADOR DE
+ESTRATÉGIAS
+CUSTOS/CENTROS
+DE SERVIÇO
+2
+TRANSFORMAÇÃO
+TECNOLÓGICA
+ESTRATÉGIA DE
+NEGÓCIOS
+FORNECEDOR DE
+VISÃO DE
+TECNOLOGIA
+ARQUITETO DE
+TECNOLOGIA
+LIDERANÇA
+TECNOLÓGICA
+3
+POTENCIAL
+COMPETITIVO
+ESTRATÉGIA DE TI VISIONÁRIO DE
+NEGÓCIOS CATALISADOR LIDERANÇA DE
+NEGÓCIOS
+4
+NÍVEL DE
+SERVIÇO
+ESTRATÉGIA DE TI PRIORIZADOR LIDERANÇA
+EXECUTIVA
+SATISFAÇÃO DO
+CLIENTE
+(Adaptado de HENDERSON & VENKATRAMAN, 1993)
+GESTÃO & PRODUÇÃO v.8, n.2, p.160-179, ago. 2001 169
+forma como as empresas consideram os
+dispêndios em TI, se como investimentos ou
+como despesas.
+• GALLIERS & BAETS (1998) propuseram
+um modelo para análise da TI e das mudanças
+organizacionais chamado “círculo de
+forças”, que considera quatro fatores: tecnologia
+da informação, estratégia corporativa,
+comportamento organizacional e psicologia
+cognitiva.
+• LI & YE (1999), em seu estudo, relacionaram
+os investimentos em TI com a estratégia da
+empresa, o “espírito” de inovação e a
+“distância” na estrutura hierárquica entre o
+executivo de TI e o principal executivo da
+empresa.
+• ANGHERN (1997), VENKATRAMAN &
+HENDERSON (1998), WILLCOCKS et al.
+(1998), EVANS & WURSTER (1999) propuseram
+diferentes formas de serem analisadas
+estratégias especificamente voltadas ao
+e-business e e-commerce.
+4. Modelos Prescritivos para o Papel da TI
+nas Organizações
+4.1 Anos 90: a “Década da Informação”
+MCFARLAN (1990) apresentou um panorama
+no qual faz uma análise dos rumos que a TI
+estaria tomando, listando características dos
+sistemas estratégicos, as razões para os fracassos
+em sistemas de informação, além de sugerir
+caminhos para a gestão da TI.
+As tendências para o uso da TI que se vislumbravam
+no início dos anos 90 levaram à
+proposição de passos para ação, de forma a
+desfrutar de todo o potencial da TI:
+1. Sistemas de informação estratégicos devem
+ser criação conjunta da direção do negócio e
+da direção da TI.
+2. Criação de um comitê consultivo externo
+reportando ao mais alto executivo da empresa
+(“CEO”), facilitando o benchmarking.
+3. Projetos pilotos para entender a potencialidade
+de novas tecnologias.
+4. Treinamento (education) da administração,
+em todos seus níveis, visando a uma melhor
+compreensão do papel que a TI pode desempenhar
+na empresa.
+5. A TI deve ser dirigida pelos mais altos níveis
+hierárquicos da empresa.
+6. Planejamento pragmático, resolvendo os
+problemas do presente, embora com uma
+visão da direção a ser seguida no futuro.
+7. Arquitetura de sistemas adequada e claramente
+definida.
+8. Organização da TI capaz de evoluir.
+4.2 Fatores Inibidores e Fatores Viabilizadores
+do Alinhamento Estratégico
+LUFTMAN (1996), discutindo a aplicação do
+Modelo do Alinhamento Estratégico, apresentou
+lista de fatores que favorecem (ou viabilizam) o
+alinhamento e fatores que inibem o alinhamento.
+Estas listas resultaram de um levantamento que
+o autor desenvolveu junto a executivos, acerca
+de existência de alinhamento estratégico nas
+empresas.
+Segundo o autor, para a obtenção do alinhamento
+estratégico, deve ser formado um grupo
+pelos principais executivos do negócio e da TI,
+que conheçam bem o negócio da empresa, que
+deve discutir e definir os principais problemas e
+oportunidades. Em seguida, faz-se um plano
+visando diminuir as diferenças entre a situação
+atual e a futura (desejada), resultando em:
+• maior cumprimento das estratégias de
+negócio e de TI;
+• identificação e priorização de oportunidades
+para “alavancar” o negócio através da TI;
+• equipe com boa experiência de aprendizado
+em relação ao negócio e seu futuro;
+• a organização com um canal para comunicar
+e compreender o papel e o valor da TI.
+4.3 Benchmarking para Verificação de
+Alinhamento Estratégico
+As melhores práticas relativas ao alinhamento
+estratégico da TI podem ser verificadas através
+170 Laurindo; Shimizu; Carvalho & Rabechini Jr – O Papel da Tecnologia da Informação (TI)
+de benchmarking resultante de um levantamento
+efetuado em grandes empresas (PRAIRIE,
+1996). Os pontos críticos para mudanças na TI
+que levem a uma alavancagem dos negócios
+estão resumidos abaixo:
+• Estratégia definida;
+• Desenvolvimento de medidas centradas nos
+clientes;
+• Destaque de pontos para mudança;
+• Ajuste de processos e habilidades de TI aos
+objetivos do negócio e inserção dos objetivos
+do negócio nos processos e habilidades de TI;
+• TI é assunto de todos.
+4.4 Imperativos para a Organização da TI
+Um estudo em aproximadamente cinqüenta
+empresas e entre executivos de grandes
+empresas da Europa, Japão e Estados Unidos,
+acerca das práticas organizacionais da TI
+forneceu uma visão dos requisitos para a organização
+da TI nas empresas (ROCKART et al.,
+1996). Os principais pontos encontrados nestes
+estudos indicam, segundo os autores, onde as
+empresas devem se concentrar na busca de
+“excelência” para obter um melhor desempenho
+da organização da TI. A estes pontos os autores
+denominaram de “imperativos” para a organização
+da TI, que seriam os seguintes:
+1. Obter Alinhamento Estratégico de “duas
+mãos” (entre TI e o negócio).
+2. Desenvolver relacionamentos eficazes entre
+TI e gerência de linha.
+3. Entregar (Delivery) e implantar novos sistemas.
+4. Construir e Administrar infra-estrutura.
+5. Re-capacitar (Reskill) a Organização de TI.
+6. Administrar parcerias com fornecedores
+(Vendors).
+7. Desenvolver alto desempenho.
+8. Reprojetar e Administrar uma organização de
+TI “federativa”.
+Destaque-se que ROCKART (1979), que será
+detalhado a seguir, apresentou um método para
+uma análise singular dos fatores críticos de
+sucesso na situação específica de uma empresa,
+enquanto que, os imperativos são uma síntese
+das melhores práticas de gestão da TI em
+empresas.
+5. Modelos Voltados à Ação sobre o Papel da TI
+5.1 Fatores Críticos de Sucesso (FCS)
+ROCKART (1979) propôs uma nova abordagem
+para serem concebidos os sistemas de
+informação gerenciais, baseada na definição
+pelos próprios gerentes sobre suas necessidades
+de informação. O foco da abordagem proposta
+está nos “Fatores Críticos de Sucesso” (FCS),
+que seriam, para este autor, “o número limitado
+de áreas nas quais os resultados, se satisfatórios,
+asseguram o desempenho competitivo bem
+sucedido para a organização.” De acordo com
+TORRES (1989), embora a concepção original
+do método dos FCS esteja voltada ao principal
+executivo da empresa, eles também podem ser
+muito úteis aos diversos níveis gerenciais, nas
+diferentes funções ou áreas da empresa.
+Basicamente, os passos do método dos FCS
+são os seguintes:
+1 – Análise do ramo de atuação da empresa
+ou da natureza de atuação da área;
+2 – Identificação dos Fatores Críticos de
+Sucesso;
+3 – Definição de medidas (quantitativas ou
+qualitativas) dos FCS;
+4 – Definição de sistemas de informação
+para controle destas medidas.
+Embora não seja uma metodologia completa,
+pois deixa lacunas quanto aos sistemas de
+informação transacionais, há concordância em
+que é muito útil para a elaboração de sistemas de
+informação gerenciais. Permite que sejam
+vislumbrados meios e alternativas para melhorar
+funções ou áreas de importância crucial para a
+empresa e deixa mais clara a ligação dos
+sistemas de informação ao negócio da empresa.
+Finalmente, é um modelo voltado para a ação,
+pois permite que a empresa tome decisões
+práticas com base em sua utilização.
+Uma proposta que guarda similaridade com o
+modelo dos FCS de ROCKART foi elaborada
+GESTÃO & PRODUÇÃO v.8, n.2, p.160-179, ago. 2001 171
+por BROADBENT & WEIL (1997), que
+propuseram um modelo que denominaram de
+“Gestão por Princípios ou Máximas” (Management
+by Maxim), pelo qual são analisados e
+definidos os grandes princípios que devem
+nortear o negócio e a TI em cada empresa. Com
+isto, seria possível definir a infra-estrutura e os
+serviços de TI que combinasse com o posicionamento
+competitivo e estratégico da empresa.
+5.2 Gestão da Competitividade através dos
+Ativos de TI
+ROSS et al. (1996) discutiram como a empresa
+pode manter uma maior competitividade
+no longo prazo com base na gestão contínua de
+três “ativos” de TI: (i) staff de TI; (ii) base
+tecnológica reutilizável e (iii) parceria entre a
+administração da TI e a do negócio.
+O staff de TI representa o ativo em recursos
+humanos de alto desempenho; a base tecnológica
+reutilizável representa o ativo em tecnologia
+(bancos de dados e plataformas compartilhadas)
+e, finalmente, a parceria entre a administração da
+TI e a do negócio implica no compartilhamento
+de riscos e de responsabilidades entre TI e o
+negócio. Estes ativos de TI trazem impactos nos
+processos de TI, que seriam os seguintes:
+planejamento de TI, “entrega” (delivery) e
+operações e suporte.
+Estes processos, sendo rápidos, alinhados e
+eficazes em relação a custos, interagem entre si e
+com os ativos, trazendo uma vantagem competitiva
+sustentável. A análise contínua da situação
+dos ativos em relação ao ambiente e ao momento
+em que a empresa vive indica diferentes
+possibilidades de estratégia para a TI, conforme
+a Figura 5. Importante destacar que cada vez
+mais as empresas usam os mesmos “pacotes”,
+contratam os mesmos grandes fornecedores e
+contratam serviços similares. Conseqüentemente,
+uma maior competitividade não viria de
+aplicações específicas, facilmente imitáveis, mas
+da alavancagem de uma boa gestão dos ativos de
+TI, mais difícil de ser copiada.
+5.3 Balanced Scorecard
+Embora o Balanced Scorecard, desenvolvido
+por KAPLAN & NORTON (1992), não seja um
+método especialmente focado para o planejamento
+de TI, tem implicações diretas na
+definição de sistemas de informação com
+potencial de impacto estratégico. WILLCOCKS
+& LESTER (1997), entre outros, sugerem o uso
+do Balanced Scorecard no planejamento
+estratégico da TI, em especial na fase de
+“desenvolvimento e implantação”.
+O Balanced Scorecard é um método para
+medir e dirigir ações da empresa de acordo com
+a sua estratégia; de certa forma, é uma extensão
+(mais sistemática) da idéia dos FCS de
+ROCKART (1979). O método usa quatro
+conjuntos interligados de medidas, cada qual
+focando uma perspectiva: financeira, do cliente,
+de inovação e de aprendizado, interna de
+AMBIENTE COMPETITIVO
+ESTADO DOS ATIVOS AMEAÇA IMINENTE SEM AMEAÇA IMINENTE
+FRACO
+AFUNDANDO
+“Tirar água do barco”
+Mudança rápida, arriscada
+À DERIVA
+“Traçar um curso”
+Construção de relacionamento
+FORTE
+APRUMANDO
+“Ajustar as velas”
+Resposta focalizada
+CRUZEIRO
+“Toda velocidade adiante”
+Aprendizado adaptativo
+Figura 5 – Grid de avaliação dos ativos de TI
+(Adaptado de ROSS et al., 1996)
+172 Laurindo; Shimizu; Carvalho & Rabechini Jr – O Papel da Tecnologia da Informação (TI)
+negócio. Cada uma destas perspectivas tem seu
+próprio conjunto de metas e de medidas.
+5.4 A “Escada” de Avaliação de Benefícios
+Analisando as inúmeras classificações de
+organizações e suas aplicações de TI, FARBEY
+et al. (1995) concluíram que há limitações
+quanto sua aplicabilidade para identificar o
+melhor método de avaliação. Para tentar resolver
+esta situação, propuseram um novo modelo,
+voltado para a avaliação e para a ação, e que
+apresenta uma classificação das aplicações de
+TI, dispostas em diversos “degraus”, que
+denominaram “a ‘Escada’ de Avaliação de
+Benefícios” (Benefits Evaluation Ladder). Na
+medida em que se “sobe a escada”, aumenta a
+extensão dos benefícios potenciais (e portanto, a
+eficácia), mas também a complexidade, os
+riscos, a incerteza, além de dificultar a “venda”
+da idéia às pessoas com poder de decisão no
+projeto (stakeholders). Os autores identificam
+oito tipos de aplicações de TI (degraus):
+1. Mudanças Obrigatórias
+2. Automação
+3. Sistemas de Valor Adicionado Direto
+4. Sistemas de Informações Gerenciais
+(Management Information Systems – MIS) e
+Sistemas de Apoio à Decisão (Decision
+Support Systems – DSS)
+5. Infra-Estrutura
+6. Sistemas Interorganizacionais
+7. Sistemas Estratégicos
+8. Transformação do Negócio
+Para cada um dos oito tipos de aplicações,
+que correspondem aos degraus de “escada de
+benefícios”, há a indicação de quais seriam os
+fatores a serem considerados para avaliar a TI,
+que podem ser mais objetivos (nos degraus mais
+baixos) ou mais subjetivos (na medida em que se
+sobe a escada). Os autores sugerem um leque de
+ações balizadoras da avaliação e do desenvolvimento
+das aplicações para cada degrau. Por
+exemplo, no degrau “Mudanças Obrigatórias”
+sugere-se a adoção de critérios clássicos de
+contabilidade de custos e de medida de trabalho
+para cada uma das alternativas para implantação
+da aplicação de TI em questão.
+6. Modelos Integrativos do Papel da TI nas
+Organizações
+lém dos três grupos de modelos citados, há
+modelos que integram outros modelos,
+dentro de uma estrutura geral, criando uma
+forma mais abrangente de analisar o papel da TI
+nas organizações. Um trabalho pioneiro com esta
+abordagem foi desenvolvido por EARL (1989),
+que propôs uma estrutura (framework) de
+análise do papel estratégico da TI composta por
+outras estruturas, que o autor classifica em três
+grupos: “conhecimento” (awareness), oportunidade
+(opportunity) e posicionamento (positioning).
+Neste contexto, foram selecionados dois
+modelos que exprimem bem o conceito da
+classificação “modelo integrativo”, que serão
+apresentados a seguir.
+6.1 Modelo para Análise da TI
+Diante destas considerações, foi proposto um
+modelo para uma análise dos impactos organizacionais
+e estratégicos da TI nas empresas. O
+modelo para análise da TI (LAURINDO, 1995;
+LAURINDO, 2000) está baseado em dois grupos
+de fatores: fatores relacionados à estrutura da
+empresa e fatores referentes à organização da TI
+propriamente dita. Compõe-se de dez passos,
+nos quais são utilizados, de forma integrada e
+complementar, diversos outros modelos de
+análise da TI. Cada passo contribui para a
+análise dos passos subseqüentes e a seqüência
+destes passos exprime uma visão crescente do
+conhecimento de aspectos da estratégia e da
+operação da empresa e da possível contribuição
+da TI ao negócio, bem como uma visão de como
+a área e a função TI estão organizadas para
+fornecer estas contribuições.
+Passos referentes à análise dos fatores estruturais
+da empresa:
+I. Fatores Críticos de Sucesso (FCS)
+(ROCKART, 1979; TORRES, 1989);
+A
+GESTÃO & PRODUÇÃO v.8, n.2, p.160-179, ago. 2001 173
+II. Grid Estratégico (MCFARLAN, 1984) e
+Matriz de intensidade da Informação
+(MILLAR & PORTER, 1985);
+III. Verificação da perspectiva adotada do
+modelo do Alinhamento Estratégico
+(HENDERSON & VENKATRAMAN,
+1993);
+IV. Análise sobre a existência de razões para
+descentralização na empresa (BUCHANAN
+& LINOWES, 1980a).
+Passos referentes a análise dos fatores referentes
+à organização da TI:
+V. Avaliação do grau de descentralização
+(BUCHANAN & LINOWES, 1980a,
+1980b);
+VI. Verificação do estágio de informatização
+(NOLAN, 1979);
+VII. Verificação do estágio de descentralização
+(DONOVAN, 1988);
+VIII. Configuração da função e operação da TI
+(GRAJEW & OLIVEIRA, 1987);
+IX. Nível de participação dos usuários (DIAS,
+1985);
+X. Análise da organização da área de TI.
+Ao término destes passos da análise, tem-se
+uma visão das características da empresa e suas
+estratégias e qual a posição da TI diante desta
+visão e de como a TI está estruturada para
+atender ao seu papel dentro da organização.
+6.2 Modelo de Avaliação de TI Segundo um
+Ciclo de Vida
+Este modelo originou-se de estudo acerca da
+produtividade e da avaliação da TI, discutindo as
+razões tanto para a existência como para a
+negação do “paradoxo da produtividade” da TI
+(WILLCOCKS & LESTER, 1997). Segundo
+estes autores, um processo de avaliação da TI
+deve conter medidas que envolvam aspectos
+técnicos e de negócio, de maneira integrada.
+Deve também deve integrar estas medidas ao
+longo do tempo, auxiliando nas decisões acerca
+das aplicações de TI a serem desenvolvidas,
+abandonadas ou melhoradas. Finalmente, a
+avaliação deve ser tratada como um processo,
+envolvendo todos interessados, monitorando o
+uso da TI e proporcionando uma melhor
+compreensão e maior alcance de suas aplicações.
+Para atender aos aspectos acima explanados,
+WILLCOCKS & LESTER propuseram uma
+abordagem de avaliação que foi denominada de
+“abordagem de ciclo de vida dos sistemas”, que
+envolve sete pontos:
+1. Alinhamento estratégico e priorização;
+2. Identificação dos benefícios e respectivas
+técnicas de avaliação;
+3. Desenvolvimento de medidas (métricas)
+baseadas em critérios financeiros, de serviços,
+disponibilização (delivery), aprendizado
+e técnicos;
+4. Associar estas medidas a medidas (métricas)
+necessárias às fases de desenvolvimento,
+implantação e pós-implantação;
+5. Assegurar-se que cada conjunto de métricas
+flua do nível estratégico para o operacional;
+6. Estabelecer responsabilidades por estas métricas
+e rever os resultados periodicamente;
+7. Periodicamente reavaliar o portfolio existente,
+relacionando-o com a direção do negócio e
+com objetivos de desempenho.
+Visando à operacionalização destes conceitos,
+WILLCOCKS & LESTER (1997) propuseram
+que o processo de avaliação seguindo um
+ciclo de vida fosse composto de seis fases, sendo
+que em cada uma destas fases, diversos modelos
+podem ser utilizados. Para cada etapa incluem-se
+alguns dos modelos sugeridos ou passíveis de
+utilização:
+I. Alinhamento: MCFARLAN (1984), MILLAR
+& PORTER (1985), EARL (1989),
+HENDERSON & VENKATRAMAN (1993);
+II. Priorização: FARBEY et al. (1995);
+III. Viabilidade: FARBEY et al. (1995),
+STRASSMAN (1990);
+IV. Desenvolvimento e Implantação: KAPLAN
+& NORTON (1992);
+V. Pós-implantação: KUMAR (1990);
+VI. Operação: STRASSMAN (1990).
+A Tabela 4 traz uma síntese do quadro teórico
+esboçado neste artigo, destacando as principais
+características de cada modelo apresentado.
+174 Laurindo; Shimizu; Carvalho & Rabechini Jr – O Papel da Tecnologia da Informação (TI)
+7. Conclusões
+levantamento das diversas formas de
+analisar o papel da TI dentro das organizações
+aponta para a crescente complexidade do
+tema, que acompanha o aumento das oportunidades
+estratégicas proporcionadas pela TI. Hoje,
+as estratégias de negócios e de TI muitas vezes
+se confundem, em especial quando se trata de
+empresas atuando na Internet.
+O
+Tabela 4 – Resumo dos modelos de análise do papel da TI nas organizações detalhados neste trabalho
+MODELO IDÉIA / DESTAQUES
+FOCO NO DIAGNÓSTICO
+MAHMOOD (1993) Relação entre uso de TI e indicadores financeiros mostrando relação positiva.
+BYRD & MARSHALL (1997) Relação entre uso de TI e indicadores financeiros, mostrando resultados
+inconclusivos.
+NOLAN (1979) Modelo de Estágios de informatização das empresas.
+DONOVAN (1988) Modelo de Estágios da TI descentralizada.
+MCFARLAN (1984) Grid Estratégico: papel estratégico das aplicações presentes e futuros de TI
+para diferentes tipos de empresas.
+PORTER & MILLAR (1985) Matriz de intensidade de informação nos produtos e processos.
+HENDERSON & VENKATRAMAN
+(1993)
+Alinhamento entre Estratégias de TI e de negócio e infra-estrutura de TI do
+negócio. Perspectivas de Alinhamento (quem impulsiona o alinhamento).
+EARDLEY et al. (1996) Estudo de casos "clássicos" de sucesso de sistemas de TI estratégicos, de
+acordo com as forças competitivas de Porter.
+LI & YE (1999) Desempenho da TI e da empresa, conforme contexto ambiental, estratégico e
+administrativo, a partir dos investimentos em TI.
+FOCO NA PRESCRIÇÃO
+LUFTMAN (1996) Discussão sobre fatores facilitadores e inibidores do alinhamento, de acordo
+com a visão dos executivos de TI e do negócio.
+PRAIRIE (1996) Benchmarking de alinhamento estratégico, tendo em base pesquisa em grandes
+empresas com uso bem sucedido de TI.
+ROCKART et al. (1996) “Imperativos” para a organização da TI, de acordo com o cenário atual de
+competição globalizada.
+SMITHSON & HIRSCHEIM (1998) Classificação dos modelos de avaliação de TI; histórico da avaliação da TI.
+MCFARLAN (1990) Análise do que viria a ser a "Década da Informação" (anos 90), enfocando as
+tendências para a TI, características de sistemas estratégicos e razões para
+fracassos nos projetos de TI.
+FOCO NA AÇÃO
+ROCKART (1979) Modelo dos Fatores Críticos de Sucesso, relacionando-os com os sistemas de
+informação que lhes dêem suporte ou a suas medições.
+ROSS et al. (1996) Competitividade no longo prazo com base em três “ativos” de TI: staff de TI,
+base tecnológica reutilizável e parceria entre a administração da TI e do
+negócio.
+FARBEY et al. (1995) "Escada" de avaliação de benefícios: classificação de aplicações de TI em oito
+grupos e respectivos métodos de avaliação.
+MODELOS INTEGRATIVOS
+WILLCOCKS & LESTER (1997) Discussão dos fatores a serem considerados para análise da TI, explicando a
+origem do “paradoxo” da produtividade. Modelo de avaliação de "ciclo de vida
+dos sistemas", utilizando diversos outros modelos.
+LAURINDO (1995 e 2000) Modelo para análise do papel da TI nas organizações, utilizando diversos
+modelos de forma integrada.
+GESTÃO & PRODUÇÃO v.8, n.2, p.160-179, ago. 2001 175
+Embora seja notado um grande número de
+artigos voltados à análise da relação entre TI e
+estratégia da empresa, este tema permanece
+como campo fértil para muitos estudos, inclusive
+pelo dinamismo das potencialidades da TI e das
+novas estratégias de mercado.
+O quadro teórico traçado para a análise
+permite identificar a fronteira das diversas
+abordagens segundo seu caráter de diagnóstico,
+prescritivo, de ação ou integrativo. Contudo, é
+possível elencar alguns pontos que permeiam as
+diversas abordagens e que, portanto, merecem
+destaque:
+• Necessidade de haver visão estratégica clara
+para o negócio e para a TI, e visão da TI
+como vantagem competitiva para o negócio e
+voltada para o mercado e para o usuário TI.
+Ter uma clara visão estratégica para o negócio
+e para a TI é ponto de partida para que
+seja possível um impacto significativo no
+desempenho da organização. A TI precisa ser
+vista como um meio para a empresa obter
+vantagens competitivas no mercado em que
+atua, em concordância com a operação e a
+estratégia da empresa.
+• Vantagem competitiva vindo da gestão da TI
+e de seu alinhamento estratégico com o negócio
+e não de aplicações específicas de TI.
+Diversos autores (HENDERSON &
+VENKATRAMAN, 1993; LUFTMAN et al.,
+1993; ROCKART et al., 1996; WILLCOCKS
+& LESTER, 1997; LUFTMAN, 1996;
+AVISON et al., 1998; etc.) afirmam que não
+basta que haja uma estratégia de TI; ela deve
+estar em alinhamento com a estratégia de
+negócio da empresa. Além disso, há a noção
+de que este alinhamento deve ser desenvolvido
+e mantido ao longo do tempo, em um
+processo dinâmico. Não é possível manter
+uma vantagem competitiva através de uma
+específica aplicação de TI, pois cada vez
+mais é fácil copiar esta aplicação e cada vez
+mais as empresas usam softwares comuns
+(como por exemplo os sistemas ERP, vide
+LAURINDO & MESQUITA, 2000). Somente
+uma vantagem baseada na gestão da TI e no
+alinhamento com o negócio permite manter
+uma vantagem por mais tempo. Ter uma clara
+visão estratégica para o negócio e para a TI é
+ponto de partida para que seja possível um
+impacto significativo no desempenho da
+organização.
+• Importância de serem considerados tanto os
+aspectos técnicos (incluindo acompanhamento
+da evolução das disponibilidades do
+mercado de TI) como os organizacionais.
+Conforme ressaltam HENDERSON &
+VENKATRAMAN (1993), é preciso que a
+organização esteja atenta às novas disponibilidades
+em TI no mercado e que haja uma
+integração entre suas estratégias e sua estrutura,
+tanto de TI como de negócio.
+• Busca de eficácia e não somente da eficiência
+Embora haja reconhecimento da necessidade
+de eficiência na operação da TI, bem como
+uma alta capacitação técnica, é consenso que
+somente através da busca da eficácia do uso
+da TI é que a empresa pode obter vantagens
+competitivas. A busca da eficácia da TI
+implica em analisar seus impactos nos resultados
+obtidos pela empresa bem como em
+considerar os ganhos de produtividade e na
+competitividade do negócio como medidas de
+eficácia da TI.
+• Necessidade de relacionamento intenso e
+próximo entre executivos de TI e do negócio
+Uma das maneiras mais citadas para a obtenção
+de aplicações estratégicas da TI é a
+existência de um bom relacionamento entre
+executivos de TI e do negócio. Isto implica
+em que haja estrutura e procedimentos visando
+o fortalecimento e a continuidade deste
+bom relacionamento. Em empresas em que a
+TI tenha ou esteja passando a ter papel estratégico
+para o negócio, ganha importância a
+proximidade na hierarquia entre os executivos
+de TI e do negócio (LI & YE, 1999;
+PRAIRIE, 1996; ROCKART et al., 1996;
+MCFARLAN, 1990; WILLCOCKS & LESTER,
+1997; EARL & FEENY, 1994; etc.).
+176 Laurindo; Shimizu; Carvalho & Rabechini Jr – O Papel da Tecnologia da Informação (TI)
+• Critérios variados de avaliação conforme a
+aplicação
+Face às diversas possibilidades de estratégia
+de negócio e de TI, bem como da diferença
+de importância da TI para cada organização,
+a TI deve ser avaliada com base em critérios
+variados (abrangendo aspectos técnicos, organizacionais
+e estratégicos) e adaptados a cada
+empresa. Desta forma, torna-se inviável um
+padrão único de avaliação da eficácia da TI.
+• Gestão dinâmica (como um “processo
+contínuo”) e flexível da TI e de sua avaliação
+A gestão da TI (de sua estratégia e de seu
+planejamento) deve ser um processo contínuo,
+não ficando restrita a um “momento de
+planejamento”, acompanhando as aplicações
+de TI durante seus ciclos de vida. A gestão da
+TI deve também ser flexível para acompanhar
+as mudanças externas em termos de possibilidades
+de estratégias de negócio e de disponibilidades
+de TI.
+• A questão do “paradoxo da produtividade”
+Ainda paira no ar o questionamento acerca
+dos ganhos de produtividade oriundos da TI;
+contudo, as análises para explicá-lo ou para
+negá-lo são progressivamente mais abrangentes.
+Indicadores (medidas) de produtividade de TI
+não podem ser baseados unicamente em
+aspectos técnicos e de eficiência; devem estar
+ligados a medidas de produtividade do negócio
+que realmente representem o que é significativo
+para a competitividade da empresa.
+Questões como as redes e arranjos organizacionais
+frutos da TI, bem como as práticas
+gerenciais devem estar presentes numa agenda
+futura de estudos.
+Referências Bibliográficas
+ALTER, S.: Information Systems: a management
+perspective. Addison-Wesley Publishing Co.
+Massachusetts, 1992.
+ANGHERN, A.: “Design matures Internet business
+strategies: The ICDT model”. European
+Management Journal, vol.15, Issue 4, p.360-368,
+Aug. 1997.
+AVISON, D.; EARDLEY A. & POWELL, P.:
+“Suggestions for capturing corporate vision in
+Strategic Information Systems”. Omega,
+International Journal of Management Science,
+v.26, n.4, p.443-459, Aug, 1998.
+BROADBENT, M. & WEIL, P.: “Management by
+Maxim: How Business and IT Managers can
+create IT Infrastructures”. Sloan Management
+Review, v.38, n.3, p.77-92, Spring 1997.
+BRYNJOLFSSON, E.: “The productivity paradox of
+Information Technology”. Communications of the
+ACM, v.36, n.12, p.67-77, Dec. 1993.
+BUCHANAN, J.R. & LINOWES, R.G.: “Making
+Distributed Data Processing Work”. Harvard
+Business Review, v.58, n.5, p.143-161, Sept./Oct.
+1980.
+BUCHANAN, J.R. & LINOWES, R.G.:
+“Understanding Distributed Data Processing”.
+Harvard Business Review, v.58, n.4, p.143-153,
+July/Aug. 1980.
+BYRD, T.A. & MARSHALL, T.T.: “Relating
+Information Technology Investment to
+Organizational Performance: a Causal Model
+Analysis”. Omega, International Journal of
+Management Science, v.25, n.1, p.43-56, 1997.
+CHOE, J.M.; LEE, Y.H. & PARK, K.C.: “The
+relationship between the influence factors and the
+strategic applications of information systems”.
+European Journal of Information Systems, v.7,
+n.2, p.137-149, Jun, 1998.
+DIAS, D.S.: O Sistema de Informação e a Empresa.
+Rio de Janeiro, LTC – Livros Técnicos e
+Científicos Ed., 1985.
+DONOVAN, J.J.: “Beyond Chief Information
+Officer To Network Manager”. Harvard Business
+Review, v.66, n.5, p.134-140, Sept./Oct. 1988.
+DOYLE, J.R.: “Problems with strategic information
+systems frameworks”. European Journal of
+Information Systems, v.1, n.4, p.273-280, 1991.
+GESTÃO & PRODUÇÃO v.8, n.2, p.160-179, ago. 2001 177
+DRUCKER, P.: “O futuro já chegou”. Revista Exame,
+ano 34, n.6, edição 710, p.112-126, janeiro/2000.
+DUHAN, S.; LEVY, M. & POWELL, P.:
+“Information Systems strategies in knowledgebased
+SME’s: the role of core competencies”.
+European Journal of Information Systems, v.10,
+n.1, p.25-40, 2001.
+EARDLEY A.; LEWIS, T.; AVISON, D. &
+POWELL, P.: “The Linkage between IT and
+Business Competitive Systems: a Reappraisal of
+Some ‘Classic’ Cases Using a Competitive
+Analysis Framework”. International Journal of
+Technology Management, v.11, n.3/4, p.395-411,
+1996.
+EARL, M.J.: Management Strategies for Information
+Technology. Prentice Hall, Hemel Hempstead, 1989.
+EARL, M.J. & FEENY, D.F.: “Is Your CIO Adding
+Value?” Sloan Management Review, v.35, n.3,
+p.11-20, Spring 1994.
+EVANS, P.B. & WURSTER, T.S.: “Getting Real
+about virtual Commerce”. Harvard Business
+Review, v.77, n.6, p.84-94, Nov./Dec. 1999.
+EVANS, P.B. & WURSTER, T.S.: “Strategy and the
+new economics of information”. Harvard Business
+Review, v.75, n.5, p.71-82, Sep./Oct. 1997.
+FARBEY,B.; LAND, F.F. & TARGETT, D.: “A
+taxonomy of information systems applications:
+the benefits evaluation ladder”. European Journal
+of Information Systems, v.4, n.1, p.41-50, 1995.
+FERNANDES, A.A. & KUGLER, J.L.C.: Gerência
+de Projetos de Sistemas: Uma Abordagem
+Prática. 2a. Edição. LTC – Livros Técnicos e
+Científicos Ed., 1990.
+FRONTINI, M.A.: A decision making model for
+investing in electronic business. Dissertation for
+obtaining the degree of Master of Science in
+Management of technology. Massachusetts
+Institute of Technology. 1999.
+GALLIERS, R.D. & BAETS, W.J.: Information
+Technology and Organizational Transformation.
+Chichester, England, John Wiley and Sons, 1998.
+GRAEML, A.R.: “As idéias com as quais se pensa na
+avaliação de projetos de Tecnologia da Informação”.
+In: XVIII ENEGEP – Encontro Nacional de
+Engenharia de Produção e IV Congresso
+Internacional de Engenharia Industrial. Anais,
+CDROM, Niterói, 1998.
+GRAJEW, J. & OLIVEIRA, A.C.M.C.: “O Enfoque
+do Valor Adicionado: Informática e Aumento de
+Competitividade”. In: XX Congresso Nacional de
+Informática. São Paulo, 1987. Anais. São Paulo,
+SUCESU, 1987. p.190-194.
+GUROVITZ, H.: “Delete-se”. Revista Exame, ano 30,
+no.12, edição 637, p.86-95. junho/1997.
+HENDERSON, J.C. & VENKATRAMAN, N.:
+“Strategic Alignment: Leveraging Information
+Technology For Transforming Organizations”.
+IBM Systems Journal. v.32, n.1, p.4-16, 1993.
+KAPLAN, R.S. & NORTON, D.P.: “The Balanced
+Scorecard – Measures that Dirve Performance”.
+Harvard Business Review, v.70, n.1, p.71-79,
+January/February 1992.
+KEEN, P.G.W.: “Information Technology And The
+Management Theory: The Fusion Map”. IBM
+Systems Journal, v.32, n.1, p.17-38, 1993.
+KUMAR, K.: “Post-implementation evaluation of
+computer information systems: current practices”.
+Communications to the ACM, v.33, p.203-212.
+LAURINDO, F.J.B.: Um Estudo sobre a Avaliação
+da Eficácia da Tecnologia da Informação nas
+Organizações. Tese de Doutorado. São Paulo,
+2000. Departamento de Engenharia de Produção,
+Escola Politécnica, Universidade de São Paulo.
+LAURINDO, F.J.B.: Estudo Sobre o Impacto da
+Estruturação da Tecnologia da Informação na
+Organização e Administração das Empresas.
+Dissertação de Mestrado. São Paulo, 1995.
+Departamento de Engenharia de Produção, Escola
+Politécnica, Universidade de São Paulo.
+LAURINDO, F.J.B. & MESQUITA, M.A.: “Material
+Requirements Planning : 25 anos de história; uma
+revisão do passado e prospecção do futuro”.
+Revista Gestão & Produção, vol.7, n.3, p.320-337,
+São Carlos, dezembro 2000, edição especial sobre
+Planejamento e Controle da Produção.
+LI, M. & YE, L.R.: “Information technology and firm
+performance: Linking with environmental,
+strategic and managerial contexts”. Information &
+Management, v.35, n.1, p.43-51, Jan. 1999.
+LUFTMAN, J.N.; LEWIS, P.R. & OLDACH, S.H.:
+“Transforming The Enterprise: The Alignment
+Of Business And Information Technology
+Strategies”. IBM Systems Journal, v.32, n.1,
+p.198-221, 1993.
+178 Laurindo; Shimizu; Carvalho & Rabechini Jr – O Papel da Tecnologia da Informação (TI)
+LUFTMAN, J.N.: “Applying the Strategic Alignment
+Model”. In: LUFTMAN, J.N. (ed.) Competing in
+the Information Age – Strategic Alignment in
+Practice. New York. Oxford University Press.
+p.43-69, 1996.
+MAGGIOLINI, P.: Costi E Benefici Di Un Sistema
+Informativo. Itália, ETAS LIBRI, 1981.
+MAHMOOD, M.A.: “Associating organizational
+strategic performance with information
+technology investment: an exploratory research”.
+European Journal of Information Systems, v.2,
+n.3, p.185-200, 1993.
+MCFARLAN, W.E.: “Information Technology
+Changes The Way You Compete”. Harvard
+Business Review, v.62, n.3, p.98-103, May/June
+1984.
+MCFARLAN, W.F.: “The 1990’s: The Information
+Decade”. Business Quarterly, v.55, n.1, p.73-79,
+Summer 1990.
+MENDES, C.D.: “Informática e Competitividade da
+Empresa”. In: XX Congresso Nacional de
+Informática. São Paulo, 1987. Anais. São Paulo,
+SUCESU, 1987. p.175-180.
+NOLAN, R.L.: “Managing the Crises in Data
+Processing”. Harvard Business Review, v.57, n.2,
+p.115-126, Mar./Apr. 1979.
+PORTER, M.E.: “Strategy and the internet”. Harvard
+Business Review, v.79, n.1, p.63-78, March, 2001.
+PORTER, M.E.: Estratégia competitiva: técnicas
+para análise de indústrias e da concorrência.
+Rio de Janeiro, Campus, 1996 .
+PORTER, M.E. & MILLAR, V.E.: “How information
+gives you competitive advantage”. Harvard
+Business Review, v.63, n.4, p.149-160, Jul./Aug.
+1985.
+PRAIRIE, P.: “Benchmarking IT Strategic Alignment”.
+In: LUFTMAN, J.N. (ed.) Competing in the
+Information Age – Strategic Alignment in
+Practice. New York. Oxford University Press.
+p.242-290, 1996.
+ROCKART, J.F.: “Chief Executives Define Their
+Own Data Needs”. Harvard Business Review,
+v.57, n.2, p.81-92, Mar./Apr. 1979.
+ROCKART, J.F.; EARL, M.J. & ROSS, J.W.:
+“Eight Imperatives for the new IT Organization”.
+Sloan Management Review, v.38, n.1, p.43-55,
+Fall 1996.
+ROSS, J.W.; BEATH, C.M. & GOODHUE, D.L.:
+“Develop Long-Term Competitiveness through IT
+Assets”. Sloan Management Review, v.38, n.1,
+p.31-42, Fall 1996.
+SETHI, V. & KING, W.R.: “Development of
+Measures to Asses the Extent to Which an
+Information Technology Application Provides
+Competitive Advantage”. Management Science,
+v.40, n.12, p.1601-1627, December 1994.
+SMITHSON, S. & HIRSCHEIM, R.: “Analysing
+information systems evaluation: another look at
+an old problem”. European Journal of Information
+Systems, v.7, n.3, p.158-174, Sep. 1998.
+SPÍNOLA, M.M & PESSÔA, M.S.P.: “Tecnologia
+da Informação”. In: CONTADOR, J.C. (coord.)
+Gestão de Operações – a Engenharia de
+Produção a serviço da modernização da empresa.
+São Paulo. p.97-105. Editora Edgard Blücher.
+1997.
+STRASSMAN, P.A.: The Business Value of
+Computers. New Canaan, The information
+Economic Press, 1990.
+TORRES, N.A.: Planejamento de Informática na
+Empresa. São Paulo, Atlas,1989.
+VENKATRAMAN, N. & HENDERSON, J.C.: “Real
+Strategies for virtual organizing”. Sloan
+Management Review , p. 33-48, Fall 1998.
+WARD, J.M.: “Information systems & technology
+application portfolio management – an assessment
+of matriz based analyses”. Journal of Information
+Technology, v.3, n.3, 1988.
+WEIL, P.: “The Relationship Between Investment In
+Information Technology And Firm Performance:
+A Study Of The Valve Manufacturing Sector”.
+Information Systems Research, v.3, n.4,
+p.307-333, Dec. 1992.
+WILLCOCKS, L.P.; GRAESER, V. & LESTER, S.:
+“‘Cybernomics’ and IT Productivity: Not
+Business as Usual?” European Management
+Journal, v.16, n.3, p.272-283, June 1998.
+WILLCOCKS, L.P. & LESTER, S.: “In search of
+information technology productivity: Assessment
+issues”. Journal of the Operational Research
+Society, v.48, p.1082-1094, 1997.
+GESTÃO & PRODUÇÃO v.8, n.2, p.160-179, ago. 2001 179
+THE ROLE OF INFORMATION TECHNOLOGY (IT)
+IN THE STRATEGY OF ORGANIZATIONS
+Abstract
+There is great expectation about Information Technology (IT) as an enabler to create opportunities
+for new business strategies and new possibilities for organizations, like the case of e-business.
+However, the measurement of the effects corresponding to the large amount of resources invested in
+IT applications is still a controversial issue. Considering only efficiency does not answer this question.
+It is necessary to focus on the effectiveness of the IT applications relating it to its goals, objectives and
+requirements of the organizations, in order to evaluate IT impacts on business operations and
+strategies of these organizations. Alignment between IT and business strategies is an essential concept
+in order to consider effectiveness continuously. This study presents a comparative analysis of different
+papers that study the role of IT in the organizations. Based on a bibliographic research, a theoretical
+analysis is developed in order to clarify the main aspects that make IT an actual tool for competitiveness
+of organizations.
+Key words: Information Technology, Organizations and Strategy.

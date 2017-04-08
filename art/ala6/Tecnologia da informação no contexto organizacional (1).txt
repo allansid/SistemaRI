@@ -1,0 +1,285 @@
+Ciência da Informação - Vol 25, número 1, 1996 - Artigos
+Tecnologia da informação no contexto organizacional
+Benjamim de Medeiros Valle
+Resumo
+Este trabalho tem por objetivo destacar a importância da incorporação da tecnologia da informação aos sistemas
+produtivos, enfatizando seus principais impactos sobre a estrutura e o gerenciamento organizacional, bem como as
+possibilidades abertas por este tipo de tecnologia para o aperfeiçoamento e integração dos negócios intra e
+interempresas.
+Palavras-chave
+Informação; Tecnologia; Integração; Capacitação de recursos humanos.
+INTRODUÇÃO
+Nos últimos 20 anos, com a popularização dos computadores e o desenvolvimento da
+microeletrônica, a palavra informação adquire um significado diferente. Até então, o seu sentido
+estava restrito à transmissão de dados acerca de alguém ou de algo, geralmente notícias de fatos que
+chegavam ao receptor com uma certa defasagem temporal. Na década de 50, a comunicação entre
+duas pessoas, cada uma situada em países ou estados diferentes, só era possível por meio do
+telefone, telex ou correios; naquele tempo ainda não existia a comunicação via satélite, nem Internet,
+telefone celular etc. Nos dias de hoje, informação tem um significado que está invariavelmente
+associado, mesmo que inconscientemente, à velocidade, à tecnologia, ao tempo e ao espaço. As
+noções de tempo e espaço se alteram radicalmente. Com o aperfeiçoamento das telecomunicações
+e com o advento das novas tecnologias da informação, o tempo agora é tempo real e o distante vai
+tornando-se paulatinamente mais próximo.
+Para ilustrar, basta lembrar que no Brasil de 10 anos atrás era uma novidade completa a operação
+nos caixas automáticos dos bancos: as pessoas ficavam surpresas e um tanto quanto embaraçadas
+com a possibilidade de interagir diretamente com uma máquina, sem precisar recorrer a um
+funcionário especializado do banco. Atualmente, é algo inteiramente normal o cidadão comum sacar
+de seu cartão magnético e fazer todas as suas transações bancárias em um mesmo lugar, diante de
+uma máquina que não escuta e nem fala, mas que fornece automaticamente, em tempo real, toda e
+qualquer informação a respeito da sua movimentação financeira. Nisto repousa o grande fascínio da
+tecnologia da informação, ou seja, tornar acessíveis produtos e serviços de elevado conteúdo
+tecnológico, assimilados com relativa facilidade pelo usuário, mas cuja concepção é extremamente
+complexa, fruto da aplicação intensiva do saber científico em coisas que tornam mais prática e
+prazerosa a existência humana.
+Em um ambiente tecnológico em permanente transformação, inundado por novos produtos, serviços e
+descobertas, ficar atualizado acerca de todos esses novos conhecimentos é praticamente
+impossível. Contudo, “para funcionarmos em uma sociedade em rápida mutação, para lidar com uma
+mudança rápida e complexa, o indivíduo precisa reciclar seu estoque de imagens a um ritmo que, de
+uma certa forma, corresponda ao ritmo da mudança. Seu modelo precisa ser atualizado. À medida
+que não o fizer, suas respostas às mudanças se tornam inadequadas; ele próprio se torna cada vez
+mais bloqueado, ineficiente. Assim, existe uma
+intensa pressão sobre o indivíduo para se manter em dia com o ritmo geral”
+1
+. A necessidade de
+atualização contínua é válida e indispensável, tanto no plano pessoal, como no âmbito das
+organizações. Para estas, a tecnologia da informação fornece as possibilidades de permanente
+atualização e integração dos negócios, visto que potencializa o processo de difusão, disseminação e
+transferência de informações.
+TECNOLOGIA DA INFORMAÇÃO E SEUS IMPACTOS
+Tecnologia é comumente conceituada
+2
+como o conjunto de conhecimentos, especial e principalmente
+científicos, que se aplicam a um determinado ramo de atividade; pode também ser considerada como
+uma ciência que trata da técnica. De forma mais abrangente e sistematizada, Fleury
+3
+define, com
+muita propriedade, que “tecnologia é um pacote de informações organizadas, de diferentes tipos
+(científicas, empíricas...), provenientes de várias fontes (descobertas científicas, patentes, livros,
+manuais, desenhos...), obtidas por diferentes métodos (pesquisa, desenvolvimento, cópia,
+espionagem...), utilizada na produção de bens e serviços.” O autor acrescenta ainda que “os
+conhecimentos e as habilidades empregadas na produção desses pacotes tecnológicos constituem a
+capacitação tecnológica”
+3
+. Esta não se compra, mas se constrói ao longo do tempo, fruto de um processo evolutivo. É
+um atributo, uma competência que precisa ser desenvolvida e aperfeiçoada a partir do
+reconhecimento de que a organização é, antes de tudo, uma organização de aprendizado.
+Tecnologia da informação pode ser entendida como os meios utilizados pelas empresas produtivas
+para alavancar e potencializar o processo de criação e desenvolvimento de capacitação tecnológica.
+Segundo Morton
+4
+, tecnologia da informação é composta dos seguintes elementos: hardware,
+software, redes de comunicação, workstation (CAD, CAM, CIM etc.), robótica e os chips inteligentes.
+A crescente evolução e integração desses seis elementos tem revolucionado o modo de viver, de
+comunicação, de pensar e de fazer negócios. A seguir, descreveremos sucintamente algumas
+implicações
+4
+decorrentes da aplicação da tecnologia da informação no ambiente produtivo,
+principalmente sobre a gestão da produção e a organização do trabalho.
+Mudanças na natureza do trabalho
+À medida que a tecnologia da informação vai sendo incorporada ao sistema produtivo, ela altera
+radicalmente a estrutura e o modo pelo qual o trabalho é executado, sobretudo no que diz respeito ao
+trabalho de produção e de coordenação. Na produção, o trabalho físico é afetado pelo uso de robôs e
+de máquinas de controle numérico, pela automação dos processos e pelo emprego intensivo de
+computadores para controlar e processar dados.
+O trabalho de coordenação tende a tornar-se mais efetivo com a introdução da tecnologia da
+informação, em razão do aumento da capacidade em coletar, estocar, processar e transferir
+informações, o que torna possível obter maior velocidade de comunicação intra e interfirmas, reduzir o
+prazo de resposta às variações nos ambientes interno e externo, comprimir o tempo, o espaço e
+expandir o estoque de conhecimento da empresa. Quando combinadas, todas essas características
+resultantes da adoção da tecnologia da informação podem ser traduzidas em economias e ganhos de
+produtividade, mediante a eliminação de etapas do processo produtivo que não agregam valor
+(atrasos, tempo de processa–mento), a intensificação da comunicação e do feedback interno, maior
+capacidade de coordenação interde–partamental, facilidade de monitorar e manter o processo sob
+controle, integração com as atividades dos fornecedores por meio de um fluxo de informações
+permanente e atualizado.
+Mudanças no gerenciamento e na estrutura organizacional
+Para que a incorporação dos desenvolvimentos da tecnologia da informação seja bem-sucedida, é
+necessário que haja reestruturação (ou rede–finição) das formas de organização dos sistemas
+produtivos e do modo de gerenciá-los. Se antes a competição estava baseada em custos e
+quantidades, com empresas extremamente hierarquizadas, com sistemas administrativos rígidos,
+vários níveis de supervisão e comunicação horizontal incipiente, hoje o formato organi–zacional
+precisa ser modificado para tornar-se compatível com o novo ambiente competitivo, no qual as
+empresas líderes em seus segmentos de mercado são aquelas que têm por estratégia concorrencial
+a qualidade e a diferenciação dos seus produtos e serviços. As palavras-chave do momento são
+cooperação, flexibilidade, inte–gração e participação, coisas que podem ser mais facilmente atingidas
+quando da utilização da tecnologia da informação no processo produtivo. Além disso, existem outras
+oportunidades a serem exploradas pelas empresas a partir da adoção desse tipo de tecnologia. São
+elas:
+a) Redução de níveis hierárquicos, dada a tendência crescente de se integrarem funções que antes
+trabalhavam separadas (como, por exemplo, produção e projeto), e como resultado da extinção de
+funções intermediárias e de supervisão. Além do mais, a demanda associada de mais informações a
+maiores velocidades é incompatível com hierarquias rígidas e verticais.
+b) Crescente delegação de responsabilidades, em razão da necessidade da empresa em responder
+com velocidade maior às demandas dos clientes e usuários e em face da exigência de trabalhadores
+qualificados e comprometidos com a obtenção de ganhos de produtividade e qualidade.
+c) Descentralização dos processos decisórios e de controle, à medida que os trabalhadores passem
+a assumir a responsabilidade direta pelos resultados da produção e tenham acesso crescente aos
+dados e informações da empresa.
+d) Valorização de equipes de trabalho ad hoc, compostas por profissionais de diferentes funções, e
+pelas quais múltiplas habilidades são reunidas, tendo em vista a melhoria contínua do processo
+produtivo.
+e) Formação de uma força de trabalho multifuncional capaz de fazer julgamentos, assumir
+responsabilidades, de ler, processar e interpretar os dados gerados por computador, com qualificação
+suficiente para acompanhar os diversos estágios de concepção e elaboração do produto, de modo a
+intervir em tempo real quando o processo ameaça dar sinais de fora de controle. Em síntese, formar
+trabalhadores que pensam e não apenas executam.
+Integração dos negócios intra e interempresas
+A moderna tecnologia da informação, sobretudo as networks com grande poder de armazenar dados,
+é um elemento fundamental para incrementar o processo de integração entre as diferentes atividades
+da empresa, tornando-se uma fonte de dinamismo e competitividade dos negócios.
+No âmbito interno, essa integração pode se dar de diferentes formas. Tomemos como exemplo o
+caso de uma empresa multinacional com unidades produtivas instaladas em diferentes países cuja
+estratégia de produção, comercialização e investimentos é formulada considerando a tendência do
+mercado mundial, sem, contudo, deixar de respeitar as especificidades dos mercados locais em que
+atua. Para coordenar todas as suas operações ao redor do mundo, ao menor custo em curto espaço
+de tempo, é indispensável o uso de computadores velozes e interligados, capazes de converter,
+processar, estocar e comunicar extensa quantidade de
+informações simultaneamente. Assim, espaço e tempo são comprimidos ao máximo, de tal forma
+que as fronteiras geográficas não mais constituem barreiras para a eficiência e o desempenho
+organizacional.
+Ainda com relação ao ambiente interno à empresa, o uso da tecnologia da informação é um
+instrumento capacitador para promover a coordenação interdepartamental, cristalizada pela relação
+cliente-fornecedor interno, na qual as diversas etapas do processo produtivo precisam estar
+integradas de modo a estimular a cooperação interna, aumentar a capacidade de resposta a
+imprevistos e dar flexibilidade às operações da empresa. Um mesmo banco de dados poderá estar
+disponível e ser acessado pelo pessoal da engenharia, projeto, produção, compras, vendas e assim por diante,
+sistema que a Xerox e outras empresas são reconhecidas como referencial de excelência.
+Inúmeras são as oportunidades de aplicação da tecnologia da informação para a integração e
+aproximação nas relações entre empresas, seja por intermédio da troca eletrônica de informações,
+pela possibilidade de interligar pessoas e tarefas de organizações distintas, ou pela articulação
+interem–presarial com o objetivo de reunir esforços cooperativos de desenvolvimento tecnológico.
+Todos esses aspectos têm implicações positivas sobre o custo das transações, sobre a lucra–
+tividade e a competitividade orga–nizacional, à medida que o contato direto entre as empresas elimina
+várias etapas de conversão de informações, permite estabelecer programas conjuntos de
+aperfeiçoamento e desenvolvimento de produtos, bem como dinamiza os processos decisórios e de
+resolução de problemas. A seguir, descreveremos duas situações nas quais a tecnologia da
+informação é primordial como fator integrativo entre as empresas.
+Desenvolvimento das relações com fornecedores
+A abordagem contemporânea do sistema produtivo preconiza que sejam efetuadas mudanças
+profundas no relacionamento com fornecedores. A empresa eficiente e competitiva é aquela que
+identifica na relação cliente-fornecedor uma fonte potencial para o sucesso
+5
+. Assistimos hoje ao que
+se denomina organização “virtual”, ou seja, aquela em que duas empresas estão em contato direto e
+permanente e cujas operações são coordenadas e interligadas eletronicamente via tecnologia da
+informação. A harmonização dos interesses e metas da empresa com seus fornecedores abre
+diversas oportunidades, dentre as quais: operar sob o modelo just-in-time, aperfeiçoamento do fluxo
+de informações, planejamento conjunto, desenvolvimento de novos produtos em parceria,
+racionalização de custos (estoques, entrega, custos de utilização dos produtos), aumento na
+confiabilidade dos materiais, contratos de longo prazo etc. Segundo indicam os dados de pesquisa
+recente
+6
+, no Brasil já existe um movimento das empresas na direção de manter um relacionamento
+mais próximo com seus fornecedores, objetivando a troca sistemática de informações e contratos
+comerciais de longo prazo.
+Pesquisa tecnológica em moldes cooperativos
+3
+Este tipo de associação pode acontecer como uma extensão natural da parceria estabelecida com
+fornecedores, como citado anteriormente, ou por intermédio da formação de joint ventures
+compreendendo duas ou mais empresas de um mesmo setor ou de setores diferentes. Tal prática é
+comum no Japão, onde empresas criam “centros de pesquisa com vistas ao desenvolvimento
+cooperativo de projetos de pesquisa de interesse comum, especialmente em áreas de alta tecnologia
+(microeletrônica, cerâmica, óptica...)”
+3
+. São os seguintes alguns dos benefícios obtidos pelas
+empresas: os custos e os riscos são compartilhados; economia de recursos dedicados à pesquisa e
+conhecimento dos rumos do avanço tecnológico. No Brasil ainda são poucas as intenções de
+desenvolvimento de programas interativos como esforços conjuntos em P&D
+6
+.
+TECNOLOGIA DA INFORMAÇÃO E RECURSOS HUMANOS
+É ilusório imaginar que a simples utilização da tecnologia da informação no sistema produtivo irá
+trazer ganhos substanciais de qualidade e produtividade. Não são raros os casos em que estratégias
+empresariais centradas na automação, alta tecnologia e informatização de processos produzem
+resultados pífios em termos de economias de custos e melhoria de desempenho organizacional. De
+forma geral, boa parte dos insucessos explica-se pelo fato de que as referidas estratégias foram
+adotadas sem alterações profundas no estilo gerencial, nas práticas organizacionais e na política de
+capacitação e desenvolvimento dos recursos humanos.
+Clássico é o exemplo da General Motors
+7
+, que investiu na década de 80 cerca de 650 milhões de
+dólares na automação completa (robôs e computadores) da sua fábrica de Michigan, sem, com isso,
+aumentar de forma significativa a produtividade (33,7 horas para produzir um carro) ou aperfeiçoar o nível de
+qualidade do processo (em média, 1,37 defeito por carro). Uma outra fábrica da GM, localizada em
+Massachussets e com baixo nível de automação apresentava, no mesmo período, índices
+semelhantes: 34,2 horas para produzir um carro e uma taxa média de defeitos um pouco menor (1,17
+por carro). Em contraste, a fábrica da Nummi, joint venture entre a General Motors e a Toyota,
+fabricava um carro a cada 19 horas e com uma taxa média de defeitos de 0,69 por veículo, índices
+estes obtidos com investimentos moderados em novas tecnologias. O que fez a diferença entre a
+Nummi e as outras duas fábricas da GM foi a sua organização do trabalho, o seu método de gestão
+da produção e, fundamentalmente, o investimento maciço nas aptidões e potencialidades das
+pessoas, aspectos comuns da abordagem japonesa de produção.
+O exemplo anterior chama a atenção para o fato de que o simples uso da tecnologia da informação
+ou de outro tipo de tecnologia não terá impacto positivo sobre o desempenho organizacional, incluindo a
+lucratividade e a qualidade dos processos e produtos, se não houver um investimento considerável na capacitação dos
+recursos humanos. Cabe frisar que a tecnologia da informação é apenas um elemento capacitador
+que fornece oportunidades a serem exploradas por aquelas empresas que buscam uma posição
+competitiva sustentável.
+A vantagem competitiva de qualquer organização começa com as pessoas, sua disciplina, motivação,
+qualificação e participação. Assim, antes da compra de equipamentos intensivos em tecnologia
+avançada, deve-se investir no potencial criativo e inovador das pessoas, desenvolvendo nelas novas
+habilidades e integrando-as plenamente ao processo de trabalho, com treinamento e educação geral.
+A capacidade criativa do trabalhador é um ativo valioso, parte integral da tecnologia da empresa.
+Oferecer condições apropriadas para desenvolver e aperfeiçoar a capacidade de expressão e de
+criação do fator humano é condição básica para a inovação e competitividade empresarial. A ênfase é
+que a organização seja uma instituição de aprendizagem contínua, que estimule e desenvolva o
+talento individual e na qual o pensamento analítico e abstrato da força de trabalho seja requisito
+imprescindível. “O acirramento da concorrência requer da força de trabalho aptidões e atitudes que
+favoreçam sua maior integração no processo produtivo. Neste contexto, o trabalho não é visto como
+item de custo, mas como um ativo que deve ser valorizado; o treinamento é intensivo; prevalece a
+multifuncionalidade, pois há necessidade de conhecimento de todo o processo produtivo e é
+valorizada a capacidade criativa de resolução de problemas”6.
+Atualmente, o trabalhador se utiliza cada vez mais de novas ferramentas para poder acompanhar e
+interagir com os diversos estágios de concepção e elaboração do produto. Exige-se um tipo diferente
+e novo de trabalhador, isto é, aquele que sabe lidar com conceitos, processar e interpretar dados,
+reconhecer modelos e entender o processo produtivo como um todo, o que é radicalmente distinto do
+trabalhador fragmentado e preso às amarras do pensamento mecanicista, que apenas executa. No
+mundo cibernético, o trabalhador deixará de
+ser um simples operador para transformar-se em um analista, um ser que pensa e desenvolve novas
+habilidades conceituais cuja capacidade intelectual é valorizada, ficando o trabalho pesado e
+repetitivo relegado aos robôs. “Se a tecnologia do começo da industrialização exigia homens sem
+pensamento próprio, como robôs, para realizar tarefas infinitamente repetitivas, a tecnologia do
+amanhã assume precisamente estas tarefas, deixando para os homens somente aquelas funções
+que exigem julgamento, habilidades interpessoais e imaginação.”
+1
+No quadro 1, é descrita a nova base de conhecimentos para operar sistemas produtivos que utilizam
+automa–ção (inclusive tecnologia da informação) e novas técnicas organizacionais.
+OBSERVAÇÕES FINAIS
+Ao longo do texto, procurou-se evidenciar a importância da tecnologia da informação como fator
+indispensável para o processo de criação e desenvolvimento de capacitação tecnológica. Foram
+apresentados os principais impactos desse tipo de tecnologia sobre o ambiente organizacional,
+principalmente com relação às mudanças na natureza do trabalho, às transformações no
+gerenciamento e na estrutura das empresas e com respeito à integração dos negócios intra e
+interempresas. Intencionalmente não foram abordados os possíveis efeitos da tecnologia da
+informação sobre o nível de emprego, haja vista ser esta uma questão que merece tratamento
+especial, dada sua complexidade e implicações sócio-econômicas.
+Por fim, destacou-se que a estratégia empresarial de investir em tecnologia da informação deve ser
+precedida, ou vir acompanhada por transformações profundas na política de recursos humanos, de
+modo que seja formada uma força de trabalho compatível com essa tecnologia, isto é, pessoas com
+pensamento próprio, capazes de tomar decisões, assumir responsabilidades e com espírito criativo e
+inovador.
+REFERÊNCIAS BIBLIOGRÁFICAS
+1. TOFFLER, Alvin. O choque do futuro. Rio de janeiro, Editora Record.
+2. FERREIRA, Aurélio B. De Holanda. Novo dicionário da língua portuguesa. Rio de Janeiro, Nova
+Fronteira, 1986.
+3. FLEURY, Afonso. “Novas tecnologias, capa- citação tecnológica e processo de trabalho -
+Comparações entre o modelo japonês e o brasileiro.” In: Sobre o modelo japonês. São Paulo,
+Editora USP, 1993.
+4. MORTON, Michael S. Scott. In: The corporation of the 1990s - Information technology and
+organizational transformation. New York, Oxford University Press, 1991.
+5. VALLE, Benjamin. Custos da qualidade em suprimentos. Rio de Janeiro, Coppe/UFRJ, 1994.
+6. Estudo da competitividade da indústria brasileira. Coordenadores: Coutinho, Luciano G. e Ferraz,
+João Carlos. Campinas, Editora Papirus, 1994.
+7. YATES, Joanne and ROBERT, Benjamin I. “The past and present as a window on the future.” In:
+The corporation of the 1990s - Information technology and organizational transformation. New
+York, Oxford University Press, 1991.
+Information technology in an organizational context
+Abstract
+The objective of this paper is to point out the importance of incorporating technological information to productive
+systems. Moreover, to emphasize its main impacts on the structure and organization management, as well as
+possibilities that this kind of technology brings to the improvement and business integration within and interbusiness.
+Keywords
+Information technology; Production systems; New technology
+Benjamin de Medeiros Valle
+Economista, mestre em engenharia de produção/qualidade industrial pela Coppe/UFRJ. Atualmente, é pesquisador do
+CNPq para a implementação do sistema da qualidade do Instituto Nacional de Tecnologia.

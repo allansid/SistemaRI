@@ -1,0 +1,1687 @@
+artigos • A RACIONALIDADE LIMITADA DAS DECISÕES DE INVESTIMENTO EM TECNOLOGIA DA INFORMAÇÃO
+86 • ©RAE • São Paulo • v. 49 • n.1 • jan./mar. 2009 • 086-106 ISSN 0034-7590
+A RACIONALIDADE LIMITADA DAS DECISÕES DE
+INVESTIMENTO EM TECNOLOGIA DA INFORMAÇÃO
+LIMITED RATIONALITY IN INFORMATION TECHNOLOGY INVESTMENT DECISIONS
+resumo
+A literatura sustenta que a tecnologia da informação (TI), quando adequadamente combinada com outros
+recursos internos, pode desenvolver características difíceis de ser imitadas pela concorrência. Entretanto,
+nem sempre isso é fácil de conseguir. Alguns casos emblemáticos de insucesso que envolve empresas
+proficientes nas melhores técnicas de aplicação da TI nos negócios estimulam uma análise mais atenta
+sobre os mecanismos da geração de valor para o negócio. Neste artigo, revelamos os resultados de um
+estudo de casos múltiplos, incorporados em organizações proficientes, para a compreensão do valor da
+utilização da TI e discutimos proposições sobre o porquê de algumas organizações apresentarem resultados
+superiores a outras. Nossa análise indica que a efetividade alcançada pelo uso da TI está de fato
+relacionada com a habilidade dos gestores de identificarem ineficiências econômicas prévias na dinâmica
+dos negócios e mitigá-las pela aplicação da TI, o que não é conseguido com as técnicas de análise de
+investimento atualmente empregadas.
+Otávio Próspero Sanchez
+Professor da Escola de Administração de Empresas de São Paulo, Fundação Getulio Vargas – SP, Brasil
+Professor e Coordenador do Programa de Pós-Graduação em Administração, Universidade Metodista de São Paulo – SP, Brasil
+otavio.sanchez@fgv.br
+Alberto Luiz Albertin
+Professor da Escola de Administração de Empresas de São Paulo, Fundação Getulio Vargas – SP, Brasil
+albertin@fgv.br
+Recebido em 26.08.2008. Aprovado em 14.10.2008.
+Avaliado pelo sistema double blind review
+Editor Científico: Francisco Aranha
+abstract Literature upholds that Information Technology (IT), when adequately combined with other in-house resources, may result in characteristics
+that are hard for the competition to copy. However, this is not so easy to achieve. Some emblematic unsuccessful cases involving companies
+with extensive experience in applying the best techniques in implementing business IT solutions have encouraged us to take a deeper look
+regarding the mechanisms used to generate value for businesses. In this article, we reveal the results of a variety of case studies, where competent
+organizations adopted IT solutions, to understand the value said adoption represents and discuss some hypothesis why some organizations had
+better results than others. Our analysis indicates that effectiveness achieved through the use of IT is indeed related to managements’ ability to
+identify previous economic inefficiencies in the business model and mitigate such inefficiencies by implementing IT solutions, which is not achievable
+through investment analysis techniques currently employed.
+palavras-chave Efetividade de investimentos em TI, decisão de investimentos em TI, valor da TI, racionalidade limitada, MATIF.
+keywords IT investment effectiveness, IT investment decisions, IT value-added, limited rationality, MATIF.
+Otávio próspero Sanchez • Alberto Luiz Albertin
+ISSN 0034-7590 086-106 • jan./mar. 2009 • n. 1 • v. 49 • São Paulo • ©RAE • 87
+organizações: (a) os executivos de negócios tendem a ser
+mais envolvidos nas decisões sobre TI, pois têm melhores
+condições de perceber a parcela intangível do benefício e
+(b) os executivos de TI têm sido demandados em direção
+a um maior envolvimento nas questões de negócio, em
+um relativo maior afastamento das decisões puramente
+técnicas (BASSELLIER, BENBASAT e REICH, 2003).
+Considera-se que o compartilhamento de conhecimentos
+entre os dois perfis de executivos é um importante habilitador
+do alinhamento entre os objetivos de negócios e
+de TI (REICH e BENBASAT, 2000). Entretanto, a percepção
+do valor criado pela aplicação de TI nos negócios pelos
+executivos é limitada devido à escassez de habilidades
+pessoais específicas requeridas para uma análise apropriada
+das questões envolvidas em dois domínios tão diversos
+(SIMON, 1978), estratégia de negócios e tecnologia,
+domínios que requerem conhecimentos e racionalidades
+diversos (TALLON, KRAEMER e GURBAXANI, 2000;
+BASSELLIER, BENBASAT e REICH, 2003). Entretanto,
+ainda que um extenso conjunto de teorias procure explicitar
+os mecanismos de melhor gestão de TI, existe certa
+inconsistência entre os seus resultados para o negócio
+obtidos por diferentes organizações na aplicação de sistemas
+de informações, por vezes surpreendendo os gestores
+(SANTHANAM e HARTONO, 2003).
+As teorias de estratégia que focam a ação otimizadora
+do gestor sobre os recursos indicam a combinação apropriada
+de recursos, dentre eles a TI, como fonte de valor
+para os negócios, mas não explicam como essa combinação
+deve ser feita. Por outro lado, as teorias de gestão
+de TI ocupam-se de como lidar com a TI, mas o fazem
+em duas vertentes básicas: uma prescritiva sobre o que
+seria considerado como as melhores práticas e técnicas
+de concepção e aplicação da tecnologia nas organizações,
+mantendo-se mais no campo da gestão técnica, e outra
+em que se preconiza o alinhamento da chamada estratégia
+de TI com a estratégia de negócios, supondo que esta se
+desenvolva com vistas à geração de valor para o negócio
+e aquela lide com os aspectos tecnológicos de sua realização.
+Nenhuma delas, entretanto, mostra efetivamente
+onde e como usar a TI para gerar valor para os negócios,
+dentre as inúmeras possibilidades estratégicas e tecnológicas
+que se apresentam. Assim, as organizações desenvolvem
+estratégias de negócios, estratégias de gestão de
+TI e aplicam técnicas de gestão desses recursos, mas não
+identificam exatamente quais investimentos têm o potencial
+de gerar valor de fato.
+A proposta deste artigo é apresentar um novo desenvolvimento
+teórico que preenche a lacuna existente entre
+as teorias de estratégia e de gestão de TI, contribuindo
+Introd ução
+Alcançar efetividade em investimentos em Tecnologia da
+Informação (TI) tem-se tornado uma das primordiais preocupações
+para as organizações, à medida que a competitividade
+no ambiente de negócios aumenta e gera pressões
+sobre as empresas (KOHLI e DEVARAJ, 2003). Em vista
+disso, a literatura tem enfatizado as maneiras pelas quais
+a TI pode melhorar o posicionamento estratégico das organizações
+pela sua adequada combinação com outros
+recursos internos, como habilidades dos colaboradores,
+processos alinhados e estrutura organizacional adequada
+(SCHNIEDERJANS, HAMAKER e SCHNIEDERJANS,
+2004; WADE e HULLAND, 2004).
+Vários estudos têm indicado que, internacionalmente,
+o montante de investimentos em TI tem alcançado cerca
+de 50% do total de investimentos feitos pelas empresas.
+No Brasil, as cifras têm atingido valores significativos e
+comparáveis percentualmente a países mais desenvolvidos
+(MEIRELLES, 2006). A proporção de investimentos
+em relação à receita tem aumentado, à medida que a
+complexidade do ambiente de negócios está aumentando
+(MELVILLE, KRAEMER e GURBAXANI, 2004), o que tem
+priorizado o assunto da decisão de investimentos em TI
+na agenda dos executivos.
+Embora o montante investido em TI pelas organizações
+venha aumentando nos últimos anos, algumas pesquisas
+têm reconhecido a dificuldade de se objetivar a análise
+desse tipo de investimentos, dado que os benefícios para as
+organizações apresentam aspectos de intangibilidade usualmente
+associados à atividade de negócios, competição de
+mercado, presença geográfica e satisfação de cliente, ente
+outras (MELVILLE, KRAEMER e GURBAXANI, 2004). As
+decisões de investimento em TI têm sido frequentemente
+vistas como arriscadas e complexas, tornando-se um
+assunto interdisciplinar e suportado por uma miríade de
+métodos financeiros, não-financeiros e mistos, como ROI,
+Payback, EVA, BSC, custo/benefício, custos de transação,
+análise de gaps, entre outros (ALBERTIN, 2001).
+Em uma escalada crescente de complexidade, as organizações
+tendem a lidar com um grande número de projetos
+simultâneos, em uma situação em que os custos tendem
+a ser mais facilmente identificados, mas os benefícios
+nem sempre o são. Assim, o valor percebido do benefício
+é um elemento fundamental para a decisão de optar por
+determinado investimento em TI e envolve lidar com aspectos
+de intangibilidade e complexidade normalmente
+associados à consecução dos negócios. Em razão disso,
+visando a atingir maior efetividade nas decisões de investimento
+em TI, observam-se duas vertentes de ação nas
+artigos • A RACIONALIDADE LIMITADA DAS DECISÕES DE INVESTIMENTO EM TECNOLOGIA DA INFORMAÇÃO
+88 • ©RAE • São Paulo • v. 49 • n.1 • jan./mar. 2009 • 086-106 ISSN 0034-7590
+para sua capacidade explicativa da geração de valor para
+as organizações. A concepção desse quadro de referência
+é amparada na Ex-ante Economic Inefficiency Hypothesis
+(EEIH), uma formulação conceitual embasada no conjunto
+de teorias microeconômicas neoclássicas que
+fornece a explicação para inúmeros casos de desequilíbrios
+informacionais encontrados no relacionamento
+entre agentes econômicos que, por sua vez, levam
+a alocações subótimas de recursos – o aproveitamento
+inadequado desses recursos –, o que determina resultados
+para os agentes abaixo do que seria possível se
+tais situações de ineficiência econômica não existissem
+(MILGROM e ROBERTS, 1992; HUNT, 1997; VARIAN,
+1999). Efetuamos o desenvolvimento teórico que adapta
+a EEIH à circunstância da utilização de TI para definir
+que as ineficiências econômicas prévias à aplicação da TI
+são antecedentes da efetividade da aplicação de TI que
+as resolve. Posto de outra forma, se não houver ineficiência
+econômica a ser resolvida, o uso da TI é inócuo,
+não gera valor, configurando um investimento ineficiente
+no sentido de geração de valor. Para explicar como a
+EEIH pode influir decisivamente na geração de valor pela
+aplicação da TI, o referencial teórico desta pesquisa consiste
+dos principais conceitos da economia neoclássica
+(WEINTRAUB, 2002), ou seja, a idéia do indivíduo e da
+firma como agentes maximizadores de, respectivamente,
+utilidade (conforme proposto inicialmente por John
+Stuart Mill) e lucro (neste artigo, substituímos o conceito
+de lucro pelo de geração de valor). Assim, utilizamos a
+teoria dos custos de transação (TCE) proposta por Coase
+(WILLIAMSON, 1979; WILLIAMSON, 1986), a economia
+do desenho organizacional (MILGROM e ROBERTS,
+1992), e outras, predominantemente, orientadas para
+os variados aspectos econômicos do uso da informação
+(VARIAN, 1999; BENAROCH, 2001; ORLIKOWSKI,
+2002; CLEMONS e HITT, 2004; WADE e HULLAND,
+2004; MAYER e SALOMON, 2006).
+Adicionalmente ao desenvolvimento teórico, apresentamos
+um estudo empírico que testa a aplicação do quadro
+conceitual na explicação de casos de inconsistências
+observadas em situações em que as melhores práticas
+tivessem sido empregadas, mas ainda assim não se configurasse
+a efetividade dos investimentos, e conduzimos
+um estudo de caso no setor bancário do Brasil, por ser
+este considerado maduro na aplicação de TI, com um
+histórico de vários anos de inovação e competitividade
+em nível mundial. Para tanto, desenvolvemos o MATIF –
+Modelo de Análise do uso de Tecnologia da Informação no
+nível da Firma, que é o construto derivado da aplicação
+da EEIH .
+Assim, foram selecionadas situações relevantes de desequilíbrio
+entre expectativa e realização, ainda que as
+organizações tenham aplicado todas as melhores técnicas
+para uma tomada de decisão e para a gestão do projeto
+em um setor intensivo na aplicação de TI (grande número
+de projetos, por um longo período) tanto na condição
+de empresas líderes em um setor competitivo de informação-
+intensivo tanto em seu setor (proxy da habilidade
+na compreensão do valor que a TI tem para os negócios),
+quanto de empresas líderes na utilização da TI (proxy da
+habilidade na gestão de TI e projetos).
+Este trabalho está organizado como se segue.
+Inicialmente revisamos a literatura relevante sobre a criação
+de valor no nível da firma e apresentamos detalhes do
+MATIF. A seguir, apresentamos as razões que levaram à
+escolha do método empírico e das técnicas utilizadas. Na
+seção seguinte, apresentamos uma visão geral dos casos
+incorporados. Em seguida, analisamos e interpretamos
+os dados, usando o conceito da ineficiência econômica e
+da maximização do investimento em TI para apresentar o
+entendimento sobre o papel da EEIH na criação de valor
+no nível da firma. Finalmente, discutimos as contribuições
+do artigo para a prática gerencial e as implicações
+para pesquisas futuras.
+criação de valor no nível da firma
+A seguir, descreveremos os principais elementos teóricos
+necessários para o suporte deste trabalho. Definiremos o
+conceito de modelo de firma e apresentaremos argumentos
+do porquê de se analisar a firma pela lógica do EEIH.
+Adicionalmente, expomos dois conceitos fundamentais
+para a parte empírica deste trabalho, a percepção de valor
+pelos executivos e a visão de sucesso e fracasso de projetos
+de investimento em TI.
+Modelo da firma
+Da teoria econômica, definimos a gestão da firma como
+sendo o conjunto de atos deliberados que visa ao intento
+estratégico de criação de valor. Esses atos envolvem o relacionamento
+com outros agentes econômicos (VARIAN,
+1999) e a combinação de recursos e capacidades internas e
+externas à firma (PENROSE, 1997; MAYER e SALOMON,
+2006). As decisões sobre a correta combinação desses recursos
+e capacidades permitem à firma gerar e capturar
+parte desse valor econômico gerado nos relacionamentos
+entre agentes. A firma terá sido efetiva em suas escolhas
+se o valor econômico gerado por esse processo for superior
+ao custo de oportunidade de outras alternativas
+Otávio próspero Sanchez • Alberto Luiz Albertin
+ISSN 0034-7590 086-106 • jan./mar. 2009 • n. 1 • v. 49 • São Paulo • ©RAE • 89
+também viáveis, considerando-se determinado nível de
+risco (MILGROM e ROBERTS, 1992; BODIE, KANE e
+MARCUS, 1999).
+O relacionamento fundamental da firma, como um
+agente econômico no mercado, ocorre com clientes, sendo
+que o atributo desse relacionamento é a entrega de utilidade.
+Assim, clientes aceitam manter relações de negócio
+com a firma, dependendo da percepção de recebimento
+de uma contrapartida em utilidade. Para essa adequada
+entrega de utilidade, as firmas desenvolvem meios de produção
+que consistem em recursos e capacidades internos
+e, eventualmente, externos, se o custo de integração interna
+desses recursos for superior (WILLIAMSON, 1986).
+Freqüentemente, a capacidade de criar valor e capturá-lo
+depende da estratégia seguida pela firma para uma apropriada
+combinação que envolve a complementaridade entre
+os recursos e capacidades internos e externos, descrita
+na literatura de Resource-Based View – RBV (PENROSE,
+1997; WADE e HULLAND, 2004). Diante disso, a capacidade
+de aplicar adequadamente o recurso da TI tem-se tornado
+fundamental para a criação de valor pelas firmas, em
+especial nas chamadas economias da informação (TEECE,
+1992), em que a parcela informacional contribui significativamente
+para o valor dos bens e serviços (VARIAN e
+SHAPIRO, 1999; EVANS e WURSTER, 2000).
+Como nem todas as capacidades e recursos estão disponíveis
+internamente, a viabilização da criação de valor
+depende do estabelecimento de relacionamento de cooperação
+com parceiros e fornecedores, que passam a contribuir
+com insumos e partes do processo, permitindo à
+firma utilizar mais adequadamente seus recursos e capacidades
+internas especializadas (PRAHALAD e HAMEL,
+1990; CLEMONS e ROW, 1992), visando a beneficiar-se
+de economias de escala e escopo internas ou externas
+(CHANDLER, 1997).
+Ao decidir investir em determinada atividade, a firma
+compara os riscos e os retornos de seu portfólio de produtos
+e serviços, assim como da internalização de recursos
+e capacidades, comparando-os com outras alternativas
+viáveis (BODIE, KANE e MARCUS, 1999). Essa avaliação
+requer essencialmente informação e permanente
+monitorização do ambiente de negócios (CLEMONS e
+HITT, 2004).
+Sumariamente, o modelo de efetividade da gestão da
+firma inclui a adequação dos relacionamentos externos
+com clientes e parceiros/fornecedores, bem como a complementaridade
+do conjunto interno e externo de Recursos
+e Capacidades, visando a gerar Valor Econômico superior,
+a um risco consistente com alternativas viáveis, conforme
+ilustrado na Figura 1.
+Figura 1 - Modelo de criação de valor da firma
+Ambiente
+Cooperação
+Complementaridade
+Informação
+Utilidade
+Clientes
+Parceiros e
+fornecedores
+artigos • A RACIONALIDADE LIMITADA DAS DECISÕES DE INVESTIMENTO EM TECNOLOGIA DA INFORMAÇÃO
+90 • ©RAE • São Paulo • v. 49 • n.1 • jan./mar. 2009 • 086-106 ISSN 0034-7590
+Ex-ante Economic Inefficiency Hypothesis (EEIH)
+O argumento de que mercados economicamente eficientes
+liberam valor para os agentes é clássico na literatura econômica
+(WILLIAMSON, 1975; PINDYCK e RUBINFELD,
+2006). No âmbito das relações entre agentes, uma situação
+de ineficiência decorre de imperfeições econômicas que levam
+a resultados subótimos na liberação de valor. Isso significa
+que, uma vez resolvidas essas ineficiências, a solução
+ex-post é melhor que a ex-ante, levando os agentes econômicos
+a se beneficiarem dessa situação (VARIAN, 1999).
+Levando-se em consideração que os negócios consistem
+em relacionamentos entre agentes que podem ser eficientes
+ou não, e sendo esses relacionamentos essencialmente
+informacionais, deduz-se que a ocorrência de ineficiências
+econômicas pode ter origem informacional. Esse argumento
+tem sido economicamente elaborado por vários
+autores no campo de pesquisas pertencente à intersecção
+entre economia e sistemas de informação (SHAPIRO
+e KATZ, 1986; TEECE, 1992; BRYNJOLFSSON, 1993;
+CASSON, 1994; BARUA, KRIEBEL e MUKHOPADHYAY,
+1995; BAILEY e BAKOS, 1997; VARIAN e SHAPIRO,
+1999; PORTER, 2001; BRYNJOLFSSON e HITT, 2003;
+KOHLI e DEVARAJ, 2003; CLEMONS e HITT, 2004;
+MELVILLE, KRAEMER e GURBAXANI, 2004; MAYER e
+SALOMON, 2006).
+O Quadro 1 apresenta um conjunto não exaustivo
+de referências na literatura desse campo, organizadas
+em função das cinco dimensões do modelo representado
+na Figura 1. Com base nesse referencial, definimos
+o construto a priori desta pesquisa (EISENHARDT,
+1989), que representamos por meio do MATIF exposto
+na Figura 2.
+Considerando que a aplicação da TI pode colaborar
+para a mitigação dos problemas de ineficiência informacional
+entre os agentes, a identificação prévia das circunstâncias
+de ineficiência econômica de base informacional
+pode orientar a tomada de decisão quanto à utilização de
+TI e, conseqüentemente, quanto à decisão de investimentos,
+à medida que a resolução dessa ineficiência prévia por
+meio da aplicação da TI gera valor econômico, proposição
+suportada conceitualmente pela EEIH.
+Decisão de investimento e percepção de valor
+A decisão de investimento em geral baseia-se na racio-
+Quadro 1 - Dimensões, conceitos econômicos e referências na literatura
+DIMENSões
+do modelo
+principais conceitos econômicos Referências na
+teoria econômica
+UTILIDADE
+(Relação com Clientes)
+Custos de localização, substituição
+e transação, coordenação, padronização.
+reputação / garantias,
+moral hazard, seleção adversa
+(WILLIAMSON, 1979; MILGROM e ROBERTS, 1992; BAILEY e
+BAKOS, 1997; VENKATRAMAN e HENDERSON, 1998; VARIAN,
+1999; EVANS e WURSTER, 2000; PORTER, 2001; MELVILLE,
+KRAEMER e GURBAXANI, 2004)
+COOPERAÇÃO
+(Relação com Parceiros
+e Fornecedores)
+Co-especialização, volume e freqüência
+de transação, reputação / garantias,
+externalidades, concentração, coordenação,
+complementaridades
+(SHAPIRO e KATZ, 1986; WILLIAMSON, 1986; MILGROM e
+ROBERTS, 1992; TEECE, 1992; CASSON, 1994; WILLIAMSON,
+1996; CHANDLER, 1997; VENKATRAMAN e HENDERSON,
+1998; VARIAN e SHAPIRO, 1999; PORTER, 2001)
+COMPLEMENTARIDADES
+(Relação entre Recursos
+e Capacidades)
+Complementaridades internas e externas,
+substituição técnica dos fatores,
+custo de oportunidade
+(TEECE, 1987; CHANDLER, 1990; PRAHALAD e HAMEL, 1990;
+TEECE, 1992; BARUA, KRIEBEL e MUKHOPADHYAY, 1995;
+CHANDLER, 1997; PENROSE, 1997; POWELL e MICALLEF,
+1997; VARIAN, 1999; PORTER, 2001; BRYNJOLFSSON e HITT,
+2003; WADE e HULLAND, 2004)
+RISCO
+(Relação com o Ambiente)
+Assimetrias de informação, opções reais,
+avanços tecnológicos, padronização,
+externalidades de rede, lock-in
+(SIMON, 1978; TEECE, 1992; CASSON, 1994; WILLIAMSON,
+1996; VENKATRAMAN e HENDERSON, 1998; BENAROCH e
+KAUFFMAN, 1999; BODIE, KANE e MARCUS, 1999; VARIAN,
+1999)
+VALOR ECONÔMICO
+Economias de escopo, economias de
+escala, custos de transação, custos de
+coordenação
+(BRYNJOLFSSON, 1993; BRYNJOLFSSON e HITT, 1996;
+WILLIAMSON, 1996; HUNT, 1997; MELVILLE, KRAEMER e
+GURBAXANI, 2004)
+Otávio próspero Sanchez • Alberto Luiz Albertin
+ISSN 0034-7590 086-106 • jan./mar. 2009 • n. 1 • v. 49 • São Paulo • ©RAE • 91
+nalidade de que haverá valor econômico positivo gerado.
+Assim, avaliam-se os benefícios versus os custos,
+sendo que nem todos os benefícios podem ser expressos
+em termos financeiros, mas usualmente os custos
+o são. Benefícios não financeiros são conhecidos como
+benefícios intangíveis na literatura (GARDNER, 2000;
+SCHNIEDERJANS, HAMAKER e SCHNIEDERJANS,
+2004), e sua avaliação depende da percepção de seu valor
+pelos decisores.
+Dois tipos de percepções de valor de investimento são
+reconhecidos pela literatura: (a) valor potencial, que consiste
+no máximo valor que a aplicação de TI pode gerar,
+avaliado antes da implementação (ex-ante); e (b) valor
+realizado, derivado da implementação, ex-post (DAVERN
+e KAUFFMAN, 2000). Alcançar a realização do valor
+potencial, transformando-o em valor realizado, depende
+da suplantação das contingências durante a implementação,
+conforme ilustrado na região destacada da Figura
+3. Entretanto, a percepção dos executivos é freqüentemente
+limitada (SIMON, 1978) pela falta de habilidades
+específicas para avaliar a situação em dois domínios diferentes
+da firma: as questões de estratégia de negócios
+e de tecnologia (TALLON, KRAEMER e GURBAXANI,
+2000; BASSELLIER, BENBASAT e REICH, 2003). A fal-
+Figura 2 - Dimensões do construto MATIF
+Ambiente/ Comunidades / Clientes
+Parceiros / Fornecedores
+Clientes
+INFORMAÇÃO
+UTILIDADE
+COOPERAÇÃO
+Stakeholders
+Gestão de Risco
+Atração e Retenção
+de Parceiros Efetividade
+Formação de padrões
+Avanços tecnológicos
+Redução de assimetrias
+Conhecimento
+Formação de redes de cooperação
+Opções reais
+Ativos
+Co-especializados
+Volume
+Freqüência
+Reputação
+/Garantias
+Externalidades
+Concentração
+Coordenação
+Complementaridades
+Custos De
+Transação
+Custos De
+Substituição
+Custos De
+Localização
+Reputação /
+Garantias
+Coordenação
+Padronização
+Moral Hazard
+Seleção Adversa
+Economias de escopo
+Economias de escala
+Custos de transação
+Custos de coordenação
+Complementaridades
+Custos de oportunidade
+Substituição técnica
+DESEMPENHO
+Atração e Retenção
+de Parceiros
+Fronteira de
+propriedade
+da firma
+Maior valor do cliente
+Maior participação de mercado
+Melhor estrutura de custos
+Melhor utilização de ativos
+RECURSOS E
+CAPACIDADES
+TECNOLOGIA DA
+INFORMAÇÃO
+artigos • A RACIONALIDADE LIMITADA DAS DECISÕES DE INVESTIMENTO EM TECNOLOGIA DA INFORMAÇÃO
+92 • ©RAE • São Paulo • v. 49 • n.1 • jan./mar. 2009 • 086-106 ISSN 0034-7590
+ta de compreensão das racionalidades desses diferentes
+campos de conhecimento pode representar enorme impacto
+quanto ao sucesso ou fracasso dos projetos de investimentos
+em TI. Essas falhas de compreensão podem
+levar a uma incompleta identificação do valor potencial,
+o que significa que, na verdade, os executivos estarão
+avaliando os projetos de investimento em TI pelo valor
+efetivamente percebido (valor percebido) e não pelo valor
+potencial, sendo que a eventual diferença entre um e outro
+é atribuída a barreiras de percepção dos executivos,
+conforme ilustração da Figura 3.
+Sucesso e fracasso em projetos de investimentos
+em ti
+Ao quadro de referência anteriormente descrito sobre
+percepção de valores (DAVERN e KAUFFMAN, 2000)
+incluímos o valor potencial que é um valor idealizado e
+representa um papel central neste artigo. Tomando-se
+como base a EEIH, situações em que houvesse ineficiência
+econômica prévia tenderiam a liberar valor econômico
+positivo quando aplicações de TI fossem feitas para
+resolver tais ineficiências. Por outro lado, na ausência
+de tais ineficiências, não haveria geração de valor econômico.
+Admitimos, por fim, que os executivos possam
+ter dificuldades em identificar tais circunstâncias de ineficiência,
+tendo em vista a extensão e a complexidade da
+multifacetada disciplina econômica, o que demandaria
+o domínio de conhecimentos diversos e racionalidades
+múltiplas, simultaneamente.
+METodologia
+Adotamos para esta pesquisa o estudo de caso por ser
+esta uma estratégia recomendável à medida que se queira
+construir teorias por meio do estudo da realidade em seu
+ambiente natural, compreendendo a complexidade dos
+inter-relacionamentos dos seus elementos (BENBASAT,
+GOLDSTEIN e MEAD, 1987; EISENHARDT, 1989). Para
+isso, foram selecionados projetos de investimento em organizações
+considerados casos extremos de fracasso ou
+surpreendente sucesso, adotando-se a comparação relativa
+entre valor percebido e valor realizado para a identificação
+de projetos considerados como apresentando sucesso ou
+fracasso.
+O desenho da pesquisa foi concebido para analisar se
+o quadro referencial teórico proposto seria capaz de explicar
+as ocorrências extremas de grande sucesso ou de
+surpreendente fracasso em projetos de investimento em
+tecnologia da informação. Nessa abordagem, foi importante
+isolar outras possíveis causas pelas quais um projeto
+não fosse bem-sucedido, ou ainda a organização, por
+insuficiência de conhecimento, domínio ou acesso às
+melhores técnicas de análise, pudesse ser incapaz de an-
+Figura 3 - Etapas da percepção de valor em projetos de TI
+Otávio próspero Sanchez • Alberto Luiz Albertin
+ISSN 0034-7590 086-106 • jan./mar. 2009 • n. 1 • v. 49 • São Paulo • ©RAE • 93
+tecipar resultados previsíveis, considerando-se o estágio
+atual do conhecimento sobre esse assunto.
+Definição da amostra e descrição dos casos
+analisados
+Assim, tendo em vista o exposto, a amostra foi intencionalmente
+definida (EISENHARDT, 1989; YIN, 2002),
+dadas as seguintes condições iniciais:
+(a) as organizações deveriam ser consideradas líderes no
+setor com uso de informação-intensivo. As organizações
+deveriam ser proficientes no uso de TI, assim
+como representativas em relação aos investimentos
+anuais, por um período mínimo de cinco anos. Essa
+condição foi considerada como proxy da competência
+no uso de TI e acesso às melhores práticas de gestão
+de TI e estratégia;
+(b) deveriam ter executado grande quantidade de projetos
+de TI nos últimos cinco anos, a uma média de, pelo
+menos, 500 projetos por ano;
+(c) deveriam apresentar uma dinâmica de negócios que
+envolvesse relacionamentos com parceiros de negócios
+e clientes tão hábeis na aplicação de TI quanto elas.
+Uma vez satisfeitas essas condições, consideramos também
+necessário que as organizações apresentassem portes
+comparáveis de maneira que permitisse a replicação teórica
+entre os casos, objetivando confrontar os resultados
+com a teoria proposta pela EEIH (EISENHARDT, 1989).
+A lógica geral da pesquisa foi a de que os casos de insucesso
+ou sucesso não previstos pelos métodos disponíveis,
+portanto considerados extremos ou surpreendentes,
+deveriam ser passíveis de explicação pelo novo quadro
+de referência. Para a definição de sucesso, adotamos a
+comparação entre a percepção de valor gerado ao final da
+implementação do projeto (valor realizado) e a percepção
+de valor no momento da decisão de implementação
+(valor percebido). Conseguir uma amostra com empresas
+proficientes no uso da TI foi uma condição muito importante
+para a execução deste estudo, porque se objetivou
+isolar a interferência da falta de conhecimento e habilidade
+na aplicação das melhores técnicas de implementação
+de projetos que pudessem mascarar eventuais diferenças
+entre os valores percebidos, sem relação, portanto, com
+as ineficiências econômicas prévias ao projeto.
+O setor que escolhemos para conduzir a pesquisa no
+Brasil foi o bancário, por ser considerado maduro na aplicação
+de TI, com um histórico de vários anos de inovação
+e competitividade em nível mundial. Por exemplo, o setor
+é considerado como aquele que apresenta as melhores práticas
+e potencial para atrair as melhores habilidades e colaboradores,
+tendo atingido a proporção de 11,1% de sua
+receita líquida em 2005 com gastos em TI (MEIRELLES,
+2006). De acordo com a Federação dos Bancos do Brasil
+(FEBRABAN, 2006), o gasto total com TI no setor foi
+equivalente a US$ 5.5 bilhões durante o ano de 2004. A
+maturidade na adoção da TI é revelada pela alta capilaridade
+apresentada pelas operações bancárias do país e pelo
+expressivo número de transações eletrônicas, conforme
+apresentado na Tabela 1
+Para atender à condição de representatividade no setor,
+três dos principais bancos do Brasil foram selecionadas
+dentre os dez maiores bancos em ativos, conforme informado
+pelo Banco Central do Brasil (BACEN, 2006) na
+Tabela 2. Já o critério de escolha dos casos em relação à
+proficiência na utilização de TI baseou-se em periódicos
+da área de tecnologia. O procedimento usado consistiu
+em colher o nome das instituições em listas de profissionais
+ou implementações consideradas, em um processo
+de votação pela comunidade de tecnologia, os casos mais
+destacados ao longo de, pelo menos, mais de um ano,
+nas categorias tecnologia para serviços bancários, serviços
+financeiros e bancos. Para essa etapa, os periódicos
+considerados foram Info-Exame, IDG Now! e Relatório
+Bancário. Com base nessa consulta, foi elaborada uma
+lista combinada de instituições que atendessem a ambos
+os requisitos, o de uso de TI e o de representatividade no
+setor, o que resultou na lista de oito instituições.
+Após a identificação dessa lista inicial, a pesquisa foi
+conduzida para identificar quais instituições permitiriam
+efetivo acesso, já que necessitaríamos obter informações
+detalhadas para uma pesquisa em profundidade,
+provavelmente necessitando obter informação de vários
+colaboradores, em várias áreas dos bancos, e acesso a
+documentos diversos, visando à triangulação dos dados
+(EISENHARDT, 1989; YIN, 2002).
+Casos selecionados
+Foram selecionadas três instituições financeiras de grande
+porte, e as entrevistas transcorreram entre março de 2005
+e abril de 2006. Em razão das condições para participação
+impostas pelas instituições, a pesquisa apresenta apenas as
+informações consentidas pelas empresas. Foram escolhidos
+bancos privados, classificados dentre os sete maiores com
+perfis de clientes semelhantes e com operação em todo o
+território nacional, responsáveis conjuntamente por 22%
+do ativo do setor, 28% do patrimônio líquido total, mais de
+20% do depósito a vista e mais de 4.000 agências no país,
+conforme dados de março de 2005 (BACEN, 2006).
+No Quadro 2, apresentamos as características resumidas
+das três instituições escolhidas.
+artigos • A RACIONALIDADE LIMITADA DAS DECISÕES DE INVESTIMENTO EM TECNOLOGIA DA INFORMAÇÃO
+94 • ©RAE • São Paulo • v. 49 • n.1 • jan./mar. 2009 • 086-106 ISSN 0034-7590
+Tabela 1 - Indústria bancária brasileira – crescimento da automação de processos
+(Milhões de Transações) 2002 2003 2004 2004/2005
+Automáticas externas (1) 599 610 667 9,4%
+Automáticas internas (2) 3.893 6.758 7.514 11,2%
+Auto-atendimento (3) 6.094 7.585 9.891 30,4%
+Home e Office Banking P.J. (4) 970 1.174 1.862 58,6%
+Internet Banking P.F. (5) 1.139 1.457 2.045 40,4%
+POS – Ponto de Venda no Comércio (6) 549 581 1.002 72,5%
+Transações de caixas de agências 4.463 4.451 3.609 - 8,9%
+Nº de cheques compensados 2.397 2.246 2.107 -6,2%
+Call Center com intervenção atendente 380 321 301 -6,3%
+Call Center (Unidade Resposta Audível) 1.133 994 850 - 4,5%
+Correspondentes Bancários (7) - 125 187 49,6%
+TOTAL 21.617 26.302 30.035 14,2%
+Fonte: Febraban, 2006, p. 4.
+Notas: (1) Débitos automáticos, crédito de salário etc.
+(2) Tarifas, taxas, IOF, CPMF etc.
+(3) Saque, depósitos, consultas, emissão de cheques etc.
+(4) Transferências de arquivos, consultas, pagamentos, investimentos etc.
+(5) Consultas, transferências, pagamentos, investimentos, emprés imos etc.
+(6) Pagamentos em lojas, supermercados, postos de gasolina etc.
+(7) Estabelecimentos comerciais, correios, casas lotéricas etc.
+Tabela 2 - Setor bancário – ranking pelo total de ativos, em 2005
+Pos Instituição Ativo Total
+(US$ 1.000)
+Patrimônio
+Líquido
+(US$ 1.000)
+Receita Líquida
+(US$ 1.000)
+Total de Depósitos
+(US$ 1.000)
+Número de
+colaboradores
+1 BB 122.231.522 7.429.302 479.891 59.749.499 103.965
+2 CEF 77.867.402 3.471.381 236.275 48.352.257 104.435
+3 BRADESCO 77.015.512 8.231.370 599.815 35.554.496 67.531
+4 ITAÚ 69.741.843 8.343.191 644.900 22.005.894 47.918
+5 UNIBANCO 37.528.398 4.283.472 206.449 17.845.824 23.282
+6 SANTANDER BANESPA 35.785.166 4.123.618 151.233 11.751.657 21.380
+7 ABN AMRO 32.380.627 4.543.578 105.040 16.749.746 28.297
+8 HSBC 20.837.363 1.400.672 72.555 12.893.253 25.942
+9 SAFRA 19.177.576 1.841.389 69.416 4.782.880 4.786
+10 NOSSA CAIXA 15.427.446 1.115.984 44.225 10.932.850 14.316
+Fonte: Bacen, 2006.
+Nota: Extrato da planilha de ranking de bancos disponível no site da Instituição.
+Otávio próspero Sanchez • Alberto Luiz Albertin
+ISSN 0034-7590 086-106 • jan./mar. 2009 • n. 1 • v. 49 • São Paulo • ©RAE • 95
+Depois de identificados os casos, o pesquisador identificou
+contatos que pudessem atuar como facilitadores da
+identificação do processo de decisão, visto que mapear a
+percepção de valor anterior à execução de projetos de investimento
+foi um importante requisito para a análise da
+efetividade do investimento. Em seguida, foram desenvolvidos
+questionários estruturados baseados na estrutura
+teórica do MATIF. Uma amostra desse questionário é
+mostrada no Quadro 3. Esses questionários foram encaminhados
+para os contatos iniciais junto aos casos pesquisados.
+Um alto nível de detalhe dos quesitos perguntados
+foi intencionalmente definido para que pudessem
+ser identificados na estrutura os informantes relevantes,
+considerados dessa forma aqueles que pudessem dispor de
+detalhes, documentos e histórico suficientes para caracterizar
+detalhadamente o que ocorreu desde a proposição do
+projeto de investimento até sua efetiva conclusão. Os informantes
+relevantes apresentaram-se úteis por contribuir
+com informações que tendiam a ser mais objetivas e menos
+influenciadas pelos aspectos políticos da organização. Após
+a identificação dos informantes relevantes, a segunda fase
+de coleta de dados propriamente dita foi realizada por meio
+de entrevistas semi-estruturadas conduzidas com base em
+um protocolo fundamentado no questionário previamente
+enviado. O protocolo do estudo de caso foi previamente
+avaliado por dois especialistas em análise de investimentos
+de tecnologia da informação com o objetivo de validá-los
+quanto à sua capacidade de cobertura relativa aos aspectos
+envolvidos no referencial teórico.
+Uma vez identificada a estrutura de decisão de cada
+organização, cada equipe formada pelo conjunto de informantes
+relevantes em cada caso pesquisado e pelo pesquisador
+decidiu quais projetos seriam avaliados, tendo
+como requisito inicial que consistissem em projetos que
+tivessem apresentado resultados surpreendentemente
+bons ou ruins, ressaltando o especial interesse na identificação
+de casos extremos (EISENHARDT, 1989; YIN,
+2002), em que cada valor realizado fosse identificado pelos
+Quadro 2 - Caracterização dos casos
+Banco A Banco B Banco C
+Capital
+multinacional presente em 70
+países
+privado com uma pequena participação
+de capital externa
+Top-3 dentre os maiores bancos
+privados
+Patrimônio US$ 6 bilhões US$ 4 bilhões US$ 8 bilhões
+Ativos US$ 30 bilhões US$ 36 bilhões US$ 70 bilhões
+Número de clientes 12 milhões 13 milhões 20 milhões
+Número de contas
+ativas
+5,9 milhões de contas correntes
+e poupanças
+13 milhões de contas correntes e
+poupanças
+35 milhões de contas correntes e
+poupanças.
+Número de
+colaboradores
+28.000 23.000 48.000
+Número de transações
+por mês
+150 milhões 100 milhões
+280 milhões; 400 milhões pela
+Internet
+Rede de captação
+6.000 pontos de acesso, 1900
+agências, 600 ATMs
+17.000 pontos de venda, 900
+agências, 350 agências em empresas
+parceiras, 2.700 ATMs
+20.000 pontos de acesso; 22.000
+ATMs
+Observações
+Ênfase no profissionalismo da
+equipe; formação em referências
+internacionais de escolas
+de negócios e tecnologia; fundamental
+a migração do foco da
+equipe de TI de perfil puramente
+técnico para o perfil envolvido
+em negócios
+A estrutura organizacional é altamente
+profissionalizada; pessoal
+de TI faz a ponte entre as
+demandas das áreas de negócio,
+especialmente no que se refere
+às análises de investimento; 500
+projetos de TI todos os anos
+Reconhecido como formador de
+mão-de-obra e pela alta capacitação
+tecnológica de sua equipe;
+formação em referências internacionais
+de escolas de negócios e
+tecnologia
+Fonte: Dados sobre capital, patrimônio e ativos. Bacen, 2006.
+Dados sobre captação, transações e rede. Febraban, 2006.
+artigos • A RACIONALIDADE LIMITADA DAS DECISÕES DE INVESTIMENTO EM TECNOLOGIA DA INFORMAÇÃO
+96 • ©RAE • São Paulo • v. 49 • n.1 • jan./mar. 2009 • 086-106 ISSN 0034-7590
+entrevistados, em consenso, como sendo especialmente
+contrastante como valor percebido no momento da tomada
+da decisão do investimento. O fluxo detalhado das etapas
+da pesquisa é indicado na Figura 4.
+Seleção de projetos
+Neste estudo, procuramos escolher os projetos com base,
+essencialmente, nas características que identificam, nas
+Organizações, quais investimentos em TI foram bem-
+Quadro 3 - Trecho exemplar do questionário inicial
+Perguntas Respostas
+Quanto ao Projeto 1
+Identificação dp projeto
+(nome, sigla ou código)
+marcar um “X” na coluna adequada, representando a intensidade na
+escala de 1 a 5, sendo: menor = 1; maior = 5
+1 2 3 4 5
+18
+é um projeto de infra-estrutura - serve a várias aplicações
+de negócios ou é um projeto de negócios
+Infraestrutura negócios
+19
+é um projeto com resultados localizados ou com resultados
+distribuídos pela Organização
+resultados locais
+resultados
+distribuídos
+20
+o projeto é considerado bem sucedido ou mal sucedido
+em relação à entrega de valor para o negócio
+bem sucedido mal sucedido
+marcar um “X” na coluna adequada, representando a intensidade na
+escala de 1 a 5, sendo: menor = 1; maior = 5
+A nossa percepção ANTES de executarmos o projeto, era
+de que, com ele:
+1 2 3 4 5
+21
+Reduziram as dificuldades ou custos que nossos
+clientes enfrentam ao se relacionarem com nossa
+empresa
+pouca redução nas
+dificuldades de
+clientes
+muita redução nas dificuldades
+de clientes
+22
+Aumentariam os atrativos para o cliente, evitando a
+substituição de nosso produto ou serviço por outro
+da concorrência
+Não evitaria
+substituição
+Evitaria completamente
+a substituição
+23
+Facilitaria com que o cliente identificasse o produto
+ou serviço que melhor se adaptasse as necessidades
+dele
+Não facilita entender
+o perfil do cliente
+Facilitaria muito a
+identificação do
+produto
+24
+Facilitaria o nosso entendimento das necessidades
+dos clientes, revelando melhor seu perfil
+Não facilita entender
+o perfil do cliente
+Facilita muito o entendimento
+do perfil
+do cliente
+25 Melhoraríamos nossa imagem junto aos clientes
+Não melhoraria nossa
+imagem
+Melhoraria muito nossa
+imagem
+26
+Padronizaríamos processos ou produtos ofertados
+a clientes
+Não padronizaria
+processos/produtos
+Padroniza bastante os
+processos/produtos
+27
+Estabeleceríamos mecanismos que incentivariam
+certos comportamentos desejáveis por parte dos
+clientes
+pouco muito
+28
+Em um investimento que melhoraria a colaboração
+com parceiros e fornecedores
+Não aumentaria a
+colaboração
+Aumentaria em muito
+a colaboração
+Otávio próspero Sanchez • Alberto Luiz Albertin
+ISSN 0034-7590 086-106 • jan./mar. 2009 • n. 1 • v. 49 • São Paulo • ©RAE • 97
+sucedidos e quais foram malsucedidos. De acordo com
+o MATIF, seria a pouca diferença entre o Valor Percebido
+da aplicação e o seu Valor Realizado o fator que classificaria,
+na prática, os casos entre bem-sucedidos e
+malsucedidos.
+Assim, partindo de casos declarados pelas organizações
+como bem-sucedidos, temos duas possibilidades
+(Figura 5):
+(a) Valor Potencial ˜ Valor Percebido ˜ Valor Realizado
+(b) Valor Potencial >> Valor Percebido ˜ Valor Realizado
+Já para os investimentos tidos como malsucedidos, temos
+duas possibilidades:
+(c) Valor Potencial ˜ Valor Percebido >> Valor Realizado
+(d) Valor Potencial << Valor Percebido >> Valor Realizado
+As situações (a) e (b) são tidas como bem-sucedidas na
+aplicação de TI, mas não representam, necessariamente,
+a EFETIVIDADE do uso da tecnologia, porque no caso
+(b) a organização não tirou todo o proveito possível dessa
+aplicação.
+Já o caso (c) representa uma situação em que a Gestão
+da TI não é efetuada de forma adequada ou reflete grande
+influência das barreiras de contingências.
+Os casos (b) e (d) correspondem àqueles em que o
+potencial de contribuição do MATIF é maior, visto que
+há grande desequilíbrio entre o Valor Potencial e o Valor
+Percebido.
+Assim, para a execução desta pesquisa, procuramos tanto
+por casos incorporados que representassem aplicações
+bem-sucedidas de tecnologia quanto por casos que fossem
+considerados malsucedidos, atendendo às características
+de (b) e (d), de maneira que fosse permitida uma análise
+com três elementos, conforme Figura 6.
+Coleta de dados e validação
+Além das entrevistas, material adicional foi coletado
+por análise documental e observação direta, quando o
+pesquisador participou de reuniões de avaliação final
+sobre o sucesso dos projetos de TI. Dessas reuniões
+participaram não apenas os informantes, mas também
+um grupo ampliado, usualmente incluindo o principal
+executivo da área de tecnologia. A análise documental
+consistiu no levantamento de informações dos projetos
+de investimento – conhecidos como business-cases –,
+em particular procurando identificar os benefícios que
+os projetos objetivavam auferir no momento de sua proposição
+para aprovação
+Figura 4 - Etapas de condução da pesquisa
+FASE I - APROXIMAÇÃO
+(interface: FACILITADORES)
+FASE III - ANÁLISE INTRA-CASE
+FASE IV - ANÁLISE INTER-CASES
+FASE II – COLETA DE DADOS
+(interface: INFORMANTES
+na estrutura de decisão)
+Escolha dos casos
+Abordagem aos facilitadores
+(abertura de contato)
+Retorno e validação com
+informantes
+Análise da convergência teórica
+das descobertas
+Análise dos casos
+extremos e não extremos
+Relatórios
+Ponderação das evidências
+Verificação de convergência
+(Evidências x construto - MATIF)
+Depuração das categorias do
+construto (MATIF)
+Triangulação
+(hermenêutica, narrativa, semiótica)
+Identificação pelo grupo das
+ocorrências extremas
+(positivas ou negativas)
+Entrevista semi-estruturada
+individualizada - gravada
+por informante / por projeto
+(protocolo referenciado no
+questionário)
+Análise de documentos
+Observação direta
+(participação em reuniões)
+Encaminhamento do questionário
+estruturado
+Entrevista de identificação dos
+informantes relevantes
+(ESTRUTURA DA DECISÃO)
+artigos • A RACIONALIDADE LIMITADA DAS DECISÕES DE INVESTIMENTO EM TECNOLOGIA DA INFORMAÇÃO
+98 • ©RAE • São Paulo • v. 49 • n.1 • jan./mar. 2009 • 086-106 ISSN 0034-7590
+Especial atenção foi dada à coleta de dados, visando
+a isolar as eventuais falhas de percepção de valor dos
+executivos, especialmente aquelas advindas da recriação
+retrospectiva do entendimento sobre o valor percebido à
+época da tomada da decisão (MILES e HUBERMAN, 1994;
+KLEIN e MYERS, 1999).
+Três modos de análise dos dados foram utilizados para
+interpretar o significado do conteúdo obtido: hermenêutica,
+narrativa e semiótica (DAVIS e outros, 1992) e permitir
+a triangulação das evidências encontradas. Essas
+técnicas foram particularmente úteis à medida que, em
+geral, entrevistados tendem a recriar o racional da decisão,
+usualmente produzido algum tempo antes de a entrevista
+ser conduzida, o que pode levar a expressarem interpretações
+favoráveis de seus próprios comportamentos passados
+ou do grupo interno à organização a que pertençam,
+especialmente quando os entrevistados estão diretamente
+envolvidos nas decisões ou implementações (AVISON e
+MYERS, 1995).
+Nesta pesquisa, o uso da hermenêutica foi conduzido
+na tentativa de permitir o entendimento do significado
+dos textos ou narrativas dos entrevistados. Em uma organização,
+os diversos atores podem apresentar interpretações
+confusas, incompletas ou contraditórias a respeito
+dos assuntos a serem analisados. O objetivo do uso da
+hermenêutica consiste, então, em procurar construir o
+sentido do todo e o relacionamento dos seus elementos.
+Nesta pesquisa, os informantes estavam sujeitos a pressões
+de variadas origens, tais como a de comprovar que sua
+própria área tem relevância na organização, que as decisões
+tomadas foram adequadas, que sua participação foi
+consistente, bem como a de apresentar uma boa imagem
+da instituição ao pesquisador. Por isso, recriações ex-post
+do racional de tomadas de decisão coletivas tendem a se-
+Figura 5 - Casos com aplicação de TI tida como mal ou bem-sucedida
+Otávio próspero Sanchez • Alberto Luiz Albertin
+ISSN 0034-7590 086-106 • jan./mar. 2009 • n. 1 • v. 49 • São Paulo • ©RAE • 99
+guir uma lógica que envolve uma miscelânea de aspectos
+políticos e técnicos. A hermenêutica ajuda a filtrar o
+significado da narrativa porque auxilia o pesquisador a
+procurar identificar e reconstruir conexões lógicas entre
+os elementos das narrativas. Na prática, seu uso consistiu
+em procurar confirmação a cada argumento não objetivo
+ou isento de conexão com o tema da pesquisa em uma
+dinâmica que se aproxima de um interrogatório. Todo o
+procedimento foi gravado, transcrito e verificado posteriormente
+por meio de técnicas de categorização. A técnica
+de análise de narrativa trata de considerar a recriação de
+uma realidade que é, essencialmente, interpretada pelos
+informantes. Para essa recriação, o entrevistado utilizará
+metáfora, que é a aplicação de um nome, termo ou frase
+Quadro 4 - Percepção de Sucesso/Fracasso dos Projetos
+Banco Projeto Percepção Inicial Percepção Final
+A
+1 Gerenciador de relacionamento Muito efetivo Fracasso
+2 Correspondente bancário Efetivo Sucesso (em andamento)
+3 Broker Efetivo (médio) Muito sucesso
+B
+4 Call center Efetivo Sucesso
+5 Sistema de alocação de custos Muito efetivo Fracasso
+6 Emissor de extrato Efetivo Fracasso
+7 Comprovante de pagamento Pouco efetivo Muito sucesso
+C 8 Otimizador de entrega de numerário Efetivo Muito sucesso
+Figura 6 - Critério de escolha dos projetos para análise de valor
+artigos • A RACIONALIDADE LIMITADA DAS DECISÕES DE INVESTIMENTO EM TECNOLOGIA DA INFORMAÇÃO
+100 • ©RAE • São Paulo • v. 49 • n.1 • jan./mar. 2009 • 086-106 ISSN 0034-7590
+para designar um objeto ou ação em que não é diretamente
+aplicável. A análise dessas metáforas e das condições em
+que são empregadas pode revelar aspectos da narrativa que
+não são diretamente visíveis em um primeiro momento. A
+percepção desse aspecto exige muita disciplina verbal por
+parte do entrevistador, que deve não só registrar os aspectos
+observados, mas também instigar o entrevistado a confirmar
+ou graduar o aspecto que tenha acabado de revelar. Já a semiótica
+preocupa-se com a análise de significados de sinais
+e símbolos. A idéia básica é de que eles contêm significados
+incorporados, mas não revelados diretamente. Nesta pesquisa,
+os entrevistados utilizaram de forma intensa jargões
+presentes tanto na área de tecnologia de informação como
+na área de negócios e neologismos, em geral, oriundos das
+culturas organizacionais das instituições e da área de tecnologia
+da informação. Sinais como o de consentimento
+na tomada da palavra, graus de formalização da estrutura,
+rituais, como uso de assistentes para marcação das entrevistas
+e espera na ante-sala, ou ainda a ordem e a posição
+tomada junto à mesa de reuniões, todos eles ajudaram a
+revelar detalhes da estrutura de decisão que permitiram
+identificar quando algumas entrevistas deveriam ser conduzidas
+individualmente para que a autoridade formal da
+instituição não influísse demasiadamente na apresentação
+de detalhes pelos informantes. O pesquisador usou ainda
+o artifício da gravação das entrevistas que posteriormente
+foram codificadas, levando em conta o uso do jargão próprio
+de cada organização. Informações detalhadas sobre a
+condução dessas e outras técnicas podem ser consultadas
+em Miles e Huberman (1994), Spraley (1979) e Denzin e
+Lincoln (2003).
+No Banco A, foram entrevistados o Vice-Presidente
+de Tecnologia, o Diretor de Tecnologia da Informação,
+o Superintendente Executivo de Soluções de Varejo, o
+Superintendente Executivo de Internet, o Superintendente
+Executivo de Soluções de Inteligência, o Superintendente
+Executivo de Serviços e Operações. Já no Banco B, foram
+entrevistados o Diretor Executivo de Tecnologia da
+Informação, o Superintendente de Arquitetura, o Gerente
+de Investimento, enquanto, no Banco C, foram entrevistados
+o Vice Presidente de Operações, a Diretora Executiva
+de Tecnologia da Informação, o Superintendente de Custos
+e Orçamentos. O período da pesquisa de campo foi de seis
+meses, de outubro de 2005 a março de 2006.
+O procedimento completo de condução da pesquisa é
+indicado na Figura 4.
+Os resultados foram coletados sistematicamente, projeto
+a projeto, seguindo a seqüência indicada pelo protocolo
+de estudo. Para cada projeto, foram levantadas as
+impressões de todos os entrevistados sobre valor percebido,
+valor realizado e argumentos de benefícios que se
+geraria com a implementação de cada projeto para cada
+um dos atributos do MATIF: utilidade, cooperação, complementaridade,
+gestão de risco. Uma breve descrição de
+cada projeto é apresentada no Quadro 5.
+Análise dos RESULTados e discussão
+Os argumentos apresentados como justificativas prévias
+para cada projeto foram sistematicamente analisados,
+visando a caracterizar o valor potencial como resultado
+da combinação da possível contribuição do projeto em
+resolver os casos de ineficiências econômicas prévias em
+cada situação de negócio em que o projeto seria aplicado,
+considerando as dimensões utilidade, cooperação, complementaridade,
+gestão de risco do MATIF.
+Assim, a fase de análise consistiu em verificar se haveria
+a possibilidade de enquadramento da justificativa dos
+projetos nas dimensões teóricas do MATIF, considerandose
+a possibilidade de ocorrência de ineficiências econômicas
+prévias em cada situação em que um projeto seria
+aplicado e as respostas obtidas. Posteriormente, o valor
+potencial foi confrontado com as narrativas de valor percebido
+e realizado.
+Por exemplo, para a dimensão de relacionamento com
+clientes, cujo atributo econômico principal é a geração de
+utilidade, procurou-se identificar se os casos apresentavam,
+à época da decisão do investimento, uma ou mais
+situações passíveis de representar ineficiência econômica,
+conforme previsto no construto. Assim, para a dimensão
+de clientes, cada projeto foi analisado sob a ótica da possibilidade
+de potencial de geração de valor pela aplicação
+da TI que resolvesse um ou mais dos seguintes problemas:
+altos custos impostos a clientes para a localização
+das soluções ou serviços adequados, baixos custos de
+substituição de produtos ou serviços do banco em relação
+à concorrência, altos custos de transação na entrega do
+produto ou prestação do serviço, dificuldade do banco em
+coordenar clientes (monitorar, controlar), baixa padronização,
+levando a deseconomias de escala, insuficiência de
+reputação que requeresse a entrega de garantias custosas,
+exposição do banco à possibilidade de clientes apresentarem
+moral hazard, exposição do banco a situações de
+seleção adversa de perfis inadequados de clientes. Um
+exemplo de narrativa e classificação dos resultados para
+a dimensão Clientes é ilustrado no Quadro 6.
+O mesmo procedimento foi executado para cada uma
+das dimensões e projetos. O resultado final das análises
+das cinco dimensões e oito projetos é ilustrado no Quadro
+Otávio próspero Sanchez • Alberto Luiz Albertin
+ISSN 0034-7590 086-106 • jan./mar. 2009 • n. 1 • v. 49 • São Paulo • ©RAE • 101
+Quadro 5 - Avaliação e exemplo de evidências para a dimensão utilidade
+Banco Projeto Valor realizado Exemplo de argumentação
+A
+1
+Gerenciador
+de relacionamento
+Este projeto foi
+identificado como
+medianamente bem
+sucedido pelos
+entrevistados.
+O objetivo desse projeto é permitir a centralização e o gerenciamento completo
+das informações geradas pelo contato dos clientes com os mais diversos canais
+de acesso aos produtos do banco. Com base nesse sistema, a intenção é a de
+efetuar ofertas especializadas de serviços mais adequados, por meio de uma abordagem
+consistente, voltados para as condições de perfil identificadas pelas suas
+demandas passadas nos diversos canais de atendimento. Trata-se, portanto, de
+uma iniciativa destinada inicialmente a automatizar os contatos de atendimento
+do cliente na agência, no call center e nos serviços de atendimento do Banco. A
+intenção declarada é a migrar o projeto para futuramente desenvolver ações específicas
+de identificação de perfis e oferecimento de soluções especializadas.
+2
+Correspondente
+bancário
+Projeto está em fase
+de execução, o que limita
+a capacidade de
+percepção a respeito
+do valor realizado.
+Trata-se de um projeto destinado a viabilizar o acesso operações de serviços financeiros
+como pagamento de títulos por intermédio de agentes que não pertençam
+à rede de atendimento própria do Banco, no mesmo formato que a CEF – Caixa
+Econômica Federal implementou em relação às lotéricas e banco postal, com os
+Correios. O objetivo principal é capilarizar o acesso do banco a clientes de perfil
+diverso daquele que é comumente atendido. O acesso a esse público seria feito
+por meio de parcerias com agentes do varejo de produtos, a exemplo do que o
+Bradesco fez com as Casas Bahia, o Itaú fez com o Pão de Açúcar, mantendo as
+transações sob a responsabilidade legal do banco. Alguns benefícios potenciais
+são associados a este projeto tais como aumento da capilarização do Banco,
+acesso a públicos diversos, redução do custo de captação de operações financeiras,
+recebimento de títulos, concessão de cartões de crédito, entre outros.
+3 Broker
+Foi considerado originalmente
+um projeto
+medianamente bem
+sucedido.
+Trata-se de um aplicativo, que opera com base na Internet, destinado à facilitação
+do acesso de clientes, em um processo análogo à operação de um acesso
+residencial de home banking, mas com o objetivo de incluir um canal de acesso
+dos clientes à BOVESPA – Bolsa de Valores de São Paulo, por meio da corretora
+do próprio Banco, para operações com ativos de renda variável. Trata-se, portanto,
+de uma aplicação habilitadora de um novo canal de atendimento aos clientes,
+via Internet, de onde clientes podem comandar negócios, consultar posições,
+valores e interagir com o BOVESPA.
+É, portanto, um aplicativo análogo aos aplicativos de home banking voltado para
+a Bolsa de Valores, objetivando acesso de clientes pela Internet para comandar
+negócios de renda variável, em um acesso por intermédio da corretora de valores
+do Banco. É possível fazer consultas a posições e alterar posições de ativos
+no BOVESPA.
+7. A análise dos dados, em especial a coluna de valor potencial
+versus valor percebido indica que apenas as expectativas
+originais dos projetos 2 e 4 deveriam ser mantidas,
+enquanto as expectativas dos demais seis projetos (total
+de oito) deveriam ser corrigidas. A correspondência entre
+os dados da coluna “correção da expectativa”, cuja
+avaliação foi produzida utilizando-se o quadro conceitual
+da EEIH, com o conteúdo da coluna “percepção final”
+indica a validade da generalização convergente e discriminante
+do construto para a explicação do fenômeno
+(EISENHARDT, 1989).
+A análise das entrevistas e do material colhido permitiu
+identificar alguns importantes aspectos envolvidos na
+percepção do valor potencial dos projetos. São eles: (a)
+a estruturação do processo de decisão e (b) as habilidades
+individuais dos gestores para identificar ineficiências
+econômicas prévias na dinâmica dos negócios e mitigá-las
+pela aplicação da TI.
+(continua)
+artigos • A RACIONALIDADE LIMITADA DAS DECISÕES DE INVESTIMENTO EM TECNOLOGIA DA INFORMAÇÃO
+102 • ©RAE • São Paulo • v. 49 • n.1 • jan./mar. 2009 • 086-106 ISSN 0034-7590
+(a) Estruturação do processo de decisão: a estrutura de
+decisão das organizações tem papel preponderante na
+facilitação dessa percepção. As ineficiências podem
+surgir entre relacionamentos com diversos agentes
+econômicos, o que usualmente ocorre nos limites de
+decisão e percepção de áreas funcionalmente dife-
+B
+4 Call center
+No momento da pesquisa,
+era um projeto
+de escopo considerado
+grande, com
+etapas que ainda vão
+ocorrer.
+Era considerado bem
+sucedido
+Trata-se de um projeto destinado a concentrar as operações de atendimento a
+cliente que são suportadas por sistema. A situação que o projeto busca resolver
+consiste de garantir que todas as atividades com o tipo de atendimento por call
+center, tais como operações de financeira, seguros, suporte a clientes, SAC, entre
+outras, sejam consolidadas em um ambiente único, físico e lógico.
+5
+Sistema de
+alocação de
+custos
+Projeto claramente
+identificado com
+malsucedido. Nas
+palavras do entrevistado
+“... tudo que se
+desenvolveu naquela
+época foi jogado
+fora”.
+Trata-se de um projeto destinado a permitir uma visão de alocação de custos de
+TI para as áreas de negócio. Desenvolvido com o suporte de uma grande empresa
+internacional fornecedora de sistemas de gestão empresarial e de uma grande
+empresa de consultoria, objetivava a implantação do ABC – Activity Based Cost
+para apropriar os custos de desenvolvimento e processos de TI aos variados produtos
+das áreas de negócios. O objetivo principal deste projeto foi permitir uma
+melhor alocação dos custos de cada solução, de modo a que o Banco tivesse a
+visão clara das soluções que são rentáveis. O escopo do projeto envolveu apenas
+os aspectos de custos e orçamentação, já que os aspectos contábeis e fiscais
+estão sendo atendidos por outra aplicação.
+6
+Emissor de
+extrato
+Embora já terminado
+e com o potencial
+de economia direta
+de alguns milhões de
+reais ao ano, o projeto
+foi considerado
+malsucedido.
+Trata-se de um projeto de alteração do formato de envio de extratos para os
+clientes. O processo existente de envio de extratos é feito pelo meio tradicional
+de envelopagem convencional, com janela de destinatário. O procedimento desenvolvido
+executa a impressão dos extratos pelo sistema chacon, que consiste
+de uma única folha convenientemente dobrada que dispensa o uso de envelopagem,
+sendo a impressão feita em preto e branco, diferentemente do convencional,
+que é colorido.
+7
+Comprovante
+de
+pagamento
+Projeto foi considerado
+muito bemsucedido
+Trata-se de um projeto destinado a tornar disponíveis cópias de cheques dos
+clientes que foram processados, em substituição aos antigos processos de recuperação
+por microfilmagem. Isso se torna possível porque, no processamento, já
+é criada a imagem do cheque e que fica disponível em um Banco de dados.
+C 8
+Otimizador
+de
+entrega de
+numerário
+Projeto muito bemsucedido,
+conforme a
+narrativa de um dos
+entrevistados: “... ao
+final, as economias
+foram muito superiores
+ao projetado
+inicialmente...”.
+Trata-se de um sistema implantado para otimizar o atendimento à demanda de
+numerário das agências, reduzindo os custos de logística na operação e mantendo
+os riscos sob níveis adequados. A aplicação substituiu os processos anteriores
+que consistiam de atender diariamente aos requisitos das agências em
+relação ao volume de numerário e recolher os excedentes ao final do dia. Isso
+significava que cada agência tinha obrigatoriamente, pelo menos, dois atendimentos
+diários. Destina-se a otimizar a atividade de planejar a necessidade de
+numerário para as agências que, no procedimento anterior à implementação do
+projeto, consistia de requisitar numerário todos os dias e devolver o excedente
+em uma operação de transporte que tinha duas visitas da transportadora por
+agência, por dia. O recurso vai, então, para uma central da transportadora que
+confere e controla o numerário.
+rentes da organização que estão sob responsabilidade
+de diferentes gestores. Por exemplo, uma decisão de
+investimentos que tenha o objetivo de gerar valor
+adicional ao cliente deve envolver, além deste, outros
+múltiplos aspectos, como, por exemplo, o risco (tecnológico)
+da solução, o impacto no risco do negócio
+(conclusão)
+Otávio próspero Sanchez • Alberto Luiz Albertin
+ISSN 0034-7590 086-106 • jan./mar. 2009 • n. 1 • v. 49 • São Paulo • ©RAE • 103
+de se implementar o projeto, as complementaridades
+com recursos internos e externos e as economias e
+deseconomias de escala e escopo, em um alinhamento
+geral da organização, difícil de ser capturado se a
+estrutura da decisão não for orientada para o refinamento
+da percepção desses aspectos, usualmente
+localizados, mas que se conectam e alinham como
+um todo, conforme ilustrado na Figura 2.
+(b) Habilidades individuais dos gestores: a habilidade de
+perceber previamente as ineficiências econômicas que
+podem vir a ser resolvidas pela implementação dos
+projetos que estão sob análise é essencial para uma
+adequada tomada de decisão a respeito desses projetos.
+A ocorrência de situações em que os gestores são
+surpreendidos pelo valor gerado por projetos, mesmo
+quando as organizações são proficientes nas melhores
+técnicas de análise, demonstra que tais técnicas são
+incompletas para a produção de uma decisão efetiva.
+Após a introdução do MATIF como guia de análise
+Quadro 6 - Avaliação e exemplo de evidências para a dimensão utilidade
+Banco Projeto Ava liação Exemplo de argumentação
+A
+1
+Gerenciador de
+relacionamento
+(+) potencial
+“[...] inicialmente se tinha uma expectativa que essa ferramenta atenderia todos
+os segmentos do Banco, mas não foi o que aconteceu [...]”
+2
+Correspondente
+bancário
+muito intensa
+“[...] sob o ponto de vista com cliente, há redução do custo de transação.
+Assim o cliente tem uma oferta de produtos e serviços bancários em canais
+diferenciados que exploram a capilarização do acesso, que de outra forma
+não poderia ter acesso a serviços bancários adequados à sua capacidade
+de pagamento [...]”
+3 Broker muito intensa
+“[...] a corretora provê um serviço que, de outra forma, deve ser concluído por
+meio telefônico, por meio de um operador ou trader. Pelo Broker, o cliente localiza
+facilmente a alternativa de ativos que deseja. Muitos clientes, por não
+necessitarem de aconselhamentos, vêem a intermediação do trader como uma
+dificuldade adicional, não necessariamente como uma facilitação [...]”
+B
+4 Call center nenhum Operação já existente. Tratou-se de otimização interna.
+5
+Sistema de alocação
+de custos
+(+) potencial
+Surgiria, no futuro, se a alocação levasse a uma redução dos custos de
+transação.
+6 Emissor de extrato
+(- -) redução de
+utilidade
+“[...] o projeto eliminou um canal de comunicação com o cliente, que passou
+a perceber como oneroso e difícil o acesso à informação sobre os produtos
+do banco [...]”
+7
+Comprovante de
+pagamento
+presente,
+oculta
+“[...] serve a clientes que desejam atender a requisitos judiciais de comprovação
+de pagamentos. Esses clientes, até então, precisavam se submeter a
+procedimentos burocráticos de requisição, tempo de espera e, eventualmente,
+não-atendimento no prazo desejado”.
+C 8
+Otimizador de entrega
+de numerário
+nenhum
+Tratou-se de otimização da operação de distribuição de numerário, sem reflexos
+perceptíveis ao cliente.
+dos elementos que sustentariam a decisão sobre o
+projeto, os gestores foram capazes de identificar separadamente
+os componentes envolvidos na geração
+de valor para o negócio. Assim, concluímos que nem
+todos os gestores têm, em vista dos instrumentais
+disponíveis, os meios para identificar as situações de
+ineficiência econômica. Nosso estudo revelou que a
+introdução dos elementos do MATIF contribui para
+melhor estruturação da decisão de investimentos.
+CONCLUSÕES
+Considerando que a TI representa um recurso estratégico
+e caro, as organizações têm procurado encontrar maneiras
+de melhor gerir esse recurso. Várias organizações têm
+reconhecido que uma parcela significativa dos benefícios
+obtidos pela sua utilização é intangível e, por isso, de difícil
+mensuração. Na tentativa de contornar essa dificulartigos
+• A RACIONALIDADE LIMITADA DAS DECISÕES DE INVESTIMENTO EM TECNOLOGIA DA INFORMAÇÃO
+104 • ©RAE • São Paulo • v. 49 • n.1 • jan./mar. 2009 • 086-106 ISSN 0034-7590
+dade de objetivação dos benefícios, etapa fundamental na
+adequada avaliação dos projetos de investimento, algumas
+organizações adotam diversas técnicas de avaliação do
+projeto e de estruturação do processo de decisão.
+As organizações têm a tendência de atribuir aos gestores
+das áreas de negócio a responsabilidade pela correta
+percepção de valor que a TI terá para o negócio, instituindo
+a gestão por orçamentos em base zero, em que
+os custos são centralizados, rateados e apropriados, com
+base em alguns critérios, às áreas de negócio que têm a
+responsabilidade de apresentar resultados. Entretanto,
+nem sempre os gestores das áreas de negócio e gestores
+das áreas de TI são completamente conhecedores dos variados
+aspectos envolvidos nas decisões de investimento,
+por mais qualificados que possam ser os métodos empregados
+atualmente. Mesmo as organizações proficientes na
+compreensão do valor da utilização da TI nos negócios,
+e na sua gestão, apresentam casos de surpreendentes sucessos
+ou insucessos.
+As teorias atualmente aplicadas pelas organizações não
+são suficientemente eficazes para revelar corretamente
+o valor potencial dos investimentos. A EEIH apresenta
+contribuição relevante para a formação da base conceitual
+que permite explicar os casos até então não explicados,
+ao facilitar uma melhor percepção da potencialidade de
+valor dos projetos de TI e permitir melhor decisão de
+investimento.
+Vários trabalhos têm tratado da orientação a respeito
+da aplicação da TI pelas organizações. Entretanto, esses
+trabalhos têm focado isoladamente aspectos estratégicos,
+análise dos investimentos e princípios econômicos. A
+contribuição deste trabalho consiste em detalhar como
+a EEIH, por meio da aplicação do modelo MATIF, pode
+contribuir para a melhoria dessa percepção e conseqüente
+aumento da efetividade dos investimentos em TI pelas
+organizações, tendo como base um modelo integrado da
+Quadro 7 - Resultados da Avaliação dos Projetos Utilizando o MATIF
+banco Projeto Atributo e
+Intensidade (+ ou -)
+Potencial x
+Percebido
+Correção da
+Expectativa
+Atributo
+do Negócio
+A
+1
+Gerenciador de
+relacionamento
+utilidade
+(+, potencial)
+Reduzir
+Muito
+Valor do Cliente
+2
+Correspondente
+bancário
+cooperação (+ +)
+utilidade (+ +)
+gestão de risco (–)
+manter
+Participação de
+Mercado
+3 Broker
+utilidade (++)
+complementaridade (++)
+Elevar
+Muito
+Utilização de Ativos
+B
+4 Call center
+complementaridade (+)
+cooperação (+)
+manter Utilização de Ativos
+5
+Sistema de
+alocação de
+custos
+complementaridade (– –)
+gestão de risco (– –)
+utilidade (+, potencial)
+Reduzir
+Muito
+Estrutura de custos
+(potencial)
+6 Emissor de extrato utilidade (– –)
+Reduzir
+Muito
+Estrutura de custos
+7
+Comprovante de
+pagamento
+utilidade (+ +)
+complementaridade (+)
+Elevar
+Muito
+Valor do Cliente
+C 8
+Otimizador de
+numerário
+cooperação (+) Elevar Utilização de Ativos
+Otávio próspero Sanchez • Alberto Luiz Albertin
+ISSN 0034-7590 086-106 • jan./mar. 2009 • n. 1 • v. 49 • São Paulo • ©RAE • 105
+firma e de seus relacionamentos com os diversos agentes
+econômicos.
+Nossa análise indicou que a efetividade alcançada pelo
+uso da TI está relacionada com a habilidade dos gestores
+de identificarem ineficiências econômicas prévias na dinâmica
+dos negócios e mitigá-las pela aplicação da TI. Esta
+é, entretanto, uma habilidade ainda não estruturada nem
+completamente utilizada pelas organizações no processo
+de decisão de investimentos.
+Embora indiquemos que as conclusões deste trabalho
+podem não ser diretamente generalizáveis para outros
+contextos diferentes dos definidos por esta pesquisa, sugerimos
+que futuros trabalhos possam explorar e aprofundar
+a aplicação dos conceitos da EEIH nas análises de
+investimento em TI pelas organizações. Quanto à prática
+gerencial, melhorias na maneira pela qual uma organização
+específica avalia seus investimentos em TI poderão
+levar ao aumento de seu desempenho em função da efetividade
+com que aplica seus recursos.
+O presente artigo baseia-se em pesquisa financiada pela Escola
+de Administração de Empresas de São Paulo, da Fundação
+Getulio Vargas.
+REFERÊNCIAS
+ALBERTIN, A. L. Valor estratégico dos projetos de tecnologia de informação.
+RAE-revista de administração de empresas, v. 41, n. 3, p. 42-50,
+jul./set. 2001.
+AVISON, D. E; MYERS, M. D. Information systems and anthropology: an
+anthropological perspective on IT and organizational culture. Information
+Technology & People, v. 8, n. 3, p. 43-57, 1995.
+BACEN – BANCO CENTRAL DO BRASIL. Evolution of accountable values
+of financial institutions in Brazil. Brasilia, 2006. Disponível em: http://www.
+bcb.gov.br/fis/TOP50/port/Top502005030P.asp. Acesso em 13.06.2006.
+BAILEY, J. P; BAKOS, J. Y. An exploratory study of the emerging role of
+electronic intermediaries. International Journal of Electronic Commerce, v.
+1, n. 3, p. 7-21, 1997.
+BARUA, A; KRIEBEL, C. H; MUKHOPADHYAY, T. Information technologies
+and business value: an analytic and empirical investigation. Information
+Systems Research, v. 6, n. 1, p. 3-24, 1995.
+BASSELLIER, G; BENBASAT, I; REICH, B. H. The influence of business
+managers’ IT competence on championing. Information Systems Research,
+v. 14, n. 4, p. 317-337, 2003.
+BENAROCH, M. Option-based management of technology investment
+risk. IEEE Transactions on Engineering Management, v. 48, n. 4, p. 428-445,
+2001.
+BENAROCH, M; KAUFFMAN, R. A case for using real options pricing
+analysis to evaluate information technology project investments.
+Information Systems Research, v. 10, n. 1, p. 70-87, 1999.
+BENBASAT, I; GOLDSTEIN, D. K; MEAD, M. The case research strategy
+in studies of information systems. MIS Quarterly, v. 5, n. 4, p. 369-386,
+1987.
+BODIE, Z; KANE, A; MARCUS, A. J. Investments. 4th ed. Irwin/McGraw-
+Hill, 1999.
+BRYNJOLFSSON, E. The productivity paradox of information technology.
+Communications of the ACM, v. 35, n. 12, p. 66-78, 1993.
+BRYNJOLFSSON, E; HITT, L. M. Productivity, business profitability and
+consumer surplus: three different measures of information technology
+value. MIS Quarterly, 1996.
+BRYNJOLFSSON, E; HITT, L. M. Computing productivity: firm level evidence.
+Review of Economics & Statistics, v. 85, n. 4, p. 793-809, 2003.
+CASSON, M. C. Why are firms hierarchical? Journal of Economics of Business,
+v. 1, n. 1, p. 47-77, 1994.
+CHANDLER, A. D. J. Sale and scope: the dynamics of industrial capitalism.
+London: Harvard University Press, 1990.
+CHANDLER, A. D. J. Strategy and structure: chapters in the history of the
+industrial enterprise. In: FOSS, N. J. Resourses Firms and Strategies. New
+York: Oxford University Press, 1997. p. 40-51.
+CLEMONS, E. K; HITT, L. M. Poaching and the misappropriation of information:
+transaction risks of information exchange. Journal of Management
+Information Systems, v. 21, n. 2, p. 87-108, 2004.
+CLEMONS, E; ROW, M. C. I. Information technology and industrial cooperation:
+The changing economics of coordination and ownership. Journal
+of Management Information Systems, v. 9, n. 2, p. 9-29, 1992.
+DAVERN, M. J; KAUFFMAN, R. J. Discovering potential and realizing
+value from information technology investments. Journal of Management
+Information Systems, v. 16, n. 4, p. 121-144, 2000.
+DAVIS, G. B. et al. Diagnosis of an information system failure: a framework
+and interpretive process. Information & Management, v. 23, n.
+5, p. 293-319, 1992.
+DENZIN, N. K; LINCOLN, Y. S. Collecting and interpreting qualitative materials.
+London: Sage, 2003.
+EISENHARDT, K. M. Building theories from case study research. Academy
+of Management Review, v. 14, n. 4, p. 532-550, 1989.
+EVANS, P. B; WURSTER, T. S. Blown to bits: how the economics of information
+transforms strategy. Boston, Massachusetts: Harvard Business
+School Press, 2000.
+FEBRABAN, F. D. B. B. Asset ranking of brazilian banks. 2006. Disponível
+em: http://www.febraban.org.br/Arquivo/Servicos/Dadosdosetor/2006/
+item13.asp. Acesso em 13.06.2006.
+artigos • A RACIONALIDADE LIMITADA DAS DECISÕES DE INVESTIMENTO EM TECNOLOGIA DA INFORMAÇÃO
+106 • ©RAE • São Paulo • v. 49 • n.1 • jan./mar. 2009 • 086-106 ISSN 0034-7590
+GARDNER, C. The valuation of information technology: a guide for strategy,
+development, valuation, and financial planning. New York: John
+Wiley, 2000.
+HUNT, S. D. Evolutionary economics, endogenous growth models, and
+resource-advantage theory. Eastern Economic Journal, v. 23, n. 4, 1997.
+KLEIN, H. K; MYERS, M. D. A set of principles for conducting and evaluating
+interpretive field studies in information systems. MIS Quarterly, v.
+23, n. 1, p. 67-93, Mar. 1999.
+KOHLI, R; DEVARAJ, S. Measuring information technology payoff: a metaanalysis
+of structural variables in firm-level empirical research. Information
+Systems Research, v. 14, n. 2, p. 127-146, 2003.
+MAYER, K. J; SALOMON, R. M. Capabilities, contractual hazards, and
+governance: integrating resource-based and transaction cost perspectives.
+Academy of Management Journal, v. 49, n. 5, p. 942-960, 2006.
+MEIRELLES, F. S. Administração de Recursos de Informática. 17. ed. Pesquisa
+Anual. São Paulo: Centro de Tecnologia da Informação Aplicada – CIA,
+FGV-EAESP, 2006.
+MELVILLE, N; KRAEMER, K; GURBAXANI, V. Review: IT and organizational
+performance: an integrative model of it business value. MIS Quarterly,
+v. 28, n. 2, p. 283-323, 2004.
+MILES, M. B; HUBERMAN, A. M. Qualitative data analysis: an expanded
+sourcebook. 2. ed. London: Sage, 1994.
+MILGROM, P; ROBERTS, J. Economics, organization and management.
+Upper Side River NJ: Prentice Hall, 1992.
+OLIVEIRA, M; MAÇADA, A. C. G; GOLDONI, V. Análise da aplicação do
+método estudo de caso na área de sistemas de informação. In: ENCONTRO
+NACIONAL DA ASSOCIAÇÃO NACIONAL DOS PROGRAMAS DE
+PÓS-GRADUAÇÃO EM ADMINISTRAÇÃO, 30, 2006, Salvador. Anais.
+Salvador: ANPAD, 2006
+ORLIKOWSKI, W. J. Knowing in practice: enacting a collective capability
+in distributed organizing. Organization Science, v. 13, n. 3, p. 249-274,
+2002.
+PENROSE, E. The theory of the growth of the firm. In: FOSS, N. J. Resourses,
+firms and strategies New York: Oxford University Press, 1997. p. 13.
+PINDYCK, R. S; RUBINFELD, D. L. Microeconomia. 6. ed. São Paulo:
+Prentice Hall, 2006.
+PORTER, M. E. Strategy and the internet. Harvard Business Review, v. 79,
+n. 3, p. 61-79, 2001.
+POWELL, T. C; MICALLEF, A. D. Information technology as competitive
+advantage: the role of human, business and technology resources. Strategic
+Management Journal, v. 18, n. 5, p. 375-406, 1997.
+PRAHALAD, C. K; HAMEL, G. The core competence of the corporation.
+Harvard Business Review, p. 79-92, May/June 1990.
+REICH, B. H; BENBASAT, I. Factors that influence the social dimension of
+alignment between business and information technology objectives. MIS
+Quarterly, v. 24, n. 1, p. 81-112, 2000.
+SANTHANAM, R; HARTONO, E. Issues in linking information technology
+capability to firm performance. MIS Quarterly, v. 27, n. 1, p. 125-153,
+Mar. 2003.
+SCHNIEDERJANS, M. J; HAMAKER, J. L; SCHNIEDERJANS, A. M.
+Information technology investment: decision-making methodology. New
+Jersey: World Scientific, 2004.
+SHAPIRO, C; KATZ, M. L. Technology adoption in the presence of network
+externalities. Journal of Political Economy, v. 94, n. 4, p. 822-842, 1986.
+SIMON, H. A. Rationality as process and as product of thought. The
+American Economic Review, v. 68, n. 2, p. 1-17, 1978.
+SPRADLEY, J. P. The Ethnographic Interview. Belmont: Wadsworth-Thomson
+Learning, 1979.
+TALLON, P. P; KRAEMER, K. L; GURBAXANI, V. Executive’s perceptions
+of business values of information technology: a process-oriented aproach.
+Journal of Management Information Systems, v. 16, n. 4, p. 145-174,
+2000.
+TEECE, D. J. Profiting from technological innovation: implications for integration,
+collaboration, licensing and public policy. In: TEECE, D. J. The
+competitive challenge. New York: Harper & Row, 1987.
+TEECE, D. J. Competition, cooperation, and innovation: organizational arrangements
+for regimes of rapid technological progress. Journal of Economic
+Behavior and Organizations, v. 18, n. 1, p. 1-26, 1992.
+VARIAN, H. R. Intermediate microeconomics. 5. ed. New York: W.W.
+Norton, 1999.
+VARIAN, H. R; SHAPIRO, C. Information rules: a strategic guide to the network
+economy. Boston: Harvard Business School Press, 1999.
+VENKATRAMAN, N; HENDERSON, J. Real strategies for virtual organizing.
+Sloan Management Review, v. 40, n. 1, 1998.
+WADE, M; HULLAND, J. Review: resource-based view of is research. MIS
+Quarterly, v. 28, n. 1, p. 107-143, 2004.
+WEINTRAUB, E. R. How economics became a mathematical science. Duke
+University Press, 2002.
+WILLIAMSON, O. E. Markets and hierarchies. New York: Free Press,
+1975.
+WILLIAMSON, O. E. Transaction cost economics: the governance of contractual
+relations. Journal of Law and Economics, v. 22, n. 2, p. 233-262,
+1979.
+WILLIAMSON, O. E. Economic organization: firms, markets and policy control.
+New York: New York University Press, 1986.
+WILLIAMSON, O. E. The mechanisms of governance. Oxford: Oxford
+University Press, 1996.
+YIN, R. K. Case study research: design and methods. 3. ed. Newbury Park:
+Sage, 2002.

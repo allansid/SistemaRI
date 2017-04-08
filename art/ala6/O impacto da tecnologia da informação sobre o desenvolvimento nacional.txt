@@ -1,0 +1,590 @@
+O impacto da tecnologia
+da informação sobre o
+desenvolvimento nacional
+José Rincon Ferreira
+Resumo
+Este artigo aborda as mudanças na sociedade
+provocadas pelo desenvolvimento das tecnologias
+da informática e das telecomunicações. Apresente
+um histórico das atividades do Instituto Brasileiro
+de Informação em Ciência e Tecnologia (IBICT) ao
+longo de quatro décadas de sua existência e as
+estratégias e. principais metas a serem alcançadas.
+Palavras-chave
+Tecnologias da informação; Informação científica e
+tecnológica; IBBD/IBICT/atividades.
+Discurso proferido na abertura solene do II Congresso
+Latino-Americano de Biblioteconomia e
+Documentação e XVII Congresso Brasileiro de Biblioteconomia
+e Documentação em Belo Horizonte/
+MG, em 10 de abril de 1994.
+A transformação silenciosa da sociedade,
+esta que subjaz a toda e qualquer inovação
+de caráter científico e tecnológico, deve
+ser considerada em dois aspectos fundamentais.
+Em primeiro lugar, pergunta-se qual a natureza
+dessa transformação e quais as tecnologias
+que a promovem? A chamada
+"era" da informação determina a natureza
+dessa mudança, que é promovida pelo espantoso
+desenvolvimento das tecnologias
+da informática e das telecomunicações.
+A segunda dirige-se ao setor público e é
+vital no ordenamento das questões sociais:
+qual o impacto da informação em
+uma sociedade cujo acesso e distribuição
+de recursos são fundamentalmente desiguais?
+Sabe-se que o impacto desta atividade
+é maior que aquele trazido pela
+revolução da energia, do século XIX,
+quando se introduziu a máquina a vapor. A
+razão disso é que a função fundamental do
+computador é substituir e ampliar o trabalho
+mental, enquanto, no final do século
+passado, a máquina a vapor substituiu e
+ampliou o trabalho físico.
+Espera-se que o advento dessa era da informação
+seja poderoso aliado para os governos
+das nações em desenvolvimento
+na aplicação da tecnologia da informação
+em benefício das áreas sociais, incluindo o
+desenvolvimento regional, a assistência
+médica e a educação. As conseqüências
+disso são as mais diversas, das quais citam-
+se:
+- maior integração e aproximação entre
+os grupos humanos e sociedades organizadas;
+- expansão das áreas de conhecimento e
+das aplicações da informação no cotidiano
+e no ambiente de trabalho;
+- a crescente automação na aquisição e
+organização das informações nas mais
+variadas situações;
+- a oferta crescente de informação nas
+diversas áreas do conhecimento e de
+atividades humanas;
+- necessidade do desenvolvimento e uso
+de uma interface entre o homem e os
+dispositivos que armazenam e manipulam
+informações para decodificação dos
+sinais eletrônicos em sinais óticos e sonoros
+compreensíveis ao ser humano;
+- comunicação maciça, rápida e cada
+vez com maior liberdade e abrangência
+geográfica de informações.
+A informação sempre foi e será a base da
+interação humana. Ao lado da explosão do
+conhecimento científico e tecnológico, a
+informática trouxe um aumento considerável
+da oferta de informação e das possibilidades
+de sua disseminação. Dispõe-se,
+atualmente, em diferentes meios eletromagnéticos
+(disquetes, CD-ROM, videodiscos
+e outros), de dados acerca de
+questões que antes não eram documentadas.
+À medida que intercâmbios de informação
+entre cidadãos de diferentes países do
+mundo se tornam realidade, surge uma rede
+supranacional, com novos princípios
+econômicos na criação e utilização de recursos
+informacionais conjuntos e globais.
+O atual princípio individualista da livre concorrência
+é transformado no principio da
+atividade sinérgica entre indivíduos independentes,
+cooperando funcionalmente para
+um objetivo comum. Esse é o quadro
+em que se antevê a concretização de iniciativas
+promissoras como a do Mercado
+Comum do Sul (Mercosul).
+Ci. Inf., Brasília, 23(1): 9-15, jan./abr. 1994 9
+O impacto da tecnologia da informação sobre o desenvolvimento nacional
+O crescimento da oferta de informações foi
+acompanhado, na mesma proporção, de
+um aumento do universo de usuários e
+consumidores de dados. Cientistas e acadêmicos
+continuam a pesquisar e a demandar
+a informação de caráter científico e
+tecnológico. Contudo, há outros segmentos
+igualmente interessados nessas e em
+outras informações: advogados, médicos e
+engenheiros compõem o mercado, assim
+como operários, motoristas, aposentados,
+donas de casa e adolescentes. Cada qual
+possui seu próprio perfil de interesse que
+determina seu comportamento de consumo.
+Atualmente, há sistemas de informação
+para lazer e turismo, orientação para
+compras pessoais e institucionais. Da
+mesma forma, estão disponíveis os bancos
+de dados de corretagem eletrônica,
+que tem sido utilizados para venda de produtos
+tão diversos, quanto peças de avião,
+pedras preciosas e computadores.
+Mo âmbito governamental, merece destaque,
+na área de ciência e tecnologia
+(C&T), a implantação do sistema de monitoramento
+das condições climáticas, que
+propicia melhor planejamento da agricultura
+e conseqüentemente desenvolvimento
+de regiões problemáticas.
+Efetivamente o mercado da informação
+vem se ampliando consideravelmente. Resultados
+de pesquisa e trabalhos acadêmicos
+são divulgados e comentados entre
+pares nos fóruns eletrônicos, antes de serem
+impressos. As companhias industriais
+e comerciais possuem suas próprias redes
+interligando clientes e fornecedores.
+O periódico eletrônico é um fenômeno recente
+geralmente usado para cobrir vários
+tipos de publicações seriadas, como
+revistas, boletins e outros.
+A Johnson & Johnson, por exemplo, utiliza
+um banco de dados que permite aos executivos
+acompanhar o progresso dos medicamentos
+durante o seu ciclo de pesquisa
+e desenvolvimento. Conhecer a posição
+desse ciclo permite à empresa evitar
+gargalos (por exemplo, um excesso de
+remédios entrando simultaneamente na fase
+de experiência clínica) e eliminar medicamentos
+que se mostram menos promissores
+em determinados pontos da rede de
+suprimentos.
+Lancaster, já em 1976, antecipava, de forma
+polêmica, o sistema de informação
+sem papel. E acrescentava: "A sociedade
+sem papéis está surgindo rapidamente,
+com ou sem a nossa aprovação. Todos
+nós seremos afetados por isso, de uma
+maneira ou de outra. Não podemos enterrar
+nossas cabeças na areia. Podemos até
+optar por ignorar o mundo eletrônico, mas
+isso não fará com que ele vá embora. Este
+é o momento de as organizações responsáveis
+estudarem as implicações das rápidas
+mudanças tecnológicas que estão
+ocorrendo sobre elaboração das publicações
+primárias e secundárias, para a operação
+das bibliotecas e centros de informações,
+para o cientista individual como
+produtor e usuário de informação. Se não
+nos planejarmos agora para os anos que
+virão, talvez passemos por essa transição
+de uma forma caótica, ao invés de passarmos
+por uma ordenada evolução do
+processo" (citado por Henning1, p.12).
+A informação está cada vez mais
+presente em todas as atividades
+humanas, não só em suporte de papel,
+mas também na forma digitai. O novo
+cenário que se delineia compreende os
+seguintes fatos:
+- o crescimento da oferta de publicações
+em mídias eletrônicas;
+- o crescimento do mercado da mãode-
+obra com perfil multidisciplinar e
+conhecimentos técnicos especializados;
+O impacto da tecnologia da informação sobre o desenvolvimento nacional
+- o crescimento vertiginoso na venda
+de computadores, softwares e demais
+dispositivos associados à informática;
+- o decréscimo da relação informação em
+papel versus informação digital;
+- a informatização de todos os ramos da
+indústria de informação (jornais, livros,
+revistas etc).
+Historicamente, o IBICT se caracterizou
+como núcleo de competência nos processos
+eletrônicos de tratamento, acesso e
+difusão da informação.
+Na comemoração dos seus 40 anos de
+existência, convém que se faça uma reflexão
+sobre essa Instituição e as perspectivas
+que se delineiam ante os cenários
+traçados.
+Em 1954, o emergente progresso industrial
+impulsionava a ciência e a tecnologia.
+Já existiam no país alguns serviços
+de documentação, O impulso que faltava
+para criação de um centro nacional de
+documentação foi dado pela United Nations
+Educational, Scientific and Cultural
+Organization (Unesco), que buscou apoio
+em entidades que já desenvolviam atividades
+de informação, como a recém-criada
+Fundação Getúlio Vargas (FGV). Dos entendimentos
+entre a FGV e o Conselho
+Nacional de Desenvolvimento Científico e
+Tecnológico, então Conselho Nacional de
+Pesquisas (CNPq), foi criado, no dia 27
+de fevereiro de 1954, por decreto presidencial,
+o Instituto Brasileiro de Bibliografia
+e Documentação (IBBD), sendo designado
+como primeira presidente a professora
+Lydia de Queiroz Sambaquy.
+Os primeiros tempos do IBBD, administrados
+pela professora Lydia Sambaquy, foram
+marcados pela estruturação de uma
+base técnica e por uma intensa atividade
+de articulação política entre instituições
+nacionais e estrangeiras.
+Na década de 70, durante as gestões da
+professora Célia Ribeiro Zaher e da professora
+Hagar Espanha Gomes, deu-se
+ênfase à formação de recursos humanos
+de alto nível e criou-se o Curso de Mestrado
+em Ciência da Informação, pioneiro na
+América Latina. Iniciou-se o programa de
+automação dos serviços do Instituto e a
+produção automatizada de bibliografias
+especializadas. Nessa época, a atuação
+do IBBD voltava-se principalmente para a
+prestação de serviços à comunidade científica.
+Em 1976, o IBBD muda sua designação
+e missão. O Instituto Brasileiro de Informação
+em Ciência e Tecnologia (IBICT)
+assume a liderança de articulação do
+sistema nacional de informação em ciência
+e tecnologia, integrado por sistemas
+setoriais.
+Nos anos 80, sob a gestão do professor
+Afrânio Carvalho Aguiar, o IBICT dedicase
+ao estabelecimento de uma rede nacional
+de informação em ciência e tecnologia
+e de um programa nacional de informação
+tecnológica.
+Mesmo com a disposição governamental
+de promover a informação em ciência e
+tecnologia, ressentia-se o IBICT de um
+instrumento de planejamento para definição
+de diretrizes e atividades prioritárias.
+Em 1984, sob a direção da professora Yone
+Sepúlveda Chastinet, essa lacuna foi
+preenchida com a elaboração da Ação
+Programada de Informação. Sua concepção
+foi inteiramente conduzida pelo IBICT,
+por meio de uma comissão composta por
+representantes de 25 órgãos do governo
+envolvidos com ciência e tecnologia, comunidade
+científica e classe empresarial.
+O impacto da tecnologia da informação sobre o desenvolvimento nacional
+Mais do que um simples elenco de atividades,
+essa ação programada constituiu-se
+em um diagnóstico do setor, cujas conclusões
+apontaram para a necessidade da
+geração de documentos primários, formação
+e desenvolvimento de coleções, automação
+de bibliotecas, bases de dados
+bibliográficos, difusão e uso de informação,
+recursos humanos e assuntos internacionais
+relacionados com informação cientifica
+e tecnológica.
+Nesse período, foi criado o Programa de
+Apoio ao Desenvolvimento Científico e
+Tecnológico (PADCT). O programa definia
+como uma das suas 10 áreas prioritárias
+de atuação a informação em ciência e tecnologia,
+com a implantação, sob a responsabilidade
+do IBICT, do Subprograma de
+Informação em Ciência e Tecnologia, além
+do Subprograma de Tecnologia Industrial
+Básica (TIB), dentro do qual se buscou
+implantar a Rede de Núcleos de Informação
+Tecnológica, coordenada pela Secretaria
+de Tecnologia Industrial do Ministério
+da Indústria e Comércio.
+Em 1986, o professor Antônio Agenor Briquet
+de Lemos assumiu o IBICT. Nesse
+período, o Instituto privilegiou, dentre outras
+ações, a consolidação da sua competência
+em novas tecnologias de informação
+e no desenvolvimento de bases de
+dados.
+Em 1990, iniciou-se a gestão do professor
+Antônio Lisboa Carvalho de Miranda.
+A área de pesquisa do Instituto foi fortalecida
+com a criação do Curso de Doutorado
+em Ciência da Informação e foi integrado
+o programa de comutação bibliográfica
+(Comut) à estrutura do IBICT. Nessa
+mesma época, deu-se a transferência da
+coordenação da Rede de Núcleos de Informação
+Tecnológica para o IBICT - fato
+dos mais significativos, pois, dessa feita,
+eliminou-se uma velha dicotomia- existente
+na condução da política da informação
+científica e tecnológica.
+As décadas de 70 e 80 se constituíram em
+um período de maior preocupação na
+montagem de uma infra-estrutura científica
+e tecnológica.
+O desafio atual é evitar o sucateamento,
+dos investimentos feitos no passado. O
+Estado perdeu sua capacidade de investir
+e manter a insuficiente, porém ativa, estrutura
+de pesquisa e desenvolvimento e
+de ensino de pós-graduação. Assim, a iniciativa
+privada está sendo convidada a
+participar de projetos em conjunto com
+universidades e institutos de pesquisa a
+fim de contribuir com parte dos custos
+dessas atividades e delas melhor se beneficiar.
+Há também a preocupação de disseminar
+para o setor privado os conhecimentos
+científicos e tecnológicos gerados
+dentro das unidades de pesquisa e desenvolvimento
+e de ensino de pós-graduação
+que promovam a geração de empregos, a
+criação de microempresas e a própria capacitação
+tecnológica do parque industrial
+existente.
+A razão dessa preocupação se dá pela
+constatação de que o desenvolvimento de
+uma sociedade e o fortalecimento de sua
+economia, na atualidade, devem-se ao intenso
+uso social e econômico da ciência e
+tecnologia. A competitividade empresarial
+está cada vez mais condicionada à inovação
+tecnológica, automação industrial, ao
+acesso e uso de conhecimentos multidisciplinares
+e à obtenção de elevados níveis
+de qualidade e produtividade. Sem uma
+estrutura produtiva tecnicamente dinâmica,
+que explore as oportunidades comerciais
+do conhecimento humano, o progresso
+social e econômico da sociedade é lento e
+insuficiente.
+O impacto da tecnologia da informação sobre o desenvolvimento nacional
+A área de informação segue a mesma
+orientação e está se voltando para o setor
+privado. Na verdade, somos o grande elo
+estratégico - o verdadeiro canal de interligação
+entre a fonte acadêmica geradora
+do conhecimento e os potenciais usuários
+do setor privado. A vocação e a missão
+das unidades e sistemas de informação
+sempre foram e serão a de intermediários
+e catalisadores do conhecimento. A informação
+nada mais é do que um veículo de
+transferência, integração e comunicação
+de conhecimento.
+Como conseqüência, programas bem-sucedidos
+de informação que visam ao atendimento
+a empresas e profissionais da
+área produtiva estão sendo implementados.
+A Rede de Núcleos de Informação
+Tecnológica do PADCT/TIB conta hoje
+com 19 núcleos distribuídos pelo país.
+Está em processo a abertura de editais para
+criação de novos núcleos, permitindo a
+expansão e consolidação da rede. O Serviço
+Brasileiro de Apoio às Micro e Pequenas
+Empresas (Sebrae) também vem
+montando sua rede de informação com as
+unidades Balcão Sebrae, que já conta com
+388 unidades e urna média mensal de
+45 mil consultas. Cita-se, de igual modo,
+a expansão da Rede da Confederação
+Nacional da Indústria, Departamento de
+Assistência à Média e Pequena Indústria
+(CNI/Dampi) em todos os estados da federação
+e principais parques industriais
+do país. O Serviço Nacional de Aprendizagem
+Industrial (Senai) está promovendo
+a implantação de um centro internacional
+de formação de recursos humanos, informação
+e transferência de tecnologia.
+O Technological Information Prospection
+System (TIPS), que interliga diversos países
+do Hemisfério Sul para a disseminação
+de informações sobre oportunidades
+comerciais e de transferência de tecnologia,
+e o International Technological Information
+Bank (Intib), da Unido, cujo ponto
+focai brasileiro está instalado no IBICT,
+são exemplos de outros sistemas de informação
+operando no Brasil.
+No campo técnico-científico, o Centro Latino-
+Americano e do Caribe em Informação
+em Ciências da Saúde (Bireme) mantém a
+liderança nessa área com a oferta de produtos
+e serviços. É um exemplo de sistema
+de informação que acompanha e antecipa
+a evolução tecnológica das novas características
+da informação. Merece destaque
+também o Centro de Informações
+Nucleares da Comissão Nacional de
+Energia Nuclear (CIN/CNEN), que dispõe
+de diversas bases de dados, produtos e
+serviços de informação para pesquisadores
+e profissionais em geral. Com a mesma
+importância para a área de informação
+em Ciências Sociais e Humanas, identifica-
+se a Fundação Getúlio Vargas (FGV).
+A FGV mantém o importante sistema de
+catalogação cooperativa, gerindo uma rede
+de 450 participantes. Observa-se também
+um avanço no âmbito das bibliotecas universitárias,
+notadamente nas estaduais
+paulistas, que vêm se consolidando em
+rede, gerando produtos integrados.
+Algumas áreas tradicionais, como a área
+agrícola e áreas emergentes como a do
+meio ambiente, têm sistemas especializados
+que precisam ser fortalecidos. Vale
+ressaltar, para a área de informações jurídicas,
+o sistema de informações do Centro
+de Processamento de Dados do Senado
+Federal (Prodasen).
+Esses e outros exemplos mostram que o
+Brasil procurou ingressar na nova realidade
+da informação e acompanhar as tendências
+da área. A integração e o volume
+de dados disponíveis por vias eletrônicas é
+ainda bastante reduzido e não pode ser
+comparado com as sociedades européias
+e norte-americanas.
+O impacto da tecnologia da informação sobre o desenvolvimento nacional
+Na verdade, há muito o que fazer e, nesse
+sentido, a rede Antares do PADCT/ICT,
+antes projeto SPA, procura fortalecer e
+expandir a oferta de informações em formato
+digital. Foram comprados e distribuídos
+diversos títulos de bases de dados em
+CD-ROM, além de equipamentos para
+consulta e comunicação. Assim, de imediato,
+bibliotecas e instituições foram selecionadas
+e se tornaram postos de atendimento.
+Como ação de mais longo prazo, o
+Antares representa um verdadeiro mercado
+eletrônico de informação em ciência
+e tecnologia. A rede Antares já conta 65
+instituições, interligadas, a ser expandida
+para mais de 150 nos próximos editais.
+O meio eletrônico que propiciará essa intensa
+integração é a Rede Nacional de
+Pesquisa (RNP), cuja característica é
+justamente a de ser a grande via eletrônica
+de dados unindo a comunidade acadêmica
+brasileira e a internacional.
+No âmbito político, o IBICT está presente
+nas principais ações governamentais.
+Programa Brasileiro de Qualidade e Produtividade
+(PBQP), Programa de Apoio a
+Capacitação Tecnológica da Indústria
+(PACTI) e o Mercosul são exemplos em
+que o Instituto atua como representante
+brasileiro para os assuntos de informação
+científica e tecnológica.
+As fundações estaduais de amparo à
+pesquisa têm feito um elogioso trabalho
+de apoio à manutenção dos acervos das
+bibliotecas universitárias. A Financiadora
+de Estudos e Projetos (Finep) vem intensificando
+suas ações de apoio à ICT,
+discutindo linhas prioritárias e implementando
+outros programas de cunho mais
+abrangente.
+A perda de capacidade técnica dos órgãos
+governamentais, principalmente no setor
+de ciência e tecnologia, tem dificultado a
+realização até de tarefas rotineiras, A impossibilidade
+de contratação de novos
+técnicos associados à expansão da clientela
+induz a ação de parcerias e até a terceirização
+das atividades de ICT. As empresas
+de consultoria assumem, assim,
+papel fundamental nesse processo.
+O Instituto busca estar atento às necessidades
+internas e acompanhar a evolução
+da tecnologia e tios conceitos na área de
+informação. Mediante seus cursos de pósgraduação
+e convênio com a Universidade
+Federal ao Rio de Janeiro (UFRJ), capacita
+profissionais das mais diversas áreas
+nos modernos conceitos, métodos e técnicas
+de informação, assim como promove a
+integração de equipes multidisciplinares.
+Os países que montaram sua estrutura de
+informação partiram de três premissas básicas,
+ou seja: boas bibliotecas universitárias
+e centros de excelência em áreas específicas;
+bases de dados e redes de informação
+e comunicação de dados; oferta
+de serviços de informação.
+O IBICT não desconhece a precariedade
+em que se encontram algumas das bibliotecas
+brasileiras e alguns centros especializados
+do país, o que se constitui em um
+dos principais obstáculos aos avanços
+das atividades de ICT no Brasil.
+O IBICT deverá conceber sua atuação
+estratégica para os próximos anos, procurando
+encontrar um caminho que aborde
+de forma conveniente tocas essas considerações.
+As principais metas do Instituto
+são:
+- apoiar a interligação por redes eletrônicas,
+de centros de informação especializados
+no país;
+O impacto da tecnologia da informação sobre o desenvolvimento nacional
+The impact of Information
+technology on national
+development
+Abstract
+Discussion of changes in society caused by the
+development of information technology and
+telecommunications. Presents a history of the worK
+done by the Brazilian Institute for Information in
+Science and Technology (IBICT) during the four
+decades of its existence and describes strategies
+and the major goals to be achieved.
+Key words
+Information technologies: Scientific and
+technological information; IBBD/IBICT/activities.
+- apoiar ações para o engajamento do
+setor privado nas atividades de informação
+em ciência e tecnologia;
+- consolidar a implantação da rede Antares
+e ca Rede de Núcleos de Informação
+Tecnológica, diversificando as fontes
+de recursos financeiros para sua
+sustentação;
+- modernizar o Catálogo Coletivo Nacional
+de Publicações Seriadas (CCN) e o
+Comut;
+- promover uma ampla discussão sobre a
+situação, e o apoio a ser consignado às
+bibliotecas universitárias, envolvendo o
+Ministério da Educação s do Desporto
+(MEC), o Ministério da Ciência e Tecnologia
+(MCT) e agências de fomento,
+inclusive as estaduais;
+- reavaliar o estágio de desenvolvimento
+dos sistemas de informação especializados
+brasileiros.
+A tarefa é ambiciosa e difícil e só será vitoriosa
+com o apoio de todos.
+Muito obrigado.
+José Rincon Ferreira
+Mestre em Biblioteconomia. Diretor do Instituto
+Brasileiro de Informação em Ciência
+e Tecnologia (IBICT)
+BIBLIOGRAFIA CONSULTADA
+1. HENNING, Patrícia Corrêa. Internet a r,n.p.br:
+um novo recurso de acesso ã informação.
+Rio de Janeiro, Universidade Federal do Rio
+de Janeiro, 1994. 77p. (Dissertação de
+Mestrado).
+2. LANCASTER, F.W. Paperless communication
+systems: putting it all together. [s.n.t,] [Draft].
+3. VIEIRA, Anna Soledade. Redes de ICT e a participação
+brasileira. Brasília: IBICT, Sebrae.
+1994. 71p.
+4. DAVENPORT, Thomas H. Reengenharia
+de processo: como inovar na empresa através
+da tecnologia da informação. Trad. de
+Waltenair Dutra. Rio de Janeiro: Campus,
+1994. 392p.
+Ci. Inf., Brasília, 23(1): 9-15, jan./abr. 1994

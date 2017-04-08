@@ -1,0 +1,831 @@
+Tecnologia da Informação e Processo Produtivo de Gestão
+em uma Organização Cooperativa: Um Enfoque Estratégico
+Mozar José de Brito
+Luiz Marcelo Antonialli
+Antônio Carlos dos Santos
+RESUMO
+O objetivo da presente pesquisa foi analisar como a tecnologia de informação (TI) exerce influência
+na estratégia de uma cooperativa de cafeicultores. Estudaram-se os efeitos na informatização das
+operações internas e para a atualização diária das cotações de preços do café no mercado
+internacional. Os resultados demonstraram que antes da implantação da TI, a cooperativa
+apresentava vários problemas ligados à gestão de suas operações internas; dependia de agentes
+internacionais para receber as informações do preço do produto no mercado externo (via telefone/
+telex). A implantação da TI teve como marco a instalação da rede interna em regime on line na
+sede, e a rede externa em regime off line entre a sede e os núcleos. Envolveu esforços financeiros,
+técnicos e operacionais para contornar os problemas decorrentes da implantação, com destaque
+para o problema da conectividade entre os antigos sistemas operacionais existentes. A solução
+foi através do recente investimento na nova arquitetura “cliente-servidor” e do novo sistema
+operacional UNIX instalado na sede. Após a implantação da TI, a cooperativa ganhou agilidade,
+precisão e segurança na troca de informações das operações internas. A atualização de preços do
+café no mercado internacional se modernizou, tornou-se mais ágil e confiável, através de um
+contrato de assinatura com uma empresa especializada em informações on line, que fornece
+cotações do mercado futuro nas Bolsas de Mercadorias de Nova York, Londres e BM&F.
+Palavras-chaves: tecnologia de informação, estratégia tecnológica, organizações, café, cooperativa.
+ABSTRACT
+The objective of the present paper was to analyze how the information technology (IT) exercises
+influence upon the strategy of a coffee grower’s cooperative. The effects upon the informatization
+of internal operations and as regards the daily updating of quotation of prices of the coffee in
+international market. The results showed that before the establishment of IT, the cooperative
+presented a number of problems related to the management of its internal operation, it depended
+on international agents to receive price information of the product in foreign market (via telephone/
+telex). The establishment of IT had as landmark the installation of the internal network in on
+line regime in the seat and the external network in off line regime between the seat and the
+branchs. Financial, technical and operational efforts were involved to overcome the problems due
+to the establishment, standing out the problem of the connectivity among the old existing
+operational systems. The solution was by means of the latter investiment of the new “customerserver”architecture
+and the new operational UNIX system installed in the seat. After the
+establishment of IT, the cooperative achieved agility, accuracy and safety in the change of
+infomation of internal operations. The updating of coffee prices in the international market grew
+modern, became agile and reliable, through a signature contract with an on line information
+specialized company, which provides quotation of the future market in Merchandise Exchange of
+New York, London and BM&F (São Paulo - Brazil).
+Key words: information technology, technological strategy, coffee, organizations, cooperative.
+ RAC, v.1, n.3, Set./Dez. 1997: 77-95 77
+Mozar José de Brito, Luiz Marcelo Antonialli e Antônio Carlos dos Santos
+78 RAC, v.1, n.3, Set./Dez. 1997
+INTRODUÇÃO
+O esboço de nova era de inteligência em rede está sendo marcado por diversas
+tendências relativas às tecnologias da informação. Essa nova era caracteriza-se
+por crescente interpenetrabilidade dos computadores nas organizações; pela convergência
+entre a mídia, computadores e redes de telecomunicações; automação
+do processo de trabalho; maior agregação de valor proporcionado pelas tecnologias
+da informação; aceleração da competição global e difusão e adoção de padrões
+tecnológicos globais. A base da transformação organizacional e da vantagem competitiva,
+neste cenário, será a informação traduzida em conhecimento (Campos
+Filho, 1994; Tapscott, 1995; IBM Consulting Group, 1996).
+A informação passa a ser um recurso estratégico para as organizações. Ela
+pode gerar as condições necessárias ao alcance dos objetivos, o cumprimento da
+missão corporativa e subsidiar elementos básicos para melhoria da competitividade.
+Neste sentido, a competência tecnológica influencia as estratégias da organização
+estruturando uma relação de natureza dinâmica ao agregar valor às diversas prá-
+ticas organizacionais. Assiste-se, então, à aplicação das tecnologias da informa-
+ção em toda a cadeia de negócios, desde a concepção de um produto e/ou serviço
+até a sua comercialização e distribuição. Neste contexto, inclui-se o setor
+agropecuário, focalizando-se no presente trabalho o agribussiness do café.
+Segundo a ABAG (1993), o agribusiness do café gera no Brasil cerca de três
+bilhões de dólares por ano, envolvendo uma complexa cadeia que vai desde a
+indústria de insumos até o uso do coador de papel na casa do consumidor. Porém
+a adição de valor ao produto é assunto que ainda não penetrou efetivamente nas
+instituições de pesquisa do País, que vem perdendo espaço no mercado internacional
+para o café colombiano, cujo agribusiness é mais organizado. O sucesso de
+um empreendimento no agribusiness depende do grau de organização interna de
+sua cadeia. Organizar-se é integrar informação. Informação é tecnologia. E a
+informação é que permite agregar valor ao produto.
+O comportamento de preços do café no mercado interno é fortemente influenciado
+pelo mercado externo e tais preços na prática agem como força motriz, desencadeando
+todo os negócios no agribusiness brasileiro do café.
+ Estar atualizado sobre o preço do produto nas principais bolsas de mercadorias
+do mundo torna-se uma informação estratégica para as organizações que atuam
+no setor; mesmo para as cooperativas, que desempenham importante participação
+na produção e comercialização do produto. Destaca-se a Cooperativa Regional
+de Cafeicultores em Guaxupé Ltda. (Cooxupé), responsável pela produção, pa-
+Tecnologia da Informação e Processo de Gestão em uma Organização Cooperativa: Um Enfoque Estratégico
+ RAC, v.1, n.3, Set./Dez. 1997 79
+dronização e comercialização de uma significativa parcela do café brasileiro; sendo
+também a pioneira na comercialização de cafés especiais (specialty coffees).
+Atualmente a Cooxupé possui 14 núcleos regionais (cooperativas singulares),
+localizados nos seguintes municípios: sede e núcleo em Guaxupé (MG), Monte
+Santo de Minas (MG), Cabo Verde (MG), Caconde (SP), Guaranésia (SP), Nova
+Resende (MG), São Pedro da União (MG), Alfenas (MG), Carmo do Rio Claro
+(MG), São José do Rio Pardo (SP), Monte Carmelo (MG), Abadia de Dourados
+(MG) e Alpinópolis (MG).
+ A cooperativa possui aproximadamente 6830 cooperados, 1030 funcionários
+e 12 armazéns para recebimento de café. Em 1993, segundo o “Balanço Anual”
+da revista Gazeta Mercantil, a Cooxupé passou a ser líder no setor de agricultura
+e agroindústria, atingindo a posição de 14a empresa do Estado de Minas Gerais.
+Encerrou 1994 com faturamento da ordem de US$ 300,9 milhões. Naquele ano
+recebeu 1,3 milhões de sacas de café, que representa 1,4% da produção mundial e
+6,5% da produção brasileira. Foi o nono grupo agropecuário brasileiro e oitavo
+maior exportador de café com 508,6 mil sacas para 29 países, com aproximadamente
+30 blends diferentes. Com essas cifras pode ser considerada a maior cooperativa
+de café do mundo. A atividade café representa a maior parte do faturamento
+total (54%). Outras atividades, porém, também participam: a venda de insumos
+representa 27%, venda de rações 7%, avicultura 4%, milho 3%, transporte e
+armazenamento 3% e hortifrutigranjeiros 1,3 % (Saes, Santos e Pinto, 1995;
+COOXUPÉ, 1995).
+O objetivo do presente trabalho foi analisar a influência da tecnologia da informação
+(TI) na estratégia da Cooxupé. Procurou-se estudar seus efeitos na
+informatização das operações internas e na atualização de preços do café no mercado
+internacional.
+FUNDAMENTAÇÃO TEÓRICA
+O cenário competitivo das empresas tem assistido a profundas mudanças nas
+últimas décadas. Esse fato vem exigindo rápidas e contínuas adaptações na postura
+estratégica dessas empresas para sobreviver e crescer nesses novos tempos de
+globalização da economia.
+Fortes tendências e fatores tecnológicos estão direcionando essa mudança na
+estratégia das empresas. Os mais marcantes, segundo Bettis e Hitt (1995), são: a
+taxa crescente da mudança e inovação tecnológica, a chamada “era da informa-
+ção”, a crescente intensidade do conhecimento e a emergência da indústria do
+feed-back positivo.
+Mozar José de Brito, Luiz Marcelo Antonialli e Antônio Carlos dos Santos
+80 RAC, v.1, n.3, Set./Dez. 1997
+Essa mudança tecnológica, segundo Schendel (1995), tem forte impacto psicológico
+e sociológico, e obriga as empresas a pensar novas maneiras de
+gerenciamento, com novos padrões de eficiência e produtividade. Tapscott (1995)
+discute o nascimento de nova era, em construção, de nova economia, nova política,
+nova organização e novos indivíduos, com ajuda da tecnologia da informação
+(TI), transformando a economia em processos digitais e inteligência em rede.
+Na atualidade, a TI tanto do ponto de vista acadêmico, como de suas aplicações
+no mundo dos negócios, é assunto de grande relevância.
+ Nos países ditos do Primeiro Mundo a TI tem sido considerada como um dos
+grandes fatores responsáveis pelo sucesso das organizações, seja em nível de sobrevivência,
+seja no aumento da competitividade, ressalta Yong (1992). Esse autor
+cita Zuboff (apud Yong, 1992), que define a TI como “uma denominação
+que reflete a convergência de diversas correntes de desenvolvimento tecnológico,
+incluindo microeletrônica, ciência da computação, telecomunicações, engenharia
+de software e análise de sistemas”.
+Já para Campos Filho (1994), a TI é o conjunto de hardware e software que
+desempenha uma ou mais tarefas de processamento de informações. Faz parte do
+sistema de informação das organizações, tal como coletar, transmitir, estocar,
+recuperar, manipular e exibir dados. Aí podem estar incluídos microcomputadores
+(em rede ou não), mainframes, scanners de código de barra, estações de trabalho,
+software de planilhas eletrônicas ou banco de dados, entre outros.
+A TI, baseada nos computadores, está proporcionando nova infra-estrutura
+para as várias atividades produtivas e comunicativas, de vital importância para a
+vida organizacional. Os administradores, em geral, investem em novas TI porque
+acreditam que isso lhes permitirá realizar suas operações mais rapidamente e a
+um custo mais baixo; utilizam-nas para objetivos estratégicos e planejam alcan-
+çar um ou mais dos três objetivos operacionais independentes: a) aumentar a
+continuidade (integração funcional, automação intensificada, resposta rápida);
+b) melhorar o controle (precisão, acuidade, previsibilidade, consistência, certeza);
+c) proporcionar maior compreensibilidade (visibilidade, análise, síntese) das
+funções produtivas (Zuboff, 1994).
+A evolução da TI foi muito rápida, acrescenta Gonçalves (1994); atinge cada
+vez mais um padrão de preço, qualidade e aspecto físico adequado ao seu reconhecimento
+como um produto de demanda básica por parte dos indivíduos e das
+organizações. Para o autor, o aparecimento do computador foi elemento disparador
+de um processo de exacerbação das diferenças entre as formas tradicionais e novas
+de realizar o trabalho.
+A TI está possibilitando mudanças fundamentais na forma como o trabalho se
+Tecnologia da Informação e Processo de Gestão em uma Organização Cooperativa: Um Enfoque Estratégico
+ RAC, v.1, n.3, Set./Dez. 1997 81
+processa. As atividades mais suscetíveis às alterações, segundo Oliveira (1996),
+são aquelas intensivas em informação, podendo-se distinguir três grupos. Um
+primeiro grupo refere-se à produção: física (crescentemente atingida pela robótica
+e instrumentação de controle); a produção de informação (influenciada pelos computadores
+em tarefas burocráticas, como contas a receber, contas a pagar,
+faturamento, e outros) e a produção de conhecimento (CAD, CAM, análise de
+crédito e risco, produção de software, etc). O segundo grupo refere-se aos trabalhos
+de coordenação, sendo as telecomunicações o instrumento fundamental da
+mudança que afeta a distância física, a natureza do tempo sobre o trabalho, que
+armazena informações e mais a memória organizacional mantida por banco de
+dados. Finalmente, o terceiro grupo refere-se à gestão: afeta tanto a direção, que
+permite monitorar o ambiente e tomar as decisões para adaptar a organização ao
+ambiente, como o controle que mede a performance e compara com os planos
+para se manter no rumo desejado.
+As informações têm importância crescente para o desempenho da empresa e do
+país. Apóiam a decisão, como fator de produção, exercem influência sobre o comportamento
+das pessoas e passam a ser um vetor importantíssimo, pois pode multiplicar
+a sinergia dos esforços ou anular o resultado do conjunto destes. Porém a
+administração estratégica da informação, que designa a utilização da informação
+para fins estratégicos, é uma noção ainda pouco desenvolvida nas empresas brasileiras
+ou mesmo nas francesas (Lesca e Almeida, 1994).
+ Analisando a estratégia tecnológica nas empresas brasileiras, Marcovitch (1992)
+advoga que as novas tecnologias (informática, automação, bioengenharia genética
+e novas ligas) impõem uma estratégia tecnológica explícita, que se insere no
+planejamento de longo prazo da empresa, personalizada nos dirigentes e revelada
+nas decisões de investimento. Entres os casos estudados, o autor notou uma postura
+estratégica exitosa das empresas.
+Discutindo o poder da informação, Davidow e Malone (1992) afirmam que “os
+extraordinários avanços no processamento da informação serão o dínamo da
+corporação virtual; além disso, nos próximos anos, as diferenças incrementais
+na capacidade das empresas para adquirir, distribuir, armazenar, analisar e
+invocar ações baseadas nas informações, irá determinar quem vence e quem
+perde a batalha pelos clientes [...] a capacidade de uma empresa para operar e
+criar produtos e serviços irá depender da sua capacidade de coletar, processar,
+integrar e dominar essas informações”.
+Atualmente fala-se muito sobre o poder da informação e a “Indústria da Informação”
+como forma de gerar vantagem competitiva para as organizações. Para
+David (apud Gonçalves e Veiga, 1995), a informação pode ser definida como
+dados processados de forma a terem significado para seu receptor e que possuem
+valor real ou percebido relativamente às decisões atuais ou futuras. Weitzen (1988)
+Mozar José de Brito, Luiz Marcelo Antonialli e Antônio Carlos dos Santos
+82 RAC, v.1, n.3, Set./Dez. 1997
+acredita que “a Indústria da Informação é aquela capaz de formatar, facilitar o
+acesso, acelerar o fluxo, reembalar e providenciar a entrega a qualquer momento
+da informação e integrar o computador, o telefone e as tecnologias de transferência
+eletrônica de fundos”.
+Venkatraman (1991) enfatiza que a reconfiguração ou transformação
+organizacional é um processo evolucionário que passa por 5 estágios. Este autor
+ressalta, ainda, que a perspectiva de análise funcional é uma abordagem limitada
+para a compreensão das mudanças provocadas pelas tecnologias da informação.
+Esses níveis não são conceitualizados como estágios da evolução do modelo, mas
+como níveis distintos da reconfiguração das organizações com ênfase no papel
+das tecnologias da informação.
+No nível 1 está exploitation localizada. Neste nível, as tecnologias da informa-
+ção são introduzidas nas funções organizacionais (marketing, manufatura, etc) ou
+em outras atividades isoladas do negócio. O objetivo da absorção das tecnologias
+é provocar uma melhoria da eficiência na execução das operações. Desta forma, a
+aplicação tecnológica alcança objetivos específicos sem necessariamente influenciar
+certas áreas do processo operacional.
+A integração interna (nível 2) é extensão lógica do primeiro nível, à medida
+que a potencialidade das tecnologias da informação são exploradas em todas as
+possíveis atividades dentro do processo de negócios. Este processo apresenta
+dois tipos de integração: a) a integração técnica, denominada de integração de
+diferentes sistemas e aplicações gerenciadas por uma plataforma comum de
+tecnologias da informação; b) a integração organizacional que requer a integração
+de diferentes papéis e responsabilidades. Essa junção possibilita a exploração das
+capacidades da integração técnica. Em outros termos, o emprego de uma plataforma
+comum de tecnologias da informação possibilita a integração do processo de
+negócios da organização, aumentando potencialmente a eficácia e a eficiência da
+organização como um todo.
+Enquanto esses dois primeiros níveis são considerados pelo autor como
+evolucionários, porque requerem mudanças incrementais no processo
+organizacional existente, os níveis três e quatro apresentam natureza revolucioná-
+ria, determinando a transformação do próprio ethos do processo de negócios.
+O nível 3 envolve o redesenho do processo de negócio, que tem como alavanca
+central as tecnologias da informação. Nesta reconfiguração, os processos de negócios
+em si são redesenhados de forma a maximizarem a exploração das capacidades
+disponibilizadas pelas tecnologias da informação, ao contrário de se restringir
+a uma infra-estrutura ótima de TI. Neste processo, deve haver esforço
+consciente no sentido de se criar um alinhamento entre a infra-estrutura de TI e o
+processo de negócios da organização, em vez de simplesmente se impor uma pla-
+Tecnologia da Informação e Processo de Gestão em uma Organização Cooperativa: Um Enfoque Estratégico
+ RAC, v.1, n.3, Set./Dez. 1997 83
+taforma tecnológica ao processo de negócios existente.
+O redesenho da rede de negócios (nível 4) envolve a reconfiguração do escopo
+e das operações da rede de negócios relacionados ao processo de criação e distribuição
+de produtos e serviços. Esta reconfiguração inclui as operações que estão
+fora e dentro dos limites organizacionais e o conseqüente redesenho da rede virtual
+de negócios, através do aproveitamento de toda a potencialidade estratégica
+disponibilizada pelas TI. Assim, a integração eletrônica entre parceiros chaves
+representa o desafio dominante da gestão estratégica da rede de negócios transformados.
+Finalmente, a redefinição do escopo do negócio (nível 5) envolve a razão de ser
+de uma organização (raison d’etre). Este processo está relacionado com as possibilidades
+de ampliar a missão e o escopo (relacionados aos produtos e serviços),
+bem como substituir as competências tradicionais pelas habilidades disponibilizadas
+pelas TI.
+Venkatraman (1991) ressalta que essa classificação permite avaliar o papel
+das TI em diversas situações. Assim, é necessário compreender e reconhecer que
+os reais benefícios da introdução das TI advêm da transformação do escopo do
+negócio, das mudanças nos processos internos (estrutura e processos
+organizacionais), das mudanças na arquitetura dos sistemas de informação e da
+plataforma de TI. Tal proposta de alinhamento estratégico deve ser entendida não
+somente como estrutura de análise da interdependência da introdução das TI, mas
+também como instrumento de identificação de cursos de ação alternativos no alcance
+dos objetivos organizacionais.
+O alinhamento entre as TI e as estratégias de negócio pode ser viabilizado pelos
+interorganizational information systems e pelos intraorganizational information
+systems. Estes sistemas são definidos como sistemas de informação que envolvem
+a integração eletrônica entre as diversas unidades de uma organização e entre
+estas e seus parceiros de negócios. Esta integração pressupõe o compartilhamento
+de TI, tais como: hardware, software, protocolos de transmissão de dados, regras
+e procedimentos, dados, banco de dados e conhecimento (Levinson, 1994;
+Nidumolu, 1995). Esses autores defendem, ainda, que a introdução de tecnologias
+nas organizações passa também pela formação de redes locais, que eles denominam
+de intraorganizational information systems. Geralmente, a adoção destes
+sistemas vem acompanhada por um processo de reestruturação de processos de
+negócios (internos e externos), da estrutura organizacional e da forma de alocação
+de recursos e dos canais de marketing e de distribuição (Chandra e Saharia, 1996).
+Esses autores apontam, também, os diversos benefícios advindos da adoção dos
+interorganizational e intraorganizational systems. Entre eles destacam-se: redu-
+ção de custo (incluindo custos administrativos) dada a automação de processos;
+Mozar José de Brito, Luiz Marcelo Antonialli e Antônio Carlos dos Santos
+84 RAC, v.1, n.3, Set./Dez. 1997
+aumento da flexibilidade e agilidade organizacional; redução dos limites tempo e
+espaço; aumento da transparência e da possibilidade de pesquisa de mercado em
+tempo real e sustentação de vantagem competitiva para os inovadores (primeiros
+a introduzirem o sistema) tecnológicos.
+A introdução dos interorganizational e intraorganizational systems tem modificado
+profundamente a estrutura dos canais de distribuição e os conceitos tradicionais
+de marketing. Estes sistemas de informação facilitam a troca de informa-
+ções, imprimindo uma dinâmica às transações mercadológicas. Estes sistemas
+são capazes de proporcionar maior eficiência no processo de coordenação que
+sincroniza a complementaridade do processo de integração entre as organizações
+(Subramani e Henderson, 1996).
+Ao estudar as implicações dos interorganizational e intraorganizational systems
+no mercado de commodities, Bakos (1991) afirma que estas tecnologias da informação:
+a) proporcionam maior transparência nas operações do mercado futuro,
+ao promover rápida divulgação das características e dos preços das commodities;
+b) aumentam os benefícios individuais à medida que as organizações se integram
+eletronicamente e atuam conjuntamente; c) a integração eletrônica no mercado
+futuro provoca mudança nos custos de transação (custos de relatórios financeiros
+e de movimentação, custos administrativos, custos com recursos humanos); d)
+geralmente, a estruturação eletrônica de canais de distribuição requer grandes
+investimentos, mas oferece substanciais economias de escala e de escopo; e) os
+participantes potenciais do mercado podem enfrentar algumas incertezas relativas
+à atuação conjunta promovida pela conexão eletrônica; f) o mercado de
+commodities, integrado eletronicamente, reduz significativamente o custo de pesquisa
+e tratamento de informações. As informações de mercado são disponibilizadas
+em tempo real.
+Embora a literatura (Earl, 1988; Gonçalves e Gonçalves Filho, 1995) seja rica
+em exemplos do uso estratégico das TI, alguns autores apontam as diversas dificuldades
+que as organizações podem enfrentar, ao introduzirem os
+interorganizational e intraorganizational systems. Entre os entraves apontados
+por Steinbart e Nath (1992), destacam-se: a) necessidade de comprar equipamentos
+específicos, que muitas vezes não são totalmente compatíveis com os equipamentos
+existentes na organização. Isto pode representar rápida obsolência de equipamentos
+e elevação dos custos de introdução das tecnologias; b) restrições quanto
+ao uso de satélites de comunicação (em alguns países ou regiões), restringindo,
+assim, a flexibilidade de se estabelecerem redes privadas; c) restrições legais que
+dificultam a transmissão de dados e /ou o fluxo de informação entre organizações;
+d) limitações políticas que restringem a adoção de tecnologias de telecomunicação
+e de TI (taxas sobre importação, reservas de mercado, proteção legal de indústrias
+nacionais); e) problemas com infra-estrutura em telecomunicações, principal-
+Tecnologia da Informação e Processo de Gestão em uma Organização Cooperativa: Um Enfoque Estratégico
+ RAC, v.1, n.3, Set./Dez. 1997 85
+mente em países subdesenvolvidos e em fase de desenvolvimento; f) falta de padronização
+de equipamentos e a pouca importância atribuída às TI por parte de
+alguns gestores.
+Para Davis e Davidson (1993), a informação pode estar presente em nossa economia
+de quatro formas: dados, texto, som e imagem. Além disso, quatro processos
+podem ser aplicados à informação: geração, processamento, armazenamento
+e transmissão. A geração capta a informação do ambiente e a altera para uma das
+quatro formas descritas anteriormente. O processamento transforma esta informação
+em alguma modalidade mais adequada para aquele que vai utilizá-la. O
+armazenamento, como o próprio nome diz, é o processo de guardar a informação
+para uso posterior. A transmissão leva a informação àqueles que a desejam. Estas
+atividades podem ser ligadas em cadeia ou ficam independentes entre si.
+Lopes (1996) advoga que a indústria da informação basicamente aplica um ou
+mais dos quatro processos de manuseio às informações que, por sua vez, se encontram
+em uma ou mais das quatro formas descritas anteriormente. Em sua
+pesquisa para o setor de distribuição de informações financeiras on line no Brasil,
+o autor analisou a estratégica do setor, identificou seus fatores críticos de sucesso
+e avaliou as perspectivas futuras das empresas que trabalham no setor. Entre os
+casos pesquisados estão: Agência Estado/Broadcast, CMA, Globo Meca, Momento,
+Reuters e Teledata/Siemar. Nesse sentido, Legey (1993) discute em seu
+estudo a experiência da CMA na distribuição de informações on line para o segmento
+financeiro brasileiro.
+Ressaltam ainda Davis e Davidson (1993), que a rede de telecomunicações
+permite um intercâmbio que está aniquilando as distâncias e tornando possíveis
+negócios que, poucos anos antes, seriam inviáveis. Dentre todas as áreas, aquela
+em que a troca de informações como modo de realizar transações é mais freqüente
+e até mesmo mais natural é a área financeira.
+METODOLOGIA
+O presente estudo enquadra-se em uma tipologia denominada estudo de caso. O
+propósito fundamental deste tipo de pesquisa é analisar uma unidade social, que
+pode ser um indivíduo, um grupo deles, uma organização, uma Universidade,
+uma instituição de pesquisa e até mesmo uma comunidade (Triviños, 1992; Godoy,
+1995).
+Já Yin (1989) afirma que “o estudo de caso é uma forma de pesquisa empírica
+que investiga os fenômenos contemporâneos dentro do seu contexto de vida real,
+Mozar José de Brito, Luiz Marcelo Antonialli e Antônio Carlos dos Santos
+86 RAC, v.1, n.3, Set./Dez. 1997
+em situações em que as fronteiras entre o fenômeno e o contexto não estão
+claramente estabelecidas, ou se utiliza de múltiplas fontes de evidência”.
+Para Godoy (1995) os estudos de caso têm-se tornado uma estratégia de pesquisa
+preferida pelos pesquisadores, quando eles procuram responder por que e como
+certos fenômenos ocorrem, quando há pouca possibilidade de controle sobre os
+eventos estudados e quando o foco de interesse é sobre os fenômenos atuais, que
+só poderão ser analisados dentro de um contexto de vida real. Os estudos de caso
+permitem também interação mais direta entre o objeto e o sujeito da pesquisa,
+possibilitando a busca específica de significados que particularizam a realidade
+em exame.
+Para cumprir os objetivos deste trabalho, empregaram-se duas técnicas de coletas
+de dados: análise documental e entrevista semi-estruturada. Adotou-se a aná-
+lise documental para recuperar dados históricos do desempenho, crescimento e
+estrutura da Cooxupé, organização objeto deste estudo. Vale ressaltar que a aná-
+lise documental foi também adotada como técnica complementar para o
+aprofundamento e verificação da fidedignidade de dados obtidos por meio das
+entrevistas.
+A entrevista é um dos principais instrumentos de coleta de dados que o pesquisador
+tem à sua disposição. Entende-se por entrevista semi-estruturada aquela
+que parte de certos questionamentos básicos, apoiados em teorias e hipóteses que
+interessam à pesquisa, e que em seguida oferecem um amplo campo de informa-
+ções ao entrevistado (Triviños, 1992). Para o presente estudo, entrevistaram-se
+vários dirigentes da Cooxupé, especificamente o Superintendente de Mercado Externo,
+o Coordenador de Hardware e um Analista de Sistemas. As respostas foram
+anotadas, optando-se por não gravar a entrevista.
+A Cooxupé antes da Implantação da TI A Cooxupé antes da Implantação da TI
+As operações internas da cooperativa, antes da TI, apresentavam problemas
+como: troca lenta de informações entre os núcleos e a sede; serviços lentos na
+administração de estoques, contabilidade, tesouraria/finanças, departamento de
+recursos humanos e cadastro de cooperados. Havia grande esforço para
+processamento de títulos a pagar, principalmente do café fornecido pelos cooperados
+(aproximadamente 20 mil títulos); a duplicidade de trabalho também era
+comum em muitas operações. Alguns poucos softwares que auxiliavam no
+processamento dos serviços acima não tinham conectividade com a sede devido
+aos diferentes sistemas operacionais, entre outros problemas. Os núcleos tinham
+autonomia (vida própria) para decidir sobre os investimentos em informática;
+Tecnologia da Informação e Processo de Gestão em uma Organização Cooperativa: Um Enfoque Estratégico
+ RAC, v.1, n.3, Set./Dez. 1997 87
+isso trouxe problemas de conectividade na implantação da TI.
+A atualização das cotações de preço de café no mercado internacional, antes da
+TI, se dava através de pesquisa no mercado, efetuado por agentes localizados nos
+principais portos de comercialização de café (Nova York, Hamburgo, Gênova,
+Rotterdam), onde, via telefone, informavam-se as cotações dos preços correntes
+nesses mercados para os exportadores em Santos (SP). Tal processo com o tempo
+evoluiu para o telex.
+Segundo o Superintendente de Mercado Externo da Cooxupé, essas informa-
+ções de preços eram com certeza manipuladas, tanto no exterior como também em
+Santos (SP). Isso gerava uma “distorção” nos preços que diminuía as margens de
+comercialização dos produtores brasileiros e aumentava a margem dos intermedi-
+ários tanto internos como externos.
+Os compradores externos de café são exclusivamente indústrias. A cooperativa
+não possui escritórios no exterior e os contatos internacionais são feitos através
+de agentes exclusivos. O escritório de Santos (SP) exerce funções importantes
+para a cooperativa como: operações de embarque e câmbio; atualização de preços
+do café arábica praticados pelos exportadores concorrentes na praça de Santos
+(SP); e contatos com o exterior. A Cooxupé, além de comercializar o café produzido
+por seus cooperados, também compra o produto de terceiros.
+Implantação da TI Implantação da TI
+A Cooxupé começou a se informatizar desde 1983, porém somente em 1992
+passou efetivamente a implantar a TI como estratégia organizacional, segundo
+seus dirigentes com critério e de forma cautelosa. Implantou-se a rede interna
+(LAN - Local Area Network) na sede operando em regime on line. Também a
+rede externa (WAN - Wide Area Network) entre a sede e os núcleos, atualmente
+operando em regime off line com placa modden via linha telefônica (a conexão
+núcleos-sede é feita somente no final do expediente).
+Com o objetivo estratégico de incrementar o uso da TI, a Cooxupé pretende
+investir ainda mais nos próximos anos, tanto em software como em hardware.
+No entanto, segundo a cooperativa, esses investimentos deverão ser mais pesados
+em hardware, pois com a evolução tecnológica as máquinas adquiridas 3-4
+anos atrás, em sua maioria PC-386 (62%), já estão ultrapassadas (obsoletas); a
+médio prazo poderão limitar a informatização da cooperativa.
+O departamento de informática da cooperativa conta com 15 funcionários; essa
+Mozar José de Brito, Luiz Marcelo Antonialli e Antônio Carlos dos Santos
+88 RAC, v.1, n.3, Set./Dez. 1997
+equipe de desenvolvimento e manutenção desempenhou tarefas importantes na
+implantação da TI, desenvolvendo a maioria dos softwares aplicativos para garantir
+a conectividade. Os softwares chamados corporativos (contabilidade, contas
+a receber, contas a pagar, entre outros) são terceirizados; outros chamados
+“tronco”, foram adquiridos.
+Entre os passos importantes na implantação da TI, destacam-se: a eliminação
+“total” do processo de digitação nos núcleos, principal fonte da duplicidade de
+trabalho; desenvolvimento do “Sistema de Cadastro Geral” dos cooperados, o
+que permite acesso a toda a organização; informatização e adequação do escritó-
+rio de Santos-SP (considerado uma empresa à parte); desenvolvimento do sistema
+de custeio direto nos núcleos; informatização e integração da unidade de torrefa-
+ção de café, do sistema de transportes, dos documentos fiscais, do departamento
+de recursos humanos e do departamento de compras/consumo; centralização do
+controle de estoques e demandas dos núcleos; integração total dos dados entre
+núcleos e a sede em Guaxupé, além da informatização do receituário agronômico
+e desenvolvimento de software para análise de solo, entre outros.
+Recentemente a cooperativa passou por mais uma fase de inovação tecnológica
+em informática: substituiu o antigo sistema mainframe, com arquitetura proprietária,
+para uma nova arquitetura “cliente-servidor”, passando a utilizar a máquina
+RISK-IBM no novo sistema operacional UNIX. Com isso, a cooperativa abre
+o leque de conectividade, permitindo acesso de qualquer ponto conectável à linha
+telefônica e a compatibilidade com “qualquer” software. Nesse sentido, todo o
+banco de dados existente está sendo transferido para essa nova arquitetura. Quando
+se questionou ao Superintendente de Mercado Externo a importância da TI
+para a Cooxupé, a resposta foi na forma de metáfora: “não utilizar a TI na
+organização atualmente seria como estar em uma auto-estrada de carroça”.
+Contudo, na implantação da TI, a cooperativa experimentou vários problemas
+entre os quais necessidade de treinamento e adaptação do pessoal; difícil
+conectividade devido à incompatibilidade entre softwares que já existiam na organização;
+desatualização ou obsolência rápida dos microcomputadores, entre outros.
+De acordo com a cooperativa a “vida própria” dos núcleos, no sentido da
+escolha de softwares e hardwares terminou; agora essas decisões são tomadas em
+conjunto devido à conectividade dos sistemas.
+A Cooxupé não utiliza a Internet e não tem página na web, pois ainda não
+definiu qual será o objetivo dessa home page; questiona-se também sobre quem
+será o provedor para o acesso a rede. Os cooperados ainda não têm acesso à
+cooperativa via computador, porém a nova arquitetura cliente-servidor, recémimplantada,
+poderá facilitar esse acesso futuramente.
+Quanto ao grau de importância da TI para as operações internas da cooperati-
+Tecnologia da Informação e Processo de Gestão em uma Organização Cooperativa: Um Enfoque Estratégico
+ RAC, v.1, n.3, Set./Dez. 1997 89
+va, classificaram-se em ordem decrecente os seguintes serviços: os chamados de
+uso crítico (ou imprescindíveis) são contabilidade, recursos humanos, tesouraria/
+finanças, vendas, cadastro de cooperados, cobrança e controle de estoques. Os
+chamados essenciais são logística, receituário agronômico, análise de solo e documentos
+fiscais. Quanto ao uso da informática, para atividades de marketing
+julgou-se como não essencial para o momento. Atualmente a cooperativa não
+utiliza a informática para distribuição, serviço ao consumidor, relação com cooperados
+e fornecedores.
+Após a Implantação da TI Após a Implantação da TI
+A implantação da TI, rede interna (LAN), operando em regime on line na sede,
+resolveu a maior parte dos problemas ligados às operações internas de rotina da
+administração. Os departamentos estão totalmente interligados; o fluxo de informações
+entre eles passou a ser ágil e confiável, eliminando assim a duplicidade de
+trabalho. Através da rede externa (WAN), operando em regime off line, os núcleos
+se conectam com a sede no final do expediente, abastecendo-a com as seguintes
+informações: faturamento, caixa, contas a pagar, contas a receber, posição dos
+estoques, recebimento de café, entre outras informações rotineiras ligadas à administração,
+proporcionando à sede uma posição diária das operações de cada nú-
+cleo.
+ As cotações de preços do café no mercado internacional, após a implantação da
+TI, ficaram ágeis e totalmente confiáveis. A Cooxupé possui contratos de assinatura
+com duas empresas brasileiras de informações on line (CMA e Agência Estado/Broadcast).
+A empresa CMA Participações Internacionais e de Mercados S/A fornece à
+cooperativa informações on line, via satélite, das cotações de preços do café no
+mercado futuro das Bolsas de Mercadorias de Nova York, Londres e BM&F de
+São Paulo. Outros serviços que a CMA também coloca à disposição da Cooxupé
+são: notícias com ênfase nacional, cotações do mercado financeiro e cotações da
+Bolsa de Mercadorias de Chicago para outras commodities (milho, soja, trigo e
+óleo). Segundo seus dirigentes, apesar da assinatura, a cooperativa praticamente
+não tem utilizado os serviços da Agência Estado/Broadcast.
+Para ilustrar como a Cooxupé recebe as cotações de preços do mercado futuro
+de café, o Quadro 1 representa a tela do computador, com as informações on line
+fornecidas pela empresa CMA no dia 24/7/96 por volta das 13 horas. Nas colunas
+constam: a cotação de fechamento do dia anterior (FECH), as informações diárias
+da cotação de abertura (ABERT), a cotação máxima (MÁXIMO), a cotação mí-
+Mozar José de Brito, Luiz Marcelo Antonialli e Antônio Carlos dos Santos
+90 RAC, v.1, n.3, Set./Dez. 1997
+nima (MÍNIMO), a última cotação (ÚLTIMO), número de contratos de compra
+negociados (COMPRA), número de contratos de venda negociados (VENDA) , o
+diferencial (DIF) entre as cotações (ÚLTIMO menos FECH) mostrando a tendência
+de alta ou baixa dos preços e o volume de contratos abertos (VOLUME).
+ Nas linhas constam: o código “KC”, que é uma constante para a Bolsa de
+Nova York; o código “CO”, constante para Bolsa de Londres, e “CM” constante
+para a BM&F de São Paulo. As letras que seguem após esses códigos, representam
+os meses (N= julho, U= setembro, Z= dezembro, H= março, X= novembro,
+F= janeiro); e os números “6 e 7” na seqüência indicam respectivamente os anos
+1996 e 1997.
+A interpretação do Quadro 1 requer certa familiaridade com essas cotações.
+Sua interpretação é simples. Para exemplificar, propõe-se fixar na linha onde se
+encontra “KCH7” (que significa a cotação do café na Bolsa de Nova York para
+março de 1997). No caso, o preço do café fechou no dia anterior (FECH) em
+96,40 cents de dólar por libra peso. A leitura das cotações tanto da Bolsa de Nova
+York quanto para a BM&F deve ser acrescida de vírgula antes dos dois últimos
+dígitos, pois separação não é mostrado na tela. Na mesma linha, a última cotação
+do dia (ÚLTIMO) era de 96,25. O diferencial (DIF) nesse instante era de -15
+cents de dólar por libra peso, demonstrando, no caso, tendência de baixa.
+ As cotações de preço do café na Bolsa de Nova York são expressas em cents de
+dólar por libra peso; para convertê-las em sacas de 60 kg (mercado interno) é
+preciso fazer o seguinte raciocínio: basta dividir a cotação que aparece na tela
+(considerando vírgula antes dos últimos dois dígitos) por 100 e multiplicá-lo pelo
+fator (132,28).
+ As cotações da Bolsa de Londres são expressas em dólares por tonelada; para
+convertê-las em sacas de 60 kg deve-se apenas dividir a cotação da tela por 1000
+e multiplicá-lo por 60.
+As cotações da BM&F são expressas em dólar (comercial) por saca de 60 kg,
+devendo-se somente acrescentar vírgula antes dos últimos dois dígitos.
+Ainda no Quadro 1, o número assinalado (96,25) representa que naquele momento
+essa cotação estava sofrendo alterações. Esse label muda constantemente,
+dependendo das negociações nas respectivas Bolsas de Mercadorias. Essas alterações
+são principalmente devidas às mudanças nas cotações de preços do produto
+no mercado internacional e também ao número de contratos negociados.
+Dentre essas cotações on line, as mais importantes para a Cooxupé são as das
+Bolsa de Nova York e BM&F, já que todo o café comercializado pela cooperativa
+é do tipo arábica. As cotações da Bolsa de Londres são exclusivas para o tipo
+robusta (mais apropriado para produção do café solúvel). Esses preços on line
+Tecnologia da Informação e Processo de Gestão em uma Organização Cooperativa: Um Enfoque Estratégico
+ RAC, v.1, n.3, Set./Dez. 1997 91
+são válidos somente para o café commodity, sendo que para os cafés especiais
+(ou specialty coffees) os contratos são à parte.
+Quadro 1: Informações On line das Cotações de Preços de Café,
+Fornecidas pela Empresa CMA à Cooxupé
+CMA TWQuotes (Cooxupé)
+ Fech Abert Máximo Mínimo Último Compra Venda DIF Volume
+*CAFE N.Y.
+KCN6 11765
+KCU6 10430 60.80R 10590 10360 10420 -10
+KCZ6 9870 20.40R 9975 9810 9850 -20
+KCH7 9640 25.40R 9725 9600 9625 -15
+*LONDRES
+CON6 1498 1471 1509 1471 1491 1500 1510 -7
+COU6 1533 1540 1540 1521 1528 1527 1528 -5
+COX6 1484 1490 1498 1485 1490 1487 1494 +6
+COF7 1428 1440 1452 1435 1444 1443 1444 +16
+*BM&F
+CMN6 11000
+CMU6 10220 10150 10220 10050 10100 10050 10100 -120
+CMZ6 10300 10200 10200 10200 10200 10100 -100
+Fonte: Cooxupé
+Há diferença entre os preços de café cotados via on line no mercado internacional
+e os preços efetivamente pagos aos cooperados da Cooxupé. A queda ocorre,
+segundo a cooperativa, principalmente em função de três fatores: 1) diferencial
+de qualidade, devido à existência de um padrão internacional de qualidade exigido
+para o produto, além da variação da qualidade do café brasileiro de safra para
+safra, de acordo com melhores ou piores condições climáticas, de floração, de
+colheita, e processamento; 2) fretes, referem-se ao transporte da cooperativa até
+o porto de Santos (SP), considerando também as taxas de transporte naval, inclusive
+embarque e desembarque; 3) charge, inclui a cobrança pelos serviços da
+Mozar José de Brito, Luiz Marcelo Antonialli e Antônio Carlos dos Santos
+92 RAC, v.1, n.3, Set./Dez. 1997
+cooperativa para preparação do produto dentro das exigências do mercado externo
+(análise, padronização, classificação por tipo e bebida, pré-limpeza e catação
+de pedras, rebenefício, catação densimétrica, catação eletrônica, sacaria nova e
+padronizada). A charge, em outras palavras, representa o custo da cooperativa
+por preparar o produto para colocá-lo no mercado internacional; segundo seus
+dirigentes, seu “valor” é variável e não pode ser declarado por constituir segredo
+da cooperativa.
+CONSIDERAÇÕES FINAIS
+A Cooxupé vem utilizando estrategicamente a tecnologia da informação (TI)
+desde 1992. Sua utilização é efetiva e tem proporcionado a toda a organização
+agilidade, precisão e segurança em sua gestão. Os benefícios gerados destacam-se
+tanto nas operações internas, como na atualização diária via on line das cotações
+de preços do café no mercado futuro nas principais Bolsas de Mercadorias do
+mundo.
+A implantação da TI na cooperativa teve seu marco quando se instalou a rede
+interna (LAN) em regime on line na sede, e a rede externa (WAN) em regime off
+line entre sede e núcleos.
+O principal problema enfrentado pela cooperativa na implantação da TI foi a
+conectividade, principalmente entre sede e núcleos, devido à incompatibilidade
+dos sistemas operacionais existentes. A solução para o problema foi encontrada
+através do recente investimento em hardware e software, como na nova arquitetura
+“cliente-servidor”, trabalhando no novo ambiente operacional UNIX instalado
+na sede em Guaxupé (MG).
+A cooperativa julga a TI extremamente importante para a estratégia da organização;
+pretende continuar investindo em software e principalmente em hardware,
+devido à desatualização (obsolência) da maioria de seus microcomputadores, a
+médio prazo.
+ Entre os desafios futuros que a cooperativa pretende enfrentar, destaca-se o
+plano de colocar toda a rede externa (WAN) para trabalhar no regime on line,
+permitindo a conexão entre sede e núcleos totalmente aberta. Isso deverá exigir
+investimentos em telecomunicações, envolvendo a aquisição de canal de satélite
+da Embratel.
+A rede externa, operando em regime on line, poderá trazer vários benefícios à
+Cooxupé, mais especificamente poderá permitir a conexão em tempo real com
+fornecedores, Governo, sindicatos, instituições de pesquisa, clientes e seus cooperados.
+Tecnologia da Informação e Processo de Gestão em uma Organização Cooperativa: Um Enfoque Estratégico
+ RAC, v.1, n.3, Set./Dez. 1997 93
+Em termos gerais, constata-se que a estratégia de utilização da TI pela cooperativa
+tem sido basicamente com ênfase intra-organizacional, procurando racionalizar
+e agilizar a troca de informações entre a sede e os núcleos.
+A Cooxupé encontra-se no nível 2 do processo de evolução de uso da TI, proposto
+por Venkatraman (1991). Em outros termos, a adoção de plataforma comum
+de tecnologias da informação vem possibilitando a integração dos negócios
+da cooperativa, aumentando potencialmente a eficácia e a eficiência da organiza-
+ção como um todo.
+A assinatura com a CMA configura-se como de importância estratégica no
+sentido apenas de atualização em tempo real do preço internacional do café. Entretanto
+a cooperativa recebe essas informações de forma passiva, porquanto,
+apesar de seu porte, não pode exercer isoladamente qualquer influência no preço
+do produto no mercado mundial.
+REFERÊNCIAS BIBLIOGRÁFICAS
+ABAG.
+Segurança alimentar : uma abordagem
+de agribusiness. São Paulo
+: Edições ABAG, 1993.
+BAKOS, J. Y.
+A strategic analisys of eletronic
+marketplaces. Management
+Information Systems Quartely, p. 295-310, 1991.
+BETTIS, R. A.;
+HITT, M. A.
+The new competitive landscape.
+Strategic Management Journal, v.16, p.07-19, Special Issue,
+Summer 1995.
+CAMPOS FILHO, M. P. de.
+Os sistemas de informação e as
+modernas tendências da
+tecnologia e dos negócios. Revista
+de Administração de Empresas,
+v.34, n.6, p.33-45, nov./dez.
+1994.
+CHANDRA, M.;
+SAHARIA, A.
+Coordenation in marketing
+chanels : the effect of information
+systems. In: AMERICAS
+CONFERENCE ON
+INFORMATION SYSTEMS
+(1996 : Phoenix). Proceedings... Phoenix, 1996. p.128-133.
+COOXUPÉ.
+Relatório de gestão apresentado
+à Assembléia Geral Ordiná-
+ria. Guaxupé, 1995.
+DAVIDOW, H. W.;
+MALONE, M.
+The virtual corporation :
+structuring and revitalizing the
+corporation for 21 st. century.
+New York : Harper Collins, 1992.
+DAVIS, S.;
+DAVIDSON, B.
+Visão 2020 : administrando sua
+empresa hoje para vencer amanhã.
+Rio de Janeiro : Campus, 1993.
+Mozar José de Brito, Luiz Marcelo Antonialli e Antônio Carlos dos Santos
+94 RAC, v.1, n.3, Set./Dez. 1997
+EARL, M. (Ed.)
+Information management : the
+strategic dimesion. Oxford :
+Clarendon Press, 1988.
+GODOY, A. S.
+Introdução à pesquisa qualitativa
+e suas possibilidades. Revista de
+Administração de Empresas, v.35, n.3, maio/jun. 1995.
+GONÇALVES, J. E. L.
+Os impactos das novas
+tecnologias nas empresas
+prestadoras de serviço. Revista de
+Administração de Empresas, v.34, n.1, p.63-81, jan./fev. 1994.
+GONÇALVES, C. A.;
+GONÇALVES FILHO, C.
+Tecnologia de informação e
+marketing : como obter clientes e
+mercados. Revista de Administração
+de Empresas, v.35, n.4,
+p.21-32, 1995.
+GONÇALVES, M. A.;
+VEIGA, R. T.
+Os papéis do gerente e a qualidade
+da informação gerencial. Revista
+Brasileira de Administra-
+ção Contemporânea, v.1, n.4,
+p.309-325, 1995.
+IBM CONSULTING GROUP.
+Global telecommunications to
+year 2000: the impact on
+corporative IT strategies and
+applications. The economist, 1996.
+LEGEY, L. R. I.
+Difusão dos serviços de disseminação
+de informações on-line no
+Brasil. Cadernos de Gestão
+Tecnológica, n.12, 1993.
+LESCA, H.;
+ALMEIDA, F. C. de.
+Administração estratégica da informação.
+Revista de Administração
+de Empresas, v.29, n.3,
+p.66-75, jul./set. 1994.
+LEVINSON, N. S.
+Interorganizational information
+systems : new approaches to global
+economic development. Information & Management, n.26, p.257-263, 1994.
+LOPES, A. B.
+Uma análise do setor de distribuição
+de informações on line no
+Brasil. São Paulo, 1996. Dissertação
+(Mestrado) - Faculdade de
+Economia, Administração e Contabilidade,
+Universidade de São
+Paulo.
+MARCOVITCH, J.
+Estratégia tecnológica na empresa
+brasileira. In:
+VASCONCELLOS, E. (Coord.).
+Gerenciamento da tecnologia :
+um instrumento para a
+competitividade empresarial. São
+Paulo : Edgard Blücher, 1992.
+ NIDUMOLU, S. R.
+Interorganizational information
+systems and the structure and
+climate of seller-buyer
+relatonships. Information &
+Management, n.28, p.89-105,
+1995.
+OLIVEIRA, A. C. M. da C.
+Tecnologia de informação :
+competitividade e políticas públicas.
+Revista de Administração
+de Empresas, v.36, n.2, p.34-43,
+abr./jun. 1996.
+Tecnologia da Informação e Processo de Gestão em uma Organização Cooperativa: Um Enfoque Estratégico
+ RAC, v.1, n.3, Set./Dez. 1997 95
+SAES, M. S. M.;
+SANTOS, A. C. dos;
+PINTO, E. M.
+Cooxupé : um projeto de diversificação
+regional. In: V SEMINÁ-
+RIO ANUAL DO PENSA (1995:
+São Paulo). Anais... São Paulo :
+USP, Faculdade de Economia,
+Administração e Contabilidade,
+1995.
+SCHENDEL, D.
+Technological transformation and
+the new competitive landscape.
+Strategic Management Journal, v.16, p.01-6, Summer 1995.
+STEINBART, J.;
+NATH, R.
+Problems and issues in the
+management of international data
+communications international
+networks : the experiences of
+american companies. Mangement
+Information Systems, p.55-76,
+1992.
+SUBRAMANI, M. R.;
+HENDERSON, C. J.
+Exploring middle ground :
+understanding interorganizational
+relationships. In: AMERICAN
+CONFERENCE ON
+INFORMATION SYSTEMS
+(1996 : Phoenix). Proceedings... Phoenix, 1996. p.134-136.
+TAPSCOTT, D.
+The digital economy : promise and peril in the age of networked
+intelligence. New York : McGrawHill,
+1995.
+TRIVIÑOS, A. N. S.
+Introdução à pesquisa em ciências
+sociais. São Paulo : Atlas,
+1992.
+VENKATRAMAN, N.
+IT - induced business
+reconfiguration. In: MORTON,
+M. S. S. (Ed.). The corporation
+of the 1990s : information
+technology and organizational
+transformation. New York :
+University Press, 1991. p.123-
+158.
+WEITZEN, H. S.
+Infopreneurs : turning data into dollars. New York : John Wiley
+& Sons, 1988.
+YIN, R. K.
+Case study research : design and methods. London : Sage, 1989.
+YONG, C. S.
+Tecnologia de informação. Revista
+de Administração de Empresas,
+v.32, n.1, p.78-87, jan./mar.
+1992.
+ZUBOFF, S.
+Automatizar/informatizar : as
+duas faces da tecnologia inteligente.
+Revista de Administração de
+Empresas, v.34, n.6, p.80-91, nov./dez. 1994.
+ZYLBERSZTAJN, D.;
+FARINA, E. M. M. Q.;
+SANTOS, R. da C.
+O sistema agroindustrial do
+café: um estudo do agribusiness do café como a chave da
+competitividade. Porto Alegre :
+Ortiz, 1993.
