@@ -5,12 +5,16 @@ import java.nio.file.Path;
 import java.nio.file.Paths;
 
 import org.apache.lucene.analysis.Analyzer;
+import org.apache.lucene.document.Document;
 import org.apache.lucene.index.DirectoryReader;
 import org.apache.lucene.index.IndexReader;
+import org.apache.lucene.index.Term;
 import org.apache.lucene.queryparser.classic.ParseException;
 import org.apache.lucene.queryparser.classic.QueryParser;
 import org.apache.lucene.search.IndexSearcher;
 import org.apache.lucene.search.Query;
+import org.apache.lucene.search.ScoreDoc;
+import org.apache.lucene.search.TermQuery;
 import org.apache.lucene.search.TopDocs;
 import org.apache.lucene.store.Directory;
 import org.apache.lucene.store.FSDirectory;
@@ -38,11 +42,25 @@ public class SearchFiles {
 		String field = "";
 		QueryParser queryParser = new QueryParser(field, a);
 		
-//		Term term = new Term("contents", "tema");
-		Query query = queryParser.parse(null);
+		Term term = new Term("contents", "os");
+		Query query = new TermQuery(term);
+		
+		//Query query = queryParser.parse(null);
 		
 		hits = indexSearch.search(query, 30);	
 
+		printResult();
+	}
+
+	public void printResult() throws IOException {
+		ScoreDoc[] docs = hits.scoreDocs;
+		
+		System.out.println("Documents found: "  + docs.length);
+		
+		for (ScoreDoc scoreDoc : docs) {
+			Document doc = indexSearch.doc(scoreDoc.doc);
+			System.out.println(doc.getField("fieldname"));
+		}
 	}
 
 

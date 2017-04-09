@@ -35,10 +35,14 @@ public class Main {
 		IndexFiles indexer = new IndexFiles(stopword, stemming);
 		indexer.indexer(indexDirectoryPath); //onde vai salvar os indexados
 		int numIndexed = indexer.createIndex(path);
+		indexer.close();
+		System.out.println(numIndexed+" indexed files");
+		
 		SearchFiles searcher = new SearchFiles(stopword, stemming);
 		searcher.searcher(indexDirectoryPath); //onde foram salvo os indexados
 		
-		System.out.println(numIndexed+" indexed files");
+		
+		
 		
 	}
 }

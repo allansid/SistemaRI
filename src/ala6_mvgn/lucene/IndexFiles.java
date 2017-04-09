@@ -5,8 +5,12 @@ import java.io.FileReader;
 import java.io.IOException;
 import java.nio.file.Path;
 import java.nio.file.Paths;
+import java.util.Collections;
 
 import org.apache.lucene.analysis.Analyzer;
+import org.apache.lucene.analysis.CharArraySet;
+import org.apache.lucene.analysis.br.BrazilianAnalyzer;
+import org.apache.lucene.analysis.standard.StandardAnalyzer;
 import org.apache.lucene.document.Document;
 import org.apache.lucene.document.Field;
 import org.apache.lucene.document.TextField;
@@ -25,6 +29,27 @@ public class IndexFiles {
 	public IndexFiles(boolean stopword, boolean stemming) {
 		this.stemming = stemming;
 		this.stopword = stopword;
+	}
+	
+	private Analyzer getAnalyzer(boolean stopword, boolean stemming) {
+		Analyzer analyzer = null;
+		
+		if(stemming) {
+			if(stopword) {
+				analyzer = new BrazilianAnalyzer();
+			} else {
+				analyzer = new BrazilianAnalyzer(new CharArraySet(Collections.emptyList(), true));
+			}
+			
+		} else {
+			if(stopword) {
+				analyzer = new StandardAnalyzer(new BrazilianAnalyzer().getStopwordSet());
+			} else {
+				analyzer = new StandardAnalyzer();
+			}
+		}
+		
+		return analyzer;
 	}
 
 	// Index document
@@ -50,18 +75,25 @@ public class IndexFiles {
 		Path p = Paths.get(indexDirectoryPath);
 		try {
 			Directory d = FSDirectory.open(p);
-
-			Analyz aux = new Analyz(stopword, stemming);
-			Analyzer a = aux.getAnalyzer();
-
-			IndexWriterConfig iwc = new IndexWriterConfig(a);
+			
+//			Analyz aux = new Analyz(stopword, stemming);
+//			Analyzer a = aux.getAnalyzer();
+			
+			
+			Analyzer analyzer = getAnalyzer(false, true);
+			
+			IndexWriterConfig iwc = new IndexWriterConfig(analyzer);
 			writer = new IndexWriter(d, iwc);
 		} catch (IOException e) {			
 			e.printStackTrace();
 		}
 
+	}
+	
+	public void close() throws IOException {
 		writer.close();
 	}
+
 	
 	public int createIndex(String FilesPath) throws IOException {
 		// Pega todos os arquivos do diretorio
