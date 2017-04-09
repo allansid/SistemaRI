@@ -45,7 +45,7 @@ public class IndexFiles {
 			if(stopword) {
 				analyzer = new StandardAnalyzer(new BrazilianAnalyzer().getStopwordSet());
 			} else {
-				analyzer = new StandardAnalyzer();
+				analyzer = new StandardAnalyzer(new CharArraySet(Collections.emptyList(), true));
 			}
 		}
 		
@@ -75,10 +75,6 @@ public class IndexFiles {
 		Path p = Paths.get(indexDirectoryPath);
 		try {
 			Directory d = FSDirectory.open(p);
-			
-//			Analyz aux = new Analyz(stopword, stemming);
-//			Analyzer a = aux.getAnalyzer();
-			
 			
 			Analyzer analyzer = getAnalyzer(false, true);
 			

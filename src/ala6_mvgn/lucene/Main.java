@@ -7,7 +7,7 @@ import org.apache.lucene.queryparser.classic.ParseException;
 
 public class Main {
 
-	private static String indexDirectoryPath;
+	private static String indexDirectoryPath;// "C:\\Users\\Milton\\Documents\\Mineração Web\\Tarefa 1\\index";
 	private static String path;
 	private static Scanner input = new Scanner(System.in);
 	private static boolean stopword = false;
@@ -47,6 +47,14 @@ public class Main {
 		indexDirectoryPath = input.nextLine();
 	}
 
+	public static int nextAction() {
+		System.out.println("Choose your next step: ");
+		System.out.println("1 - Create a new query");
+		System.out.println("2 - Preparate and indexing the documents");
+		System.out.println("3 - Quit");
+
+		return input.nextInt();
+	}
 
 	public static void main(String[] args) throws IOException, ParseException {
 		loadInfo();
