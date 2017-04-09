@@ -5,13 +5,8 @@ import java.io.FileReader;
 import java.io.IOException;
 import java.nio.file.Path;
 import java.nio.file.Paths;
-import java.util.Arrays;
 
 import org.apache.lucene.analysis.Analyzer;
-import org.apache.lucene.analysis.CharArraySet;
-import org.apache.lucene.analysis.br.BrazilianAnalyzer;
-import org.apache.lucene.analysis.en.EnglishAnalyzer;
-import org.apache.lucene.analysis.standard.StandardAnalyzer;
 import org.apache.lucene.document.Document;
 import org.apache.lucene.document.Field;
 import org.apache.lucene.document.TextField;
@@ -21,18 +16,15 @@ import org.apache.lucene.store.Directory;
 import org.apache.lucene.store.FSDirectory;
 
 // Indexing Process: Document >> Analyzer >> IndexWriter >> Directory
-
-
 public class IndexFiles {
 
-	private static boolean stopword;
+	private boolean stopword;
 	private boolean stemming;
 	private IndexWriter writer;
 
 	public IndexFiles(boolean stopword, boolean stemming) {
 		this.stemming = stemming;
 		this.stopword = stopword;
-
 	}
 
 	// Index document
@@ -68,8 +60,6 @@ public class IndexFiles {
 			e.printStackTrace();
 		}
 
-
-		
 		writer.close();
 	}
 	
@@ -88,12 +78,12 @@ public class IndexFiles {
 	}
 
 	
-	public static boolean isStopword() {
+	public boolean isStopword() {
 		return stopword;
 	}
 
-	public static void setStopword(boolean stopword) {
-		IndexFiles.stopword = stopword;
+	public void setStopword(boolean stopword) {
+		this.stopword = stopword;
 	}
 
 	public boolean isStemming() {
