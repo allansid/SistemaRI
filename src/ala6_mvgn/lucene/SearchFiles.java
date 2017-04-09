@@ -22,12 +22,14 @@ import org.apache.lucene.store.FSDirectory;
 public class SearchFiles {
 	private boolean stopword;
 	private boolean stemming;
+	private String query;
 	IndexSearcher indexSearch;
 	TopDocs hits;
 	
-	public SearchFiles(boolean stopword, boolean stemming) {
+	public SearchFiles(String query, boolean stopword, boolean stemming) {
 		this.stopword = stopword;
 		this.stemming = stemming;
+		this.query = query;
 	}
 	
 	public void searcher(String indexDirectoryPath) throws IOException, ParseException {
@@ -42,12 +44,12 @@ public class SearchFiles {
 		String field = "";
 		QueryParser queryParser = new QueryParser(field, a);
 		
-		Term term = new Term("contents", "os");
-		Query query = new TermQuery(term);
+		Term term = new Term("contents", query);
+		Query termQuery = new TermQuery(term);
 		
 		//Query query = queryParser.parse(null);
 		
-		hits = indexSearch.search(query, 30);	
+		hits = indexSearch.search(termQuery, 30);	
 
 		printResult();
 	}
