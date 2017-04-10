@@ -119,7 +119,7 @@ public class SearchFiles {
 		
 		for (ScoreDoc scoreDoc : docs) {
 			Document doc = indexSearch.doc(scoreDoc.doc);
-			System.out.println(doc.getField("fieldname"));
+			System.out.println(doc.getField("fieldname").stringValue());
 		}
 	}
 
