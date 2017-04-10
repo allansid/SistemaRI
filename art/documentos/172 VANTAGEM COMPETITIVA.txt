@@ -1,21 +1,5 @@
-TECNOLOGIA DA INFORMAÇÃO COMO VANTAGEM COMPETITIVA
-Por
-Oscar Fernando Osorio Balarine
-RAE-eletrônica, Volume 1, Número 1, jan-jun/2002.
-http://www.rae.com.br/eletronica/index.cfm?FuseAction=Artigo&ID=1059&Secao=INFORMAÇÃO&Volume=1&Numero=1&Ano=2002
-©Copyright, 2002, RAE-eletrônica. Todos os direitos, inclusive de tradução, são reservados. É permitido citar parte de artigos sem autorização prévia desde que seja identificada a fonte. A reprodução total de artigos é proibida. Os artigos só devem ser usados para uso pessoal e não-comercial. Em caso de dúvidas, consulte a redação: redacao@rae.com.br.
-A RAE-eletrônica é a revista on-line da FGV-EAESP, totalmente aberta e criada com o objetivo de agilizar a veiculação de trabalhos inéditos. Lançada em janeiro de 2002, com perfil acadêmico, é dedicada a professores, pesquisadores e estudantes. Para mais informações consulte o site www.rae.com.br/eletronica.
-RAE-eletrônica
-ISSN 1676-5648
-©2002 Editora: Fundação Getulio Vargas – Escola de Administração de Empresas de São Paulo.
-GESTÃO DA INFORMAÇÃO – TECNOLOGIA DA INFORMAÇÃO COMO VANTAGEM COMPETITIVA
-Oscar Fernando Osorio Balarine
-TECNOLOGIA DA INFORMAÇÃO COMO VANTAGEM COMPETITIVA
-Oscar Fernando Osorio Balarine
-Professor de Administração Financeira, Planejamento Estratégico e Teoria da Decisão. Mestre em Finanças pela Universidade Federal do Rio Grande do Sul. Doutor em Engenharia de Produção pela Universidade Federal de Santa Catarina e University of Salford – UK
-E-mail: balarine@pucrs.br
-Endereço: Av. Ipiranga, 6681 – Prédio 50 – Sala 1101. Porto Alegre - RS, 90619-900
-Interesses de pesquisa: Administração Financeira, Administração de Projetos, Análise de Investimentos, Análises de Viabilidade, Economia da Habitação, Engenharia Econômica, Gestão de Recursos Hídricos, Incorporações Imobiliárias, Planejamento Estratégico, Teoria da Decisão.
+VANTAGEM COMPETITIVA
+
 RESUMO
 Sob enfoque estratégico, este artigo procura oferecer uma visão do papel potencial da Tecnologia da Informação como um recurso competitivo. O artigo está organizado em seis seções, mostrando o impacto dos Sistemas de Informação, da Internet e do Comércio Eletrônico nos negócios, visando oferecer recomendações estratégicas.
 ABSTRACT
