@@ -1,0 +1,617 @@
+RAC, v. 4, n. 2, Maio/Ago. 2000: 51-66 51
+Motivação e Resistência ao Uso da Tecnologia da
+Informação: um Estudo entre Gerentes
+Donaldo de Souza Dias
+RESUMO
+Este trabalho analisa os aspectos motivadores e a resistência ao uso da tecnologia da informação
+por parte dos gerentes brasileiros. Foram coletados dados junto a gerentes pertencentes a 43 empresas
+com o objetivo de testar os fatores intrínsecos e extrínsecos que influenciam o uso desta tecnologia
+nos seus ambientes de trabalho. Investigamos três motivadores: utilidade, facilidade de uso e prazer.
+Os resultados mostram que estes três motivadores são interrelacionados e que o aspecto lúdico
+existente no uso de computadores é fator importante na avaliação destes equipamentos como úteis
+para os gerentes em suas atividades diárias. Por outro lado, a resistência pessoal ao uso da tecnologia
+da informação, em particular microcomputadores, aumenta a percepção destes equipamentos
+como instrumentos difíceis de serem usados e, indiretamente, diminui a percepção de sua utilidade.
+À luz destes resultados, são discutidas oportunidades e ações que cumpre sejam tomadas para
+melhor capacitar as empresas brasileiras no uso da moderna tecnologia da informação.
+Palavras-chaves: tecnologia da informação; interação homem-computador; motivação intrínseca;
+resistência à tecnologia; utilidade de microcomputadores.
+ABSTRACT
+This paper analyses the motivational aspects and resistance to the use of information technology
+by Brazilian managers. Data were gathered from managers working for 43 companies to test the
+intrinsic and extrinsic factors that influence the use of this technology in their workplace. Three
+motivating factors were studied: usefulness, easy of use and enjoyment. The results show that
+these motivators are interrelated and that enjoyment is an important factor for evaluating this
+technology as a useful one for managers’ daily activities. On the other hand, personal resistance to
+information technology, particularly microcomputers, increases the perception of this technology
+as a difficult one to be used and, indirectly, lessens the perception of its usefulness. Based on these
+results, we discuss opportunities and actions to be taken to capacitate Brazilian companies to do a
+better use of modern information technology.
+Key words: information technology; human computer interaction; intrinsic motivation; resistance
+to technology; microcomputer usefulness.
+52
+Donaldo de Souza Dias
+RAC, v. 4, n. 2, Maio/Ago. 2000
+INTRODUÇÃO
+A implantação da tecnologia da informação em uma organização é uma intervenção
+feita na organização visando a mudar o seu estado, com o intuito de
+aumentar a sua eficácia e eficiência. A utilização de microcomputadores para
+ajudar os indivíduos nas suas tarefas e tomada de decisão é uma das ações mais
+importantes que empreendemos, quando implementamos esta tecnologia efetivamente;
+entretanto o resultado destas intervenções, nem sempre coroadas do
+êxito esperado, e muitas vezes geradoras de dificuldades no que se refere à
+participação das pessoas no processo, nos levam freqüentemente a perguntar:
+. Que é que motiva os indivíduos a usar a tecnologia da informação nas
+organizações?
+. Por que certos indivíduos resistem ao uso desta tecnologia?
+Embora seja reconhecido que os microcomputadores trazem benefícios para
+os indivíduos e as organizações, algumas pessoas resistem ao seu uso no ambiente
+de trabalho e na vida privada. Um fato bem conhecido é a dificuldade que certas
+pessoas têm em lidar com os caixas automáticos bancários, sendo um exemplo
+extremo desta situação o estado de angústia que se apossa de certos aposentados
+ao terem de retirar mensalmente suas pensões, utilizando os cartões magnéticos
+fornecidos pelo INSS. Todos nós conhecemos casos em nossos relacionamentos
+que exemplificam esta realidade.
+De acordo com Igbaria, Parasuraman e Baroudi (1996), “o uso atual de microcomputadores
+por profissionais e gerentes não têm correspondido às expectativas
+das empresas”. Isto resulta em que o benefício potencial destas tecnologias não
+vem sendo completamente realizado. Tal situação tem levado, freqüentemente,
+à subutilização dos investimentos feitos em tecnologia da informação e à pressão
+sobre os recursos humanos das empresas para a utilização crescente de uma
+tecnologia em constante mutação que, muitas vezes, não é bem entendida e até
+os seus usuários lhe resistem.
+Pesquisas teóricas e empíricas têm tentado entender os motivadores mais
+importantes para a implantação e uso bem sucedido da tecnologia da informação
+nos ambientes de trabalho (Davis, 1989; Moore e Benbasat, 1991; Adams, Nelson
+e Tood, 1992; Igbaria, Iivari e Maragahh, 1995; Igbaria, Parasuraman e Baroudi,
+1996). Existe um consenso de que as pessoas envidam esforços para realizar
+RAC, v. 4, n. 2, Maio/Ago. 2000 53
+Motivação e Resistência ao Uso da Tecnologia da Informação: um Estudo entre Gerentes
+tarefas que lhes são agradáveis e oferecem recompensas, e que o uso de qualquer
+tecnologia é determinado por motivação tanto extrínseca quanto intrínseca (Deci,
+1975; Gill, 1996; Igbaria, Parasuraman e Baroudi, 1996). Entretanto Igbaria,
+Iivani e Maragahh (1995) afirmam que “temos estudado menos as razões intrínsecas
+que levam os indivíduos a aceitar a tecnologia da informação do que os
+motivadores extrínsecos que levam à sua utilização”. É de se notar que esta
+situação é particularmente grave em nosso país, onde se chega a considerar como
+falta de capacitação geral para o trabalho qualquer dificuldade ou resistência ao
+uso de microcomputadores.
+Nesta pesquisa enfocamos os três principais motivadores para o uso de
+computadores estudados na literatura, conforme percebidos pelos usuários:
+utilidade (Moore e Benbasat, 1991; Adams, Nelson e Todd, 1992; Igbaria, Iivari
+e Maragahh, 1995), facilidade de uso (Davis, 1989; Igbaria, Iivani e Maragahh,
+1995) e prazer (Igbaria, Iivari e Maragahh, 1995; Igbaria, Parasuraman e Baroudi,
+1996). Pretendemos descobrir, em um primeiro momento:
+. como os gerentes brasileiros se sentem relativamente ao uso da tecnologia dos
+computadores em seu ambiente de trabalho;
+. como o prazer em usar computadores e a percepção da facilidade de seu uso
+afetam o reconhecimento da utilidade dos computadores.
+Buscamos encontrar oportunidades para agir de acordo com este conhecimento
+visando a aumentar a qualidade do uso da tecnologia da informação em nossas
+organizações. Neste estudo nós enfatizamos os relacionamentos entre os
+motivadores estudados e a relação destes motivadores com a resistência ao uso
+de computadores no ambiente de trabalho. O impacto dos motivadores e da
+resistência ao uso no volume e sofisticação da utilização efetuada, ou mesmo
+na decisão de adotar esta tecnologia, foi considerado estar fora do escopo do
+nosso trabalho. Nosso estudo endereça-se especificamente às percepções dos
+gerentes brasileiros, no que tange aos fatores motivadores e aos bloqueios relacionados
+ao uso da tecnologia da informação em geral e, em particular, à tecnologia
+dos microcomputadores.
+Neste trabalho propomos, inicialmente, um modelo que relaciona os fatores
+motivadores e a resistência ao uso de computadores, com base em conhecimentos
+teóricos da área de psicologia. Em seguida, detalhamos as variáveis e a metodologia
+utilizada na pesquisa. Após a análise dos resultados obtidos, discutimos
+a existência de fatores que poderiam ampliar o escopo de estudos futuros sobre
+o tema e apresentamos nossas conclusões sobre o estudo realizado. Os resultados
+obtidos em nossa pesquisa ressaltam a pertinência e a validade do modelo
+proposto.
+54
+Donaldo de Souza Dias
+RAC, v. 4, n. 2, Maio/Ago. 2000
+O MODELO DA PESQUISA
+As relações entre os motivadores e a resistência ao uso de microcomputadores
+foram analisadas por meio do modelo proposto na Figura 1. Ele está baseado na
+precedência natural de estímulos intrínsecos sobre estímulos extrínsecos no
+comportamento do ser humano, conforme proposto pela teoria da psicanálise
+(Freud, 1974, 1976a, 1976c).
+Sabemos que uma análise baseada em relacionamentos não pode ser utilizada
+diretamente para justificar causalidade, uma vez que correlações medem apenas
+o grau em que variáveis se comportam de maneira semelhante; entretanto estamos
+usando um modelo path analysis com base na visão de Blalock (1972), segundo
+a qual “o objetivo básico de qualquer ciência é estabelecer relações de causalidade
+e, uma vez que a teoria é capaz de mostrar uma conexão lógica entre duas
+variáveis, poderemos fazer o exercício intelectual de utilizar uma interpretação
+causal”. Prazer e resistência ao uso são os estímulos intrínsecos básicos que, em
+nosso modelo, influenciarão a percepção dos usuários com relação à facilidade
+de uso e à utilidade dos computadores em seus ambientes de trabalho.
+Figura 1: Modelo Motivacional do Uso da Tecnologia da Informação
+Facilidade
+de uso
+Prazer
+Utilidade
+Resistência
+RAC, v. 4, n. 2, Maio/Ago. 2000 55
+Motivação e Resistência ao Uso da Tecnologia da Informação: um Estudo entre Gerentes
+VARIÁVEIS
+Utilizamos o conceito de utilidade percebida com relação ao uso de microcomputadores
+conforme definido por Davis (1986), no desenvolvimento do seu
+technology acceptance model: “grau em que um indivíduo acredita que utilizar
+um sistema particular melhoraria o seu desempenho no trabalho”. Foram utilizadas
+sentenças para capturar a utilidade do uso de computadores, percebida pelos
+gerentes no seu ambiente de trabalho, que consideraram estes aspectos:
+. qualidade do trabalho;
+. rapidez na execução das tarefas;
+. melhoria na produtividade;
+. utilidade dos computadores para o trabalho em geral.
+O conceito de facilidade percebida pelo usuário para o uso de microcomputadores
+foi definido por Davis (1986) no technology acceptance model: “grau em
+que um indivíduo acredita que utilizar um sistema particular seja livre de esforço
+físico ou mental”. Foram usadas sentenças para capturar a facilidade percebida
+pelos gerentes relativamente ao uso de computadores em seu ambiente de trabalho,
+considerando:
+. facilidade de uso da tecnologia em si;
+. facilidade do uso de computadores na execução de tarefas;
+. facilidade de uso para o apoio ao trabalho gerencial como um todo.
+Utilizamos o conceito de prazer percebido pelo usuário com o uso de microcomputadores
+conforme foi definido por Davis, Bagozzi e Warshaw (1992):
+“grau em que a atividade de usar o computador é percebida como prazerosa em
+si mesma, independentemente de qualquer conseqüência de desempenho que
+possa ser antecipada”. Frases para capturar o prazer percebido pelos gerentes
+relativamente ao uso de computadores em seu ambiente de trabalho consideraram
+os seguintes sentimentos:
+. excitação;
+. envolvimento;
+. diversão.
+Alguns indivíduos criam bloqueios pessoais ao uso da tecnologia em geral
+(Pirsig, 1984) e, em particular, à tecnologia de computadores (Raub, 1981;
+56
+Donaldo de Souza Dias
+RAC, v. 4, n. 2, Maio/Ago. 2000
+Heinssen, Glass e Knight, 1987; Igbaria e Parasuraman, 1989; Martocchio, 1994).
+Eles resistem ao uso da tecnologia, experimentam angústia, um estado particular
+de ansiedade, quando têm de lidar com computadores. Freud (1976b) definiu
+que “a angústia resulta de um perigo ou uma ameaça de perigo, [...] como
+sentimento, ela tem uma característica claramente desagradável”. A resistência
+ao uso de computadores pelos gerentes em seu ambiente de trabalho foi capturada
+em frases que apontavam:
+. a angústia experimentada para a execução de tarefas que necessitassem o uso
+de computadores;
+. o nível de motivação com relação ao uso desta tecnologia;
+. quão agradável era percebido o uso dos computadores pelos gerentes.
+METODOLOGIA
+Foi realizado um levantamento com 55 gerentes participantes do MBA/
+Executivo do Instituto de Ensino e Pesquisa em Pós-Graduação da Universidade
+Federal do Rio de Janeiro (COPPEAD/UFRJ). Os respondentes trabalhavam em
+43 organizações, que variavam de pequenas empresas a grandes corporações,
+localizadas no Estado do Rio de Janeiro. As empresas eram: 23% multinacionais;
+58% de capital privado, brasileiro; e 19% do Governo. A idade média dos respondentes
+foi 36 anos, com uma média de 11 anos de experiência profissional. Todos
+os participantes da pesquisa possuíam curso superior completo.
+O questionário utilizado tinha 15 afirmativas, apresentadas de forma aleatória,
+cobrindo as 4 variáveis estudadas na pesquisa, usando escala Likert de 7 pontos,
+variando de (1) discordo totalmente a (7) concordo plenamente, conforme se
+apresenta no Anexo 1. As variáveis obtidas, que utilizaram 13 das 15 afirmativas
+do questionário, alcançaram bom coeficiente de confiabilidade interna (alfa de
+Crombach), conforme podemos ver a seguir:
+. utilidade: a=0,89;
+. facilidade de uso: a=0,90;
+. prazer: a=0,68;
+. resistência: a=0,74.
+O modelo path analysis foi testado utilizando-se o procedimento regressão
+múltipla, do SPSS para o Windows. Foi tomado cuidado para minimizar as
+RAC, v. 4, n. 2, Maio/Ago. 2000 57
+Motivação e Resistência ao Uso da Tecnologia da Informação: um Estudo entre Gerentes
+violações das suposições que baseiam o path analysis (Billings e Wroten apud
+Igbaria e Parasuraman, 1989; James apud Igbaria e Parasuraman, 1989). O exame
+da correlação entre as variáveis independentes, prazer no uso e resistência ao
+uso de computadores, não revelou multicolinearidade, isto é, seu coeficiente de
+correlação foi menor que 0,80. Na verdade, estas duas variáveis apresentaram
+coeficiente de correlação negativo e efeitos opostos sobre as variáveis
+dependentes, conforme poderemos ver na análise dos resultados da pesquisa
+apresentados a seguir.
+Visando a entender melhor os resultados do levantamento e gerar recomendações
+para aumentar o nível de motivação e satisfação com o uso da tecnologia
+da informação em nosso país, realizamos um estudo qualitativo, independente,
+com 22 participantes do MBA/Executivo que não participaram de nossa pesquisa
+quantitativa e que possuíam perfil semelhante àquele dos participantes do
+levantamento. Eles foram divididos em seis grupos, sendo pedido a cada grupo
+isto:
+. discutir as suas experiências no uso da tecnologia da informação em suas
+empresas, levando em consideração: resistências pessoais ao uso de computadores,
+situações em que esta tecnologia é utilizada de maneira compulsiva
+pelos funcionários, motivadores para o uso de computadores para a execução
+de tarefas e cultura organizacional;
+. propor ações que achassem que deveriam ser tomadas para a implantação da
+tecnologia da informação em seus ambientes de trabalho e que pudessem levar
+a um uso mais eficaz desta tecnologia.
+RESULTADOS
+A Tabela 1 apresenta o valor médio das respostas para as afirmativas do questionário
+e a média obtida para as variáveis da pesquisa. Os gerentes entrevistados
+se mostraram muito motivados pela utilidade dos computadores (média=6,29;
+d.p.=0,86). Os maiores motivadores para usar a tecnologia de computadores no
+trabalho foram:
+. são úteis para o trabalho (média = 6,44; d.p. = 0,90);
+. aumentam a qualidade do trabalho (média = 6,33; d.p. = 0,98);
+. agilizam a execução das tarefas (média = 6,25; d.p. = 1,00); e
+. melhoram a produtividade (média = 6,13; d.p. = 1,07).
+58
+Donaldo de Souza Dias
+RAC, v. 4, n. 2, Maio/Ago. 2000
+Os baixos valores encontrados para o desvio padrão das afirmativas relativas à
+utilidade dos computadores mostram alto grau de concordância dos entrevistados
+com relação à utilidade dos computadores como ferramenta de apoio para o seu
+dia-a-dia no trabalho.
+Tabela 1: Motivação e Resistência
+Os gerentes entrevistados, em geral, declararam achar fácil utilizar
+computadores (média=5,40; d.p.=1,36) e sentir prazer em utilizá-los (média=4,28;
+d.p.=1,41). A maior variância de facilidade de uso e prazer em usar o computador
+mostra que há menor unanimidade quanto ao poder motivador destes fatores
+para os gerentes brasileiros. Encontramos baixo grau de resistência (média=2,26;
+d.p.=1,10) ao uso da tecnologia da informação. Este é um resultado muito positivo
+e mostra como o nosso corpo gerencial está preparado para as mudanças que
+estão acontecendo na maneira de operar e gerenciar as nossas empresas.
+Nossos resultados confirmaram o encontrado por Igbaria, Parasuraman e
+Baroudi (1996), em estudo realizado com profissionais e gerentes de empresas
+americanas, em que a utilidade dos computadores foi considerada como fator
+mais importante do que os aspectos lúdicos e de pressão social para a utilização
+destes equipamentos. Confirmaram, também, o resultado do estudo realizado
+por Igbaria, Iivari e Maragahh (1995) com profissionais e gerentes de empresas
+finlandesas, que declararam usar computadores, principalmente, por perceberem
+Descrição Média
+Afirmativa Variável
+Utilidade 6,29
+Aumenta a qualidade do trabalho
+Agiliza a execução das tarefas
+Melhora a produtividade
+Úteis para o trabalho
+6,33
+6,25
+6,13
+6,44
+Facilidade de us o 5,40
+Fácil para executar tarefas
+Fácil para realizar trabalho
+Fácil de usar
+5,69
+5,35
+5,15
+Prazer 4,28
+Excitante de usar
+Esquecer o tempo quando usa
+Usar é divertido
+4,53
+3,75
+4,56
+Res is tência 2,26
+Angústia ao usar
+Desmotivado em utilizar
+Desagradável de usar
+1,93
+2,45
+2,41
+RAC, v. 4, n. 2, Maio/Ago. 2000 59
+Motivação e Resistência ao Uso da Tecnologia da Informação: um Estudo entre Gerentes
+que eram ferramentas úteis para melhorar a sua atuação no trabalho e, secundariamente,
+por achar agradável usá-los.
+Os coeficientes de correlação entre as quatro variáveis de nosso modelo se
+apresentaram significantes, como pode ser visto na Tabela 2. Estes resultados
+mostram, em uma primeira análise, o forte coeficiente negativo de correlação
+entre a facilidade de uso de computadores e a resistência ao seu uso (-0,7519,
+p=0,001).
+Tabela 2: Matriz de Coeficientes de Correlação
+Os resultados da regressão múltipla e os coeficientes beta representando os
+efeitos diretos das diversas variáveis apresentam-se na Figura 2. Ela documenta
+a rede dos relacionamentos causais significantes entre as variáveis da pesquisa.
+Quanto mais o gerente tem resistência pessoal à tecnologia de computadores,
+mais difícil ele acha usá-los. Encontramos um coeficiente beta=-0,70 com grau
+de significância p=0,001 para esta relação. Por outro lado, a percepção da utilidade
+dos computadores é diretamente influenciada pelo prazer em usá-los (beta=0,32;
+p=0,05) e pela percepção de que eles são fáceis de usar (beta=0,39; p=0,05). A
+influência da resistência ao uso de computadores por parte dos gerentes sobre a
+percepção de sua utilidade acontece apenas indiretamente, por meio da influência
+negativa da resistência sobre a facilidade de uso.
+Considerando-se, entretanto, a relação negativa existente entre resistência ao
+uso de computadores e o prazer em seu uso (r=-0,4693; p=0,001), poderíamos
+afirmar que, se conseguirmos maneiras de diminuir o sentimento inconsciente
+de rejeição à tecnologia da informação, existente em certos gerentes, poderemos
+aumentar neles o prazer do uso desta tecnologia e gerar uma sensação de maior
+facilidade de uso. A conjugação destes dois efeitos levaria, certamente, a uma maior
+conscientização da utilidade da tecnologia da informação por parte destes gerentes.
+Esta suposição é coerente com os resultados de Martocchio (1994). Ele verificou,
+em experimento de campo realizado com funcionários em treinamento, que aqueles
+que revelaram um comportamento que buscava a aquisição de competência sentiram
+uma diminuição de sua ansiedade com relação ao uso de microcomputadores e
+um aumento do sentimento de uso eficaz destes equipamentos, quando comparados
+com empregados já acomodados com relação às competências que possuíam.
+Utilidade Facilidade uso Prazer
+Facilidade uso –0,4576***
+Prazer –0,4534*** –0,4433***
+Resistência –0,3539*** –0,7519*** –0,4693***
+** p = 0,01; *** p = 0,001
+60
+Donaldo de Souza Dias
+RAC, v. 4, n. 2, Maio/Ago. 2000
+Figura 2: Resultados do Modelo
+Resistência
+Facilidade
+de uso
+Prazer
+Utilidade
+0,32*
+0,39*
+-0,70*** * p = 0,05; *** p = 0,001
+As principais ações sugeridas no estudo qualitativo, consistentes com Whyte,
+Bytheway e Edwards (1997), e os fatores motivacionais correspondentes por
+nós atribuídos aparecem na Tabela 3. Como podemos verificar pelo exposto naquela
+tabela, as ações sugeridas pelos grupos de trabalho são coerentes com os fatores
+motivacionais obtidos em nosso levantamento e consideram principalmente os
+aspectos de utilidade e facilidade de uso.
+Tabela 3: Ações para a Implantação Bem Sucedida
+da Tecnologia da Informação
+Ação Fator motivacional
+Desenvolver sistemas amigáveis facilidade uso/prazer
+Participação do usuário no desenvolvimento utilidade/facilidade uso
+Treinamento intensivo do usuário facilidade uso
+Vender o sistema para os usuários utilidade
+Acesso fácil aos microcomputadores facilidade uso
+Responder às necessidades dos usuários utilidade
+Usar tecnologia atualizada utilidade/prazer
+Usar tecnologia alinhada ao negócio da empresa utilidade
+RAC, v. 4, n. 2, Maio/Ago. 2000 61
+Motivação e Resistência ao Uso da Tecnologia da Informação: um Estudo entre Gerentes
+DISCUSSÃO
+Em contexto de estudo tão complexo como o que foi por nós abordado, fica
+claro que existem outros fatores que afetam o modelo proposto, principalmente
+se escolhermos uma população alvo menos específica. Podemos dizer que, no
+caso de nosso estudo, controlamos as seguintes variáveis antecedentes do modelo:
+. nível de educação (todos com nível superior);
+. ocupação (todos gerentes operacionais de firmas importantes);
+. região demográfica (todos da região do Rio de Janeiro).
+Duas variáveis foram propositadamente por nós desconsideradas como antecedentes
+neste estudo: idade e sexo. Por um lado, havia uma baixa relação sexo
+feminino/masculino (cerca de 15%) e era relativamente pequeno o intervalo das
+idades dos respondentes (28 a 44 anos – todos da mesma geração). Por outro lado,
+julgamos que sexo e idade costumam ser usados, freqüentemente, de maneira
+discriminatória no que concerne ao julgamento da capacidade de uso da tecnologia
+da informação. Por isto decidimos, no caso deste estudo, nos ater apenas às medidas
+da percepção dos gerentes relativas à sua interação com os microcomputadores.
+Para estudos futuros, a serem realizados em outras populações, estas e outras
+variáveis antecedentes poderão ser consideradas. Em particular, sugerimos a incorporação
+ao modelo de variáveis antecedentes que meçam traços de personalidade,
+baseadas na teoria de Jung (1971), como as desenvolvidas por Myers e Briggs
+(apud Briggs e Myers, 1983) ou Keirsey (apud Keirsey e Bates, 1978).
+CONCLUSÃO
+A pesquisa aqui descrita oferece várias contribuições para o entendimento dos
+aspectos motivadores e das resistências que os gerentes brasileiros têm com
+relação ao uso de computadores em seu ambiente de trabalho. O estudo confirmou
+a existência e o interrelacionamento de três motivadores citados na literatura:
+utilidade, facilidade de uso e prazer. Os gerentes afirmaram que usam a tecnologia
+de computadores principalmente porque acham que ela aumenta a qualidade do
+seu trabalho, agiliza a execução das tarefas sob a sua responsabilidade e melhora
+a sua produtividade. O estudo também mostrou a importância de que os computadores
+sejam fáceis de usar.
+62
+Donaldo de Souza Dias
+RAC, v. 4, n. 2, Maio/Ago. 2000
+Embora os gerentes tenham mostrado menos unanimidade com relação ao
+prazer em usar computadores, este motivador mostrou claramente a sua importância.
+O prazer age como motivador intrínseco, enquanto a utilidade é claramente
+motivador extrínseco, algo que fazemos para atingir os objetivos que são colocados
+pela organização. A competitividade com que são realizados os negócios
+hoje, e a ênfase na obtenção de mais eficiência na operação das empresas levam
+a um cuidado especial com o aspecto da utilidade da tecnologia da informação
+nas organizações.
+Os gerentes que participaram do estudo qualitativo enfatizaram que os sistemas
+de informação devem estar alinhados com o negócio da organização, devem ser
+amigáveis, fáceis de acessar, usar uma tecnologia atualizada e serem desenvolvidos
+com a participação dos usuários. Os sistemas devem, ainda, atender completamente
+às necessidades dos usuários, os quais devem ter amplo conhecimento e
+adequado treinamento sobre eles. As ações sugeridas por aqueles gerentes para
+uma implantação bem sucedida da tecnologia da informação influenciariam
+principalmente a utilidade e a facilidade de uso desta tecnologia nas empresas.
+Duas das ações propostas poderiam, segundo os gerentes, estimular o prazer
+com o uso da tecnologia da informação no ambiente de trabalho e diminuir a
+resistência ao seu uso: o desenvolvimento de sistemas amigáveis e a utilização
+de tecnologia atualizada. Considerando-se o papel motivador do prazer na utilização
+de computadores e o efeito nocivo da resistência ao seu uso, demonstrados
+em nossa pesquisa, deve ser motivo para indagações e estudos futuros verificar
+que outras ações poderiam atuar diretamente nestas variáveis, visando a aumentar
+a atratividade do uso de computadores pelos gerentes brasileiros.
+O modelo da pesquisa mostrou que quanto mais o gerente tem resistência
+pessoal à tecnologia de computadores, mais difícil ele acha usá-los. Por outro
+lado, a percepção da utilidade dos computadores é diretamente influenciada pelo
+prazer em usá-los e pela percepção de que eles são fáceis de ser usados. A
+influência da resistência ao uso de computadores sobre a percepção de sua utilidade
+acontece apenas indiretamente, como influência negativa da resistência
+sobre a facilidade de uso. Podemos supor que, se conseguirmos diminuir o
+sentimento inconsciente de rejeição à tecnologia da informação existente em
+certos gerentes, poderemos lograr mais prazer no uso desta tecnologia e uma
+sensação de maior facilidade de uso. A conjugação destes dois efeitos levaria
+certamente a uma crescente conscientização da utilidade da tecnologia da informação
+por parte desses gerentes.
+RAC, v. 4, n. 2, Maio/Ago. 2000 63
+Motivação e Resistência ao Uso da Tecnologia da Informação: um Estudo entre Gerentes
+ANEXO 1
+Favor marcar o seu nível de concordância ou discordância com as frases a
+seguir, relativas ao uso de computadores em seu ambiente de trabalho, na escala
+de sete pontos cujos valores variam de discordo totalmente (1) a concordo
+plenamente (7).
+D iscordo C oncordo
+– E u m e esqueço d o tem po, q uando estou usand o o
+co m p utad o r.
+1 2 3 4 5 6 7
+– U sar um co m p utad o r agiliza a e xecução d e m inh as
+tarefas.
+1 2 3 4 5 6 7
+– E u m e sinto m otivad o em realiza r atividades q u e utilize m
+co m p utad o r.
+1 2 3 4 5 6 7
+– E u acho q ue é fácil usar um co m p utad o r p ara exe cutar
+o m eu trabalho .
+1 2 3 4 5 6 7
+– O uso d e co m p utad o res é d ive rtido . 1 2 3 4 5 6 7
+– U sar co m p u tad o res m elho ra m inha p rodutivid a d e no
+trabalho .
+1 2 3 4 5 6 7
+– U sar c o m putador facilita a ex ecução d e m inhas tarefas. 1 2 3 4 5 6 7
+– É excitante usar co m p utadores. 1 2 3 4 5 6 7
+– U sar com putadores aum enta a qualid ad e d o m eu
+trabalho .
+1 2 3 4 5 6 7
+– F ico angustiado ao executa r tare fas q ue d em and em o
+uso d e com putador.
+1 2 3 4 5 6 7
+– E u acho fácil usar com putadores. 1 2 3 4 5 6 7
+– É agradável usar c om p utad o res no m eu trab a lho . 1 2 3 4 5 6 7
+– E u ac ho o s co m p utad o res úteis p ara o m eu trabalho . 1 2 3 4 5 6 7
+– E u acho q ue d everíam os usar c om putadores o m áxim o
+possíve l.
+1 2 3 4 5 6 7
+– U sar co m p utad o res aum enta o m eu p restígio. 1 2 3 4 5 6 7
+64
+Donaldo de Souza Dias
+RAC, v. 4, n. 2, Maio/Ago. 2000
+ADAMS, D.;
+NELSON, R.;
+TODD, P.
+Perceived usefulness, easy of use,
+and usage of information
+technology : a replication. MIS
+Quarterly, v. 16, p. 227-247,
+1992.
+BILLINGS, R.;
+WROTEN, S.
+Use of path analysis in industrial/
+organizational psychology :
+criticisms and suggestions.
+Journal of Applied Psychology,
+v. 63, p. 677-688, 1978.
+BLALOCK, H.
+Social statistics. New York :
+McGraw-Hill, 1972.
+BRIGGS, K.;
+MYERS, I.
+Myers-Briggs type indicator.
+C a l i f o r n i a : C o n s u l t i n g
+Psychologists Press, 1983.
+DAVIS, F.
+A technology acceptance model
+for empirically testing new end
+user information systems :
+theory and results. [S. l.], 1986.
+Thesis (Doctoral) - MIT.
+REFERÊNCIAS BIBLIOGRÁFICAS
+Perceived usefulness, perceived
+ease of use, and user acceptance
+of computer technology. MIS
+Quarterly, v. 13, p. 319-340,
+1989.
+DAVIS, F.;
+BAGOZZI, R.;
+WARSHAW, P.
+Extrinsic and intrinsic motivation
+to use computers in the
+workplace. Journal of Applied
+Social Psychology, v. 22, p.
+1111-1132, 1992.
+DECI, E.
+Intrinsic motivation. New York:
+Plenum, 1975.
+FREUD, S.
+Obras completas. Rio de Janeiro
+: Imago, 1974. v. 14. p.185-
+233.
+Obras completas. Rio de Janeiro
+: Imago, 1976a. v. 19. p.38.
+Obras completas. Rio de Janeiro
+: Imago, 1976b. v. 20. p. 95-
+201.
+Obras completas. Rio de Janeiro
+: Imago, 1976c. v. 22. p. 75-
+102.
+RAC, v. 4, n. 2, Maio/Ago. 2000 65
+Motivação e Resistência ao Uso da Tecnologia da Informação: um Estudo entre Gerentes
+GILL, T.
+Expert systems usage : task
+change and intrinsic motivation.
+MIS Quarterly, p. 301-328,
+Sept. 1996.
+HEINSSEN, R.;
+GLASS, C.;
+KNIGHT, L.
+Assessing computer anxiety :
+development and validation of
+the computer anxiety rating scale.
+Computers in Human
+Behavior, v. 3, p. 49-59, 1987.
+IGBARIA, M.;
+IIVARI, J.;
+MARAGAHH, H.
+Why do individuals use computer
+technology? A finnish case study.
+Information & Management, v.
+29, p. 227-238, 1995.
+IGBARIA, M.;
+PARASURAMAN, S.
+A path analytic study of
+individual characteristics,
+computer anxiety and attitudes
+toward microcomputers. Journal
+of Management, v. 15, p. 373-
+388, 1989.
+IGBARIA, M.;
+PARASURAMAN, S.;
+BAROUDI, J. J.
+A motivational model of
+microcomputer usage. Journal
+of Management Information
+Systems, v. 13, p. 127-143, 1996.
+JAMES, L.
+The unmeasured variables
+problem in path analysis. Journal
+of Applied Psychology, v. 65, p.
+415-421, 1980.
+JUNG, C.
+Psychological types. In:
+CAMPBELL, J. (Ed.). The
+portable Jung. New York :
+Penguin Books, 1971. p. 178-
+269.
+KEIRSEY, D.;
+BATES, M.
+Please understand me. New
+York : Prometheus Nemesis
+Book, 1978.
+MARTOCCHIO, J.
+Effects of conceptions of ability
+on anxiety, self-efficacy, and
+learning in training. Journal of
+Applied Psychology, v. 79, p.
+819-825, 1994.
+MOORE, G.;
+BENBASAT, I.
+Development of an instrument to
+measure the perceptions of
+adopting an information
+technology innovation.
+Information Systems Research,
+v. 2, p. 192-222, 1991.
+PIRSIG, R.
+Zen e a arte de manutenção de
+motocicletas. Rio de Janeiro :
+Paz e Terra, 1984.
+66
+Donaldo de Souza Dias
+RAC, v. 4, n. 2, Maio/Ago. 2000
+RAUB, A.
+Correlates of computer anxiety
+in college students. Pennsylvania,
+1981. Thesis (Doctoral) -
+University of Pennsylvania.
+WHYTE, G.;
+BYTHEWAY, A.;
+EDWARDS, C.
+Understanding user perception of
+information systems success.
+Strategic Information Systems,
+v. 6, p. 37-68, 1997.

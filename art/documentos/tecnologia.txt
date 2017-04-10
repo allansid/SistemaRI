@@ -1,0 +1,268 @@
+Curso: Administração
+Disciplina: Gestão de Sistemas, Informação e Métodos II     
+Profª Magali R. Maldonado
+
+
+
+TECNOLOGIA
+
+Se você não viver no futuro hoje,
+ viverá no passado amanhã.
+Peter Ellyard
+
+As Organizações além de serem sistemas de recursos regidos por regulamentos, também são sistemas que produzem, adquirem e utilizam tecnologia para transformá-la em produtos e serviços.
+Podemos definir tecnologia como a aplicação de conhecimentos à produção de bens e à prestação de serviços. A tecnologia transforma os recursos nas coisas que as pessoas desejam. Sendo assim incluem, não apenas instrumentos, máquinas e outros implementos, mas também os conhecimentos e as habilidades acumulados necessários à utilização de quaisquer instrumentos disponíveis.
+
+No mercado de negócios, há oferta e demanda constante de conhecimento para atender às necessidades de comunicação, transporte, alimentação, saúde etc. A capacidade de adquirir ou produzir novos conhecimentos e com eles gerar tecnologia para atender essas demandas, é um fator de contribui para a eficácia organizacional. A tecnologia é um meio pelo qual as Organizações podem atender às necessidades e desejos de seus clientes e usuários. Quanto mais capaz de gerar e utilizar tecnologia, mais a Organização se mantém atualizada e aumenta sua eficácia. 
+
+Há dois tipos principais de tecnologia: de produto e de processo. A tecnologia do produto compreende os conhecimentos relacionados ao seu projeto: forma e função. Já a tecnologia do processo compreende os conhecimentos necessários para transformar os materiais para obter o produto, envolve principalmente a definição das máquinas e equipamentos e seu arranjo dentro de um processo produtivo.
+
+•	Inovação Tecnológica: ocorre quando surge um novo produto ou processo no mercado. A inovação é uma mudança na tecnologia, uma nova forma de fazer algo. 
+
+             Um padrão de inovação tecnológica pode ser descrito da seguinte maneira:
+1.	É preciso haver uma necessidade, ou demanda, pela tecnologia. Sem a demanda, não há motivo para a inovação.
+2.	O atendimento da necessidade deve ser possível do ponto de vista teórico e, para isso, o conhecimento deve estar disponível.
+3.	Deve ser possível converter o conhecimento em aplicação prática, tanto em engenharia quanto em economia.
+4.	Deve haver disponibilidade de financiamento, mão-de-obra especializada, tempo, espaço e outros recursos para desenvolver a tecnologia.
+5.	A empresa identifica e organiza todos os elementos necessários.
+
+
+
+•	Meios de Aquisição de Tecnologia: Os conhecimentos que as Organizações transformam em tecnologia para garantir sua eficácia podem vir de várias fontes, Em alguns casos, predominam as fontes externas, em outros, a Organização desenvolve sua própria tecnologia. Essa escolha é chamada decisão de comprar ou fazer. Essas possibilidades têm suas vantagens e desvantagens.
+•	Algumas empresas criam uma área interna de pesquisa e desenvolvimento (P&D) que tem como finalidade pesquisar novos conhecimentos, desenvolver novos produtos ou serviços, solucionar problemas. Essa alternativa, tem como vantagem manter o conhecimento sob o domínio da empresa, mas normalmente o investimento é bastante alto.
+•	A tecnologia pode ser comprada, sem que a empresa precise investir no seu desenvolvimento. Na maioria das vezes, é a forma mais fácil de adquirir tecnologia.
+•	Outra forma é a aquisição de direitos através de patente*. 
+•	Como existem produtos  e processos que não podem patenteados, os mesmos podem ser copiados livremente. Exemplo: computadores. Essa reprodução é legal. Não deve ser confundida com falsificação (cópia e venda de produtos com marca alheia, como se fossem verdadeiros).
+•	Uma empresa pode também, no caso de resolver problemas pontuais; contratar organizações especializadas, como institutos de pesquisas, universidades etc. A vantagem dessa modalidade é o baixo custo.
+•	Outra forma não muito cara, é promover contatos pessoais que possibilitem a troca de experiências. Exemplos: congressos, palestras, seminários, workshops.
+•	Cooperativas de pesquisa e desenvolvimento é mais uma alternativa. Recebem a contribuição de diversas empresas e, em alguns casos, têm a participação e apoio do governo. As cooperativas desenvolvem a tecnologia que atende aos interesses comuns de seus participantes. A vantagem é a divisão dos custos.
+
+TECNOLOGIA DA INFORMAÇÃO
+
+Nos anos 90 o termo informática foi substituído pela expressão Tecnologia da Informação que caracteriza o conjunto de recursos tecnológicos e computacionais para a geração e uso da informação, abrangendo desde as redes de computadores às centrais telefônicas inteligentes, fibras óticas e comunicação por satélites.
+ 
+No início, a computação era tida como um mecanismo que tornava possível automatizar determinadas tarefas, principalmente em grandes empresas e nos meios governamentais. A evolução das telecomunicações permitiu que aos poucos os computadores passassem a se comunicar e com isso deixaram de apenas automatizar tarefas, passaram a lidar com a informação.
+
+A TECNOLOGIA DA INFORMAÇÃO (TI) pode ser definida como um conjunto de todas as atividades e soluções providas por recursos de computação no processamento das informações. A TI está fundamentada nos seguintes componentes:
+•	Hardware e seus dispositivos e periféricos
+•	Software e seus recursos
+•	Sistemas de telecomunicações
+•	Gestão de dados e informações
+Ao longo do tempo, várias foram as razões que disseminaram a utilização da TI:
+•	Melhoria dos processos internos das Organizações
+•	Aplicação de controles melhores
+•	Na maioria das vezes, a única maneira de realizar determinado trabalho
+•	Redução de custos
+•	Melhoria da qualidade e disponibilidade das informações importantes interna e externamente às Organizações
+
+Os sistemas de informação mais modernos oferecem às empresas grandes oportunidades para a melhoria dos processos internos e dos serviços prestados ao consumidor final.  O sucesso das Organizações passou a depender de sua capacidade de inovação nas áreas de produtos, serviços, canais e processos. 
+
+Nesse contexto, a tecnologia da informação assume um papel crítico, permitindo às Organizações transformar-se rapidamente e levar essas inovações ao mercado. A necessidade de operar num ambiente dinâmico faz com que as empresas precisem concentrar-se em adquirir excelência operacional, o que exige, entre outros requisitos, disponibilidade de sistemas de informação integrados, confiáveis e velozes, além de outras tecnologias, a fim de obter maior eficiência e controle operacional.
+
+O excelente aproveitamento das facilidades trazidas pela tecnologia da informação depende de um processo periódico e estruturado de planejamento. Para isso, as Organizações precisam se preocupar em adquirir uma visão estratégica de como os sistemas de informação deverão ser implementados ou alterados, de forma a atender as necessidades por um período considerado adequado. 
+
+O planejamento da informação deve resultar em um plano estratégico que defina a direção futura dos recursos da TI, refletindo as políticas, padrões e procedimentos de recursos de informação como um todo, oferecendo orientação para todas as áreas da Organização. O plano estratégico de TI ou plano diretor de TI é o ponto de partida para qualquer investimento em tecnologia, identificando as mudanças futuras que deverão constar dos planos e orçamentos do departamento de Tecnologia da Informação.
+
+
+SISTEMAS INTELIGENTES DE APOIO E SISTEMAS INTEGRADOS DE GESTÃO
+
+
+MRP – PLANEJAMENTO DAS NECESSIDADES DE MATERIAIS
+
+Criado na década de 60 o MRP – MATERIAL RESOURCE PLANNING (Planejamento das Necessidades de Materiais) é um sistema de inventário que consiste em tentar minimizar o investimento em estoques e produção. Em tese, o conceito do MRP é obter o material certo, no ponto certo, no momento certo, através de um planejamento de prioridades da programação mestra de produção. Este sistema tem funções de planejamento empresarial, de planejamento das necessidades de produção, controle e acompanhamento da fabricação, compras e contabilização dos custos, criação e manutenção da infra-estrutura de informação industrial.
+
+O grande propósito da implantação de um sistema MRP é o de buscar melhorar continuamente a rotatividade de estoque, o atendimento ao cliente, a produtividade de mão-de-obra, a utilização da capacidade, custo de material, o custo de transporte. Atender o cliente da melhor forma, com o menor investimento em estoque.
+
+São metas do sistema MRP:
+•	Diminuir custos de estocagem e movimentação.
+•	Controlar o tempo de vida e de validade em caso de produtos perecíveis. Além disto, o produto pode sofrer alterações de modelo, por exemplo.
+•	Excelência no atendimento ao cliente.
+•	Reduzir a improdutividade. A produtividade pode ser atingida e afetada por falta de materiais, tempo de preparação, quebra de máquina, horas extras, variação na equipe etc.
+•	Capacidade de previsibilidade quanto a manutenção de equipamentos, compras e produção.
+•	Capacidade de instalação para o atendimento, ou seja, a capacidade de atendimento ao cliente.
+•	Redução do custo de materiais e transporte.
+•	Redução do custo de obtenção.
+
+Funções e atividades que devem ser analisadas pelo sistema MRP
+1.	Previsão de Vendas 
+Prever e antecipar as necessidades dos clientes. Planejar e replanejar com base na previsibilidade, programando-se para compras e produção. 
+
+2.	Plano Mestre
+O desenvolvimento de um Plano Mestre se faz necessário para planejar o quanto será produzido nesta semana, na semana seguinte, na outra etc. No entanto não é porque planejasse vender 100 (cem) unidades que se fabricará 100 (cem) unidades.Nem sempre o planejado corresponde a necessidade de vendas. Se há sazonalidade, por exemplo, só será produzido mais por um certo período para atender as necessidades do pico de vendas. A alta administração deve perceber que o fluxo de caixa está implícito no Plano Mestre.
+
+3.	Liberação de Ordens
+Esta atividade envolve compra, produção e a definição, alteração ou revisão (do que, quanto e quando comprar; do que, quanto e quando produzir). A liberação das ordens está ligada ao Plano Mestre, sendo ele o responsável pelas decisões tomadas para o produto final.
+
+4.	Follow-up ou Planejamento de Prioridades
+Normalmente são dois segmentos, ambos consideram as ordens liberadas para compra e produção. São o segmento de compras com as ordens de compra e o de controle de produção com as ordens de produção.
+
+5.	Planejamento de Capacidades
+Consiste em constatar se existem altos e baixos ou ainda sobrecarga de capacidade de comprar, produzir e vender, podendo se tomar as decisões necessárias. Exemplo: Vendas quer um pedido novo. É possível ele ser atendido sem afetar os já existentes?
+
+
+
+6.	Manutenção dos Registros
+Além do controle de estoques é importante a atualização da lista de materiais. Através da contagem cíclica ou inventário rotativo pode-se conseguir a proximidade à realidade do estoque.
+
+
+MRP II – PLANEJAMENTO DE RECURSOS DE PRODUÇÃO
+
+MRP II – MANUFACTURING RESOURCE PLANNING é a evolução do sistema MRP e se propõe a fornecer dados que permitam às Organizações analisar todas as opções disponíveis relacionadas ao gerenciamento da manufatura.
+
+A lógica do MRP II está baseada no conceito de cálculo de necessidades, uma técnica de gestão que permite o cálculo das quantidades e dos momentos em que são necessários os recursos de manufatura (materiais, pessoas, equipamentos etc), para que se cumpram os programas de entrega de produtos com o mínimo de estoques.
+
+Num sistema de ponto de pedido, as ordens de produção são geradas para qualquer item a partir do seu nível de estoque (ponto de reposição). Já o sistema MRP II dispara ordens de produção de acordo com o cronograma de fabricação dos produtos finais.
+ O cálculo da necessidade de componentes é feito a partir do cálculo da necessidade de produtos finais. Com isto, a compra de itens adquiridos e a produção de itens fabricados internamente ocorrem apenas nos momentos e nas quantidades necessárias. 
+O objetivo principal é trabalhar com o mínimo de formação de estoques e com a garantia de que os prazos de entrega dos pedidos serão cumpridos. 
+
+Os principais módulos que compõem o sistema MRP II são:
+•	Planejamento de Produção
+•	Planejamento Mestre de Produção – MPS
+•	Cálculo de Necessidades de Materiais – MRP
+•	Cálculo de Necessidade de Capacidades – CRP
+•	Controle de Fábrica - SFC
+
+ERP – PLANEJAMENTO DAS NECESSIDADES DE NEGÓCIOS
+
+ERP – ENTERPRISE RESOURCE PLANNING  (Planejamento das Necessidades de Negócios) é uma evolução dos sistemas MRP (Material Requirement Planning) e MRP II (Manufacturing Resource Planning) projetados para o planejamento e controle de recursos produtivos (abrangiam funções restritas da área de suprimentos das indústrias). Surgiu na década de 90 quando a palavra chave passou a ser integração. 
+
+O princípio do sistema ERP está no uso de sistemas integrados que possibilitam a existência de processos de geração única de informações com fluxos contínuos e consistentes para toda a empresa. É orientado para processos de negócios e não para funções e departamentos, possuindo uma arquitetura aberta que permite operar com diversas plataformas de hardware, sistemas operacionais e banco de dados. Sua configuração fundamenta-se numa base de dados única que centraliza todas as transações realizadas nas diversas áreas da empresa e entre elas, possibilitando que os dados sejam armazenados e sem redundâncias, agilizando o processo de registro de dados e de tomadas de decisão, além de acelerar a realização dos processos.
+
+
+Projetado para fornecer integração completa dos sistemas de processamento de informações de negócios da Organização, o ERP é um pacote de softwares integrados, baseados em conceitos de sistemas direcionadores de eventos, incluindo a captura de dados financeiros e não financeiros e acesso facilitado a análise.
+
+Suas características principais:
+•	Orientação a Processos – conjunto de tarefas e procedimentos interdependentes realizados para alcançar determinado resultado empresarial, podendo extrapolar as fronteiras organizacionais.
+•	Base de Dados Única – permite que a informação seja compartilhada por toda a Organização, minimizando os problemas de inconsistência e duplicidade, eliminando o retrabalho nos registros de dados e conferindo confiabilidade às informações.
+•	Estruturado em Módulos – cada módulo suporta uma área da Organização como finanças, contabilidade, produção, logística etc. A quantidade de módulos utilizada pela Organização, é limitada em função de fatores como custo de implantação, possibilidade de integração com outros sistemas etc.
+•	Integração da Empresa – o sistema impõe sistematização no lançamento das informações, permitindo o controle em tempo real, refletindo sempre a situação real da Organização.
+•	Evolução do MRP II – o desenvolvimento do MRP dos ambientes de manufatura é o embrião do ERP.
+
+São diversos os objetivos do sistema ERP:
+
+•	Flexibilidade – uso de uma base de dados comuns
+•	Economia de custos – elimina o uso de interfaces manuais
+•	Eficiência – melhora o fluxo de informações dentro e fora da Organização
+•	Melhoria da qualidade e consistência dos relatórios – possibilita melhor comparação de dados
+•	Melhoria do processo de tomadas de decisão
+•	Eliminação da redundância de atividades
+•	Redução do lead time (tempos de produção) e tempos de resposta ao mercado
+•	Redução de inventários através do melhor gerenciamento de dados e informações mais rápidas e mais precisas
+•	Proporciona plataformas com multi-idiomas e multi-plantas através de sistemas mais robustos, para Organizações globais
+•	Redução do tempo de resposta do sistema
+•	Especialização
+
+Os processos (funcionalidades) do sistema ERP são apresentados em módulos, representando os vários conjuntos de atividades de uma Organização. Os módulos mais comuns com as respectivas funções são:
+
+•	Recursos Humanos – recrutamento e seleção, administração de pessoal, estrutura organizacional, desenvolvimento de pessoal, planejamento de custos de pessoal, gestão de capacitação e eventos, avaliação de tempos, capacidade de pessoal e planejamento de turnos, relação de funcionários, contabilização de gastos de viagem.  
+•	Contabilidade Financeira – contabilidade geral, contas a receber, contas a pagar, ativos fixos, consolidação, livros especiais.
+•	Controladoria – contabilidade por centros de custos e gastos gerais, custeio por atividades, custos de produção, análise de rentabilidade.
+•	Investimentos de Capital – planejamento, orçamento e controle de investimentos; projeção, simulação e cálculos de amortização.
+•	Tesouraria – administração de caixa (administração de tesouraria, mercado de capitais, de valores, empréstimos, câmbio, mercado de derivados), administração de riscos de mercado.
+•	Vendas e Distribuição – relação de clientes e produtos; promoções e atividades de vendas; consultas, cotações e pedidos; verificação de crédito, determinação de preços, verificação de disponibilidades, configuração de variantes, venda e faturamento entre as empresas; reposição, relação e exclusão de materiais; pedidos programados; envio, transporte e comércio exterior; faturamento, processamento de descontos e devoluções, sistema de informações de vendas, planejamento e remuneração.
+•	Manutenção - administração de objetos técnicos, planejamento de manutenção e serviços, gestão de avisos e pedidos de manutenção e serviços, planejamento de capacidades, sistema de informações de manutenção e serviços.
+•	Materiais – planejamento das necessidades de materiais (MRP de consumo), compras, contagens cíclicas, gestão de materiais, verificação de faturas; verificação, administração e controle de inventários; gestão de estoques (controle de situações), sistema de informações de compras.
+•	Qualidade – planejamento, inspeção e controle de qualidade; notificações e certificados de qualidade, sistema de informações de administração de qualidade.
+•	Produção – planejamento de vendas, produção e necessidades de materiais, previsões, planejamento de recursos de fabricação (MRP II) e capacidade, Kanban, fabricação repetitiva, planejamento de longo prazo e cenários de simulação, reunião de dados de planta, determinação de custos e gestão de projetos.
+•	Produção em Indústrias de Processos – administração de recursos, administração de fórmulas e processos, planejamento, programação e execução de processos, administração de informação de produção.
+•	Controle de Empresa – sistema de informação executiva (EIS), planejamento de negócios e projeção, contabilidade para centro de benefícios, consolidação.
+•	Workflow (WF) – definição da estrutura organizacional (postos e funções), esquemas de fluxo de trabalho pré-definidos, ferramenta gráfica para definir novos esquemas, sistema de informação.
+
+Os principais fornecedores do sistema ERP, responsáveis por cerca de 60% de participação no mercado são:
+
+•	SAP – fundada em 1972 por cinco engenheiros da IBM, possui a maior participação de mercado com o seu sistema R/3 (sistema dividido em quatro seções: manufatura e logística, vendas e distribuição, contabilidade financeira e recursos humanos).
+•	Peoplesoft – sua marca foi desenvolvida com o software de recursos humanos. Atualmente direciona seu foco à área de serviços com produtos designados a auxiliar as Organizações a gerenciar seus custos intangíveis.
+•	Oracle – apesar de ser um nome de peso no mercado de banco de dados, também possui uma solução ERP destinada geralmente a fabricantes de produtos de consumo.
+•	Baan – com 20 anos de existência, esta empresa holandesa tem ganho participação de mercado ao vender seu produto para clientes receosos com o sistema SAP.
+•	J. D. Edwards – apesar de comercializarem softwares por muito tempo, só recentemente vieram a público com sua solução ERP.
+
+CRM – GERENCIAMENTO DO RELACIONAMENTO COM OS 
+            CLIENTES
+
+O sistema CRM – CUSTOMER RELATIONSHIP MANAGEMENT é apontado como o novo e inevitável caminho para a sobrevivência nos negócios. Mais do que uma nova chance de venda de soluções tecnológicas, o sistema prega uma revolução no modelo tradicional de marketing e vendas. O cliente precisa ser visto por todas as áreas da mesma maneira e a comercialização não deve focar os produtos, mas sim as necessidades de cada consumidor.
+O CRM passou a ser chave mestra de um negócio a partir da implantação do comércio eletrônico (e-commerce), pois as empresas da Internet aplicaram ferramentas e conceitos de gestão de clientes que geraram vantagens competitivas sobre as empresas tradicionais: reconhecimento, personalização de sites, comunicação dirigida e personalizada, inteligência na análise de dados etc.
+
+O conceito CRM aborda tudo que se identifica e participa da relação com os clientes. A base da aplicação desse conceito está na segmentação de mercado. A partir daí faz-se diferenciação no tratamento, resultando assim a fidelização dos clientes.
+
+A base do CRM é composta de um conjunto de processos: identificar o cliente certo, lhe oferecer o que interessa, no momento em que precisa, através do canal adequado.Segundo pesquisas, vender para um novo cliente custa 10 (dez) vezes mais do que a venda para um antigo cliente.
+
+CRM implica em mudança na filosofia de trabalho da Organização, uma orientação a clientes. Sua implementação deve ter três objetivos principais:
+
+•	Identificar e manter clientes mais lucrativos, ou de maior valor. Quanto mais uma empresa conhece as preferências individuais de seus melhores clientes, mais pode personalizar sua oferta de produtos e/ou serviços, Isto torna a fidelidade conveniente para o cliente.
+•	Identificar e desenvolver relacionamentos com clientes de maior potencial. Muitas vezes, o cliente tem necessidades que são satisfeitas pela concorrência.
+•	Identificar os clientes que dão prejuízos à Organização. O que fazer com eles?  Deve-se saber pelo menos quem são, quanto custa atendê-los e se possível eliminar ou diminuir  o custo desse atendimento.
+
+Tornar a Organização sensível às diferenças que existem entre os clientes é o primeiro passo para garantir a fidelidade dos melhores. O relacionamento contínuo também é conveniente ao consumidor. 
+
+O CRM auxilia as Organizações a utilizar os recursos tecnológicos e humanos para conhecer profundamente o comportamento e o valor de seus clientes. Seus propósitos são:
+•	Fornecer melhores serviços aos clientes
+•	Vender produtos cruzados com mais eficácia
+•	Auxiliar a equipe de vendas a fechar negócios mais rapidamente
+•	Simplificar os processos de marketing e vendas
+•	Descobrir novos clientes
+•	Aumentar a receita dos clientes
+
+O sistema pode ser dividido em três tipos, conforme sua abrangência:
+
+•	CRM Operacional: aplicação da tecnologia de informação para melhorar a eficiência do relacionamento entre os clientes e a Organização.
+•	CRM Colaborativo:  aplicação da tecnologia de informação que permite a automação e a integração entre todos os pontos de contato do cliente com a Organização.
+•	CRM Analítico: componente do CRM que permite identificar e acompanhar diferentes tipos de clientes (maior valor, maior potencial, os não rentáveis) dentro da carteira de clientes de uma Organização e determinar quais estratégias devem ser criadas para atender as diferentes necessidades desses clientes.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+REFERÊNCIAS
+
+
+
+CORRÊA, Henrique Luiz; GIANESE, Irineu G. Nogueira; CAON, Mauro. Planejamento, Programação e Controle de Produção. 4. ed. São Paulo: Atlas, 2001.
+
+CRM. Disponível em: <http://pt.wikipedia.org/wiki/CRM>
+Acesso em 12 jan. 2007.
+
+ERP. Disponível em: <http://pt.wikipedia.org/wiki/ERP>
+Acesso em 12 jan. 2007.
+
+SOUZA, Michel de. ERP. Disponível em: <http://www.imasters.com.br/artigo/1636/bi/erp_enterprise_resouce_planning/>
+Acesso em 12 jan. 2007.
+
+
+
+
+

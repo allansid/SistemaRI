@@ -1,0 +1,964 @@
+Artigo 0100010001100001
+0101011110101000
+0100010001100001010101111010100011101010111000101001110100101011100101001000110000101010111101010100110101011100010100111010010
+1011100101010001000110000101010010001000110000101010111101010001110101011101001110100101011100101001000110000101010110001110100
+0100010001100001
+0101011110101000
+01000100011000010101011110101000111010101110001010011101001010111001010010001100001010101111010
+10100110101011100010100111010010101110010101000100011000010101001000100011000010101011110101000 Vol. I - n0 02 - jul/dez 2005 101
+TECNOLOGI A DA IN FOR MAÇÃO E MUD ANÇ AS
+ORG ANI ZACION AIS
+Information technology and institutional changes
+Universidade IMES – São Caetano do Sul-SP
+Este artigo pretende contribuir para a identificação
+do papel exercido pela Tecnologia da Informação
+nas mudanças que ocorrem no ambiente
+organizacional. Adotou-se como estratégia a
+pesquisa exploratória, realizada com as empresas
+que compõem o Pólo de Cosméticos de Diadema,
+na Região do Grande ABC paulista. Os
+resultados obtidos nesta pesquisa mostraram a
+forte interação entre a TI e as mudanças organizacionais.
+A TI está disseminada na maioria das
+empresas que compõem o Pólo de Cosméticos e
+é vista como fator essencial para a melhoria dos
+processos organizacionais e um dos principais
+mecanismos para promover a aproximação entre
+as empresas e aperfeiçoar o processo de difusão
+da informação e do conhecimento dentro da rede.
+Apesar do uso cada vez mais intenso e amplo da
+TI nas organizações pesquisadas, constatou-se
+que a TI ainda não é empregada em toda sua potencialidade
+para responder com flexibilidade às
+mudanças do ambiente estratégico e operacional.
+A pesquisa mostrou ser evidente o impacto e as
+transformações que a TI pode provocar no ambiente
+empresarial, assumindo um papel de vital
+importância para a melhoria da competitividade
+das organizações.
+Palavras-chave: tecnologia da informação, mudança
+organizacional.
+Re sumo
+This article aims at contributing for the identification
+of the roles Information Technology
+(IT) plays in institutional changes. The
+strategy adopted for this study was the exploratory
+research, carried out in companies
+of The Brazilian Hub of Cosmetics, located
+in Diadema, in the state of Sao Paulo. The
+research results showed a strong interaction
+between IT and organizational changes. IT
+is disseminated in the great majority of the
+companies which compose the Hub of Cosmetics,
+and it is considered as an essential
+factor to improve institutional processes and
+as one of the main mechanisms to promote
+the approach of these companies, to perfect
+information and knowledge diffusion inside
+the hub. However, despite the fact that these
+institutions have been using IT in a stronger
+and deeper way, all its potential is not been
+used to flexibly respond to the changes of
+the strategical and operational environment.
+Another output of the research was the evident
+impact and transformations IT can cause
+on a business environment, playing a very
+important role for the improvement of theses
+organizations’ competitiveness.
+Keywords: Information technology, organizational
+changes.
+Abstract
+Enrico Rodrigues e Marco Antonio Saraiva Pinheiro
+01000100011000010101011110101000111010101110001010011101001010111001010010001100001010101
+11101010100110101011100010100111010010101110010101000100011000010101001000100011000010101
+Artigo 0100010001100001
+0101011110101000
+01000100011000010101011110101000111010101110001010011101001010111001010010001100001010101111010101001101010111000
+10100111010010101110010101000100011000010101001000100011000010101011110101000111010101110100111010010101110010100
+102 0100010001100001
+0101011110101000 Revista de Informatica Aplicada
+0100010001100001
+0101011110101000
+0100010001100001
+0101011110101000
+1. INTRODUÇ ÃO
+O ambiente contemporâneo de negócios tem sido
+marcado por uma dinâmica competitiva extremamente
+agressiva, em que a capacidade de monitoramento
+permanente do mercado e a sensibilidade quanto a
+mudanças de hábitos e necessidades dos clientes, bem
+como à incorporação dessas alterações nos produtos
+ou serviços da organização podem significar o sucesso
+ou o insucesso de um empreendimento.
+Em um ambiente caracterizado por mudanças,
+a Tecnologia da Informação (TI) assume um papel
+de vital importância para a melhoria da competitividade
+das organizações. Neste contexto, constata-
+se o aspecto dinâmico da interação entre as
+tecnologias e as organizações. O grande desafio
+será, pois, o de incutir flexibilidade e agilidade
+aos novos modelos organizacionais.
+Neste novo ambiente empresarial, marcado por
+profundas mudanças, diretamente relacionadas com
+o surgimento de novas tecnologias, as empresas
+têm realizado significativos investimentos em TI,
+passando a ter seus produtos, serviços e processos
+apoiados pela tecnologia, utilizando-a como uma
+poderosa ferramenta empresarial que altera as bases
+de competitividade estratégicas e operacionais das
+empresas (ALBERTIN, 1999).
+Com o objetivo de alcançar maiores índices
+de competitividade, as organizações têm adotado
+uma variada e complexa gama de tecnologias da
+informação para estabelecer novas formas de cooperação
+e colaboração entre setores, mantendo-se,
+porém, ágeis e flexíveis (POWELL, DENT-MICALLEF,
+1997). A TI desempenha importante papel
+no processo de rearranjo organizacional, não
+somente para mediar uma intensa troca de informações
+entre organizações e apoiar suas atividades,
+mas como o próprio meio através do qual as atividades
+e transações são realizadas, proporcionando
+uma maior adaptação às exigências dos mercados
+globais (TAPSCOTT e CASTON, 1995; VENKATRAMAN,
+1994).
+A evolução tecnológica provoca uma revisão profunda
+dos modelos organizacionais, alterando a natureza
+competitiva de muitas indústrias, promovendo
+a integração entre unidades de negócios e entre
+organizações, além de suas fronteiras. Os sistemas
+interorganizacionais permitem que fornecedores visualizem
+a demanda por seus produtos, ao mesmo
+tempo em que auxiliam os distribuidores no fortalecimento
+de suas redes de suprimento (TACHIZAWA
+e REZENDE, 2000).
+A adoção da TI possibilita a redefinição das fronteiras
+organizacionais e das relações interorganizacionais,
+possibilitando a integração das empresas com
+seus clientes e fornecedores, levando à constituição
+de redes de cooperação e ao desenvolvimento da capacidade
+de resposta das organizações às mudanças
+do ambiente. As novas Tecnologias de Informação
+oferecem a infra-estrutura necessária à integração de
+interesses e à cooperação entre clientes, empresas e
+fornecedores, gerando redução de custos e o uso coletivo
+de conhecimentos, tecnologia, meios produtivos
+e comerciais (BACHMANN, 1999).
+A implantação da TI em uma organização consiste
+em uma mudança tecnológica que visa interligar
+as diferentes áreas dentro da mesma, bem como o redesenho
+da estrutura e das fronteiras da organização,
+com o intuito de aumentar a sua eficácia e eficiência
+para alcançar vantagem estratégica (DIAS, 2000).
+Este artigo tem o objetivo de contribuir para a
+identificação do papel exercido pela TI nas mudanças
+que ocorrem no ambiente organizacional. Com este
+intuito, inicialmente é realizada uma revisão bibliográfica,
+destacando a relação entre o uso da TI e as
+mudanças organizacionais. Em seguida, apresenta-se
+uma breve descrição do Pólo de Cosméticos de Diadema,
+em cujas empresas esta pesquisa foi realizada.
+Na seqüência, aborda-se a metodologia, seguida da
+Artigo 0100010001100001
+0101011110101000
+0100010001100001010101111010100011101010111000101001110100101011100101001000110000101010111101010100110101011100010100111010010
+1011100101010001000110000101010010001000110000101010111101010001110101011101001110100101011100101001000110000101010110001110100
+0100010001100001
+0101011110101000
+01000100011000010101011110101000111010101110001010011101001010111001010010001100001010101111010
+10100110101011100010100111010010101110010101000100011000010101001000100011000010101011110101000 Vol. I - n0 02 - jul/dez 2005 103
+análise e discussão dos resultados da pesquisa. Por
+fim, são feitas algumas considerações quanto aos resultados
+encontrados.
+2. TECNOLOGI A DA IN FOR MAÇÃO
+Tecnologia da Informação é todo tipo de tecnologia
+que envolve o processamento de dados, informações
+e comunicação integrada, utilizando-se de recursos
+e equipamentos eletrônicos (TORRES, 1996).
+É composta pelos recursos tecnológicos e computacionais
+para geração, processamento, gerenciamento,
+armazenamento e uso de dados e informações. Fundamenta-
+se basicamente nos seguintes componentes:
+hardware e seus dispositivos e periféricos; software e
+seus recursos e aplicativos; sistemas de telecomunicações,
+e pessoal associado (CHILD, 1987; DAVENPORT
+et al., 1990; LAUDON e LAUDON, 2004).
+Os Sistemas de Informação (SI) são um conjunto
+de partes (software, hardware, recursos humanos e
+procedimentos) que geram informações. Têm como
+maior objetivo o apoio aos processos de tomada de
+decisões na empresa e o seu foco está direcionado ao
+principal negócio da organização. Genericamente, os
+SI podem ser classificados em operacional, gerencial
+e estratégico. Os Sistemas de Informação Gerencial
+(SIG) são conhecidos como sistemas de apoio à gestão
+empresarial (SAGE), sistemas gerenciais (SG) ou
+Management Information Systems (MIS). O significado
+e propósito dos sistemas de informação dizem
+respeito ao seu impacto nas decisões e estratégias
+empresariais (LAUDON e LAUDON, 2004).
+Os investimentos em TI, na maior parte das organizações,
+estão vinculados à coleta, processamento,
+transmissão, armazenagem, análise e apresentação
+de dados e registros (LAUDON e LAUDON, 2004).
+Essa base de dados contém uma grande diversidade
+de informações sobre os processos e rotinas da empresa,
+bem como sobre o ambiente externo (concorrentes,
+clientes, fornecedores, governo) que são importantes
+para o sucesso das organizações. A adoção
+de novas tecnologias e sistemas de TI permite que
+esses dados sejam processados e analisados com rapidez
+e eficiência cada vez maior (TORRES, 1996).
+A TI é uma ferramenta estratégica para a análise
+de dados, transformando-os em informações confiáveis
+e atualizadas. A informação organizada e analisada
+modifica os processos de decisão, a estrutura
+administrativa e a maneira de trabalhar das empresas,
+levando à execução de ações verdadeiramente úteis
+aos negócios. A TI torna a informação compreensível
+e aplicável na solução de problemas e na tomada
+de decisões que irão se transformar em diretrizes e
+pressupostos estratégicos, propiciando novas maneiras
+de se obter vantagens em relação ao desempenho
+dos concorrentes (BORGES, 1995; PORTER e
+MILLAR, 1985).
+Os mais recentes avanços em TI (internet, intranet
+etc.) possibilitam a conexão e integração entre empresas
+independentes, ampliando as fronteiras geográficas
+tradicionais e propiciando novas formas de organização,
+mais flexíveis e descentralizadas, baseadas
+na informação e na cooperação. A TI contribui para
+uma nova ordem econômica, mudando os rumos e as
+estratégias das empresas, bem como as formas tradicionais
+de condução dos negócios, ultrapassando as
+fronteiras das empresas envolvidas nestas relações de
+negócios (SILVEIRA e ZWICKER 2004).
+O uso estratégico da TI pelas organizações é a
+fonte de muitas das inovações que podem sustentar
+uma vantagem competitiva, frente a seus concorrentes.
+Isso se dá por meio da melhoria dos processos
+de trabalho, redução de tempo e espaço, integração
+entre unidades de negócio e o desenvolvimento de
+novas formas de gestão (TORRES, 1996; TURBAN,
+1996).
+A implantação de projetos de TI e SI pode gerar
+vantagem competitiva sustentável para as organizações
+(SILVEIRA, 2003) somente se estiverem integrados
+a recursos complementares intangíveis, aos
+01000100011000010101011110101000111010101110001010011101001010111001010010001100001010101
+11101010100110101011100010100111010010101110010101000100011000010101001000100011000010101
+Artigo 0100010001100001
+0101011110101000
+01000100011000010101011110101000111010101110001010011101001010111001010010001100001010101111010101001101010111000
+10100111010010101110010101000100011000010101001000100011000010101011110101000111010101110100111010010101110010100
+104 0100010001100001
+0101011110101000 Revista de Informatica Aplicada
+0100010001100001
+0101011110101000
+0100010001100001
+0101011110101000
+fatores humanos e ao contexto de negócio, como
+recurso fundamental no planejamento, na definição
+de estratégias e na tomada de decisão (POWELL,
+DENT-MICALLEF, 1997; TORRES, 1996).
+Entre os projetos de TI que podem levar ao aumento
+da competitividade empresarial, destacam-se
+os projetos de sistemas de informações que transcendem
+as fronteiras organizacionais (cadeia produtiva
+virtual), integrando empresas, clientes, fornecedores
+e parceiros, por meio de alianças estratégicas e redes
+de cooperação, compartilhando recursos, serviços
+e tecnologia para conquistar vantagem competitiva
+(LAUDON e LAUDON, 2004; SILVEIRA e ZWICKER,
+2004).
+3. SISTE MAS INTERORG ANI ZACION AIS
+Os sistemas administrativos e de negócios têm se
+tornado cada vez mais sofisticados pelo uso de recursos
+de telecomunicações e de processamento eletrônico
+de dados, acarretando mudanças nas relações
+entre as organizações. A aplicação da TI nas relações
+interorganizacionais possibilitou a evolução dos sistemas
+que atendiam às ligações entre compradores e
+vendedores para redes complexas de relacionamento
+eletrônico que integram fornecedores, produtos, intermediários
+e clientes (ALBERTIN, 2000).
+Sistemas de Informação em rede que permitem
+às empresas coordenarem-se com outras a longa
+distância, ligando-as a seus clientes, distribuidores,
+fornecedores e, às vezes, até mesmo com seus
+concorrentes são denominados Sistemas Interorganizacionais.
+Estes sistemas proporcionam às organizações
+a capacidade de conduzir negócios que
+ultrapassam suas fronteiras, ligando eletronicamente
+consumidores e fornecedores, com o propósito de
+aumentar a eficiência e a eficácia organizacionais
+(LAUDON e LAUDON, 2004).
+A integração eletrônica entre clientes, fornecedores,
+parceiros e concorrentes pode acarretar alterações
+estruturais no mercado, permitindo o surgimento de
+novos modelos de negócios, baseados na expansão
+do uso da internet e do comércio eletrônico, pois proporcionam
+um compartilhamento mais intenso de
+informações e conhecimentos, recursos e processos
+de negócio, projeto e desenvolvimento de produtos,
+reduzindo significativamente os custos de comercialização,
+distribuição e serviços a clientes, resultando
+em níveis mais altos de eficiência e significativa vantagem
+competitiva (ALBERTIN, 2000; LAUDON e
+LAUDON, 2004).
+Os Sistemas Interorganizacionais, utilizados
+como recursos estratégicos, podem tornar a organização
+mais competitiva em seus mercados, pois
+permite a ela reagir com rapidez às mudanças ocorridas
+nas exigências dos clientes e no desenvolvimento
+dos negócios, viabilizando a integração e a
+interação entre consumidores, fornecedores e parceiros
+(TORRES, 1996).
+A ascensão de novas Tecnologias da Informação
+desencadeia um processo de rearranjo organizacional
+(VENKATRAMAN, 1994) mais flexível e descentralizado,
+gerando mudanças organizacionais, redefinindo
+os vínculos entre empresas, ampliando as fronteiras
+geográficas dos negócios e integrando consumidores,
+fornecedores e outros fabricantes (NORHIA, 1992).
+Os Sistemas Interorganizacionais propiciam a conexão
+e integração das organizações, contribuindo significativamente
+para o surgimento efetivo de Organizações
+Virtuais, oferecendo às empresas um novo
+canal de comunicação com mercado.
+Assim, uma Organização Virtual pode ser caracterizada
+como um arranjo sistêmico de entidades, que
+busca integrar dinamicamente demandas e recursos
+por meio da Tecnologia da Informação (CANO et
+al, 1999). A TI possibilita a inserção da organização
+em um mundo virtual, onde produtos e serviços existem
+como informação digital e podem ser distribuídos
+através de canais baseados em informação. As
+transações, cooperações ou negociações ocorrem de
+Artigo 0100010001100001
+0101011110101000
+0100010001100001010101111010100011101010111000101001110100101011100101001000110000101010111101010100110101011100010100111010010
+1011100101010001000110000101010010001000110000101010111101010001110101011101001110100101011100101001000110000101010110001110100
+0100010001100001
+0101011110101000
+01000100011000010101011110101000111010101110001010011101001010111001010010001100001010101111010
+10100110101011100010100111010010101110010101000100011000010101001000100011000010101011110101000 Vol. I - n0 02 - jul/dez 2005 105
+forma dinâmica, em qualquer lugar, a qualquer hora,
+com qualquer pessoa e sem a necessidade de deslocamentos
+(RAYPORT e SVIOKLA, 1995).
+4. TI E MUD ANÇ A ORG ANI ZACION AL
+A implantação e o uso da TI consistem, por si só,
+em mudanças tecnológicas capazes de gerar impacto
+em partes ou no conjunto das organizações (mudanças
+estruturais, estratégicas, culturais, tecnológicas
+e humanas). Ao se avaliar mudanças organizacionais
+provocadas pela TI, deve-se considerar os diferentes
+aspectos da mudança, pois estes acarretam
+alteração da tecnologia, da especialização de funções
+e processos produtivos, bem como da forma
+de utilizar os recursos materiais e intelectuais, entre
+outros (MOTTA, 1998; VENKATRAMAN, 1994;
+WOOD, JR, 1995).
+Os benefícios provenientes do uso da TI estão
+diretamente relacionados às mudanças nas rotinas
+organizacionais (estratégias, estruturas, processos e
+cultura), além de mudanças no escopo dos negócios
+e na operação da empresa. Ao investir em tecnologia,
+as organizações devem avaliar o impacto e os
+custos decorrentes das mudanças organizacionais
+necessárias para que haja um completo aproveitamento
+das potencialidades da TI, tais como: mudanças
+no ferramental de TI, mudanças nos processos e
+técnicas de trabalho, mudanças na qualificação dos
+recursos humanos e mudanças decorrentes do uso da
+tecnologia nos produtos da organização (VENKATRAMAN,
+1994).
+De acordo com Malhotra (1997), a sobrevivência
+e o sucesso das organizações dependem da efetiva
+utilização da tecnologia da informação que exerce
+um papel importante na administração da mudança
+organizacional e se constitui em ferramenta fundamental
+para a melhoria de desempenho nos negócios.
+Contudo, ambientes dinâmicos e em rápida transformação
+conduzem a um aumento na utilização da TI,
+e o uso de novas tecnologias pode provocar ainda
+mais turbulências para as organizações.
+Segundo este autor, as organizações, frente às
+crescentes mudanças ambientais, passam a monitorar
+o ambiente mais intensamente e utilizam a TI
+como um meio efetivo para alcançar este propósito.
+As respostas provenientes do ambiente serão usadas
+para planejar e definir os objetivos estratégicos e a
+estrutura organizacional (privilegiando estruturas
+orgânicas) por meio de uma maior utilização da TI.
+Em ambientes turbulentos e complexos, as organizações
+farão maior uso de mecanismos de coordenação
+baseados na TI para estabelecer relações interorganizacionais
+e incrementar em conjunto suas
+competências essenciais.
+A implantação e o uso de Tecnologias da Informação
+vêm induzindo a criação de arquiteturas administrativas
+empresariais ágeis, provocando profundas
+alterações na organização dos processos de trabalho,
+nas estratégias de gestão, na cultura e na estrutura organizacional
+(TURBAN, 1996; WALTON, 1994). A
+TI possibilita a integração entre unidades de negócios
+e entre organizações além de suas fronteiras, viabilizando
+recursos como alianças estratégicas e acordos
+cooperativos que conduzem à ampliação dos mercados
+e novas oportunidades de negócios (SILVEIRA
+e ZWICKER 2004). Ela permite que um número
+maior de informações, mais detalhadas e completas,
+internas e externas, seja acessado e analisado em um
+menor espaço de tempo, acarretando um aumento da
+eficiência e gerando a inovação por meio de soluções
+novas para os problemas (TORRES, 1996).
+5. O PÓLO DE COS MÉTICOS DE DI ADE MA
+O Pólo de Cosméticos de Diadema é fruto de uma
+parceria entre prefeitura, indústrias e entidades locais,
+responde por cerca de oito mil empregos diretos, três
+mil indiretos e é responsável por 3% da arrecadação
+do município de Diadema (dados referentes a 2003).
+É composto por mais de cem empresas, sendo 65 empresas
+fabricantes de cosméticos e outras 11, de matérias-
+primas, além de três dezenas de outras empresas
+01000100011000010101011110101000111010101110001010011101001010111001010010001100001010101
+11101010100110101011100010100111010010101110010101000100011000010101001000100011000010101
+Artigo 0100010001100001
+0101011110101000
+01000100011000010101011110101000111010101110001010011101001010111001010010001100001010101111010101001101010111000
+10100111010010101110010101000100011000010101001000100011000010101011110101000111010101110100111010010101110010100
+106 0100010001100001
+0101011110101000 Revista de Informatica Aplicada
+0100010001100001
+0101011110101000
+0100010001100001
+0101011110101000
+que fazem parte da cadeia produtiva, representando
+atualmente 10% do número de empresas de cosméticos
+do país e 30% de toda produção nacional.
+A criação do pólo de cosméticos deu mais competitividade
+ao setor. O município de Diadema possui
+perfil industrial e localização estratégica, está situado
+entre o porto de Santos e principais rodovias e aeroportos
+de São Paulo; é vizinho da capital paulista,
+quarta maior cidade do mundo e centro econômico
+do país, com um universo de 16 milhões de consumidores,
+em um raio de 50 quilômetros.
+A Lei Municipal 2.237, de 23 de março de 2004,
+criou oficialmente o Pólo Brasileiro do Cosmético,
+três anos depois do início das negociações entre prefeitura
+e empresários.
+A administração do pólo, agora pessoa jurídica,
+está a cargo de uma diretoria composta por quatro
+empresários, um representante do Ciesp (Centro das
+Indústrias do Estado de São Paulo) e um representante
+da prefeitura.
+O objetivo do pólo, nos próximos anos, é a criação
+de um selo de qualidade, que dará ao público consumidor
+segurança ao adquirir um cosmético com
+qualidade internacional. O primeiro passo para isso
+foi a criação de um Centro Tecnológico, inaugurado
+em 2005, financiado pelo BNDES e que atuará como
+um agente facilitador para as empresas do pólo, oferecendo
+serviços de certificações, laudos, testes, atividades
+laboratoriais e desenvolvimento de produtos
+por preços reduzidos.
+Quanto à classificação, a rede de empresas estabelecida
+pelo Pólo de Cosméticos de Diadema pode
+ser caracterizada como sendo uma rede horizontal
+de cooperação (AMATO NETO, 2000), por se tratar
+de um agrupamento de empresas similares, independentes,
+organizadas em um local ou região, onde
+há várias firmas atuando em estágios diferentes do
+mesmo processo produtivo, articuladas em torno de
+uma associação, por um prazo indeterminado, e que
+visam a obtenção conjunta de benefícios, através de
+relacionamentos de competição e cooperação.
+6. METODOLOGI A
+Para a elaboração deste artigo, adotou-se como
+estratégia a pesquisa exploratória, realizada com empresas
+que compõem o Pólo de Cosméticos de Diadema,
+na região do Grande ABC paulista, que é constituído
+por fabricantes de cosméticos, de aerossol, de
+embalagens, de máquinas e equipamentos, fabricantes
+terceiristas, fabricantes e distribuidores de matérias-
+primas, fabricantes e fornecedores de insumos e
+acessórios, distribuidores de cosméticos.
+A pesquisa exploratória visa proporcionar maior
+familiaridade com o tema em estudo, com a finalidade
+de desenvolver, esclarecer e alterar conceitos e
+idéias, para a formulação de abordagens mais condizentes
+com o desenvolvimento de estudos posteriores
+(GIL, 2002).
+Esta pesquisa foi dividida em duas partes. Em um
+momento inicial, realizou-se um levantamento de
+dados nas empresas que compõem o Pólo de Cosméticos
+de Diadema, com o objetivo de identificar
+os impactos da Tecnologia da Informação nas mudanças
+organizacionais. Na seqüência, foi realizada
+uma coleta de dados de natureza qualitativa, obtidos
+por meio de entrevistas realizadas com dirigentes de
+algumas empresas do referido Pólo que haviam respondido
+ao questionário utilizado na primeira etapa.
+O critério para seleção dessas empresas se deu em
+função das respostas dadas ao questionário aplicado
+na primeira etapa. Estas entrevistas visavam à verificação
+dos resultados obtidos através dos questionários
+e o aprofundamento do assunto.
+Assim, na primeira etapa deste estudo, realizou-se
+uma pesquisa de levantamento, por meio de um questionário,
+em formulário eletrônico com escala do tipo
+Likert, com cinco atributos (de discordo totalmente
+Artigo 0100010001100001
+0101011110101000
+0100010001100001010101111010100011101010111000101001110100101011100101001000110000101010111101010100110101011100010100111010010
+1011100101010001000110000101010010001000110000101010111101010001110101011101001110100101011100101001000110000101010110001110100
+0100010001100001
+0101011110101000
+01000100011000010101011110101000111010101110001010011101001010111001010010001100001010101111010
+10100110101011100010100111010010101110010101000100011000010101001000100011000010101011110101000 Vol. I - n0 02 - jul/dez 2005 107
+a concordo totalmente), contendo questões que buscam
+esclarecer os aspectos relacionados ao problema
+de pesquisa (GIL, 2002). Os respondentes são os responsáveis
+pelas empresas pesquisadas, ou seja, proprietários,
+sócios majoritários, presidentes, diretores,
+gerentes gerais ou de posições equivalentes. Nesta
+etapa, a abordagem adotada é predominantemente
+quantitativa. Os dados obtidos foram tabulados de
+forma a permitir as reflexões e análises pertinentes,
+através de ferramentas estatísticas.
+Para as 76 empresas que compõem o Pólo de Cosméticos
+de Diadema, foram remetidos e-mails e correspondências
+com o questionário de pesquisa, que
+ficou disponibilizado em meio eletrônico acessível
+pela internet. Este foi elaborado a partir de pesquisa
+bibliográfica, contendo quatro questões (afirmações),
+com o objetivo verificar a relação entre a Tecnologia
+da Informação e mudança organizacional.
+Na segunda etapa do trabalho, os dados coletados
+são de natureza qualitativa, utilizando como instrumento
+a técnica de entrevista direta, semi-estruturada,
+com a predominância de respostas abertas, aplicada
+aos executivos e pessoas-chave das organizações selecionadas,
+visando à compreensão dos fenômenos
+em estudo. Para a realização das entrevistas, foram
+selecionadas quatro empresas, a partir das respostas
+obtidas por meio dos questionários na primeira etapa.
+Destas, apenas três puderam ser entrevistadas, sendo:
+a) uma indústria química que produz cerca de oito
+mil itens, com sede em Diadema e que possui entre
+de 21 e 40 funcionários; b) uma empresa de máquinas
+e equipamentos para indústrias farmacêuticas e
+cosméticas, com sede em Diadema e menos de 20
+funcionários; c) uma empresa de importação e distribuição
+de produtos cosméticos, com sede em São
+Caetano do Sul e com mais de cem funcionários.
+As análises e interpretações dos dados obtidos
+nesta etapa foram realizadas por meio da análise de
+conteúdo e de discurso. Estes se referem ao caráter
+subjetivo do tema, a forma como os eventos ocorrem
+e quais suas implicações. Este método mostrou-se
+bastante adequado para o objetivo desta pesquisa.
+7. APRESENT AÇÃO E ANÁLISE DOS
+RESULT ADOS
+A taxa de retorno dos e-mails e correspondências
+remetidos às empresas que compõem o Pólo Brasileiro
+do Cosmético foi de 22,37%, totalizando 17
+questionários. Outros estudos realizados, utilizando
+a internet como veículo de pesquisa, apresentam taxas
+de retorno inferiores a 5,5%, o que indica que
+o número obtido é satisfatório (FONTENOT et al.,
+1998; VIEIRA et al., 1998 apud ABREU e COSTA,
+1999).
+O questionário aplicado junto às empresas do
+Pólo Brasileiro do Cosmético foi respondido por
+empresários, gerentes e diretores (82,3% ou 14 casos)
+ou por outros funcionários técnicos e administrativos
+(17,6%). Sete empresas que responderam
+ao questionário possuem mais de cem funcionários
+(41,2%), duas empresas, possuem de 81 a cem funcionários,
+uma empresa, possui de 61 a 80 funcionários,
+três empresas, possuem de 21 a 40 funcionários
+e quatro empresas, possuem menos de 20 empregados
+(23,5%).
+7.1 Discussão dos dados
+A maioria das empresas que respondeu ao questionário
+informou que o uso da tecnologia da informação
+está disseminado por toda a organização. Das
+17 empresas respondentes, 16 delas ou concordam
+parcialmente (47,1%) ou totalmente (47,1%), totalizando
+94,1%, conforme exposto no Gráfico 1. Este
+fator indica que as organizações têm procurado um
+uso cada vez mais intenso e amplo da Tecnologia da
+Informação em seus processos, com o objetivo de
+alcançar maiores índices de competitividade, promo01000100011000010101011110101000111010101110001010011101001010111001010010001100001010101
+11101010100110101011100010100111010010101110010101000100011000010101001000100011000010101
+Artigo 0100010001100001
+0101011110101000
+01000100011000010101011110101000111010101110001010011101001010111001010010001100001010101111010101001101010111000
+10100111010010101110010101000100011000010101001000100011000010101011110101000111010101110100111010010101110010100
+108 0100010001100001
+0101011110101000 Revista de Informatica Aplicada
+0100010001100001
+0101011110101000
+0100010001100001
+0101011110101000
+vendo a inovação na forma de realização das tarefas,
+o aperfeiçoamento dos serviços prestados aos clientes
+e a melhoria da qualidade dos produtos, conforme
+evidenciado pelo referencial teórico.
+Fonte: Elaborado pelos autores, de acordo com os dados
+de pesquisa.
+No que diz respeito à afirmação que verifica se
+o uso da tecnologia da informação é essencial para
+a melhoria dos processos organizacionais (inovação,
+qualidade e produtividade), a grande maioria dos
+respondentes concorda totalmente (13 empresas ou
+76,5%) e dois respondentes concordam parcialmente
+(11,8%), totalizando 88,3% ou 15 casos, o resultado
+está apresentado no Gráfico 2. Estes dados revelam
+que, na visão dos respondentes, a tecnologia da informação
+pode ser considerada como um fator essencial
+para a modernização e melhoria dos processos organizacionais,
+e a introdução e utilização desta Tecnologia
+causam mudanças nas rotinas da organização.
+Estas mudanças envolvem aspectos tecnológicos,
+estratégicos, estruturais e culturais (comportamentos
+e habilidades), a modernização dos processos produtivos
+e alterações na forma de alocação de recursos
+(MOTTA, 1998; VENKATRAMAN, 1994; WOOD,
+JR, 1995). Constata-se, portanto, a importância de se
+avaliar o impacto e as mudanças que sua introdução
+pode provocar nas organizações.
+Fonte: Elaborado pelos autores de acordo com os dados de pesquisa.
+Sobre a afirmação de que a tecnologia da informação
+mudou a forma destas empresas competirem no
+mercado, observa-se também, de acordo com as respostas
+obtidas no pólo de cosméticos, que sete delas
+(41,2%) concordam totalmente e outras sete empresas
+concordam parcialmente, totalizando 82,4% ou
+14 casos, conforme evidenciado pelo Gráfico 3. A
+partir destas informações, pode-se considerar que o
+uso da TI nestas organizações, apesar de disseminado,
+ainda não foi amplamente empregado para alterar
+as bases de competitividade e na prospecção de novos
+negócios. Estas empresas podem, ainda, não ter
+descoberto como se beneficiar da TI como suporte
+estratégico e o operacional, para se manterem num
+mercado cada vez mais competitivo.
+Fonte: Elaborado pelos autores de acordo com os dados de pesquisa.
+Quanto à afirmação de que a empresa utiliza intensamente
+a tecnologia da informação para trocar
+informações com as outras empresas do pólo de cosméticos,
+houve uma grande dispersão nas respostas
+recebidas: três empresas (17,6%) declararam que discordam
+totalmente, representando o maior número de
+respostas dado a este atributo em todo o questionário;
+quatro empresas discordam parcialmente (23,5%);
+cinco, concordam parcialmente (29,4%), e outras
+cinco, concordam totalmente (29,4%), totalizando
+17 respondentes ou 100% das respostas, o resultado
+pode ser visto no Gráfico 4, abaixo.
+Fonte: Elaborado pelos autores de acordo com os dados de
+pesquisa.
+Gráfico 1: Em nossa empresa o uso da TI está disseminado em toda a
+organização.
+0
+2
+4
+6
+8
+DT DP NCND CP CT
+Nº de respostas
+LEGENDA:
+DT - Discordo Totalmente.
+DP - Discordo Parcialmente.
+NCND - Não Concordo Nem Discordo.
+CP- Concordo Parcialmente.
+CT - Concordo Tolmente.
+Gráfico 2: O uso da TI é essencial para a melhoria dos processos organizacionais
+(inovação, qualidade, produtividade).
+0 2 4 6 8
+10
+12
+14
+DT DP NCND CP CT
+Nº de respostas
+LEGENDA:
+DT - Discordo Totalmente.
+DP - Discordo Parcialmente.
+NCND - Não Concordo Nem Discordo.
+CP- Concordo Parcialmente.
+CT - Concordo Tolmente.
+Gráfico 3: A TI mudou a forma de competir de nossa empresa no mercado.
+0
+2
+4
+6
+8
+DT DP NCND CP CT
+Nº de respostas
+LEGENDA:
+DT - Discordo Totalmente.
+DP - Discordo Parcialmente.
+NCND - Não Concordo Nem Discordo.
+CP- Concordo Parcialmente.
+CT - Concordo Tolmente.
+Gráfico 4: Nossa empresa utiliza intensamente a TI para trocar informações com
+as outras empresas do pólo de cosméticos.
+0
+2
+4
+6
+8
+DT DP NCND CP CT
+Nº de respostas
+LEGENDA:
+DT - Discordo Totalmente.
+DP - Discordo Parcialmente.
+NCND - Não Concordo Nem Discordo.
+CP- Concordo Parcialmente.
+CT - Concordo Tolmente.
+Artigo 0100010001100001
+0101011110101000
+0100010001100001010101111010100011101010111000101001110100101011100101001000110000101010111101010100110101011100010100111010010
+1011100101010001000110000101010010001000110000101010111101010001110101011101001110100101011100101001000110000101010110001110100
+0100010001100001
+0101011110101000
+01000100011000010101011110101000111010101110001010011101001010111001010010001100001010101111010
+10100110101011100010100111010010101110010101000100011000010101001000100011000010101011110101000 Vol. I - n0 02 - jul/dez 2005 109
+Estes dados revelam que estas empresas não utilizam
+a tecnologia da informação em toda a sua potencialidade
+para o intercâmbio de informações com as
+outras empresas que compõem o pólo de cosméticos.
+As tecnologias de informação têm sido usadas para
+constituir e aperfeiçoar o relacionamento entre clientes
+e fornecedores e facilitar o processo de comunicação
+e difusão da informação e do conhecimento entre
+empresas organizadas em rede (CHILD, 1987), porém
+esta condição não se confirmou de acordo com
+as respostas recebidas.
+Constata-se, de acordo com o entendimento dos
+respondentes, a importância da TI nos processos de
+mudança e na administração de mudanças organizacionais
+decorrentes da aplicação da própria TI. O uso
+cada vez mais intenso da tecnologia da informação
+desempenha importante papel no processo de troca
+de informações entre organizações e contribui para
+se alcançar maiores índices de competitividade, favorecendo
+o surgimento de um ambiente cooperativo
+essencial para alcançar vantagem estratégica, criar ou
+promover novas políticas ou desenhos organizacionais
+que se estendam além das fronteiras tradicionais
+da organização.
+7.2. Entrevistas com as empresas do pólo
+Foram realizadas entrevistas com gerentes e
+proprietários de 3 (três) empresas pertencentes ao
+Pólo Brasileiro do Cosmético, que foram selecionadas
+em função das respostas dadas ao questionário
+disponibilizado em meio eletrônico e acessado
+pela internet.
+A primeira entrevista ocorreu no dia 14/2/2006,
+com a proprietária de uma empresa de máquinas e
+equipamentos para indústrias farmacêuticas e cosméticas,
+com sede em Diadema. Trata-se de empresa
+com poucos funcionários (menos de 20), mantém
+relação comercial com outras empresas e exporta
+para América do Sul e Angola. Possui estrutura familiar
+e é dirigida por seus dois proprietários.
+Em relação ao papel da Tecnologia da Informação
+nas mudanças organizacionais, a entrevistada
+considera que sua empresa ainda está atrasada em
+termos de TI, que é preciso investir em tecnologia
+de ponta e adequá-la às necessidades de sua organização.
+Contudo, admite que o “computador é a máquina
+mais importante da empresa”, pois cerca de
+40% das vendas ocorrem por meio do computador
+(através da internet), a despeito de dificuldades provenientes
+das poucas linhas telefônicas disponíveis
+para esta finalidade (apenas três linhas). A TI pode
+ser utilizada para promover as empresas em exposições
+e eventos fora do país.
+A segunda entrevista foi realizada no dia 16/2,
+com a gerente de recursos humanos de uma empresa
+de importação e distribuição de produtos cosméticos,
+com sede em São Caetano do Sul e mais de
+cem funcionários. É uma empresa familiar, cujos
+processos produtivos são terceirizados.
+De acordo com a gerente de RH entrevistada,
+a pressão decorrente do crescimento acelerado do
+segmento de cosméticos, levou a empresa a se reestruturar
+para enfrentar as mudanças do ambiente.
+A Tecnologia da Informação é considerada o diferencial
+desta empresa, que está quase totalmente informatizada
+e possui um gestor de informática para
+comandar a TI. Toda a comunicação é eletrônica e
+a empresa possui um sistema integrado de gestão
+que garante aos gestores o acesso a todas as informações,
+da forma que precisam. A empresa investe
+em treinamento e se considera a caminho da gestão
+do conhecimento.
+Finalmente, a terceira entrevista ocorreu,
+também, no dia 16/2 e foi realizada com o proprietário
+de uma indústria química, com sede em
+Diadema e que possui entre de 21 e 40 funcionários,
+especializada no desenvolvimento de cores
+e suas aplicações.
+Segundo seu proprietário, trata-se de uma em01000100011000010101011110101000111010101110001010011101001010111001010010001100001010101
+11101010100110101011100010100111010010101110010101000100011000010101001000100011000010101
+Artigo 0100010001100001
+0101011110101000
+01000100011000010101011110101000111010101110001010011101001010111001010010001100001010101111010101001101010111000
+10100111010010101110010101000100011000010101001000100011000010101011110101000111010101110100111010010101110010100
+110 0100010001100001
+0101011110101000 Revista de Informatica Aplicada
+0100010001100001
+0101011110101000
+0100010001100001
+0101011110101000
+presa tecnológica, que possui tecnologia de produção
+própria. Ele afirma que a empresa está informatizada,
+porém há pouca utilização da TI na
+administração e tomada de decisão. A TI é utilizada
+principalmente nos processos comerciais da
+empresa. De acordo com o entrevistado, o mercado
+está mudando a todo instante e a busca por
+inovações associada a uma estratégia de liderança
+constitui o caminho para fazer face às mudanças
+e enfrentar a concorrência do exterior (globalização,
+produtos chineses).
+8. CONCLUS ÃO
+Este artigo teve o objetivo de apresentar, numa
+abordagem exploratória, o papel da tecnologia da
+informação, frente às mudanças que ocorrem no
+ambiente organizacional e mostrou ser evidente o
+impacto e as transformações que a TI pode provocar
+no ambiente empresarial.
+Os resultados obtidos nesta pesquisa mostraram
+que, apesar do uso cada vez mais intenso e amplo da
+TI nas organizações pesquisadas, as empresas que
+compõem o Pólo de Cosméticos de Diadema ainda
+não estão utilizando a TI em toda sua potencialidade
+para desenvolver produtos, serviços e processos capazes
+de responder com flexibilidade às mudanças
+do ambiente estratégico e operacional.
+De acordo com as respostas dadas ao questionário
+e na visão dos entrevistados, pode-se considerar que a
+TI está disseminada na maioria das empresas e é vista
+como fator essencial para a melhoria dos processos
+organizacionais; porém, ainda não foi amplamente
+empregada para alterar a forma dessas empresas competirem
+nos mercados em que atuam. A introdução e
+utilização da TI são tidas como fatores fundamentais
+para a modernização dos processos organizacionais,
+para a produção de bens e serviços atuais, e para a
+melhoria dos índices de qualidade e produtividade.
+Boa parte das empresas que compõem o Pólo de
+Cosméticos não utiliza a TI para o intercâmbio de
+informações com as outras empresas do pólo e a implementação
+da TI é vista como um dos principais
+mecanismos para promover a aproximação entre estas
+empresas e aperfeiçoar o processo de difusão da
+informação e do conhecimento dentro da rede.
+Reconhece-se que houve limitações e dificuldades
+para a consecução da pesquisa. O baixo número
+de respostas dadas ao questionário disponibilizado
+pela internet levou à necessidade de realização de
+entrevistas com algumas empresas para a confirmação
+dos resultados e, mesmo assim, nem todas
+as empresas contatadas puderam ser entrevistadas.
+Apesar disto, pôde-se constatar a forte interação entre
+a TI e as mudanças organizacionais e interorganizacionais.
+Para complementar esta pesquisa, seria importante
+empreender outros estudos sobre a aplicação
+da TI nas relações interorganizacionais, na geração
+de bases de dados sobre clientes e fornecedores,
+no aprendizado organizacional e na prospecção de
+novas perspectivas de negócios com a utilização de
+análises estatísticas mais sofisticadas.
+A Tecnologia da Informação muda a forma de
+conceber e realizar negócios e as atividades organizacionais,
+ligando pessoas, ativos, e idéias para
+criar e distribuir produtos e serviços, automatizar
+transações de negócios e fluxos de trabalho a custos
+menores. A TI une fornecedores, parceiros, clientes
+e outras organizações, sem considerar os limites das
+fronteiras tradicionais da organização ou sua localização
+física, como ocorre nos sistemas de distribuição
+tradicionais.
+A utilização da TI provoca a emergência de
+novos modelos organizacionais desenvolvidos
+a partir da cooperação interempresarial, alianças
+estratégicas e redes de empresas, permitindo
+às organizações reagir com rapidez às variações
+ocorridas nas exigências dos clientes e no desenvolvimento
+dos negócios.
+Artigo 0100010001100001
+0101011110101000
+0100010001100001010101111010100011101010111000101001110100101011100101001000110000101010111101010100110101011100010100111010010
+1011100101010001000110000101010010001000110000101010111101010001110101011101001110100101011100101001000110000101010110001110100
+0100010001100001
+0101011110101000
+01000100011000010101011110101000111010101110001010011101001010111001010010001100001010101111010
+10100110101011100010100111010010101110010101000100011000010101001000100011000010101011110101000 Vol. I - n0 02 - jul/dez 2005 111
+Referências Bibliográficas
+ABREU, N. R.; COSTA, E.B. Um estudo sobre a viabilidade da utilização de marketing na internet no setor hoteleiro
+de Maceió. In: Encontro da ANPAD. Florianópolis (SC): Anais, 2000.
+ALBERTIN, A. L. Administração de informática: funções e fatores críticos de sucesso. 2 ed. São Paulo:
+Atlas, 1999.
+ALBERTIN, A. L. Comércio eletrônico: modelo, aspectos e contribuições de sua aplicação. 2 ed. São Paulo:
+Atlas, 2000.
+BACHMANN, R. Trust, power and control in trans-organizational relations. Escr. Centre for Business Research,
+University of Cambrige. Working Paper. n.129, 1999.
+BORGES M. E. N. A informação como recurso gerencial das organizações na sociedade do conhecimento. Ciência
+da Informação, Brasília, v. 24, n. 2, p. 181-188, maio/ago. 1995.
+CANO, C. et al.; Organização virtual e tecnologia da informação. Organizações e Sociedade, v.5, n.12, p. 17-35,
+maio/agosto 1999.
+CHILD, J. Information technology, organization, and response to strategic challenges. California Management
+Review. California, Vol. XXX, n. 1, p.33-50, fall 1987.
+DAVENPORT, T.H.; SHORT, J.E.; ERNEST & YOUNG. The new industrial engineering information technology
+and business process design. Sloan Management Review. Cambridge, v. 31, n.4, p.11-27, Summer 1990.
+DIAS, D. S. Motivação e resistência ao uso da tecnologia da informação: um estudo entre gerentes. RAC, v.4, n.2,
+p. 51-66, maio/agosto 2000.
+GIL, A. C. Como elaborar projetos de pesquisa. São Paulo, Atlas, 2002.
+LAUDON, K. C. e LAUDON, J. P. Sistemas de informação gerenciais. São Paulo, Prentice Hall, 2004
+MALHOTRA, Yogesh. (1993). Role of information technology in managing organizational change and
+organizational interdependence. University of Pittsburgh. Disponível em: http://www.brint.com/papers/change.
+html. Acesso em 7 de dezembro de 2005.
+MOTTA, P. R. Transformação organizacional: a teoria e a prática de inovar. Rio de Janeiro: Qualitymark, 1998.
+NETO, J. A. Redes de cooperação produtiva e clusters regionais: oportunidades para as pequenas e médias
+empresas. São Paulo, Atlas, 2000.
+NOHRIA, N. Is a network perspective a useful way of studying organizations? In: NOHRIA, N. & ECCLES, R.
+(Eds.), Networks and organizations. Boston: Harvard Business School Press, 1992.
+PORTER, M. E.; MILLAR, V. E. How information gives you competitive advantage. Harvard Business Review.
+Boston: V. 63, N. 4; p. 149-160, Jul/Aug 1985.
+01000100011000010101011110101000111010101110001010011101001010111001010010001100001010101
+11101010100110101011100010100111010010101110010101000100011000010101001000100011000010101
+Artigo 0100010001100001
+0101011110101000
+01000100011000010101011110101000111010101110001010011101001010111001010010001100001010101111010101001101010111000
+10100111010010101110010101000100011000010101001000100011000010101011110101000111010101110100111010010101110010100
+112 0100010001100001
+0101011110101000 Revista de Informatica Aplicada
+Referências Bibliográficas
+POWELL, T.; DENT-MICALLEF, A. Information technology as competitive advantage: the role of human,
+business and technology resources. Strategic Management Journal, V. 18:5, p.375-405, 1997.
+RAYPORT, J. F.; SVIOKLA, J. J.; Exploiting the virtual value chain. Harvard Business Review, V. 73, n.6, Nov-
+Dez, 1995.
+SILVEIRA, M. A. P. Como tornar projetos de tecnologia de informação uma vantagem competitiva para a organização.
+In: Encontro da ANPAD: Anais, 2003.
+SILVEIRA, M. A. P. ; ZWICKER, R. A tecnologia de informação como fonte de competitividade e como apoio
+para a formação de arranjos produtivos locais: um estudo nas principais cadeias produtivas da Região do ABC
+paulista. In: Encontro da ANPAD: Anais, 2004.
+TACHIZAWA, T.; REZENDE, W. Estratégia empresarial: tendência e desafios, um enfoque na realidade brasileira.
+São Paulo: Makron Books, 2000.
+TAPSCOTT, D.; CASTON, A. Mudança de paradigma: uma nova promessa da tecnologia da informação.
+São Paulo: Makron Books, 1995.
+TORRES, N. Tecnologia da Informação e competitividade empresarial. São Paulo: Makron Books, 1996.
+TURBAN, E. Decision support systems. New York: Prentice-Hall. 1993.
+VENKATRAMAN, N. IT-enabled business transformation: from automation to business scope redefinition. Sloan
+Management Review. Winter 1994.
+WALTON, R. E. Tecnologia da informação: o uso de TI pelas empresas que obtém vantagem competitiva. Trad.
+Edson Luiz Riccio. São Paulo: Atlas, 1994.
+WOOD Jr., T. Mudança organizacional. São Paulo: Atlas, 1995.

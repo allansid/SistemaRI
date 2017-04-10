@@ -1,0 +1,33 @@
+ Sua Saúde
+Tecnologia da informação traz cada vez mais benefícios aos pacientes
+Fonte: Dra. Beatriz de Faria Leão, consultora de Tecnologia da Informação e membro da Coordenadoria do Curso de Especialização em Informática em Saúde do Hospital Sírio-Libanês
+Publicado em 14/09/2015
+Tecnologia da informação traz cada vez mais benefícios aos pacientes
+
+????A tecnologia da informação (TI) tem transformado a forma como o paciente é tratado, aumentando a segurança nos procedimento médicos e proporcionando um atendimento mais rápido nas emergências. Sua área de aplicações em saúde é vasta e cobre desde o uso de TI para apoio à gestão em saúde até os aspectos mais especializados da assistência, tais como exames e tratamentos médicos.
+
+A TI tem contribuído para melhorar a capacidade de diagnóstico, organizar o atendimento, ampliar os serviços de saúde e fortalecer a relação médico-paciente.
+
+A área vem ganhando cada vez mais participação na assistência e tem como uma de suas principais missões melhorar a segurança do paciente.
+
+O prontuário eletrônico é um instrumento essencial que garante que a informação necessária para estabelecer a melhor conduta - como alergias, medicamentos em uso, fatores de risco e histórico de doenças - esteja sempre disponível.
+
+Outra vantagem é a autonomia que o paciente e sua família ganham para planejar o tratamento. Com acesso às informações de saúde, é possível decidir com mais assertividade quais as melhores opções.
+
+Mercado promissor para os profissionais
+
+O campo de atuação para o profissional de informática em saúde é vasto, incluindo centros acadêmicos e de pesquisa, indústrias e prestadores de serviços públicos e privados. Dra. Beatriz estima que, no Brasil, apenas para o mercado hospitalar, considerando-se hospitais com mais de cem leitos, sejam necessários cerca de 2 mil profissionais com formação na área de Informática em Saúde.
+
+"O uso efetivo e eficaz da informática em saúde exige recursos humanos preparados para utilizá-la em todo o ciclo do processamento da informação, desde a captura do dado com qualidade até sua análise, consolidação, agregação e utilização para tomada de decisão."
+
+O uso de tecnologias móveis e as aplicações da telessaúde têm ampliado e agilizado a atuação da equipe de saúde com maior envolvimento do paciente.
+
+"Precisamos discutir como desenvolver sistemas que falem entre si e beneficiem o paciente. A tecnologia da informação torna isso possível", avalia a dra. Beatriz de Faria Leão, consultora de TI e membro da Coordenadoria do Curso de Especialização em Informática em Saúde do Hospital Sírio-Libanês
+
+O Instituto Sírio-Libanês de Ensino e Pesquisa (IEP) abrirá em breve as inscrições para a segunda turma do curso de Informática em Saúde. O público-alvo são gestores e profissionais das áreas de saúde e TI que buscam ampliar seus conhecimentos em projetos, gestão, implantação e avaliação do uso de TI na área de saúde. O objetivo desse curso é contribuir para a formação da liderança na área de informática em saúde no País.
+
+Toda a grade curricular está baseada nas competências adotadas pela Sociedade Brasileira de Informática em Saúde (SBIS), com três grandes eixos: Saúde, Gestão e Informática em Saúde.
+
+"Esses eixos se interligam para formar um núcleo básico de conhecimentos, capacidades, habilidades e atitudes esperadas de um profissional de informática em saúde, possibilitando que ele seja um indivíduo capaz de atuar em equipes multidisciplinares", explica a dra. Beatriz.
+
+Informática em Saúde é um curso de pós-graduação lato sensu. A carga horária é de 360 horas, mais 80 horas adicionais para o trabalho de conclusão de curso (TCC).

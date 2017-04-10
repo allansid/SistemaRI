@@ -1,0 +1,162 @@
+A evolução da tecnologia da informação nos últimos 45
+anos
+Denis Alcides Rezende
+Do processamento de dados a TI
+Na década de 1960, o tema tecnológico que rondava as organizações era o “processamento de
+dados”. Nessa época, a maioria das empresas direcionava os recursos para o processamento
+centralizado de dados em mainframes (grandes computadores) e para os sistemas de controles
+operacionais, tais como faturamento, estoque, folha de pagamento, finanças e contabilidade.
+Aos poucos, porém, as empresas foram se sensibilizando para a importância da informação na
+gestão de negócios. Contagiadas pela “informática”, que passa a substituir o tradicional
+“processamento de dados”, as empresas superam resistências e incorporam essa nova
+ferramenta empresarial. Com a “informática”, as empresas integraram os seus sistemas,
+mesmo com algumas redundâncias.
+Na atualidade, a “informática” se transforma em “tecnologia da informação” (TI), integrando
+os seus emergentes e modernos recursos. A TI pode ser conceituada como o conjunto dos
+recursos tecnológicos e computacionais para guarda de dados, geração e uso da informação e
+de conhecimentos.
+A gestão de dados e informações compreende as atividades de guarda e recuperação de
+dados e níveis e de controle de acesso às informações. Essa gestão requer um completo plano
+de contingência e um plano de segurança de dados e informações.
+Com a “tecnologia da informação” as empresas possuem aplicações com compartilhamento
+das bases de dados, unificando-as e eliminando as redundâncias. Os sistemas são mais
+completos, integrados e satisfazem na íntegra os seus usuários. A TI contempla inclusive os
+sistemas de informação e de conhecimento para apoio às decisões.
+Dessa forma, utilizando a TI, a informação e o conhecimento adicionam para as organizações
+diversas facilidades de gestão com vantagens competitivas e com inteligência empresarial.
+Do usuário ao cliente
+No tempo do “processamento de dados”, os usuários eram tímidos, hesitantes, indecisos e
+superficialmente envolvidos com tecnologias. Na fase da “informática” os usuários já se
+posicionavam como responsáveis pelos sistemas e estavam mais engajados nos processos que
+utilizavam tecnologias.
+Os usuários na “tecnologia da informação” são chamados de “clientes”, atuando com postura
+participativa e integrativa, focando seus esforços na gestão dos processos e conseqüentemente
+nos dados, informações e conhecimentos que utilizam. O uso de comitês ou de equipes
+multidisciplinares em projetos de TI faz com que os usuários e/ou clientes participem mais
+efetivamente dessas atividades, da concepção e do desenvolvimento à implantação total de
+soluções empresariais. São os verdadeiros “donos” ou gestores dos sistemas e dos recursos da
+TI, recebendo suporte técnico dos profissionais de informática.
+Essa transformação do papel do usuário possibilitou muitos ganhos na gestão dos negócios.
+Do técnico ao solucionador
+Os componentes da TI evoluíram muito nesses últimos anos, trazendo contribuições à gestão
+dos negócios. Acompanhando essa evolução e também as mudanças do perfil do cliente da TI,
+os seus profissionais também se aprimoraram. Afinal, embora as pessoas não façam parte da
+TI, sem elas essa tecnologia não teria utilidade.
+Para atingir a qualidade, produtividade e efetividade nas atividades relacionadas a sistemas
+empresariais e à TI, que são requeridas pelo mercado de trabalho, há necessidade de um perfil
+profissional que contemple o domínio das habilidades técnica, de negócio e comportamental.
+As habilidades técnicas são as adquiridas ao longo da formação técnica do profissional, em
+cursos acadêmicos e em outros complementares. Destacam-se: metodologias, técnicas,
+ferramentas tecnológicas, linguagens de programação, etc.
+As habilidades de negócio são as adquiridas ao longo do exercício profissional, no
+desenvolvimento de soluções para as empresas. Destacam-se: negócios em questão, funções
+empresariais, funções da administração, processos, procedimentos, idiomas, etc.
+As habilidades comportamentais ou humanas são as adquiridas ao longo da vida, ou seja, na
+educação e nos relacionamentos humanos e corporativos. Destacam-se: proação (iniciativa,
+execução e conclusão), criatividade, comunicação e expressão, relacionamento pessoal,
+espírito de equipe e/ou administração participativa, planejamento pessoal, organização,
+concentração, atenção, disponibilidade, responsabilidade, etc.
+O desenvolvimento dessas habilidades é um desafio individual, que deve ser enfrentado com
+dedicação pelo trabalhador que deseja ascender profissionalmente. Os profissionais não
+podem ficar inertes. Devem ter iniciativa e buscar a qualificação para garantir seu diferencial
+competitivo, como solucionadores de problemas que requerem o uso dos recursos da TI.
+Do gerente ao CIO
+A inteligência e o sucesso das organizações dependem fortemente das decisões tomadas pelas
+pessoas que nelas atuam. Da mesma forma que houve mudanças nos perfis do cliente e dos
+técnicos solucionadores, também evoluiu a forma de gestão e a postura dos gestores da TI.
+Os chamados gerentes de CPD (Centro de Processamento de Dados) atuaram na década de
+1960 e 1970 com seus sistemas fechados e seus ranços tecnológicos. Essa gerência de CPD era
+um modelo vetusto e alquimista de gerenciamento dos recursos da informática,
+freqüentemente vinculado a um modelo de gestão autoritária.
+O velho CPD deve ser transformado numa Unidade de TI. A Unidade de TI é a área, ou
+departamento, ou setor, ou seção responsável pelos serviços de informática e pelos recursos de
+TI de uma unidade ou de uma organização. Atualmente, a TI e seus recursos são vistos como
+ferramentas de trabalho e como uma unidade departamental moderna, transparente, efetiva e
+prestadora de serviços. E suas atividades e responsabilidades podem ser disseminadas em toda
+a empresa.
+A posição organizacional da Unidade de TI também tem implicações significativas em sua
+forma de atuação, que pode apresentar-se como uma organização externa ou uma unidade
+interna.
+O gestor da TI deve sempre ter clara a visão da abordagem sociotécnica, humanística e da
+teoria geral de sistemas. Dessa forma, conceitua-se o gestor como uma função, não um cargo,
+nem uma profissão. As habilidades requeridas dos gestores e o conceito de gestão sempre
+envolvem a atuação com: pessoas ou recursos humanos; projetos, processos e/ou atividades; e
+recursos diversos, tais como: tecnológicos, financeiros, materiais, de tempo, etc. A gestão
+participativa é a mais indicada para a gestão da TI e conseqüentemente para a gestão dos
+negócios.
+Atualmente o gestor da TI é chamado de CIO (Chief Information Officer). Os CIOs são os
+gestores responsáveis pelos recursos tecnológicos e pela utilização estratégica das informações
+das organizações, normalmente ligados à alta administração da organização.
+Seja atuando como funcionário, prestador de serviços ou consultor, o mercado requer dos
+profissionais de TI capacitação, qualidade, produtividade, efetividade, dedicação,
+envolvimento e comprometimento nas suas atividades.
+Do dado ao conhecimento
+Antigamente os recursos da TI processavam dados, que era “algo” armazenado ou depositado
+para ser tratado. O dado é entendido como um elemento da informação, um conjunto de letras,
+números ou dígitos, que, tomado isoladamente, não transmite nenhum conhecimento, ou seja,
+não contém um significado claro. Daí, então, chamar informação como um dado trabalhado,
+útil, tratado, com valor significativo atribuído ou a ele agregado e com um sentido natural e
+lógico para quem o usa.
+Quando a informação é “trabalhada” por pessoas e pelos recursos computacionais,
+possibilitando a geração de cenários, simulações e oportunidades, pode ser chamada de
+conhecimento. O conceito de conhecimento complementa o de informação com valor
+relevante e de propósito definido.
+O conhecimento da organização, também chamado de capital intelectual, competência e
+habilidade, é componente da inteligência empresarial. É reconhecido como um ativo
+intangível de inestimável valor. A gestão do conhecimento pode ser entendida como uma
+forma de administração e aproveitamento do conhecimento das pessoas e como o
+compartilhamento ou disseminação das melhores práticas para o crescimento da organização.
+Nesse trajeto do dado para o conhecimento, a TI pode desempenhar um relevante papel de
+suporte na gestão dos negócios das organizações inteligentes.
+Do software aos sistemas de informação
+Há 45 anos, os recursos da TI estavam direcionados para softwares ou sistemas de informações
+operacionais que garantiam principalmente o processamento trivial dos dados das empresas.
+Atualmente, a evolução dos sistemas de informação (SI) se apresenta nas mais diversas formas e tipos.
+Os SI operacionais contemplam o processamento de operações e transações rotineiras, em seu detalhe,
+incluindo seus respectivos procedimentos. Os SI gerenciais contemplam o processamento de grupos
+de dados das operações e transações operacionais, transformando-os em informações agrupadas para
+gestão.
+Os SI estratégicos trabalham com os dados no plano macro, filtrados das operações das funções
+empresariais da organização, considerando, ainda, a relação entre o meio ambiente interno e/ou
+externo, visando auxiliar o processo de tomada de decisão da alta administração e do corpo gestor da
+empresa.
+Os SI também podem se apresentar em níveis organizacionais, tais como pessoal, de grupo ou
+departamental, organizacional e os interorganizacionais, nos quais se enquadram os sistemas globais de
+informação, envolvendo várias empresas.
+Atualmente, para realizar esses sistemas nas empresas, a TI e seus recursos são necessários. Para tanto,
+as empresas têm como opção a utilização de diversas tecnologias modernas. As principais TI aplicadas
+à geração de informações oportunas dos SI são: Executive Information Systems (EIS); Enterprise
+Resource Planning (ERP); Sistemas de Apoio a Decisões (SAD); Sistemas Gerenciadores de Banco de
+Dados (SGBD); Data Warehouse (DW); Recursos da Inteligência Artificial (IA); Sistemas
+Especialistas; Data Mining (DM); Database Marketing (DBM); recursos da internet; automação de
+escritórios; recursos On-Line Analytic Processing (OLAP), On-Line Transaction Processing (OLTP),
+entre outras.
+Em paralelo à utilização dessas tecnologias, surgem os sistemas de conhecimentos, que manipulam ou
+geram conhecimentos organizados para contribuir com os seres humanos, com as organizações e com a
+sociedade como um todo. Podem ser compostos pelos recursos emergentes da TI ou por simples
+softwares específicos, onde podem ser geradas informações oportunas e/ou conhecimentos
+personalizados com valores agregados.
+A difusão de informações relevantes e úteis, “trabalhadas” por pessoas e/ou por recursos
+computacionais, produzidas com qualidade, de forma antecipada e transformadas em conhecimento
+explícito, que possa ser utilizado por todas as pessoas da organização, dá suporte à obtenção de
+vantagem competitiva e à conquista da inteligência empresarial.
+Do PDI ao PETI
+O antigo Plano Diretor de Informática (PDI) tinha seus esforços mais direcionados para o
+plano de informática e seus respectivos recursos tecnológicos de hardware e software. Ele
+normalmente não contribuía de fato com as estratégias e as operações das organizações.
+O Planejamento Estratégico da Tecnologia da Informação (PETI) é um processo dinâmico e
+interativo para estruturar estratégica, tática e operacionalmente as informações
+organizacionais, a TI (e seus recursos: hardware, software, sistemas de telecomunicação,
+gestão de dados e informação), os sistemas de informação e do conhecimento, as pessoas
+envolvidas e a infra-estrutura necessária para o atendimento de todas as decisões, ações e
+respectivos processos da organização. A diferença fundamental reside no planejamento das
+informações necessárias para a gestão de toda a empresa, que passa a contemplar o perfil
+profissional dos recursos humanos envolvidos.
+O PETI deve estar alinhado aos negócios. Para que esse alinhamento aconteça, o maior desafio
+dos gestores ainda é fazer com que a TI desempenhe seu relevante papel estratégico nas
+organizações, agregando valores aos seus produtos e/ou serviços e auxiliando a promoção das
+inteligências competitiva e empresarial. É fundamental, portanto, que os recursos
+computacionais da TI disponibilizem informações oportunas e conhecimentos personalizados
+que possibilitem a geração de cenários decisórios.
+Denis Alcides Rezende é tecnólogo em Processamento de Dados, administrador, mestre em Informática pela UFPR, doutor
+em Gestão da Tecnologia de Informação pela UFSC e professor da FAE Business School.

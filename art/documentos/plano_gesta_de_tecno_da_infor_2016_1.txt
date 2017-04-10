@@ -1,0 +1,192 @@
+APRESENTAÇÃO
+Nas últimas décadas a Tecnologia da Informação deixou de ser apenas um centro de
+custo para se tornar um setor estratégico nas organizações. Atualmente a TI possibilita
+que as organizações reduzam custos operacionais, operem de uma forma mais produtiva,
+estabeleçam fortes relacionamentos com clientes e fornecedores e percebam o ambiente
+externo de maneira mais rápida e acertada. Ou seja, a TI potencializa a conquista de
+vantagem competitiva.
+Entretanto, a TI por si só basta. É necessário profissionais com competências e habilidades
+para otimizar o uso da TI como recurso estratégico. Não são poucos os casos de insucesso
+na gestão da Tecnologia da Informação nas organizações.
+Nesse contexto, a disciplina Gestão de Serviços de Tecnologia da Informação introduz o
+conceito de organização da TI voltada para prestação de serviços. Além disso, a disciplina
+apresenta as melhores práticas para gestão de serviços de TI tais como Itil, Cobit, ISO e
+Pmbok para a governança da TI.
+GESTÃO DE TECNOLOGIA
+DA INFORMAÇÃO
+NÍVEL DE ENSINO: Graduação
+CARGA HORÁRIA: 80h
+PROFESSOR-AUTOR: Walisson Ferreira de Carvalho
+GOVERNANÇA EM
+TECNOLOGIA DA INFORMAÇÃO
+EMENTA
+Introdução a Gestão de TI (O que é a Gestão de TI; Diferença entre Gestão de Serviços e
+Gestão de TI; Gestão de Pessoas; Gestão de Processos), ITIL V3 e ISO20000 – Conceitos
+e Definições (Definição de Processo; Definição de Processos de Gerenciamento de
+Serviços e TI; Modelos de Ciclo de Vida de Processos; Porque usar frameworks), Ciclo
+de Vida de Serviços de TI Estratégia de Serviço, Desenho do Serviço, Transição do
+Serviço, Operação do Serviço, Melhoria de Serviço Continuada (Requisitos do Desenho
+de Processos; Requisitos do Planejamento; Requisitos da Transição), Gerenciamento
+de Incidentes, Problemas e Central de Serviços. Helpdesk TI – Relacionamento e
+Atendimento (Gerenciamento de Incidentes e Requisições de Serviço; Gerenciamento de
+Problemas; Central de Serviços), Gerenciamento de Configuração e Mudanças (Item de
+Configuração; Biblioteca de Mídia Definitiva; Base de Referência de Configuração; Processos
+de Gerenciamento de Mudanças),
+OBJETIVO GERAL
+Introduzir o conceito de organização da Tecnologia da Informação orientada para serviços
+e sua gestão, destacando as melhores práticas para governança de TI.
+• Apresentação do framework ITIL
+• Definição da norma ISO20000
+• Definição dos processos de gerenciamento
+de Serviços de TI
+• Modelos de Ciclo de Vida
+Objetivos Específicos
+• Apresentar a gestão de Serviços de TI sobre a
+ótica da ISO 2000;
+• Apresentar o uso de frameworks de mercado
+como ferramenta de auxílio à gestão;
+• Apresentar os modelos de Ciclos de Vida de
+processos.
+• Estratégia de serviço
+• Desenho de serviço
+• Transição de serviço
+• Operação de serviço
+• Melhoria de serviço continuada
+Objetivos Específicos
+• Apresentar os Serviços de TI na ótica da ITIL;
+• Detalhar cada etapa componente do ciclo de
+vida.
+• Definição de incidentes e problemas
+• Gerenciamento de incidentes e requisições de
+serviços
+• Gerenciamento de problemas
+• Central de serviços
+Objetivos Específicos
+• Conceituar incidentes e problemas;
+• Entender o funcionamento e a estrutura necessária
+para o gerenciamento de incidentes;
+• Compreender o funcionamento e a estrutura
+necessária para o gerenciamento de problemas;
+• Entender o funcionamento de uma central de
+serviços.
+• Conceitos de Gestão de TI
+• Diferenças entre Gestão de Serviços
+e Gestão de TI
+• Gestão de Pessoas
+• Gestão de Processos
+Objetivos Específicos
+• Conceituar e diferenciar Gestão de Serviços e
+Gestão de TI;
+• Apresentar aspectos da gestão de pessoas.
+Gestão de conflitos, desafios, motivação.;
+• Alinhar processos, pessoas e serviços.
+INTRODUÇÃO
+A GESTÃO DE TI
+CICLO DE VIDA DE SERVIÇOS
+DE TI ESTRATÉGIA DE
+SERVIÇO
+GESTÃO DE PROBLEMAS
+E INCIDENTES
+ITIL V3
+E ISO20000
+UNIDADE 1
+UNIDADE 2
+UNIDADE 3
+UNIDADE 4
+CONTEÚDO
+PROGRAMÁTICO
+• Processo de liberação e implantação
+• Política de liberação
+• Planejamento de distribuição
+Objetivos Específicos
+• Conceituar liberação e implantação e descrever as
+principais características do processo;
+• Compreender o processo como uma
+estruturação necessária para liberação e
+instalação das mudanças planejadas;
+• Descrever estratégias para distribuição dos
+serviços homologados.
+• Processos de gerenciamento de continuidade e
+disponibilidade
+• Orçamento e contabilização
+• Processo de gerenciamento da capacidade
+• Processos de segurança da informação
+Objetivos Específicos
+• Conceituar gerenciamento de continuidade e
+disponibilidade;
+• Explicar como orçar e contabilizar serviços;
+• Dimensionar uma estrutura necessária para prover
+serviços;
+• Alinhar a segurança de informação com os
+serviços oferecidos.
+• Item de configuração
+• Biblioteca de mídia definitiva
+• Base de referência de configuração
+• Processo de gerenciamento de mudança
+Objetivos Específicos
+• Apresentar conceitos de itens de configuração;
+• Entender o armazenamento de gerenciamento de
+dados relacionados à infra estrutura de TI;
+• Entender como criar e manter uma base de dados
+de gerenciamento de configuração;
+• Compreender o funcionamento e estrutura
+necessária para o gerenciamento e configuração
+de mudança.
+• Processo de planejamento e organização
+• Processo de aquisição e implementação
+• Processo de entrega e suporte
+• Processo de monitoramento
+• Implementação de um projeto de governança
+Objetivos Específicos
+• Entender o alinhamento estratégico da empresa
+com os serviços de TI;
+• Entender como desenvolver e lidar com
+fornecedores;
+• Apresentar mecanismos para a entrega e suporte
+dos serviços oferecidos;
+• Desenvolver métricas e métodos de
+acompanhamento dos serviços;
+• Construir um projeto completo de governança
+alinhado ao CobIT.
+GERENCIAMENTO DE
+LIBERAÇÃO E APLICAÇÕES
+GERENCIAMENTO DE
+CAPACIDADE, CONTINUIDADE
+E DISPONIBILIDADE
+GOVERNANÇA DE TI
+APLICADA AO COBIT
+GERENCIAMENTO E
+CONFIGURAÇÃO DE
+MUDANÇA
+UNIDADE 6
+UNIDADE 5 UNIDADE 7
+UNIDADE 8
+BÁSICA
+FERNANDES, Aguinaldo Aragon; ABREU, Vladimir
+Ferraz de. Implantando a Governança de TI: da
+Estratégia à Gestão dos Processos e Serviços.
+Brasport: 2008.
+FILHO, Rubem Melendez. Service Desk
+Corporativo - Solução Com Base na Itil ® V3. São
+Paulo: Novatec, 2011.
+FITZSIMMONS, James A. Administração de
+serviços: operações, estratégia e tecnologia da
+informação. 6 ed. Porto Alegre: Bookman, 2010.
+COMPLEMENTAR
+DAVENPORT, Thomas H. ABRÃO, Bernadette
+Siqueira (Org.). Ecologia da informação: por que
+só a tecnologia não basta para o sucesso. 2 ed.
+São Paulo: Futura, 2000.
+MANSUR, Ricardo. Governança de TI:
+metodologias, frameworks, melhores práticas.
+Rio de Janeiro: Brasport, 2007.
+PHILLIPS, Joseph. Gerência de projetos de
+tecnologia da informação. Rio de Janeiro:
+Campus, 2003.
+COHEN, Roberto. Implantação de Help Desk e
+Service Desk
+OGC - Office of Government Commerce.
+Introdução ao ITIL, v. 2. Van Haren Publishing:
+2006.
+BIBLIOGRAFIA
+Versão: 2016/1

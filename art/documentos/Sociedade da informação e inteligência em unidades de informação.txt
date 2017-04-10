@@ -1,0 +1,878 @@
+91
+INTRODUÇÃO
+Ao pensarmos em inteligência, remetemos-nos
+imediatamente à capacidade das organizações (entre elas
+as unidades de informação) de monitorar informações
+ambientais para responder satisfatoriamente aos desafios
+e oportunidades que se apresentam continuamente. Podese
+dizer que a inteligência visa, principalmente, a imprimir
+um comportamento adaptativo à organização, permitindo
+que estas mudem e adaptem os seus objetivos, produtos e
+serviços, em resposta a novas demandas do mercado e a
+mudanças no ambiente.
+Possuir inteligência organizacional 1
+ está associado à busca
+sistemática, efetiva e proativa de posturas ligadas à
+estratégia, à relação organização e ambiência externa.
+O processo de geração de inteligência nas organizações, a
+partir do prisma da informação (figura 1).
+Sociedade da informação e inteligência em
+unidades de informação
+Kira Tarapanoff
+Doutora em ciência da informação, pesquisadora sênior da
+Universidade de Brasília e coordenadora do Curso de Especialização
+em Inteligência Competitiva promovido pelo Instituto Brasileiro de
+Informação em Ciência e Tecnologia (IBICT) e Instituto Nacional
+de Tecnologia (INT). E-mail: kira@ibict.br
+Rogério Henrique de Araújo Júnior
+Mestre em ciência da informação pela Universidade de Brasília e
+coordenador assistente do Curso de Especialização Inteligência
+Competitiva promovido pelo Instituto Brasileiro de Informação em
+Ciência e Tecnologia (IBICT) e Instituto Nacional de Tecnologia
+(INT). E-mail: rogerio@ibict.br
+Patricia Marie Jeanne Cormier
+Bibliotecária da Caixa Econômica Federal e especialista em
+inteligência competitiva pelo Instituto Brasileiro de Informação em
+Ciência e Tecnologia (IBICT) e Instituto Nacional de Tecnologia
+(INT). E-mail: cormier@caixa.gov.br
+Resumo
+Aborda o conceito de inteligência competitiva aplicada a
+unidades de informação. Discute a atuação da unidade de
+informação no contexto da sociedade da informação, propondo
+a abordagem da inteligência competitiva para o monitoramento
+ambiental de informações e adequação organizacional ao
+contexto. Sugere a estruturação de um sistema de inteligência
+com utilização de ferramentas de tratamento e agregação de
+valor à informação apropriadas. Cita exemplo de utilização de
+sistema de inteligência competitiva em unidade de informação,
+que pode ser replicado, ou usado como exemplo, por outras
+unidades de informação.
+Palavras-chave
+Sociedade da informação; Inteligência competitiva; Sistema de
+inteligência competitiva; Monitoramento de informações; Data
+minig; Data warehousing; Redes neurais.
+Information society and the use of intelligence in
+information units
+Abstract
+The approach and concept of competitive intelligence is
+applied to information units. It is discussed the role of
+information units in the Information Society. The competitive
+intelligence approach is proposed for the organization´s
+monitoring for information for its better positioning in the
+environment and market. The structing of an intelligence
+system is suggested as well as the use of appropriate tools to
+add value to the information. An example is cited for the
+competitive intelligence use in information systems that can be
+replicated, or adopted as a model, by other information units.
+Keywords
+Information society; Competitive intelligence; Information
+monitoring; Competitive Intelligence system; Data mining; Data
+warehousing; Neural networks.
+1
+ A informação dispersa não constitui inteligência. A partir da
+estruturação da informação é que a inteligência passa a existir. Weick
+apud Nonaka & Takeuchi, 1997 (p. 635) desenvolveu a teoria da
+inteligibilidade, segundo a qual a realidade é uma realização contínua
+que surge dos esforços de criar a ordem e tentar entender o que ocorre.
+A inteligibilidade enfatiza que as pessoas tentam tornar as coisas
+racionalmente responsáveis para si mesmas e para os outros, ou seja, a
+premissa básica para se fazer inteligência é agregar valor à informação,
+é estruturá-la de modo que a mesma passe a ter um valor, uma
+importância contextual da organização.
+2
+ Emprego do conhecimento científico para especificação de como fazer
+as coisas no domínio do conjunto convergente da microeletrônica,
+computação (software e hardware), telecomunicações/radiodifusão,
+optoeletrônica e engenharia genética (Castells, 1999).
+FIGURA 1
+Etapas na geração de conhecimento e inteligência
+(Fonte: baseado em Tjaden, 1996)
+ 1ª etapa 2ª etapa
+ Instrumento de
+ coleta de dados Custo versus Benefício
+ 3ª etapa
+ Processamento Efetividade
+Distribuição Pertinência
+ Valor agregado
+ Tecnologia da
+ informação1
+ Valor da informação
+DADO INFORMAÇÃO CONHECIMENTO
+ INTELIGÊNCIA
+Ci. Inf., Brasília, v. 29, n. 3, p. 91-100, set./dez. 2000
+92
+A geração do conhecimento vai estar apoiada em dois
+aspectos interligados:
+• valor da informação;
+• validade da informação para o processo decisório.
+A mudança mais significativa que ocorre na ambiência é
+o que se convencionou chamar, entre outras
+denominações, de sociedade pós-industrial. Esta diz
+respeito essencialmente às mudanças na estrutura social,
+às transformações que se produzem na vida econômica e
+na estrutura profissional e, por fim, às relações que se
+estabelecem entre a teoria e a prática experimental, entre
+ciência e tecnologia.
+O modus operandi da sociedade pós-industrial identificase
+com o da sociedade da informação. Trata-se de um modo
+de desenvolvimento social e econômico em que a aquisição,
+armazenamento, processamento, valorização, transmissão,
+distribuição e disseminação da informação conducente à
+criação de conhecimentos e à satisfação das necessidades
+dos cidadãos e das organizações desempenham um papel
+central na atividade econômica, na criação de riqueza, na
+definição da qualidade de vida dos cidadãos e das suas
+práticas culturais (Livro Verde para a Sociedade da Informação
+em Portugal: http://www.missao-si.mct.pt/livroverde/
+lvfinal.zip)
+O NOVO AMBIENTE DAS UNIDADES DE
+INFORMAÇÃO
+Caracterização das unidades de informação
+As unidades de informação 3
+ (bibliotecas, centros e
+sistemas de informação e de documentação) foram e são,
+tradicionalmente, organizações sociais sem fins lucrativos,
+cuja característica como unidade de negócio é a prestação
+de serviços, para os indivíduos e a sociedade, de forma
+tangível (produtos impressos), ou intangível (prestação
+de serviços personalizados, pessoais, e hoje, cada vez mais,
+de forma virtual – em linha, pela Internet).
+No entanto, em especial nas duas últimas décadas, as
+unidades de informação têm sofrido redução orçamentária,
+tanto no Brasil como no exterior, e têm sido submetidas à
+competição por recursos/insumos de toda espécie, em
+especial por recursos financeiros (Young, 1994, p. 110). A
+pergunta que as unidades informacionais têm se feito é: o
+que fazer quando as fontes tradicionais de fomento
+diminuem os seus repasses? Formas cooperativas para a
+maximização de recursos são estudadas, mas também
+aflora a possibilidade de cobrança da prestação diferenciada
+de serviços e produtos internacionais. E, neste caso, devese
+cobrar por serviços informacionais? Como cobrar,
+quando cobrar, quanto cobrar?
+Assuntos complexos como livre acesso à informação,
+barreiras para o livre acesso à informação pública e
+cobrança direta por serviços bibliotecários com valor
+agregado têm provocado discussão e debate entre os
+profissionais da informação. O posicionamento
+tradicional é que os serviços bibliotecários são um bem
+público (domínio público) e que o acesso livre à
+informação é um direito fundamental de cada cidadão em
+uma sociedade democrática. Este posicionamento reflete
+uma visível preocupação com a finalidade e a justiça social.
+A questão principal em debate é o foco na definição do
+que é bem público, em instituições de serviço (público).
+A importante distinção entre informação como bem
+público e informação como bem econômico (commodity)
+está na diferença entre a informação a serviço da eqüidade
+social e aquela que oferece um portfólio4
+ de serviços,
+representando vários graus de eficiência, a preço
+compatível de mercado competitivo.
+Aqueles que vêem a informação como um bem público
+enfatizam unicamente a natureza econômica da
+informação. A informação tem características econômicas
+atípicas que a distinguem de ativos (commodities) mais
+tangíveis. A informação pode se expandir , ser completada,
+é capaz de ser substituída, transportável, difusa e pode ser
+compartilhada. Como um produto/mercadoria, a
+informação não se deprecia e é disponível livremente, tem
+um valor que cresce com a reutilização e a sua apresentação
+sob outra forma (reembalagem) e é extremamente difícil
+de controlar. Desta forma, o argumento do bem público
+afirma que o acesso amplo à informação resulta em um
+uso crescente que beneficia a sociedade como um todo, e
+não apenas partes desta sociedade (Young, 1994, p. 108).
+3
+ Unidade de Informação – instituições voltadas para a aquisição,
+processamento, armazenamento e disseminação de informações (IBICT,
+1989, p.i)
+4
+ Portfólio – seus componentes são os negócios e produtos que constituem
+a empresa (Kotler & Armstrong, 1993).
+Kira Tarapanoff / Rogério Henrique de Araújo Júnior / Patricia Marie Jeanne Cormier
+Ci. Inf., Brasília, v. 29, n. 3, p. 91-100, set./dez. 2000
+93
+Argumenta-se também que a crença de que toda a
+informação estará disponível para todos na Internet, em
+qualquer lugar, a qualquer momento, é baseada em um
+pressuposto equivocado a respeito da natureza humana.
+Nada é inteiramente livre, e problemas de direitos autorais
+devem ser resolvidos, nos seus aspectos do que pode ser
+digitalizado (o que é ou não de domínio público) e quem
+pode ter acesso a esses materiais 5
+. O problema de
+compatibilizar interesses conflitantes de propriedade
+intelectual com o acesso livre e igual impõe restrições
+sobre a consulta de materiais produzidos.
+A biblioteca nos moldes tradicionais é a única que pode
+disponibilizar livremente os materiais com direitos de
+autor reservados. A biblioteca tradicional seria assim o
+único lugar onde os leitores podem consultar livremente
+não somente os materiais com direitos autorais reservados,
+mas também bases de dados (com acesso licenciado) que
+não podem ser utilizadas de qualquer lugar, por qualquer
+pessoa no espaço virtual. Enquanto a questão dos direitos
+autorais do ciberespaço não estiver resolvida, será a
+biblioteca tradicional o lugar onde qualquer cidadão poderá
+ter livre acesso a qualquer obra com direitos autorais
+reservados, sem pagar por esses direitos (Mann, 1999).
+A escassez de recursos é uma das vertentes que tem mudado
+a postura das unidades informacionais em termos
+administrativos, organizacionais e como unidades de
+negócio que vêem, hoje, a informação oferecida como um
+bem econômico, que pode ser vendida em forma física ou
+na forma de comércio eletrônico, e não mais apenas como
+um benefício cultural ou social, suprindo lacunas para o
+crescimento individual dos cidadãos, que, acredita-se, o
+mercado por si só nunca supriria de forma adequada.
+As organizações sem fins lucrativos têm procurado formas
+adicionais de suprimento de fundos, comportando-se mais
+como organizações com fins lucrativos do que sem fins
+lucrativos (DEES, 1998, p. 56).
+A outra grande vertente, como já visto anteriormente,
+tem sua origem na mudança paradigmática da sociedade,
+que inicia um novo ciclo produtivo, centrado na
+informação e no conhecimento e que tem a informação
+como um bem econômico: a Sociedade da informação.
+Nesta, o bem-estar econômico das nações depende, cada
+vez mais, de sua habilidade em acessar e explorar os acervos
+de conhecimentos tanto internos como externos.
+Conhecida também como era digital, esta sociedade está
+estreitamente ligada à qualidade da infra-estrutura de
+telecomunicações do país.
+Como atribuir valor à informação
+Agregar valor a produtos e serviços significa imprimir aos
+mesmos uma diferenciação que os torna mais atraentes
+aos olhos dos consumidores, quer seja em termos de
+qualidade, rapidez, durabilidade, assistência ou preço.
+Podem ser identificadas seis categorias de atividades de
+valor agregado : facilidade de uso, redução de informação
+desnecessária, qualidade, adaptabilidade6
+, economia de
+tempo e economia de custo (Taylor, 1986).
+No que se refere à informação, a agregação de valor excede
+os métodos tradicionais de consulta, pesquisa e
+disponibilização de informação aos usuários das também
+tradicionais bibliotecas. As atividades do bibliotecário
+podem incluir: treinamento, trabalho especializado e
+atendimento a consultas dos usuários sobre seleção de
+fontes de informação; desenvolvimento de estratégias de
+pesquisa/busca; avaliação da informação.
+Ele pode participar do planejamento e das atividades
+decisórias da organização, onde exerce o processamento,
+reunião e coleta de informações ambientais pertinentes à
+organização (vigilância informacional), procurando
+desenvolver um entendimento íntimo de como a
+informação é usada. Deve buscar entender qual o impacto
+da informação adquirida no desenvolvimento do
+indivíduo e da organização, além de procurar saber como
+os conhecimentos de cada um podem beneficiar a todos e
+a organização (CHOO, 1998, p.215; Quinn; Anderson &
+Filkenstein,1996).
+5
+ Além do livre acesso, outro ponto evidente é a restrição quanto à
+utilização da informação cujos limites são impostos pela legislação que
+regulamenta o direito autoral. Com relação à utilização da informação
+veiculada na Internet, por exemplo, a nova Lei do Direito Autoral
+pontua que os direitos autorais continuam a ter sua vigência no mundo
+on-line da mesma maneira que no mundo físico. A transformação das
+obras intelectuais para bits em nada altera os direitos das obras
+originalmente fixadas em suportes físicos, como já referido anteriormente.
+O direito de reproduzir uma obra é exclusivo de seu titular, inclusive
+o direito de reproduzi-la eletronicamente em uns e zeros (para serem
+lidos por computador). E se alguém armazena de forma permanente, no
+seu computador, material protegido pelo direito autoral, uma nova
+cópia é feita, necessitando a mesma, portanto, de uma autorização
+expressa do respectivo titular (Gandelman, 1997, p. 154-155).
+6
+ Refere-se à habilidade de o serviço oferecido ser compatível com as
+necessidades do usuário em seu ambiente de trabalho.
+Sociedade da informação e inteligência em unidades de informação
+Ci. Inf., Brasília, v. 29, n. 3, p. 91-100, set./dez. 2000
+94
+Entrantes
+Potenciais
+Concorrentes
+na Indústria
+Rivalidade Entre
+Empresas
+Existentes
+Fornecedores Compradores
+Substitutos
+Ameaça de Novos
+Entrantes
+Poder de Negociação
+dos Fornecedores
+Poder de Negociação
+dos Compradores
+Ameaça de
+Serviços
+ou Produtos Substitutos
+Considerando que as unidades de informação venham a
+estabelecer um custo para seus serviços e produtos,
+propomos, baseados em Kotler (1998), uma metodologia
+para a atribuição de valor à informação. Segundo ele, há
+alguns itens que contribuem para a determinação do valor
+a ser cobrado por um serviço, são eles tempo, energia física
+e energia psíquica. Dessa maneira, tomemos o processo de
+pesquisa bibliográfica e as atividades que este serviço
+abrange até a entrega do produto final ao consumidor: a
+informação. A variável tempo será determinada pelo
+próprio demandante do serviço, pois a urgência para a
+utilização da informação irá variar conforme as
+necessidades de cada um. As variáveis custo de energia
+física e energia psíquica estão diretamente relacionadas
+com o tipo de profissional que está envolvido na elaboração
+da pesquisa. As demais variáveis são dependentes dos
+múltiplos contextos onde está sendo oferecido o serviço
+de pesquisa.
+Aplicação da inteligência competitiva em unidades de
+informação
+Na busca da informação, a organização deve observar
+seletivamente a grande quantidade de sinais criados em
+um ambiente dinâmico, interpretar as mensagens confusas
+e perceber os indícios relativos às suas atividades e
+objetivos (Choo, 1998). Porter (1996) desenvolveu um
+modelo centrado na rivalidade existente entre empresas
+similares. As cinco forças competitivas identificadas
+determinariam a rentabilidade das mesmas e
+influenciariam os preços, os custos, o investimento
+necessário das empresas e os elementos do retorno sobre
+o investimento (figura 2).
+FIGURA 2
+As cinco forças competitivas que determinam a
+rentabilidade da empresa
+(Fonte: Porter, 1996)
+Com relação às unidades de informação, é condição
+precípua a identificação do seu macroambiente para que
+se possa determinar, a partir daí, a possibilidade de
+utilização da inteligência competitiva em seus processos.
+Tarapanoff (1998) identifica algumas forças externas
+condicionantes do desempenho das unidades
+informacionais: a explosão da informação, a tecnologia
+da informação, novas demandas dos usuários, propriedade
+intelectual, redes, competição com a indústria de
+conteúdos privada, escassez de recursos, desenvolvimentos
+legais, cooperação (inclusive as novas formas cooperativas
+de consórcio). Sugere-se que os conhecimentos que a
+organização e os seus funcionários têm sobre o
+desenvolvimento da própria área de ciência da informação
+e das suas disciplinas complementares também afetam o
+desempenho dessas unidades.
+Em unidades de informação, a postura competitiva
+associa-se à pró-atividade no atendimento às demandas
+dos usuários, ou seja, está intimamente relacionada à
+melhor oferta de produtos e serviços, à antecipação às
+novas tendências em relação à novas estruturas, à
+facilidade de acesso à informação, à formação, à agregação
+de valor e qualidade a esses produtos, bem como à sua
+personalização (customização), função de redes e de
+posicionamento no mercado de acordo com as demandas
+específicas.
+Aplicando o modelo de Porter (1996) às unidades de
+informação e tomando como base as premissas acima,
+podemos sugerir que os elementos que podem condicionar
+o retorno do investimento nessas organizações são os
+seguintes:
+1. Ameaça de novos competidores – Indústria privada;
+2. Ameaça de produtos substitutos – Internet;
+3. Poder do fornecedor – Redes e consórcios;
+4. Poder de barganha do cliente – Compra de serviços
+alternativos;
+5. Rivalidade dos concorrentes – Pró-atividade.
+As unidades de informação devem explorar o fato de a
+cooperação permear vários de seus processos,
+principalmente no que diz respeito à aquisição da
+informação (poder do fornecedor). É importante a
+implementação de uma rede de comunicação entre
+diversas bibliotecas, cujo objetivo é estabelecer uma teia
+de informações capaz de localizar com rapidez e com baixos
+Kira Tarapanoff / Rogério Henrique de Araújo Júnior / Patricia Marie Jeanne Cormier
+Ci. Inf., Brasília, v. 29, n. 3, p. 91-100, set./dez. 2000
+95
+custos fontes produtoras e levar ao cliente/usuário o
+produto informacional com valor agregado. As fontes de
+informação podem ser convencionais ou não
+convencionais, sendo que, no segundo caso, há a
+necessidade da validação de informações por especialistas,
+que pode ser também um produto a ser oferecido pelas
+bibliotecas como forma de enfrentar a concorrência.
+Segundo Gilad apud Sapiro (1993), quando a inteligência
+competitiva se insere no tecido organizacional, os
+benefícios podem ser facilmente apontados, como:
+1. identificação de novas oportunidades de negócios;
+2. ideais compartilhados;
+3. crescente habilidade para antecipação de surpresas;
+4. aumento das habilidades gerenciais;
+5. integração de vários pontos de vista.
+No caso das unidades de informação, a inteligência
+competitiva se relaciona à:
+• identificação de necessidades de usuários, quando é
+necessário um bom conhecimento do mercado de atuação
+para focar nichos de usuários potenciais, usuários virtuais,
+usuários esporádicos e outros;
+• postura pró-ativa (desenvolvimento de coleções de
+acordo com interesses específicos, parcerias com
+instituições que oferecem produtos afins);
+• estabelecimento de redes de informação, das quais façam
+parte especialistas cuja função é a validação da informação.
+Esses itens se relacionam entre si de modo a estabelecerem
+um processo de transformação de dados em conhecimento,
+que tem início com a identificação de necessidades de
+informação, bem como do tipo de informação necessária:
+informação para o negócio, informação para a pesquisa e
+desenvolvimento, informação para a produção e outras.
+Assim, “Inteligência Estratégica” enfatiza a busca de
+informações para a tomada de decisão e para o
+planejamento estratégico; “Inteligência para Negócios” é
+o monitoramento de informação sobre negócios e
+mercados; “Inteligência Competitiva” foca informações
+sobre produtos e serviços oferecidos por empresas
+similares; “Inteligência Tecnológica” enfoca informações
+de ordem tecnológica e social. Alia-se a isto uma boa dose
+de antecipação e de prospecção para a adoção de novos
+modelos de produtividade. Ou seja, a inteligência
+competitiva deve ser empregada como instrumento para
+que a unidade de informação seja capaz de analisar e
+estabelecer novos paradigmas de foco informacional, não
+só para o seu ambiente externo, onde estão seus
+concorrentes e clientes/usuários externos, como também
+para o seu ambiente interno.
+O Sistema de Inteligência
+A adoção e a manutenção de um Sistema de Inteligência
+em Unidade de Informação é assegurada por uma série de
+procedimentos que necessitam estar sempre em revisão,
+dada a constante mutação e flexibilidade de qualquer
+mercado, seja de informação, seja de bens ou serviços.
+Alguns destes procedimentos são:
+• posicionar o Sistema de Inteligência de acordo com o
+tipo de informação requerida (produção, pesquisa,
+desenvolvimento, negócio);
+• definir custos de operações;
+• monitorar informações formais e informais;
+• estabelecer redes de especialistas que garantam o seu
+funcionamento;
+• posicionar os profissionais da informação de acordo com
+a demanda, quando as atividades de cada um devem estar
+bem claras e descritas, com especificações e normatizações
+dos serviços oferecidos;
+• estabelecer um eficaz canal de comunicação entre os
+bibliotecários e os usuários;
+• validar as informações coletadas;
+• elencar, para cada fator crítico de sucesso7
+ indicado
+pelo usuário que necessita da informação, as fontes que
+deverão ser utilizadas;
+• criar um sistema de apoio de busca de informação que
+possa ser customizado e que faça estudos de produção de
+informação e de fontes mais consultadas;
+• criar um sistema de segurança de informação.
+7
+ Número limitado de áreas nas quais os resultados, se forem satisfatórios,
+irão assegurar um desempenho competitivo de sucesso para a
+organização. Os FCS são os meios que garantem a realização dos
+objetivos da organização.
+Sociedade da informação e inteligência em unidades de informação
+Ci. Inf., Brasília, v. 29, n. 3, p. 91-100, set./dez. 2000
+96
+Os processos da unidade de informação podem se adequar
+ao Sistema de Inteligência, já que auxiliam no
+monitoramento de dados, indicam tendências de
+pesquisas e mantêm relacionamento com especialista,
+como, por exemplo:
+Atendimento a usuários
+O bibliotecário de referência, responsável pela
+“negociação” com os clientes/usuários, perceberá as
+tendências de pesquisas, repassando informações
+importantes para o desenvolvimento de coleções que
+consubstanciam o acervo da biblioteca, bem como na
+modelagem e montagem de um sistema de atendimento
+pró-ativo ao usuário/cliente.
+Estudo de usuários
+Permitirão a prospeção e a antecipação das necessidades
+dos usuários, o que irá garantir a vantagem competitiva
+das unidades de informação em relação a seus
+concorrentes. Não servirá apenas para a geração de
+indicadores quanto ao perfil do cliente/usuário, mas
+também deverá gerar indicadores para a formulação de
+itens de controle de qualidade dos serviços prestados pelas
+unidades de informação.
+Estudos bibliométricos e infométricos
+Estes estudos representam a base de sistemas automáticos
+de análise de informação. Através de cálculos, informam
+quantas vezes palavras são utilizadas, apontando para
+tendências em áreas consagradas, que constam de bases
+de dados. Tais estudos podem ser feitos por bibliotecas.
+Serviços de Disseminação Seletiva da Informação - DSI
+Após o percurso de toda a cadeia de valores da informação,
+a biblioteca fornecerá ao seu cliente/usuário o produto
+informacional que atenda a suas necessidades específicas
+de acordo com o seu perfil de interesse, quer seja para
+estudo, para pesquisa ou para a tomada de decisão.
+ALGUMAS TÉCNICAS PARA O TRATAMENTO
+DAS INFORMAÇÕES
+Redes Neurais
+Para se ter acesso à boa informação sempre foi prioritário
+o desenvolvimento de instrumentos que permitissem a
+implementação da “lei do menor esforço”, capacitando a
+extração de informações realmente relevantes em um
+contexto de produção exponencial de dados. A construção
+de redes neurais, por exemplo, é a tentativa de utilizar a
+tecnologia da informação aproximando-a ao método
+humano de processamento de dados, por meio de
+associações e capacidade de aprender. Desta forma, uma
+rede neural compreende um conjunto de nós interligados
+chamados de neurônios. Cada neurônio conecta-se e
+envia informação para os demais da camada seguinte, de
+acordo com pesos e conexões predefinidos. As redes neurais
+têm capacidade de tratar dados incompletos e distorcidos,
+produzindo resultados satisfatórios a partir de
+generalizações (Almeida & Dumontier, 1996).
+Data Warehousing
+A tecnologia de Data Warehousing surge com a mesma
+proposta de otimização do uso da informação, a fim de
+transformá-la em diferencial competitivo. Desponta como
+uma das principais arquiteturas deste final de século. Foi
+desenvolvida com a finalidade de prover suporte à tomada
+de decisão, tendo como elementos básicos: orientação para
+o objeto, integração, tempo como variável e a nãovolatilidade
+de dados.
+Como funciona o Data Warehousing?
+De modo geral, o funcionamento do DW é simples de
+entender. Uma das premissas do sistema é a integração de
+dados. Dados de várias fontes são coletados e migrados
+para o ambiente do Data Warehousing, onde recebem um
+tratamento visando à sua padronização, que facilitará a
+recuperação de informações (os dados já sofreram
+interferência, já possuem valor agregado, então são
+considerados informação) pelo usuário final.
+Em informativo técnico editado na Internet, a Revista
+Unicamp explica as etapas para a implementação de um
+Data Warehousing:
+• construir um modelo lógico das informações
+disponíveis nas aplicações fontes;
+Kira Tarapanoff / Rogério Henrique de Araújo Júnior / Patricia Marie Jeanne Cormier
+Ci. Inf., Brasília, v. 29, n. 3, p. 91-100, set./dez. 2000
+97
+• trabalhar com os gerentes e analistas de negócio para
+determinar qual o conjunto de informações que deve ser
+levado para o Data Warehousing – este conjunto é o que
+será utilizado para a tomada de decisões;
+• construir um modelo de transição que identifique
+dimensões e fatos;
+• obter, dos analistas de negócios que fornecem
+informações aos gerentes, o nível de agregação que deve
+ser utilizado, a freqüência e periodicidade de carga dos
+dados no Data Warehousing;
+• construir o projeto-piloto e determinar a sua aderência
+aos requisitos exigidos.
+Dados de diversas fontes bibliográficas podem ser os
+alimentadores de um sistema Data Warehousing para que,
+após a padronização oferecida pelo sistema, possam ser
+disponibilizadas ao cliente final, sob a forma de
+informação, possibilitando a identificação de tendências
+de pesquisas ou autores que mais produzem em um
+determinado assunto. Esta aplicação diz respeito a um
+serviço tradicional de bibliotecas, isto é, pesquisa em base
+de dados, que, a partir da tecnologia de Data Warehousing,
+seriam integradas. Na verdade, esta tecnologia poderia
+ser um instrumento para a aplicação da técnica
+bibliométrica, que é o estudo de aspectos quantitativos
+da produção, distribuição e uso da informação registrada.
+Desenvolve modelos matemáticos e medidas para esses
+processos e depois os utiliza para a previsão e tomada de
+decisão (Tarapanoff, 1995).
+Data Mining
+Estudos para o desenvolvimento de meios e métodos que
+permitam a eficaz gestão do conhecimento constituem
+uma tendência no atual mundo competitivo e globalizado.
+No entanto, o diferencial competitivo é justamente a
+aplicação da tecnologia certa para cada tipo de demanda,
+ou seja, o profissional envolvido no processo de
+transformação de inteligência em conhecimento ainda
+representa um importante fator crítico de sucesso para
+que a adequada tecnologia seja empregada, o que
+representará um correto investimento de tempo, recursos
+materiais e financeiros.
+Davenport & Prusak (1998) ilustram, na figura 3, a
+necessidade de especialização do gestor da informação.
+FIGURA 3
+Diagrama da gestão do conhecimento individual
+(Fonte: Davenport & Prusak, 1998)
+Conclusões sobre a aplicação de redes neurais, DW e
+DM em unidades de informação
+É mais fácil visualizar a aplicação de tecnologias em
+organizações com fins lucrativos. A vantagem competitiva
+sempre é associada a ganhos , a lucros, a incorporações e
+fusões no mercado, ou seja, ao mais restrito sentido da
+palavra competição. Em organizações como bibliotecas
+que existem sem o objetivo precípuo de lucrar, a utilização
+de Redes Neurais, de Data Warehousing ou de Data Mining
+parece ser uma realidade bem distante, apesar de terem como
+matéria-prima os mesmos insumos que as bibliotecas, ou
+seja, os dados, a informação e o conhecimento. Falta, a essas
+organizações, uma estrutura administrativa bem definida,
+como empresas comerciais a tem. A adoção dessas estruturas
+não significa, no entanto, mudanças na missão ou nos
+objetivos das unidades de informação.
+A INFORMAÇÃO TRATADA
+A informação resultante da aplicação de tecnologias é a
+informação que alimentará o sistema de Inteligência de
+Unidades de Informação. Araújo Jr. (1998) identifica os
+tipos de informação que integram tais sistemas:
+1- Informação para a organização – definida como a
+informação voltada para a gestão (informação
+administrativa), para melhorar processos e produtos, além
+da manutenção da organização. Estas informações
+reorientam e subsidiam decisões sobre a atuação e
+manutenção do negócio de uma empresa: são, por isso,
+imprescindíveis à sobrevivência e ao aprimoramento
+empresarial;
+Sociedade da informação e inteligência em unidades de informação
+ Nível de conhecimento
+ exigido do usuário
+ ·
+· Redes neurais
+Componentes ·
+do conhecimento · Observações
+ Web
+·
+ Raciocínio com base
+ em casos
+ Com base em restrições
+ ·
+ ·
+ Sistemas especializados
+Dimensões-chave das ferramentas de gestão do conhecimento
+Ci. Inf., Brasília, v. 29, n. 3, p. 91-100, set./dez. 2000
+98
+2- Informação para o cliente – informação voltada para o
+perfil de interesse do cliente/usuário da organização e em
+consonância com a proposta e capacidade da empresa. Este
+tipo de informação deve ser utilizada para viabilizar a
+prestação de serviços.
+3- Informação tecnológica – todo o conhecimento de
+natureza teórica, econômica e mercadológica gerencial,
+social etc. que, por sua aplicação, favoreça o progresso de
+aperfeiçoamento e inovação.
+Baseado nisso, o quadro 1 reúne, conforme o tipo de
+informação proposta, as ferramentas adequadas para a
+geração de vantagem competitiva em unidades de
+informação.
+QUADRO 1
+Informação e vantagem competitiva em unidades de
+informação
+VANTAGEM COMPETITIVA
+PARA AS UNIDADES DE INFORMAÇÃO
+Aplicação das tecnologias da informação
+e controle de qualidade.
+Custo, pró-atividade, personalização,
+agregação de valor e acessibilidade.
+Compartilhamento de conhecimento.
+TIPOLOGIA DA
+INFORMAÇÃO
+1- Informação para a
+organização
+2- Informação para o
+cliente
+3- Informação
+tecnológica
+As questões que antecedem a disponibilização dessas (Fonte: baseado em Araújo Jr., 1998)
+informações são bem conhecidas do profissional atuante
+nas unidades de informação: que tipo de informação -
+para a organização, para o cliente, tecnológica - é necessária
+para o atendimento satisfatório do usuário final? Onde
+encontrá-las, ou em que fontes? A partir das respostas e
+da identificação desses insumos, já estão prontos os dados
+que seriam transportados para um ambiente Data
+Warehousing previamente instalado na unidade de
+informação, para que fossem codificados e uniformizados,
+quando, então, seriam disponibilizados ao usuário com
+valor agregado.
+No que se refere à informação, a agregação de valor excede
+os métodos tradicionais de consulta, pesquisa e
+disponibilização de informação. O acesso virtual a todo
+tipo de informação permite ao bibliotecário ter como
+aliados requisitos como rapidez e precisão, e, como há
+ênfase no compartilhamento e em parcerias, várias fontes
+podem ser consultadas, oferecendo a possibilidade de
+escolha ao cliente. Há de se considerar, também, as
+necessidades específicas de cada usuário. Desta maneira, a
+demanda de cada cliente deve ser analisada, ou seja, o que
+se pede – dado, informação ou informação analisada? Tal
+fato está relacionado ao preço que se irá cobrar pelo produto
+final que será repassado ao cliente (quando for o caso).
+É bom ressaltar a visão de (Barter Jr., 1994), para quem, a
+despeito de toda a revolução tecnológica e de instrumentos
+cada vez mais avançados para o controle e disponibilização
+de informações, o importante é o investimento no pessoal
+qualificado para o atendimento dos clientes. Para ele, a
+capacidade para a inovação é proporcional ao grau de
+delegação “empowerment” dada aos empregados da unidade
+de informação. O autor ainda aponta algumas das
+condições necessárias para que a biblioteca acompanhe a
+evolução do mercado em que atua:
+• colocar os clientes ( não tratá-los como usuários ou
+como quem empresta livros) como foco central da missão
+da biblioteca;
+• adaptar todos os serviços oferecidos para atender às
+necessidades dos clientes, sempre se utilizando de
+caminhos cada vez melhores para servi-los;
+• incentivar o staff das unidades de informação, lembrando
+que a tecnologia é somente um instrumento para o
+processo da validação da informação, o importante é que
+as pessoas saibam se utilizar dos meios de que dispõem
+para melhor atender aos clientes.
+EXEMPLO DE UNIDADE DE INFORMAÇÃO
+QUE UTILIZA SISTEMA DE INTELIGÊNCIA
+EM SEUS PROCESSOS
+O exemplo refere-se às atividades do Centro de Quebec
+(Canadá) de pesquisa e desenvolvimento do Alumínio
+(CQRDA), bem como do Centro de Vigilância de Metais
+Leves (CVML), este último criado para atender às
+necessidades de organização e disseminação de informação
+sobre alumínio, dos técnicos do CQRDA.
+O objetivo principal do CVML é “oferecer produtos e
+serviços de informação, de consulta e de utilização
+relacionados aos metais leves e sensibilizar as indústrias
+acerca do valor da informação estratégica”. Os produtos
+oferecidos pelo CVML são inúmeros e levam em
+consideração as diferenças econômicas, tecnológicas,
+comerciais e de mercado das empresas do Quebec que
+atuam com metais leves. São eles:
+Kira Tarapanoff / Rogério Henrique de Araújo Júnior / Patricia Marie Jeanne Cormier
+Ci. Inf., Brasília, v. 29, n. 3, p. 91-100, set./dez. 2000
+99
+• DSI - Disseminação Seletiva da Informação;
+• Serviço de referência - respostas às questões pontuais
+ou que requerem pesquisa;
+• Boletins mensais sobre IC;
+• Estudo multicliente - estado-da-arte de um mercado
+ou de uma tecnologia;
+• Revisão de literatura e levantamento de novas
+referências sobre Metais Leves;
+• Calendário seletivo de eventos ligados à indústria.
+CVML realizou um mapeamento das necessidades de seus
+clientes para adequar os produtos oferecidos, procurou,
+também, assumir uma postura pró-ativa diante das
+empresas. A organização do CVML é um bom exemplo de
+um centro de documentação criado especificamente com
+o objetivo de servir como apoio a um sistema de
+monitoramento tecnológico ou inteligência competitiva.
+O primeiro passo na estruturação do Centro foi a busca
+exaustiva de informações sobre metais leves. As
+informações coletadas foram inseridas em base de dados
+de referência do CVML. Assim temos:
+• Base de dados comerciais com informações sobre
+tecnologias, conhecimentos científicos, econômicos e
+comerciais;
+• Informações documentárias de base ( relatórios de
+pesquisa, periódicos etc.);
+• Informação via Internet – com muitas possibilidades,
+desde catálogos coletivos até grupos que trocam
+informações (especialistas).
+O serviço de referência fica a cargo não só de um
+bibliotecário, mas também de um engenheiro que o assiste.
+Assim, o trabalho de monitoramento de informações
+realizado pelo bibliotecário é precedido de levantamento
+das necessidades de informações dos técnicos. Após o
+levantamento de informações, estas são repassadas ao
+engenheiro, que as analisará e as transformará em
+inteligência, pois o diferencial de informação e
+inteligência é justamente a análise, portanto indispensável
+é o papel do analista da informação. Ele, por sua vez, deve
+ter profundo conhecimento do ambiente interno/externo
+de sua empresa.
+A elaboração do boletim sobre metais leves é bem
+interessante. Os responsáveis pela sua edição ficam
+constantemente ligados a tudo que se passa na indústria.
+A sistemática adotada é a exaustiva busca de informações
+em todos os tipos de fontes de informação: congressos,
+feiras, revistas, sites da Internet. Há, depois, uma
+distribuição de informações em função de sua pertinência,
+de sua utilidade, de sua novidade e de seu impacto no
+ambiente estudado. O Boletim aborda os seguintes temas:
+atualidades, informações comerciais, tecnologia e
+informações sobre corporações. As informações
+selecionadas são traduzidas (quando for o caso) e
+encaixadas, após serem sintetizadas, em um dos temas
+abordados.
+O serviço de DSI acontece nos padrões tradicionais
+adotados por qualquer biblioteca, quando são emitidas
+listas direcionadas pelo interesse do especialista, com
+referências bibliográficas. Cabe ao especialista a demanda
+pela informação que mais lhe interessa.
+Os procedimentos adotados pela experiência relatada
+podem ser replicados em qualquer unidade de informação
+com o foco mais apropriado aos seus objetivos.
+REFERÊNCIAS BIBLIOGRÁFICAS
+ALMEIDA, Fernando C. de; DUMONTIER, Pascal. O uso de redes
+neurais em avaliação de riscos de inadimplência. Revista de
+Administração, São Paulo, v. 31, n. 1, p. 52-63, jan./mar. 1996.
+ARAÚJO JR., Rogério Henrique de. Estudo de necessidades de informação
+dos gerentes do setor editorial e gráfico do Distrito Federal. 178 p. Dissertação
+(Mestrado em Ciência da Informação) – Departamento de Ciência da
+Informação e Documentação, Universidade de Brasília, Brasília, 1998.
+BARTER JR, Richard F. In search of excellence in libraires: the
+management writings of Tom Peters and their implications for library
+and information services. Library Management, v. 15, n. 8, p. 4-15, 1994.
+CASTELLS, Manuel. A sociedade em rede. Tradução de Roneide Venâncio
+Majer. Rio de Janeiro : Paz e Terra, 1999.
+CHOO, Chun W. Information management for the intelligent organization:
+the art of scanning the environment. 2. ed. [s. l. : ASIS], 1998. (ASIS
+monograph series).
+DAVENPORT, Thomas H. Ecologia da informação: porque só a tecnologia
+não basta para o sucesso na era da informação. 2. ed. Tradução de Bernadete
+Siqueira Abrão. São Paulo : Futura, 2000.
+DAVENPORT, Thomas H.; PRUSAK, Laurence. Conhecimento
+empresarial: como as organizações gerenciam o seu capital intelectual.
+Tradução de Lenke Peres. Rio de Janeiro : Campus, 1998.
+DEES, J. Gregory. Enterprising nonprofits. Harvard Business Review, v.
+76, n. 1, p. 55-67, Jan./Feb. 1998.
+GANDELMAN, Henrique. De Gutemberg à Internet: direitos autorais
+na era digital. Rio de Janeiro : Record, 1997.
+Sociedade da informação e inteligência em unidades de informação
+Artigo aceito para publicação em 09.2000
+Ci. Inf., Brasília, v. 29, n. 3, p. 91-100, set./dez. 2000
+100
+KOTLER, Philip. Administração de Marketing: análise, planejamento,
+implementação e controle. 5. ed. Tradução de Ailton Bomfim Brandão.
+São Paulo : Atlas, 1998.
+KOTLER, Philip; ARMSTRONG, Gary. Princípios de marketing. 5.
+ed. Tradução de Alexandre S. Martins. [s.l.] : Prentice Hal do Brasil,
+1993.
+MANN, Thomas. Reference service , human nature, copyright and
+offsite service – in a digital age? Reference & User Services Quarterly, v.
+38, n.1, p.55-61, 1999.
+NOKAKA, I.; TAKEUCHI, H. Criação de conhecimento na empresa: como
+as empresas japonesas geram a dinâmica da inovação. Tradução de Ana
+Beatriz Rodrigues e Priscilla Martins Celeste. Rio de Janeiro : Campus,
+1997.
+PORTER, M. E. Vantagem competitiva: criando e sustentando um
+desempenho superior. Tradução de Elizabeth Maria de Pinho Braga.
+Rio de Janeiro : Campus, 1996.
+QUINN, J. A.; ANDERSON, P. ; FILKENSTEIN, S. Making the most
+of the best. Harvard Business Review, v.74, n. 2, p. 71-80, Mar./Apr. 1996.
+SAPIRO, Arão. Inteligência empresarial: a revolução informacional da
+ação competitiva. Revista de Administração de Empresas, São Paulo, v.
+33, n. 3, p. 106-124, maio/jun. 1993.
+TARAPANOFF, Kira. O profissional da informação na sociedade do
+conhecimento: oportunidades e desafios. In: Seminário Nacional de
+Bibliotecas Universitárias, 10., 1998, Fortaleza. [s.l. : s. n.], 1998.
+TARAPANOFF, Kira, MIRANDA, Denir Mendes, ARAÚJO JR.,
+Rogério Henrique de. Técnicas para tomada de decisão nos sistemas de
+informação. Brasília : Thesaurus, 1995.
+TAYLOR, R. S. Value-added process in information systems. Norwood,
+N.J. : Abley Publishing, 1986.
+TJADEN, Gary S. Measuring the information age business. Technology
+Analysis & Strategic Management, v. 8, n. 3, p. 233-246, 1996.
+TURRA, Roberta. Data mining. Notizie dal CINECA, n. 24, set. 1998.
+www.revista.unicamp.br/revista/infotec/informaçao
+YOUNG, Peter R. Changing information access economics: new roles
+for libraries and librarians. Information Technology and Libraries, p. 103-
+114, Jun. 1994.
+ZANASI, Alessandro. Competitive intelligence trough data mining
+public sources. Competitive Intelligence Review, v. 9, n. 1, p. 44-54, 1998.
+Kira Tarapanoff / Rogério Henrique de Araújo Júnior / Patricia Marie Jeanne Cormier
+Ci. Inf., Brasília, v. 29, n. 3, p. 91-100, set./dez. 2000

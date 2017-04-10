@@ -1,0 +1,105 @@
+
+RAC,  v.  5,  n.  1,  Jan./Abr.  2001:  105-120
+    105
+A  Tecnologia  da  Informação  na  Área  Hospitalar:  um  Caso
+A  Tecnologia  da  Informação  na  Área  Hospitalar:  um  Caso
+A  Tecnologia  da  Informação  na  Área  Hospitalar:  um  Caso
+A  Tecnologia  da  Informação  na  Área  Hospitalar:  um  Caso
+A  Tecnologia  da  Informação  na  Área  Hospitalar:  um  Caso
+de  Implementação  de  um  Sistema  de  Registro  de  Pacientes
+de  Implementação  de  um  Sistema  de  Registro  de  Pacientes
+de  Implementação  de  um  Sistema  de  Registro  de  Pacientes
+de  Implementação  de  um  Sistema  de  Registro  de  Pacientes
+de  Implementação  de  um  Sistema  de  Registro  de  Pacientes
+José Rodrigues Filho
+Jefferson Colombo B. Xavier
+Ana Lívia Adriano
+R
+R
+R
+R
+R
+ESUMO
+ESUMO
+ESUMO
+ESUMO
+ESUMO
+O sistema de registro médico computadorizado, ou seja, o desenvolvimento do prontuário eletrôni-
+co, é um dos temas mais discutidos nos dias de hoje na área de informática médica. Há afirmações de
+que  a  combinação  de  computadores,  redes  de  telecomunicações,  informações  médicas  e  dados
+eletrônicos  de  pacientes  pode  melhorar  a  qualidade  do  cuidado  de  saúde,  a  produtividade  dos
+profissionais de saúde, facilitar o acesso aos serviços disponíveis e reduzir custos administrativos
+associados à prestação de serviços. O registro de pacientes é considerado o módulo básico de um
+sistema computadorizado de gerenciamento de pacientes e, conseqüentemente, do prontuário ele-
+trônico. Uma tentativa é feita, neste trabalho, para descrever a implementação de um sistema de
+registro  de  pacientes,  denominado  R-ATA  (registro-admissão,  transferência  e  alta),  no  Hospital
+Universitário Lauro Wanderley da Universidade Federal da Paraíba.
+Palavras-chaves
+: registro de pacientes; prontuário eletrônico; registro-admissão e transferência;
+desenvolvimento de sistemas de informação.
+A
+BSTRACT
+The computer-based patient record (electronic patient record) is an area of medical informatic that
+has been well discussed during this decade. It has been alleged that the powerful combination of
+computers, communication networks, online medical information, and electronic patient data can
+improve  the  quality  of  health  services,  increase  access  to  health  care,  productivity  of  health
+professionals, and reduce unnecessary cost. Patient registration: admission/transfer/discharge is the
+basic  module  of  a  patient  management  system.  The  purpose  of  this  work  is  to  describe  the
+implementation of a patient registration system, named R-ATA, implemented in the 
+Lauro Wanderley
+Teaching Hospital of the 
+Universidade Federal da Paraíba
+, Brazil.
+Key words
+: patient registration; electronic medical record; admission/transfer/discharge; information
+system  development.
+106
+José  Rodrigues  Filho,  Jefferson  Colombo  B.  Xavier  e  Ana  Lívia  Adriano
+RAC,  v.  5,  n.  1,  Jan./Abr.  2001
+I
+I
+I
+I
+I
+NTRODUÇÃO
+NTRODUÇÃO
+NTRODUÇÃO
+NTRODUÇÃO
+NTRODUÇÃO
+Tem sido afirmado que a combinação de computadores, redes de telecomuni-
+cações,  informações  médicas  
+online
+  e  dados  eletrônicos  de  pacientes  pode
+melhorar a qualidade e as decisões inerentes ao cuidado de saúde, além de facilitar
+o acesso aos serviços disponíveis. Assim sendo, tem-se enfatizado a automação
+do prontuário do paciente, já que os sistemas de arquivo médico baseados em
+computadores, por mais incompletos que sejam, contribuem significativamente
+para melhorar a qualidade do tratamento e o controle dos custos de saúde (Lindberg
+e Humphreys, 1995; Rodrigues Filho, 1995).
+Não há dúvidas de que as tecnologias de informação e comunicação estão nos
+conduzindo a uma nova era, à medida que nos aproximamos do final do século
+XX; contudo não podemos deixar de nos preocupar com os limites da difusão
+dessas tecnologias, sobretudo na área de saúde: será que todos se beneficiarão
+do aumento das disponibilidades de recursos de saúde 
+online
+, ou estamos cami-
+nhando para uma sociedade dos que têm e dos que não têm informações? (Thomas
+et al., 1998).
+A disponibilidade da opção tecnológica que visa a uma combinação poderosa
+da  tecnologia  digital  e  dados  é  muito  recente,  razão  pela  qual  os  sistemas  de
+informações clínicas desenvolvidos nos últimos vinte anos são considerados pobres
+em  qualidade  e  desempenho,  além  de  oferecerem  poucas  opções  aos  profis-
+sionais médicos (Chu, 1993).
+A  mais  recente  investida  da  informática  médica  está  sendo  direcionada  ao
+desenvolvimento de sistemas de arquivos médicos computadorizados, a exemplo
+do projeto de informática médica, desenvolvido nos Estados Unidos, que objetiva
+automatizar o prontuário do paciente (Stead, 1989; Dick, 1991).
+Um sistema de arquivo médico é um conjunto de componentes que forma os
+mecanismos para que os prontuários sejam criados, usados, armazenados e aces-
+sados, fazendo parte de um sistema de informação hospitalar (SIH) e tendo como
+foco central os dados clínicos.
+Em 1989, por exemplo, o Instituto de Medicina da Academia de Ciências dos
+Estados Unidos formou uma comissão, composta por mais de duzentos membros
+representantes das instituições de saúde americanas, para estudar como a tecno-
+logia poderia melhorar os sistemas de registro médico. Após dezoito meses de
+trabalho,  a  mencionada  comissão  constatou  que  tais  sistemas  não  se  diferen-

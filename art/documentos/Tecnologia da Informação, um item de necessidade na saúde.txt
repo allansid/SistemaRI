@@ -1,0 +1,20 @@
+Tecnologia da Informação, um item de necessidade na saúde
+
+Por Paulo Magnus*
+
+A experiência acumulada no acompanhamento da evolução da saúde há quase três décadas não me permite estranhar o imenso volume e a rápida velocidade com que os dados são diariamente gerados hoje no setor. Embora, na prática, isso seja um desafio para as instituições, o gerenciamento dessa avalanche de dados pode ser simplificado com o uso de tecnologias capazes de armazenar e cruzar informações em tempo real. Big data, wearables, cloud computing, interoperabilidade, inteligência clínica, analytics, soluções BPM mobile, Internet of Things (IoT), user experience... são com certeza palavras-chaves quando o assunto é o futuro, cada vez mais próximo, da Tecnologia da Informação (TI).
+
+
+A nova onda de inovações está mudando a natureza dos negócios pela capacidade de detectar padrões, prever ameaças e obter aplicações à prática cotidiana em diversas áreas. E isso não poderia ser diferente na saúde. Apesar do cenário se desenvolver de modo mais lento no setor, já são observados grandes avanços no que diz respeito ao uso da TI em hospitais, clínicas, laboratórios, centros de medicina diagnóstica, operadoras de planos de saúde e redes de saúde pública com o objetivo de melhorar a comunicação entre as áreas, a mobilidade nas atividades médicas, o acesso a uma visão geral dos negócios e, principalmente, a prestação de cuidados ao paciente.
+
+Em contextos complexos, como o dessas instituições de saúde, a TI é, sem dúvida, fundamental. Mas é possível questionar: como um sistema de gestão da informação pode proporcionar resultados como aumento da eficiência operacional e assistencial, aprimoramento de processos, segurança do paciente, redução de custos, retorno financeiro e outros ganhos? A resposta é simples porque, integrando diversas soluções, um sistema de gestão engloba normas, processos, protocolos e reúne dados que funcionam de forma articulada para facilitar o desempenho positivo da instituição.
+
+A solução Business Intelligence (BI), por exemplo, é capaz de apontar fatores críticos e oportunidades, identificar padrões e tendências, apresentar análises estatísticas e históricas para criação de metas e, assim, guiar gestores e viabilizar a elaboração de planejamentos estratégicos e a tomada de decisões.
+
+Indo mais além, esse não é o único ponto em que a TI se destaca atualmente. Outro papel importante é o de transformação do engajamento do paciente. A disseminação de tecnologias voltadas à conectividade de todos os elementos e atores da saúde direciona o desenvolvimento de um novo cenário mais preocupado com o bem-estar e o cuidado da saúde do indivíduo.
+
+Permitindo que tanto pessoas sadias quanto com doenças crônicas tenham facilidade no acompanhamento da saúde de forma preventiva, a plataforma Global Health da MV é um exemplo disso. Ao unificar e armazenar dados pessoais relacionados a consultas médicas, resultados de exames, atividades físicas, hábitos alimentares, além de informações provenientes de outros aplicativos e wearables, a plataforma permite às pessoas monitorarem os próprios dados e disponibilizá-los a médicos e hospitais.
+
+Dessa forma, a saúde deixa de ser tratada de forma isolada e a medicina passa a adquirir maior embasamento para ampliar chances de cura e prevenção de doenças, disponibilizar diagnósticos antecipadamente e promover agilidade a tratamentos. Em outras palavras, sendo fundamental, a TI tem que estar na pauta dos executivos do setor de saúde para que possa contribuir com o avanço da medicina preditiva e preventiva e, consequentemente, com o aumento da qualidade e da expectativa de vida.
+
+*Paulo Magnus é presidente da MV.

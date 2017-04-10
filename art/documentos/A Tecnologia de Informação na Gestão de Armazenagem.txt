@@ -1,0 +1,480 @@
+XXIII Encontro Nac. de Eng. de Produção - Ouro Preto, MG, Brasil, 21 a 24 de out de 2003
+ENEGEP 2003 ABEPRO 1
+A Tecnologia de Informação na Gestão de Armazenagem
+Nádia Veríssimo (EESC-USP) nadiaverissimo@hotmail.com
+Prof. Dr. Marcel Andreotti Musetti (EESC-USP) musetti@prod.eesc.sc.usp.br
+
+Resumo
+Este trabalho refere-se a uma pesquisa sobre softwares de gestão de armazéns (WMS –
+Warehouse Management Systems). Procurou-se analisar os principais resultados alcançados
+pela implantação de um software WMS, bem como compará-los às necessidades das
+empresas e aos resultados planejados pelas empresas fornecedoras do software. Também foi
+de interesse da pesquisa verificar o cenário em que as empresas estavam inseridas no
+momento da decisão por um software WMS. O trabalho conclui analisando o atendimento
+das necessidades das empresas usuárias, bem como a eficiência nos processos de
+customização e implementação.
+Palavras-chave: Logística, WMS, Gestão da Armazenagem.
+
+1. Introdução
+Uma das grandes chaves para aumentar a competitividade no atual ambiente de negócios é a
+satisfação e o sucesso do cliente. A Logística Integrada busca atingir esta satisfação através da
+integração das funções, tanto as internas à organização quanto as pertencentes à sua cadeia
+produtiva e um dos processos-chave que dão suporte à Logística Integrada é a Distribuição
+Física. Ela é responsável pelo destino do produto final desde a saída da linha de produção até
+a entrega ao cliente, onde a atividade de Armazenagem está ganhando importância frente às
+atuais mudanças do mercado.
+“O processo de armazenagem representa, em geral, a terceira força entre os direcionadores de
+custos logísticos, perdendo apenas para o transporte e igualando-se à manutenção de
+estoques” (RAGO, 2002).
+Através de uma eficiente administração da armazenagem é possível a redução de estoques, a
+otimização da movimentação e da utilização do armazém, o atendimento rápido ao cliente e à
+linha produtiva, a redução do índice de material obsoleto, precisão e acuracidade das
+informações etc. Com isto é possível diminuir custos, melhorar a integração do processo de
+armazenagem com os demais processos da organização e melhorar o atendimento ao cliente.
+Para alcançar estes objetivos, foram criados os Sistemas de Gestão de Armazém (Warehouse
+Management Systems – WMS), softwares que recebem as informações pertinentes ao
+armazém e, de acordo com as necessidades da organização, geram respostas para uma melhor
+movimentação, armazenagem, separação e expedição dos produtos.
+Deste modo, o objetivo deste trabalho é analisar a implantação de softwares WMS
+comparando os resultados obtidos com os resultados pretendidos pelas empresas.
+
+
+2. Revisão Bibliográfica
+2.1 A Logística e a Gestão de Armazenagem
+“A logística é a última fronteira do trabalho de redução de custos, a plataforma para a
+modernização das empresas, constituindo-se em promotora do desenvolvimento de negócios”
+(MOURA, 2002). Sendo a redução de custos e a diversificação de serviços alguns dos fatores
+críticos para a aquisição de vantagem competitiva, a logística vem ganhando grande destaque 
+XXIII Encontro Nac. de Eng. de Produção - Ouro Preto, MG, Brasil, 21 a 24 de out de 2003
+ENEGEP 2003 ABEPRO 2
+no planejamento estratégico empresarial, como destaca Fleury et al (2000) que “Durante a
+década de 90, a logística, no Brasil, passou por extraordinárias mudanças. Pode-se mesmo
+afirmar que passamos por um processo revolucionário, tanto em termos das práticas
+empresariais, quanto da eficiência, qualidade e disponibilidade da infraestrutura de transportes
+e comunicações, elementos fundamentais para a existência de uma logística moderna”.
+Além disso, a indústria brasileira sofreu uma reestruturação provocada por uma
+racionalização da produção. As empresas deixaram de realizar certas etapas do processo
+produtivo, maximizando a eficiência de seus recursos internos e passando a comprar cada vez
+mais materiais e serviços de fornecedores especializados. Surge, então, uma maior
+dependência entre as empresas de uma cadeia produtiva tornando necessária uma maior
+integração e cooperação entre elas a fim de que todas obtenham vantagens competitivas.
+Daí a importância do conceito de Logística Integrada a qual visa controlar e otimizar os fluxos
+de informações e o fluxo físico entre os elos da cadeia de suprimentos, dentro de objetivos
+estratégicos definidos, gerando vantagens competitivas e diminuindo desperdícios ao longo de
+toda a cadeia (BOWERSOX et al, 1986).
+Analisando conjuntamente a necessidade de altos níveis de serviço logístico a um custo
+adequado e a redução de desperdícios, a armazenagem se destaca devido ao aumento da
+variedade de produtos, lotes menores com entregas mais freqüentes, menores tempos de
+atendimento e menor tolerância a erros de separação de pedidos (FLEURY et al, 2000). Isto
+vem reforçar as afirmações de Moura (1997) e Ballou (1993) que colocam a administração de
+materiais como um setor que oferece oportunidades de economias, sendo que seus custos
+podem absorver de 12 a 40% das despesas logísticas.
+A figura a seguir mostra a gestão da armazenagem como um dos processos críticos da Gestão
+da Cadeia Produtiva:
+Fonte: (Adaptado de Honda, 2002)
+Figura 1 – Processos críticos – Supply chain management.
+A armazenagem é uma das áreas mais tradicionais da Logística e tem passado por profundas
+transformações nos últimos anos. Essas mudanças refletem-se na adoção de novos sistemas de
+informação aplicados à gestão da armazenagem, em sistemas automáticos de movimentação e
+separação de produtos e até mesmo na revisão do conceito do armazém como uma instalação
+com a principal finalidade de estocar produtos (FLEURY et al, 2000). E, entre os sistemas
+especialistas para a gestão de informações destaca-se o WMS (Warehouse Management
+System – Sistema de Gestão de Armazém).
+As estratégias no processo de armazenagem mais utilizadas, a fim de atingir os objetivos
+logísticos, segundo RAGO (2002), são: verticalização dos estoques, automatização na
+armazenagem, automação da armazenagem, gestão de armazéns e endereçamento móvel. Já
+dentre as funções do processo de armazenagem, tem-se: recebimento físico e contábil;
+identificação e classificação; conferência (qualitativa e quantitativa); endereçamento para o
+11. Gestão Estratégica da Cadeia Logística
+10. Gestão da Qualidade
+9. Gestão
+ de Serviços
+ ao Cliente
+ e Proces-
+ samento
+de Pedidos
+ 8.
+ Marketing
+ e
+ Vendas
+7. Gestão
+ de
+ Trans-
+ portes
+6. Gestão
+ da
+ Distri-
+ buição
+5. Gestão
+ da
+ Armaze-
+ nagem
+ 4. Gestão
+ da
+ Produção
+ 3.
+ Planeja-
+ mento da
+ Produção
+ 2. Gestão
+ de
+ Materiais
+1. Suprimentos
+
+XXIII Encontro Nac. de Eng. de Produção - Ouro Preto, MG, Brasil, 21 a 24 de out de 2003
+ENEGEP 2003 ABEPRO 3
+estoque; estocagem; separação de pedidos; reposição de estoques; preparação de carga;
+embalagem; expedição ou atendimento à linha de produção; registro das operações.
+Portanto, o propósito de um armazém é prover espaço para o fluxo de materiais entre as
+funções comerciais e operacionais e, através da integração de suas atividades, satisfazer ao
+mais alto nível de serviços aos clientes, ao custo mais baixo possível (MOURA, 1997).
+Após esta breve apresentação, é possível ver a importância de gerenciar de forma eficiente e
+eficaz o processo de armazenagem. Neste intuito, pode-se buscar ajuda às tecnologias de
+informação atualmente disponíveis e à automação dos armazéns.
+2.2 Tecnologia de Informação
+As tecnologias de informação são ferramentas para facilitar as integrações entre as empresas
+de uma cadeia produtiva diminuindo o tempo de transações, pedidos, compras, facilitando o
+fluxo de informações, diminuindo custos provenientes de erros humanos, otimizando
+processos etc, a fim de atingir os objetivos estratégicos de um negócio.
+De acordo com Fleury et al (2000), as tecnologias de informação vêm tentar otimizar o fluxo
+de informações que é um elemento de grande importância nas operações logísticas, pois
+aumenta a flexibilidade e diminui as incertezas no momento da tomada de decisão.
+A seguir, exemplos de tecnologia de informação para o gerenciamento de centrais de
+distribuição segundo MARTIN (2002): WMS - Warehouse Management System (Sistema de
+Gestão de Armazém); OMS - Order Management System (Sistema de Gestão de Pedidos);
+TMS - Transport Management System (Sistema de Gestão de Transporte); Sistemas de rádio
+freqüência com a utilização de coletores de dados por código de barras; Sistemas de Gestão;
+Roteirizadores; Sistemas de Captação de Pedidos.
+Soluções tecnológicas de armazenagem como Carrousels, mini-loads, sistemas AS/RS
+(Automatic Storage e Retrieval Systems) e WMS são combinações de equipamentos e
+sistemas de controle que deslocam, armazenam e coletam produtos com alta precisão,
+acurácia e velocidade, dependendo do grau de automação. Tais sistemas também reduzem o
+tempo de movimentação do operador e equipamentos como código de barras e leitores óticos
+reduzem o tempo de procura e documentação (RODRIGUES, 1999).
+2.3 Sistemas de Gestão de Armazenagem (WMS – Warehouse Management Systems)
+“O WMS é o sistema de informações que planeja, programa e controla as operações do
+armazém. Abrange todas as funções, desde a chegada do veículo ao pátio, o recebimento dos
+materiais, passando pela estocagem, separação de pedidos, reposição e controle de estoques,
+inventário, programação e controle de embarque e liberação de caminhões”. (RAGO, 2002).
+Sistemas de gestão de armazém e sistemas de controle de estoque não devem ser confundidos.
+O controle de estoque está alocado no nível de dados, no qual negócios cotidianos estão
+organizados. A gestão do armazém está alocada no nível da execução e está relacionada às
+atividades dentro do armazém e para um melhor uso dos recursos (capital e humano).
+Algumas das características mais relevantes sobre o WMS são a identificação do melhor local
+para guardar uma mercadoria, de acordo com as suas características; os furtos e roubos ficam
+mais visíveis e fáceis de controlar; a entrega ao cliente ou à linha de produção é mais rápida; o
+WMS avalia as mudanças assim que ocorrem e fornece acesso imediato à nova informação.
+Alguns fatores, tais como recursos, nível de automação, tipo de produto e de mercado,
+variedade de produtos oferecidos etc., são determinantes para a implementação de softwares
+WMS, pois, a solução deve estar adequada ao problema e os investimentos justificados.
+Muitas vezes, sistemas simples de informação podem fazer uma boa gestão do armazém. 
+XXIII Encontro Nac. de Eng. de Produção - Ouro Preto, MG, Brasil, 21 a 24 de out de 2003
+ENEGEP 2003 ABEPRO 4
+Após pesquisar diferentes softwares WMS disponíveis no mercado brasileiro através de
+folders e sites, propõe-se um breve resumo do que eles oferecem e os seus objetivos.
+Módulos Funções Objetivos
+Portaria
+Controle de entrada e saída de veículos,
+motorista, data e hora de acesso ao depósito
+Direcionamento para docas, administração
+do pátio e redução das filas de veículos.
+Maior segurança, eficiência e sincronismo das
+atividades e das informações dos produtos
+Redução da movimentação de veículos
+Recebimento
+Conferência das mercadorias com coletores
+de rádio freqüência
+Verificação de notas fiscais
+Controle da qualidade e verificação física
+dos produtos
+Endereçamento automático
+Geração de etiquetas com códigos de barra
+Atualização do estoque no momento do
+desembarque – maior segurança das
+informações e rapidez
+Identificação de eventuais divergências
+Menor movimentação e manuseio das
+mercadorias dentro do depósito
+Menos burocracia
+Movimentação
+Gerenciamento das movimentações na
+armazenagem, recebimento, transferências,
+ressuprimento, separação e expedição
+Transferências de mercadorias entre
+endereços
+Geração de ordens nos coletores através da
+rádio freqüência
+Melhor aproveitamento dos recursos
+Rastreabilidade dos produtos movimentados
+Medição da produtividade dos operadores
+Menor movimentação e manuseio das
+mercadorias dentro do depósito
+Apanha e
+Separação
+Busca inteligente pelo melhor endereço
+Classificação dos endereços eleitos
+Realização da apanha por pedido ou por item
+Separação em conjunto ou separadamente da
+apanha
+Documentos de saída e captura de pedidos
+Regras alternativas para consolidação
+Identificação de endereços para retirada
+considerando FIFO, LIFO ou Shelf Life
+Emissão de etiquetas de identificação
+Integração com equipamentos de
+movimentação de materiais
+Redução da atividade de ressuprimento
+Otimização do percurso de apanha
+Possibilidade de consolidação posterior à
+apanha
+Minimização do volume de cargas
+Possibilidade de agrupamento de pedidos,
+racionalizando distâncias e recursos dentro do
+armazém
+Menos burocracia
+Menor movimentação e manuseio das
+mercadorias dentro do depósito
+Redução da obsolescência das mercadorias
+Expedição
+Orientação pelo sistema através de coletores
+de rádio freqüência
+Emissão de listas com o conteúdo dos
+paletes, volumes ou caixas
+Interface com sistemas corporativos para
+liberação de cargas, emissão de notas fiscais
+Gerenciamento de embarques,
+transportadoras, veículos, cancelamento de
+pedidos e o retorno de mercadorias
+Maior segurança na conferência da mercadoria
+– maior acuracidade da entrega – garantia de
+satisfação do cliente em relação às entregas.
+Menos burocracia e maior rapidez da operação
+Inventário
+Inventários por cliente, rotativo ou por área
+Inventário rotativo de acordo com
+parametrização para classificação ABC de
+movimentação dos produtos
+Inventários gerais
+Emissão de demonstrativos de resultado
+Realização de auditoria de toda a
+movimentação da área de armazenagem
+Não é necessário suspender as atividades do
+depósito para realização de inventários
+Maior acuracidade das informações – meio
+eletrônico e não mais atividade humana
+Armazenagem
+Endereçamento automático de mercadorias
+Definição dos endereços pode incluir: FIFO,
+shelf life, peso, paletes incompletos
+Controle de estruturas de armazenagem
+Suporta operação de Cross-Docking
+Menor tempo gasto nesta atividade
+Menor movimentação e manuseio das
+mercadorias dentro do depósito
+Permite conferência de localização de
+armazenagem
+Quadro 1 – Funcionalidades dos softwares WMS
+Outros módulos têm como funções: rastreabilidade de lotes e números de série; integração
+com sistemas corporativos, sistemas automáticos de armazenagem e separação, Internet e
+EDI; faturamento de serviços e abastecimento da linha de produção. 
+XXIII Encontro Nac. de Eng. de Produção - Ouro Preto, MG, Brasil, 21 a 24 de out de 2003
+ENEGEP 2003 ABEPRO 5
+3. Objetivo e Metodologia
+O objetivo principal deste trabalho foi a análise dos resultados alcançados pela implantação de
+um Sistema de Gestão de Armazém (WMS) e a sua comparação com os resultados esperados
+e os apresentados pelas empresas fornecedoras dos softwares.
+Como objetivo secundário foi feita a caracterização do cenário em que as empresas se
+encontravam no momento da decisão por mudar seu sistema de gestão de armazém.
+Trata-se de um estudo exploratório, pois este tipo de pesquisa tem como objetivo aprimorar
+idéias, descobrir intuições, descrever comportamentos ou definir e classificar fatos e
+variáveis. Envolve, na maioria dos casos, levantamento bibliográfico, entrevistas com pessoas
+com experiências no assunto pesquisado e a análise de exemplos.
+Foi utilizado o método qualitativo de pesquisa através do estudo multicaso, que se caracteriza
+pelo maior foco na compreensão dos fatos do que em sua mensuração, investigando fatos
+contemporâneos dentro da realidade em que ocorrem e sobre os quais o pesquisador não tem
+controle (YIN, 1994). Além disso, o estudo multicaso permite maior abrangência dos
+resultados, uma vez que não se limita às informações de uma só empresa.
+O processo de coleta de dados ocorreu por meio de levantamento bibliográfico e questionário
+enviado via correio eletrônico às organizações que implementaram softwares WMS, sendo
+este encaminhado ao responsável pela gestão do armazém.
+As empresas foram selecionadas segundo o Guia do Comprador, IMAM, edição de 2000, o
+qual mostra uma relação dos softwares WMS distribuídos no Brasil, suas características e os
+três principais clientes. Foram consideradas tanto organizações que fazem o próprio controle
+de seus armazéns quanto empresas prestadoras de serviços de armazenagem e distribuição.
+O questionário, contendo 12 questões, foi enviado a 25 empresas, sendo que destas 8
+responderam ao questionário.
+Após o levantamento dos dados foi realizada uma análise para averiguar quão eficientes e
+eficazes os sistemas de gestão de armazém estão se apresentando aos olhos de seus usuários.
+4. Resultados e Conclusões
+No quadro 2 serão apresentadas as questões enviadas às empresas e suas respostas:
+1 - Quais os principais motivos que levaram a empresa a mudar seu sistema de gestão de
+armazém?
+As empresas responderam que era necessária agilidade na operação de logística, devido ao
+crescimento do mercado e à necessidade de mudanças rápidas para atender às expectativas dos
+clientes. Algumas destacaram a eliminação de erros na entrega ao cliente, maior acuracidade dos
+estoques e otimização da operação de armazenagem e expedição.
+2 - Quais foram as considerações feitas para a escolha do fornecedor do software?
+Nesta questão, houve uma variedade de respostas, sendo que as considerações feitas foram em
+relação à facilidade de integração com sistemas corporativos já utilizados, tipo de base de dados,
+mesmo fornecedor do sistema gerencial, interface gráfica, atendimento das principais necessidades
+da operação, adequação às condições e necessidades produtivas e de qualidade operacional da
+fábrica.
+3 - Esta escolha foi feita pela própria empresa comparando as diversas ofertas ou através de
+uma consultoria que se encarregou de escolher o fornecedor do software?
+Algumas empresas compararam as ofertas e elas mesmas escolheram o software enquanto outras
+escolheram em conjunto com consultorias. Uma empresa realizou workshops com diversos
+fornecedores e aplicação de check-list.
+Quadro 2 - Respostas do questionário enviado às empresas 
+XXIII Encontro Nac. de Eng. de Produção - Ouro Preto, MG, Brasil, 21 a 24 de out de 2003
+ENEGEP 2003 ABEPRO 6
+Continuação do Quadro 2 - Respostas do questionário enviado às empresas
+4 - Quais as características apresentadas pelo software que a empresa considerou mais
+importantes frente às suas necessidades e expectativas?
+A característica mais citada foi a adaptação ao sistema existente e ao negócio e a capacidade de
+atender as funcionalidades necessárias do armazém (integração com equipamento de movimentação
+e manuseio de materiais), além de tecnologia, gerenciamento on-line de toda a cadeia de
+abastecimento e gerenciamento a nível nacional, facilidade em extrair as informações.
+5 - Quais as principais mudanças/aquisições que tiveram que ser feitas para viabilizar a
+implantação do software?
+As respostas se limitaram a: compra de coletores de dados e sistema de rádio freqüência, mudanças
+nos processos operacionais, ampliação da estrutura física, mudança de layout e instalação de
+transelevadores.
+6 - Quais as principais dificuldades encontradas para a implantação e implementação do
+software?
+A principal dificuldade foi a mudança cultural. Em uma empresa a maior dificuldade encontrada foi
+relacionar os códigos de barras com as várias unidades de um mesmo material.
+7 - Quais os principais resultados alcançados de acordo com as principais necessidades e
+expectativas consideradas na questão 4?
+Como alguns resultados tem-se o menor estoque nas lojas, reposição mais rápida, informações mais
+rápidas e o principal resultado é a maior acuracidade na tomada de decisões e no atendimento aos
+clientes.
+8 - Quais resultados esperados não foram alcançados?
+O principal resultado esperado e não alcançado é flexibilidade do software, sem maiores detalhes
+quanto ao tipo de flexibilidade. Outro resultado não alcançado levantado foi a não integração
+completa com o sistema de automação (uma empresa).
+9 - Quais melhorias aconteceram e não eram esperadas?
+A maioria das empresas não respondeu a esta questão. Uma empresa que respondeu mencionou a
+possibilidade de seus fornecedores visualizarem no mesmo instante a venda de seu produto na loja,
+e outra respondeu que houve uma adaptação dos usuários mais rápida que o previsto.
+10 - Surgiram novos problemas ou novas necessidades após a implementação do software?
+A maioria não respondeu ou respondeu que não surgiram novos problemas ou necessidades. A
+empresa que mencionou a não integração completa do software com seu sistema de automação, na
+questão 8, destacou este fato como uma nova necessidade.
+11 - Em quanto tempo espera-se, ou houve, o retorno do investimento?
+Uma das empresas estimou o retorno do investimento em 3 anos, porém este retorno aconteceu
+antes do previsto. A empresa não revelou em quanto tempo houve este retorno.
+12 - A implementação do software atendeu às expectativas?
+As respostas giraram em torno de 70% de satisfação. Uma empresa respondeu que atingiu 100% de
+satisfação após a implantação do código de barras e da rádio freqüência.
+Após o recebimento dos questionários respondidos e sua análise, houve, em alguns casos, um
+novo contato para obter mais informações a respeito dos resultados obtidos. Assim, além dos
+resultados apresentados na questão 7 do quadro 2, têm-se: maior otimização da estrutura
+interna, integração de processos, maior capacidade de armazenagem, redução de erro no
+recebimento e na expedição, maior acuracidade de estoques e da informação, a qual tem sua
+modificação disponível em tempo real.
+Atentando para os objetivos mencionados para este trabalho, pode-se observar que as
+empresas, no momento da implantação dos softwares WMS, buscavam por agilidade e
+eficácia no atendimento das necessidades de seus clientes, os quais exigiam alta capacidade
+de mudança, ou seja, as empresas buscavam flexibilidade e acuracidade para atender os
+pedidos de seus clientes e eventuais mudanças pertinentes aos processos da Distribuição
+Física. 
+XXIII Encontro Nac. de Eng. de Produção - Ouro Preto, MG, Brasil, 21 a 24 de out de 2003
+ENEGEP 2003 ABEPRO 7
+Quanto aos resultados esperados não alcançados, pouco foi mencionado, apenas que o fato de
+o software não ter apresentado a flexibilidade esperada. Novas perguntas foram feitas para
+entender a que tipo de flexibilidade as empresas se referiam como, por exemplo, mudança na
+programação de entrega, mudança do endereço de armazenamento, cancelamento de pedidos
+etc; porém, não foram enviadas respostas quanto a isto.
+Considerando este fato, tem-se aqui um espaço para uma nova pesquisa relacionada apenas à
+insatisfação dos clientes, pois como estes softwares são customizados, o fornecedor tem alto
+conhecimento das necessidades de seus clientes, os quais deveriam ser alertados para algum
+tipo de característica que não pudesse ser atendida. Este trabalho não permite tirar alguma
+conclusão que o maior problema seja a flexibilidade, mesmo que quase todos a tenham
+mencionado, pois considerando que apenas 8 empresas responderam ao questionário, podem
+haver outras insatisfações que sejam freqüentes.
+Foi registrado apenas um caso de não integração do software com sistemas já existentes como
+resultado não alcançado. Neste caso é preciso averiguar se o projeto de desenvolvimento do
+software considerou as características necessárias para permitir integrações com os demais
+sistemas ou se o software apresentou problemas no momento de sua implementação não
+atendendo à integração que lhe foi conferida, pois no primeiro caso trata-se de um erro de
+projeto e no segundo, uma falha do software.
+Quanto aos resultados obtidos e não esperados, houve apenas uma menção já citada na
+questão 9. A ausência de resultados não esperados pode ser explicada pelo fato dos softwares
+serem customizados e, assim, serem projetados para executarem exatamente o que seus
+usuários necessitam.
+Em relação à comparação dos resultados obtidos e dos esperados, foram consideradas as
+questões 7 (quais os principais resultados alcançados) e 4 (quais as características
+apresentadas pelo software que a empresa considerou mais importantes frente às suas
+necessidades e expectativas). Comparando-se as respostas destas questões, é possível observar
+uma divergência entre as necessidades apontadas pelas empresas para a escolha do software e
+os resultados que eles apontaram como sendo os principais.
+Não foi possível extrair informações a respeito desta divergência, podendo-se tirar alguma
+reflexões tais como: real falta de atendimento das necessidades explicitadas por parte do
+software, mas que não foram mencionadas como não alcançadas, pois foram apresentadas
+apenas no momento da escolha do software e depois não fizeram parte do projeto do software;
+fato de os resultados apontados na questão 7 serem mais visíveis e mensuráveis do que
+aqueles mencionados como necessidades na questão 4, ficando estes como resultados
+alcançados, porém subentendidos, já que não foram mencionados como resultados não
+alcançados.
+Neste ponto verificou-se uma limitação do trabalho que foi decorrente da metodologia de
+coleta de dados utilizada e que em uma entrevista pessoal seria possível questionar eventuais
+divergências, além do fato de que pessoalmente consegue-se mais informações do que aquelas
+restritas ao questionário, por meio de conversas com outros funcionários e de observações.
+Considerando esta divergência, houve um contato posterior com as empresas para obter
+informações sobre outros resultados, mencionados após as questões. Analisando estes
+resultados pode-se, então, verificar que algumas necessidades mencionadas foram alcançadas
+como otimização da estrutura interna (relacionada a capacidade de realizar as funcionalidades
+de armazenagem) e a maior facilidade em extrair informações.
+Analisando o Quadro 1, a teoria apresentada sobre gestão da armazenagem e os demais
+resultados mencionados, percebe-se a compatibilidade entre eles, principalmente em relação à 
+XXIII Encontro Nac. de Eng. de Produção - Ouro Preto, MG, Brasil, 21 a 24 de out de 2003
+ENEGEP 2003 ABEPRO 8
+redução de estoques, maior segurança e acuracidade das informações e dos estoques (menor
+erro humano), facilidade de acesso à informação e a sua disponibilidade em tempo real para a
+tomada de decisão, pois foram alguns dos resultados mais mencionados pelas empresas
+fornecedoras de softwares WMS.
+Quanto às mudanças necessárias para a implantação do software, as respostas não foram
+detalhadas, indicando apenas que foram feitas aquisições de coletores de dados, equipamentos
+de rádio freqüência e de movimentação, e mudanças estruturais, de layout e nos processos
+operacionais. Pelo fato das empresas não detalharem tais mudanças, não é possível averiguar
+o impacto sobre os trabalhadores e sobre o setor, quanto tempo foi necessário para efetuar as
+mudanças e quais as dificuldades encontradas. Isto é reforçado quando as empresas
+respondem apenas a mudança cultural como dificuldade encontrada.
+Para verificar tais mudanças e dificuldades encontradas com maior ênfase, abre-se outro
+espaço para uma nova pesquisa considerando o problema mencionado a respeito da coleta dos
+resultados alcançados em divergência com as necessidades expostas pelas empresas e também
+dos resultados implícitos, mais difíceis de serem medidos e visualizados, abordando
+juntamente as mudanças (estruturais, culturais) necessárias e as dificuldades e empecilhos
+encontrados durante a implantação do novo sistema de gestão do armazém.
+Como conclusão deste trabalho, verifica-se a satisfação dos usuários de softwares WMS,
+apesar da média girar em torno 70%, porque ao mesmo tempo em que não se mostraram
+totalmente satisfeitos, também não apresentaram motivos para tal.
+Também se pôde concluir que os softwares, de um modo geral, atenderam às necessidades de
+seus clientes, mostrando eficiência nos processos de customização e implementação. Não foi
+possível avaliar a eficácia devido à falta de dados a respeito de retorno sobre o investimento
+esperado, queda de custos, maior lucratividade das atividades, entre outros índices.
+Em vista destas conclusões, como próxima etapa deste trabalho, será feita uma pesquisa mais
+ampla e detalhada para avaliar a real satisfação dos usuários e a eficácia dos softwares WMS.
+5. Referências Bibliográficas
+BALLOU, R.H. (1993) - Logística Empresarial: Transportes, Administração de Materiais e Distribuição Física.
+Atlas. São Paulo.
+BOWERSOX, D.J.; CLOSS, D.J. & HELFERICH, O.K. (1986) - Logistical Management: A System Integration
+of Physical Distribution, Manufacturing Support, and Materials Procurement. Macmillan Publishing Company.
+3a
+ Edição. New York.
+FLEURY, P.F.; WANKE, P. & FIGUEIREDO, K.F. (2000) - Logística Empresarial: A Perspectiva Brasileira.
+Atlas. São Paulo.
+HONDA, H. & PEREIRA, L. C. G. (2002) - LOG&MAN Logística, Movimentação e Armazenagem de
+Materiais. Guia do visitante da MOVIMAT 2002. Ano XXIII, Setembro, n.143, p.18.
+MARTIN, D. (2002) - Central de Distribuição: A Automação como Fator Competitivo. Disponível em:
+<http://www.guiadelogistica.com.br>. Acesso em: abr. 2002.
+MOURA, A.R. (2002) - LOG&MAN Logística, Movimentação e Armazenagem de Materiais. Guia do visitante
+da MOVIMAT 2002. Ano XXIII, Setembro, n.143, p.6.
+MOURA, R.A. (1997) - Manual de Logística: Armazenagem e Distribuição Física. IMAN. 2a
+ Edição. São Paulo.
+RAGO, S.F.T. (2002) - LOG&MAN Logística, Movimentação e Armazenagem de Materiais. Guia do visitante
+da MOVIMAT 2002. Ano XXIII, Setembro, n.143, p.10-11.
+RODRIGUES, A.M. (1999) - Estratégias de Picking na Armazenagem. Disponível em:
+<http://www.cel.coppead.ufrj.br/fs-public.htm>. Acesso em: abr. 2002.
+YIN, R.K. (1994) - Case Study Research: Design and Methods. Sage Publications. 2a
+ Edição. Califórnia. 

@@ -1,0 +1,1063 @@
+Administração Pública
+,...,
+TECNOLOGIA DE INFORMAÇAO:
+COMPETITIVIDADE E POLíTICAS
+PÚBLICAS
+Antonio Carlos Manfredini da Cunha Oliveira
+Vice-Coordenador do MBA (Master in Business Administration) e
+Professor do Departamento de Planejamento e Análise Econômica
+Aplicados à Administração da EAESP/FGV.
+E-mail manfredini@eaesp.fgvsp.br
+RESUMO:A partir de meados do século XIX até início do século XX, a introdução do telégrafo e do
+telefone, acompanhando o desenvolvimento das estradas de ferro, apoiou o desenvolvimento da
+empresa industrial e deu origem à empresa de produção em massa, hierarquizada e verticalmente
+integrada. Estaforma organizacional, extremamente bem-sucedida, resultou, dentre outros fatores, das
+condições tecnológicas vigentes ao seu tempo. A mudança dessas condições não é isenta de
+conseqüências: ela interfere na produtividade e na forma como as empresas se organizam, bem como
+na localização da atividade econômica e, portanto, no processo de atração de novos investimentos.
+ABSTRACT:From the mid 19thcentury to ear/y 20th century, the establishment of telegraph and telephone
+networks following the development of railways, supported the development of the modem industrial
+corporation and gave origin to hierachical, vertically integrated mass production technologies. This
+organizational form, extremely well succeeded, resulted, among others, from technological conditions
+of that time. Changes in these conditions are not inconsequent: theyare being felt on productivity and on
+the formal asped of organizations. Moreover, locational decisions, and therefore the attradion of new
+investiments, are also being affeded.
+PAlAVRAS-CHAVE: telecomunicações, competitividade, políticas públicas, infra-estrutura, regulamentação.
+KEYWORD5: telecommunications, competitivity, public policies, infrastrudure, regulation.
+34 RAE - Revista de Administração de Empresas São Paulo, v. 36, n. 2, p. 34-43 Abr./Maio/Jun. 1996
+TECNOLOGIA DE INFORMAÇÃO: COMPET/TIVIDADE E POLíTICAS PÚBLICAS
+o IMPACTO DA TECNOLOGIA DE INFORMAÇÃO
+SOBRE AS EMPRESAS: DETERMINANTES DA
+COMPETIVIVIDADE
+Reorganização empresarial e tecnologia
+de informação
+Para discutir o impacto da tecnologia de
+informação sobre as empresas e a competitividade
+econômica é preciso usar uma
+definição muito ampla. Neste sentido, a
+Tecnologia de Informação (TI) é um complexo
+que inclui computadores (hardware
+e software), redes de comunicação públicas
+e privadas, subprodutos da interpenetração
+das tecnologias de computação e comunicação,
+além de todos os produtos e
+serviços usualmente abrigados sob os ró-
+tulos de automação de escritórios, CIM
+(Computer Integrated Manufacturing), rede
+digital de serviços integrados (ISDN -
+Integrated Systems Digital Network), automação
+comercial e assim por diante.
+O telefone e o telégrafo foram os antepassados
+remotos dos atuais instrumentos
+de TI (Tecnologia de Informação) e tiveram
+um papel central, na virada do século
+- inicialmente nos EUA e, depois, em
+todo o mundo - no desenho da grande
+empresa contemporânea, a organização
+hierárquica, verticalmente integrada e voltada
+para a produção em massa.
+As condições que deram origem a essa
+particular forma de organização estão
+mudadas e pode-se especular se as novas
+TI não terão novamente um papel instrumental
+no desenho da nova corporação.
+Essa é uma especulação plausível, uma vez
+que, à medida que a economia se move
+além da "era dos materiais", a capacidade
+de manipulação simbólica, alavancada
+pela TI, ganha maior importância no processo
+de adição de valor, permitindo supor
+que o potencial da TI pode ser ainda
+maior do que o imaginado e imaginável
+neste instante, no que se refere a modificações
+no ambiente empresarial. Quando
+se leva em conta que o custo relativo da TI
+e de outras formas de capital físico também
+está mudando drasticamente, tomando
+o investimento em TImuito mais barato,
+essas possibilidades tomam-se mais
+palpáveis'.
+Os impactos sobre a produtividade e a
+forma geral de organização das empresas
+podem ser muito significativos porque a
+TI é diferente de outras formas de tecnologia,
+afetando as tarefas de produção e
+coordenação, bem como expandindo a
+memória organizacional.
+Um extenso e detalhado estudo coordenado
+pelo MIT (Massachusetts Institute of
+Technology), sobre as conseqüências da
+tecnologia de informação para a empresa
+2, chegou às conclusões básicas expostas
+a seguir.
+A tecnologia de informação (TI) está
+possibilitando mudanças fundamentais
+na forma como o trabalho se processa
+As atividades mais suscetíveis a altera-
+çõessão aquelas intensivas em informação,
+podendo-se distinguir estes grupos: produção,
+coordenação e gestão. No que se
+refere à produção, pode-se partir o trabalho
+em três elementos: produção física,
+crescentemente atingida pela robótica e
+instrumentação de controle; produção de
+informação, influenciável pelos computadores,
+especialmente em tarefas burocráticas
+como contas a receber, faturamento e
+contas a pagar; produção de conhecimento,
+afetando projetos (CAD - Compu ter
+Aided Design/CAM - Computer Aided Manufacturing),
+análise de crédito e risco, produção
+de software (ferramentas CASE,por
+exemplo).
+As usuais resistências à mudança - individuais,
+corporativas e sindicais - têm
+contribuído para uma taxa de mudança
+menor do que aquela possível se estritamente
+atingida pelas possibilidades tecnológicas.
+No que se refere a trabalhos de coordenação,
+as telecomunicações são componentes
+fundamentais para instrumentalizar a
+mudança. Três pontos especialmente sensíveis
+são assim afetados: a distância física
+torna-se menos relevante, alterando os
+determinantes da localização física do trabalho;
+a natureza do tempo sobre o trabalho
+também se altera, permitindo que, por
+meio do armazenamento de informação, o
+trabalho possa fluir de um grupo a outro
+ao longo do tempo com menos distúrbios
+devido à descontinuidade; a memória
+organizacional, em parte, pode ser mantida
+em bancos de dados, sendo, portanto, preservada
+e transmitida a custo mais baixo.
+A tecnologia tem facilitado às equipes combinar,
+de forma mais flexível, tempo, distância
+e memória, permitindo que as habilidades
+existentes na empresa, indepen-
+© 1996, Revista de Administração de Empresas / EAESP / FGV, São Paulo, Brasil.
+1. O progresso tecnológico na TI,
+como é sabido, tem alterado profundamente
+os custos relativos,
+e, portanto, a alocação ótima de
+recursos. Alguns números ajudam
+a avaliar as mudanças. Um
+estudo do MIT estima que a razão
+custo/performance continue
+a cair a uma taxa de 20 a 30%
+ao ano. Os números resultantes
+são muito significativos. No mercado
+dos EUA, em 1980, o custo
+de um computador com 4,5
+MIPS de capacidade era de US$
+4,5 milhões, equivalente a 210
+funcionários de um certo nível de
+habilidade. Em 1990, uma má-
+quina semelhante equivaleria a
+US$ 0,3 milhões ou 6 funcioná-
+rios; com as taxas projetadas, os
+números para o ano 2000 são,
+respectivamente, US$ 10.000 e
+menos de um funcionário (Ver
+SCOTT-MORTON, Michael
+(org.). The corporation of the
+19905: information techno/ogy
+and organizational transformo
+Oxford: University Press, 1991,
+p.9).
+2. SCOTT-MORTON. Michael.
+Op. cit.
+35
+3. A invenção da escrita fez com
+que a evolução do conhecimento
+e da tecnologia se tornasse
+muito mais intensa, porque permitiu
+transmitir informações e
+conhecimentos ao longo do espaço
+e do tempo de forma muito
+mais eficiente que a "tradição
+oral", meio em que informação
+depende do contato fisico ou da
+transmissão do que está contido
+nas moléculas do DNA, única
+forma disponivel de evolução
+para a grande maioria dos seres
+vivos.
+36
+dentemente de sua alocação na estrutura
+organizacional, possam ser melhor utilizadas.
+Sob este sistema, criam-se equipes ad
+hoc, para a solução de problemas que não
+encontram contrapartida no organograma,
+e uma vez superado o desafio que as reuniu,
+as pessoas - e seus talentos - são
+"recombinadas" em outras tarefas. Este
+networking é em muito facilitado pela
+tecnologia de informação, embora a mera
+existência desta não garanta mudanças e
+flexibilidade organizacional (que, claramente,
+dependem de serem "geridas").
+Finalmente, quanto ao grupo de produ-
+ção de conhecimento, as atividades de gestão
+são afetadas especialmente no que se
+refere à direção e ao controle. A direção
+consiste em monitorar o ambiente e tomar
+as decisões para adaptar a organização às
+condições cambiantes dele; o controle consiste
+em medir performance e compará-la
+aos planos, determinando que ações tomar
+para se manter no rumo dos objetivos desejados.
+A tecnologia de informação baixa
+o custo de monitoração do ambiente e das
+variáveis internas de performance, permitindo
+que as decisões possam ser mais rá-
+pidas e, eventualmente, mais eficazes.
+A TI possibilita a integração de funções
+em todos os níveis da organização
+A crescente infra-estrutura (própria ou
+de terceiros) disponível possibilita às organizações
+aplicarem a TI de diversas formas,
+ao longo da cadeia de valor adicionado,
+dentro e fora delas (por exemplo,
+EDI - Electronic Data Interchange), redefinindo
+as suas fronteiras e as suas condi-
+ções (espaço e tempo), em que o trabalho
+é feito, e viabilizando o advento da organização
+virtual.
+Além disso, viabilizam-se, gradualmente,
+mercados eletrônicos, à medida que o
+custo de transação via TI vai baixando,
+permitindo caminhar no sentido da substituição
+da mão visível das decisões hierárquicas
+de volta pela mão invisível do
+mercado, invertendo parcialmente o movimento
+que, na virada do século, deu origem
+à grande empresa.
+A TI muda o clima competitivo em
+muitas indústrias
+A mudança nas condições relativas de
+competição não é devida à TI em si, mas a
+inovações que podem resultar do seu emprego
+criativo sobre os aspectos organizacionais
+e sistêmicos da inovação. A
+indústria bancária, bem como os serviços
+financeiros em geral, foram profundamente
+afetados pela TI. O mesmo vale para a
+indústria de transporte aéreo, para a navegação
+de longo curso, o setor siderúrgico,
+por exemplo.
+A TI apresenta novas oportunidades
+estratégicas para organizações que
+reavaliam suas missões e operações
+As mudanças na natureza do trabalho,
+as possibilidades de integração eletrônica
+e um clima competitivo mais intenso são
+patrocinadores de uma revisão crítica da
+organização. Esta revisão ocorre via automação
+(redução de custos), até que se
+atinja a transformação da natureza do negócio.
+A aplicação bem-sucedida da TI irá
+requerer mudanças na estrutura
+organizacional e na gestão
+A TI permite uma redistribuição de poder,
+funções e controle, realocando-os onde
+são mais eficazes. Estas possibilidades estão
+na base do "encolhimento" de funções
+da gerência média e na "reengenharia"
+substantiva que algumas organizações estão
+realizando. As novas organizações" em
+rede" (networked) são mais flexíveis e adaptáveis
+que a estrutura hierárquica tradicional.
+Provavelmente, tornar-se-ão mais
+e mais necessárias em um ambiente muito
+mutável, substituindo cada vez mais a rigidez
+da hierarquia tradicional.
+o PRESENTE VISTO A PARTIR DA EVOLUÇÃO
+HISTÓRICA
+O atual estado da tecnologia de informação
+é produto de uma longa evolução,
+cujos primeiros passos devem estar próximos
+da invenção da escrita', passando evidentemente
+pela invenção da imprensa.
+A partir de meados do século XIX,deuse
+tal surto de inovação em TI que, em última
+análise, permitiu o nascimento e a
+consolidação da grande empresa moderna.
+Fazem parte desse processo o telégrafo,
+a máquina de escrever, o telefone e a
+máquina de hollerith.
+A dinâmica e a estrutura da grande
+empresa, tal como a conhecemos hoje, surgiram
+da interação dessas inovações com
+RAE • v.36 • n.2· Abr./Maio/Jun.1996
+TECNOLOGIA DE INFORMAÇÃO: COMPETITIVIDADE E POLíTICAS PÚBLICAS
+novas formas de pensar o trabalho e novas
+formas organizacionais nos Estados
+Unidos, por volta da virada deste século",
+As recentes inovações da TI permitirão
+uma nova configuração da atividade empresarial
+e, talvez, a substituição do modelo
+de gestão empresarial vigente ao longo
+deste século.
+É mais fácil entender as possibilidades
+da nova tecnologia de informação do ponto
+de vista histórico", quando dividimos a
+tecnologia em quatro funções básicas: conversão,
+armazenamento, processamento e
+transmissão. A recente evolução da tecnologia
+permite que essas funções, tradicionalmente
+realizadas de forma independente,
+sejam agora integradas.
+Historicamente, as funções de conversão
+de informação foram realizadas em
+cartões ou fitas perfuradas (os primeiros
+telégrafos em código morse). Até muito
+recentemente, usavam-se cartões perfuraA
+comunicação de informação, que hoje
+se aproxima do estágio multimídia, foi, no
+passado, realizada por mensageiros, pelo
+sistema de correios, e depois pelo telégrafo
+e pelo telefone, invenções que permitiram
+a transmissão de informação a longas
+distâncias, sem se limitar à velocidade de
+deslocamento do ser humano ou de um
+animal.
+A tecnologia atual permite, pela primeira
+vez, uma integração suave de todas essas
+funções, o que aumenta muito a velocidade,
+confiabilidade e produtividade dos
+processos, ao se eliminarem todos os
+subprocessos intermediários existentes na
+passagem do dispositivo que executa uma
+função para o dispositivo que executa a
+outra.
+A nova tecnologia de informação permite
+que se rede finam as fronteiras da
+empresa, que se criem organizações virtuais,
+desvinculadas da hierarquia tradicioAssim
+como cria oportunidades (e ameaças)
+empresariais, a nova tecnologia de informação
+redefine as exigências sobre as políticas públicas.
+dos para comunicar dados aos computadores.
+(A clássica máquina de escrever é
+também um dispositivo de entrada/ saída,
+permitindo transformar um manuscrito
+num padrão mais uniforme e mais fácil de
+reconhecer.) Hoje, estas funções são realizadas
+primordialmente via teclado e, em
+muitos casos, via scanners.
+A função de armazenagem é feita hoje
+predominantemente em discos magnéticos
+e óticos, através de softwares gerenciadores
+de bancos de dados, que, na verdade, possibilitam
+armazenar a informação de forma
+análoga, embora muito mais flexível,
+à dos arquivos de pastas pré-classificadas.
+A capacidade dos processadores atuais,
+mesmo em modestos computadores pessoais,
+manipuladores genéricos de símbolos,
+dispensa comentários. Historicamente,
+o processamento foi feito em dispositivos
+mecânicos com ábacos (que também
+são dispositivos de entrada e saída), má-
+quinas mecânicas de calcular, máquinas de
+hollerith, entre outros.
+RAE • v.36 • n. 2· Abr./Maio/Jun.1996
+nal dos organogramas, mas exige que se
+preste atenção à gestão dessa nova interdependência.
+A integração básica das funções de
+conversão, armazenamento, processamento
+e transmissão através da tecnologia
+de informação viabiliza a criação ou aumento
+substantivo do grau de inter-relacionamento
+entre mercados, produtos e
+empresas. Os dois componentes críticos
+que permitem esse maior inter-relacionamento
+são as redes e a compatibilidade, inclusive
+habilidade, de recursos huma-nos
+comuns e produtos/ serviços complementares.
+As redes apresentam externalidades
+positivas e são tão mais úteis quanto
+mais capilares e abrangentes forem. Isto
+vale para sistemas de passagens aéreas,
+para redes de caixas automáticos e, também,
+para redes como a INTERNET, por
+exemplo.
+A inter-conectividade, ao mesmo tempo
+que coloca novos problemas para a
+4. BENIGER, J. R. The control
+revolution. Boston: Harvard
+Business School Press, 1986.
+Neste livro, o autor trata detaIhadamente
+desta transforma-
+ção.
+5. SCOTT-MORTON. Op. cit., p.
+64-7.
+37
+6. No modelo clássico de gestão
+vigente, a gerência média tem o
+papel de intermediário intormacional,
+atuando como um tradutor
+bidirecional entre as operações
+e a afta administração. As
+novas tecnologias aproximam os
+dois extremos e prescindem cada
+vez mais da intermediação do
+gerente médio.
+38
+administração, abre uma nova gama de
+possibilidades de cooperação entre empresas
+e dentro da própria empresa.
+A cooperação entre empresas advém,
+entre outros fatores, da possibilidade de
+gerir as relações ao longo da cadeia de valor
+adicionado (fornecedor-processadorcliente)
+de forma não-convencional. As
+novas alternativas vão deste troca eletrô-
+nica de documentos (EDI), passando por
+acordos de fornecimento de longo prazo,
+com garantia de qualidade assegurada, até
+desenvolvimento conjunto de produtos e
+serviços. Dentro das empresas, as novas
+tecnologias têm permitido a emergência do
+conceito degroupware, através do qual uma
+rede suportada por software especializado
+permite que a empresa substitua sua tradicional
+estrutura organizacional por grupos
+ad hoc, que compartilham objetivos,
+expertise, tarefas do processo decisório,
+priorização e programação das atividades.
+Estes grupos organizam-se em torno de
+problemas e desafios, não em tomo de fun-
+ções, como na empresa tradicional. São,
+portanto, multidisciplinares e têm existência
+temporária, evitando a perpetuação de
+custos fixos sem objetivo claro, fato que
+ocorre na forma organizacional mais comum
+atualmente.
+Estas mudanças apontam na direção de
+organizações mais flexíveis e mais levescom
+a eliminação de camadas de gerência
+média--c-, em que a mudança da ênfase é
+por privilegiar a performance da equipe em
+vez da do indivíduo e uma relativa desintegração
+da grande empresa, à medida que
+esta devolve ao mercado funções que anteriormente
+realizava internamente (terceirização),
+reservando-se às suas funções
+básicas.
+o PAPEL DAS POLíTICAS PÚBLICAS
+Investimentos produtivos, emprego e
+infra-estrutura
+Assim como cria oportunidades (e amea-
+ças) empresariais, a nova tecnologia de
+informação redefine as exigências sobre as
+políticas públicas.
+Uma parte relevante das atribuições
+dos governos - especialmente após a ado-
+ção do ideário desenvolvimentista que virtualmente
+se tomou universal após a Segunda
+Guerra Mundial - é criar condi-
+ções de atração da atividade econômica,
+de modo a possibilitar a elevação dos padrões
+de vida das populações envolvidas.
+Hoje, as tecnologias de informação representam
+um importante papel, como
+parte da infra-estrutura, de aumentar a
+eficiência do sistema produtivo, analogamente
+ao papel desempenhado por uma
+adequada rede de transportes, um sistema
+educacional que produza mão-de-obra
+de qualidade adequada, um sistema de
+portos eficientes e assim por diante.
+Num mundo de capital muito móvel, as
+condições oferecidas para atraí-lo são especialmente
+importantes. O Brasil tem
+atraído menos investimento direto do que
+o desejável. É claro que grande parte desse
+resultado decorre da enorme instabilidade
+macroeconômica do passado recente
+e das altas e voláteis taxas de inflação.
+Com a estabilização, o país tenderá a
+atrair mais investimentos, mas a eficiência
+destes será muito afetada pelas condi-
+ções infra-estruturais, entre elas as dependentes
+da tecnologia de informação, particularmente
+as redes de telecomunicação
+e sua interação com computadores.
+A título de ilustração (ver quadro 1),
+relacionam-se os dez maiores receptores de
+investimento estrangeiro direto entre os
+países em desenvolvimento, no período de
+1988 a 1992.
+Quadro I
+Re~éptoresde investimento
+estrangeiro (1988 a 1992)
+País
+China
+Cingapura
+México
+Malásia
+Argentina
+Tailândia
+Hong Kong
+Brasil
+Taiwan
+Indonésia
+\,J$$ bilhões
+25.6
+21.7
+18.4
+13.2
+10.6
+9.5
+7.9
+7.6
+6.0
+5.6
+Fonte: UNCTAD (United'Nattons Comlssion
+on Trade and Development).
+Um estudo da OECD (Organization for
+Economic Cooperation and Development)
+mostra que a fração do trabalho não-quaRAE
+• v. 36 • n. 2· Abr./Maio/Jun.1996
+TECNOLOGIA DE INFORMAÇÃO: COMPETlTlVIDADE E POLíTICAS PÚBLICAS
+Quando seolhapara a organização econômica
+básicadassociedades,reconhece-setrês grandes
+agrupamentos de infra-estruturaque, naverdade, fonnam o
+substrato sobre o qual ocorrem as trocas: transportes,
+energia e, finalmente, os sistemas
+de comunicação.
+particular os serviços de telecomunicação,
+indubitavelmente atendem a essas características.
+É importante notar que é mais relevante
+a disponibilidade local de serviços a pre-
+ço competitivo do que a manutenção de
+produção local de equipamentos à custa
+de preço alto ou quantidade de serviço insuficiente.
+As extemalidades positivas da
+tecnologia de informação são principalmente
+advindas da oferta dos serviços e
+não necessariamente da produção de equipamentos.
+Está claro que ofirst best é produção
+local de equipamentos com disponibilidade
+adequada de serviços. No entanto,
+o second best parece ser não produ-
+ção local em detrimento da oferta de serviços
+mas o oposto, embora este ponto requeira
+mais aprofundamento e discussão.
+A tecnologia de informação está reconhecidamente
+alterando uma parte relevante
+da infra-estrutura socioeconômica e,
+portanto, redefinindo a forma como ocorrem
+as interações nesse nível.
+Na organização econômica básica das
+sociedades, reconhecem-se três grandes
+agrupamentos de infra-estrutura que, na
+verdade, formam o substrato sobre o qual
+ocorrem as trocas: transportes (rios, rodovias,
+canais, ferrovias e aeroportos), energia
+(redes de energia elétrica, gasodutos,
+oleodutos e usinas hidrelétricas) e, finalmente,
+os sistemas de comunicação (correios,
+telégrafo, telefone, rádio, TV,satélites
+e redes de fibras óticas).
+A infra-estrutura de transportes sempre
+teve papel relevante sobre as decisões de
+localização de atividade econômica. As
+grandes cidades (Roma, Paris, Londres
+etc.) foram constituídas à beira d'água (rio
+ou mar) devido ao acesso a transporte,
+entre outras razões.
+Na sociedade industrial, o acesso à água
+e aos recursos naturais explica grande parte
+das concentrações industriais do períolificado
+em relação aos custos totais de
+produção tem caído continuamente, tendo
+atingido 5-10%a partir do nível de 25%
+em 1970. À medida que dispêndios indiretos
+- como custo de P&D (Pesquisa e
+Desenvolvimento), Marketing, custo de capital
+- aumentam, diminui a importância
+dos baixos salários como fator de
+competitividade. Os custos diretos de
+mão-de-obra representam menos de 15%
+na indústria automobilística, menos de 5%
+na produção de TV em cores e menos de
+3% em semicondutores. A desvantagem
+dos altos custos associados a uma infraestrutura
+inadequada torna-se cada vez
+mais patente. As novas técnicas gerenciais,
+como produção flexível e just-in-time, são
+muito mais exigentes quanto à coordena-
+ção fazendo, portanto, com que boas comunicações
+sejam vitais para permitir eficiência
+e atrair investimentos. Deste modo,
+baixos salários mais e mais atrairão apenas
+atividades tradicionais, como calçados
+e vestuário.
+Mesmo para atrair determinados servi-
+çosintensivos em mão-de-obra (programa-
+ção de computadores, digitação, contabilização,
+processamento de renovação
+de subscrição de periódicos), será necessário
+não apenas suprir uma força de trabalho
+com formação adequada, mas garantir
+que tais atividades possam estar em
+contato com os escritórios centrais a custos
+competitivos. Isto requer disponibilidade
+de serviços associados à tecnologia
+de informação, uma necessidade que
+enfatiza a importância, sempre admitida,
+da tecnologia de informação como parte
+da infra-estrutura produtiva.
+Uma possível definição de indústria estratégica
+é aquela que apresenta três propriedades:
+é importante para a segurança
+nacional; é intensiva em P&D e, finalmente,
+apresenta extemalidades positivas". O
+complexo da tecnologia de informação, em
+7. PORTER, Michael. The competitive
+advantage ot nations.
+New Vork: Free Press, 1990.
+RAE • v.36 • n. 2· Abr./Maio/Jun.1996 39
+8. O mercado spot de petróleo
+de Rotterdam é uma rede móvel
+de navios-tanque navegando,
+embarcando e desembarcando
+petróleo. Os mercados financeiros
+são crescentemente redes
+virtuais. A atividade torna-se,
+cada vez mais, fisicamente dispersa:
+há pequenos concorrentes
+de corretoras de Wall Street
+em Dakota do Sul e Montana,
+marcando uma tendência muito
+clara à descentralização.
+40
+do (a Inglaterra e o carvão, insumo para a
+produção de vapor, os Grandes Lagos, as
+matérias-primas para o aço, bem como um
+escoadouro para a produção; o vale do
+Ruhr e assim por diante).
+Hoje, a infra-estrutura de comunicações
+e o processamento de informações passam
+a ser o determinante das grandes modificações
+no panorama econômico. Benetton
+e Reebook, empresas muito grandes, conceberam-se
+como quase virtuais e só são
+possíveis graças a uma adequada infraestrutura
+de tecnologia de informação. As
+decisões de localização da produção dessas
+empresas são afetadas pela disponibilidade
+de tais recursos: a Swissair tem processado
+parte de sua contabilidade na Índia,
+onde muitas empresas têm desenvolvido
+softwares. Várias operações de retaguarda
+de bancos e outros prestadores de
+serviços têm sido realocados em áreas fisicamente
+mais remotas, com custos de
+fatores mais baixos mas infra-estrutura
+adequada. Desta forma, a tecnologia de
+informação começa a desacoplar a atividade
+econômica da dependência dos recursos
+tradicionais e da proximidade física
+anteriormente requeridas. Há um
+desacoplamento do tempo e do espaço na
+atividade econômica, fazendo com que
+equipes distantes possam trabalhar conjuntamente
+e o trabalho possa ser deslocado
+de um grupo a outro (em outra localidade),
+permitindo operações ininterruptas.
+Além dessa conseqüência sobre a oferta
+(localização da produção), há uma outra
+sobre a demanda, resultando numa
+redefinição dos mercados. Estes deixam
+de ser locais físicos e se tornam redes virtuais",
+De fato, isto contribui para mudar
+as dimensões do "teatro de operações",
+que ganha uma escala maior, patrocinando
+a globalização.
+A própria globalização, por sua vez, tem
+conseqüências muito importantes para as
+políticas públicas. Aglobalização dos mercados
+redefine a lógica das decisões de localização.
+De um lado, os recursos estão
+cada vez mais móveis - não apenas recursos
+financeiros, mas tecnologia e outros
+recursos de capital. De outro, as pessoas,
+que são as detentoras do capital humano,
+não têm aumentado significativamente sua
+mobilidade. Visto de outra forma, os recursos
+estão relativamente mais móveis
+que as pessoas, que em grande parte tem
+seus movimentos circunscritos àssuas pró-
+prias fronteiras nacionais. Isto faz com que
+a lógica econômica da alocação de recursos
+(decisões de localização) sejam, cada
+vez mais, ameaçadoras para a estabilidade
+do emprego e a coesão social, já que a
+realocação de recursos pode gerar desemprego
+profundo e localizado (por exemplo,
+a indústria siderúrgica e a área de Pittsburgh
+na década de 80). É deste conflito
+entre a mobilidade do capital e as decisões
+locacionais de caráter econômico e a relativa
+imobilidade das pessoas que surge
+uma das fontes de pressão protecionista,
+em que se busca, dentro do sistema político,
+a proteção contra as supostas amea-
+ças do sistema econômico (a questão da
+proteção à agricultura européia é um
+exemplo).
+O problema não se resolve, no entanto,
+com a construção de uma barreira protegendo
+a oferta de trabalho das vicissitudes
+da alocação econômica dos outros recursos,
+pois, sendo muito móvel, o capital
+procurará localizar-se onde as condições
+sejam mais favoráveis. Trata-se, portanto,
+não de refugiar-se num isolacionismo, de
+resto empobrecedor, mas de dotar a região
+de uma adequada infra-estrutura, de modo
+a atrair a atividade econômica.
+Esta necessidade de "modernização" da
+infra-estrutura dá origem à preocupação
+comum e intuitiva, quando se introduzem
+novas tecnologias sobre "o volume de
+empregos a ser destruído". É claro que o
+aumento de produtividade numa tarefa
+específica, por definição, se tudo mais se
+mantiver constante, elimina empregos antes
+necessários. O defeito óbvio deste raciocínio
+é a condição de tudo o mais mantido
+constante. A introdução de uma tecnologia
+de grande abrangência sempre tem
+conseqüências diretas e indiretas. Este foi
+o caso das ferrovias, que dispensaram
+muitos condutores de carruagens e diligências,
+mas criaram um enorme volume de
+empregos nas próprias ferrovias, no varejo,
+nas vendas por reembolso postal, na
+indústria de processamento de carnes. O
+mesmo aconteceu com a introdução de
+mecanismos de produção de massa para o
+automóvel, que, ao tornar sua produção
+menos custosa e o preço mais acessível,
+deu origem a conseqüências diretas e indiretas,
+transformando o carro em uma
+"máquina que mudou o mundo". Uma
+RAE • v. 36 • n. 2· Abr./Maio/Jun. 1996
+TECNOLOGIA DE INFORMAÇÃO: COMPETITIVIDADE E POLíTICAS PÚBLICAS
+análise mais cuidadosa indica que as conseqüências
+da tecnologia de informação
+podem ser análogas.
+De resto, é o aumento de produtividade
+o responsável pela melhoria do padrão
+de vida, como a evidência empírica dos
+últimos séculos tem demonstrado.
+Incentivos governamentais
+Verificamos que a nova infra-estrutura
+associada à tecnologia de informação está
+alterando a mobilidade relativa dos fatores,
+tomando o capital humano relativamente
+mais imóvel e, portanto, mais exposto
+à volatilidade das decisões econô-
+micas - especialmente as que se referem
+No que toca à promoção do desenvolvimento,
+os papéis tradicionais do governo
+ainda figuram entre os mais importantes.
+Incluem criar e aperfeiçoar fatores de
+produção: recursos humanos adequados,
+conhecimento científicobásico, informação
+econômica e infra-estrutura 10 •
+Uma infra-estrutura adequada não é
+necessariamente um fator de atração de
+atividade econômica, mas certamente, se
+não adequada, é um fator de repulsão. São
+especialmente importantes os quesitos
+infra-estruturais necessários à introdução,
+absorção e operação de tecnologias modernas,
+especificamente transportes, logística
+e telecomunicações. De fato, o provimeno
+aumento de produtividade é o responsável
+pela melhoria dos padrões de vida, como a evidência
+empírica dos últimos séculos tem demonstrado.
+à localização - que determinam a oferta
+de emprego e, em conseqüência, as condi-
+ções de aumento de prosperidade econô-
+mica e estabilidade social. Em vista disso,
+um papel central das políticas públicas
+deve ser aumentar a produtividade do recurso
+mais imóvel (capital humano), de
+modo a aumentar a atratividade relativa
+da região quando comparada a outras alternativas
+de investimento e localização da
+produção. Isto porque a base do aumento
+do padrão de vida de um país ou região
+está profundamente ligada à oferta de bons
+empregos, que, por sua vez, é determinada
+pela produtividade dos fatores na região.
+Desta forma, como sintetizou Porter"
+"O objetivo central da política governamental
+com relação à economia é posicionar os recursos
+da nação em altos e crescentes níveis de
+produtividade."
+No que toca às preocupações relativas
+à localização, essa recomendação é especialmente
+importante porque a experiência
+mostra que o papel do governo local é tão
+importante quanto o do governo central,
+especialmente quando se observa que normalmente
+a vantagem competitiva em indústrias
+específicas é, em geral, geograficamente
+concentrada, e não espalhada de
+forma aleatória pelo território.
+RAE • v.36 • n. 2· Abr./Maio/Jun.1996
+to de uma infra-estrutura adequada é uma
+forma legítima e eficiente de subsídio indireto
+a toda atividade econômica, sem as
+desvantagens de acomodação, resistência
+a mudanças e dependência clientelística
+que os subsídios diretos muitas vezes acabam
+por acarretar.
+Outro aspecto da política governamental
+que pode ser muito importante, especialmente
+com relação às tecnologias de
+informação, é o papel do governo como
+comprador que, de resto, compreende também
+funções tradicionais. A evidência internacional
+tem mostrado que o governo
+pode ter um papel importante nessa área,
+se este for adequadamente compreendido
+e dosado, conforme argumentou Porter".
+Em geral, agências e companhias estatais
+estão entre os principais compradores de
+bens e serviços ligados à infra-estrutura.
+É claro que as compras governamentais
+têm a função de fomentar e, algumas
+vezes, viabilizar indústrias. Protegê-las
+excessivamente da competição, no entanto,
+não implica tomá-las necessariamente
+mais competitivas. Ao contrário, a prote-
+ção e a discriminação excessiva e duradoura
+em favor de produtores domésticos,
+com total exclusão de competidores
+externos, não têm se revelado eficiente em
+9. Idem, ibidem, p. 617.
+10. Dada a natureza deste texto,
+a ênfase aqui é na tecnologia de
+informação como parte da infraestrutura.
+11. PORTER, Michael. Op. cít,
+41
+12. Idem, ibidem, p. 644-47.
+13. O decantado sucesso das
+políticas públicas de fomento no
+Japão e Coréia geralmente não
+menciona o fato de que as empresas
+naqueles países tiveram
+que operar em mercados domésticos
+muito competitivos. No Japão,
+exemplos notáveis são os
+da indústria de aço, automóveis
+e eletrônica de consumo. Na
+Coréia, os grandes conglomerados
+(chaebo/s) competem intensamente
+também no mercado
+coreano.
+42
+promover a competitividade de setores
+industriais.
+Quanto a isto, especialmente as indústrias
+ligadas à tecnologia de informação
+apresentam evidências que podem ensinar
+lições importantes. As novas relações de
+fornecedor-cliente no setor de equipamentos
+de telecomunicações estão criando dificuldades
+para as empresas que não se
+adaptam às novas condições. Por exemplo,
+Alcatel e Siemens sempre tiveram relações
+privilegiadas com a Deutsche Telekom. A
+empresa de serviços, preparando-se para
+sua privatização, passou a privilegiar seus
+fornecedores mais eficientes e não seus
+fornecedores mais tradicionais. Os resultados
+são dramáticos: a subsidiária alemã
+da Alcatel perdeu aproximadamente US$
+160milhões e os lucros da Siemens em telecomunicações
+caíram de 10 a 15% em
+1994. Por outro lado, a Nokia e a L. M.
+Ericsson estão prosperando. A Nokia é a
+segunda maior produtora mundial de telefones
+móveis (depois da Motorola) e a
+Ericsson, a maior produtora mundial de
+centrais digitais de comutação para redes
+móveis (50%do mercado mundial) e a terceira
+maior produtora de telefones móveis.
+Elas dividem um terço do mercado mundial
+de US$ 17 bilhões de equipamentos
+para telefonia móvel.
+O sucesso das duas empresas parece
+depender de três pontos básicos:
+• a competição doméstica é um importante
+fator. As origens da competição doméstica
+remontam ao modelo de telecomunicações
+escolhido pelos países nórdicos.
+Na Finlândia, há mais de 50 operadores
+locais com liberdade de escolha
+de fornecedores e o monopólio suecoTeleVerket
+(privado desde 1989)- nunca
+foi obrigado a subsidiar o serviço
+postal (como acontece em muitos países)
+e sempre se supriu nas fontes mais competitivas.
+Isto, por sua vez, desde logo,
+levou as duas empresas a buscarem alternativas
+nos mercados internacionais,
+especialmente devido ao porte reduzido
+de seus respectivos mercados nacionais;
+• a dependência dos mercados internacionais
+competitivos é um forte incentivo
+ao investimento em novas tecnologias,
+o que um monopsônio amistoso
+não favorece;
+• finalmente, no caso das duas empresas
+nórdicas, o clima local hostil e a popula-
+ção esparsa foram, desde o início, fortes
+incentivos ao desenvolvimento da
+tecnologia de telefonia celular, na qual
+as duas acabaram por se tomar empresas
+líderes.
+O governo pode, e deve, representar
+papel muito relevante no desenvolvimento
+da indústria doméstica". Para isto,
+deve estabelecer os incentivos corretos
+que garantam o aperfeiçoamento da produção
+local.Isto pode ser facilitado se o governo:
+• garantir a demanda nos estágios iniciais
+do ciclo de vida de produtos inovadores,
+incentivando os produtores locais
+a ocuparem essas áreas;
+• agir como comprador exigente e sofisticado,
+em vez de ser complacente com
+a oferta doméstica, incentivando a qualidade
+e a inovação dos produtores locais;
+• exigir que a compra local leve em conta
+padrões e necessidades internacionais,
+de modo a apoiar indiretamente a
+competitividade da empresa local nos
+mercados internacionais;
+• incentivar, por meio de seu padrão de
+compras, a competição entre os produtores
+locais e introduzir competição estrangeira,
+como forma de levar ao conhecimento
+dos fabricantes nacionais novos
+padrões de eficiência, facilitando a eles
+o alcance de metas de competitividade
+internacional.
+Assim, a competitividade da indústria
+local é favorecida pela exposição administrada
+no sentido da competição e não por
+uma superproteção, que eventualmente
+produz os resultados opostos aos desejados,
+como atestam abundantemente os
+casos da indústria brasileira e francesa de
+informática".
+Quanto ao papel que a regulação pode
+ter na promoção da competitividade de
+uma indústria é preciso distinguir as duas
+situações explicitadas a seguir.
+Em primeiro lugar, a regulação da competição
+pode impor restrições à entrada,
+regras de precificação e condições legais
+relativas à estrutura da indústria. Essa
+regulação normalmente restringe a perRAE
+• v.36 • n. 2· Abr./Maio/Jun.1996
+TfCNOL,oCIA DE INFORMAÇÃO: COMPETlTlVIDADE E POLíTICAS PÚBLICAS
+Num tempo de profundas e rápidas mudanças, o
+passado não é um guia confiável e pode levar ao
+comprometimento do futuro.
+formance que as empresas poderiam atingir
+sem a sua existência.
+A experiência contemporânea, por
+exemplo, tem mostrado abundantemente
+que a desregulamentação e a privatização
+dos tradicionais monópolios estatais de
+telecomunicações (cuja origem, é bom lembrar,
+remonta ao início do século XX, na
+maioria dos países da OECD) agora é viá-
+vel tecnologicamente - situação diferente
+de quando foram constituídos, justificadamente,
+como "monópolios naturais"
+- e, em muitos casos, atraente do
+ponto de vista econômico, especialmente
+no que concerne à perfomance de longo prazo.
+E preciso notar, no entanto, que a substituição
+de um monópolio público por um
+monópolio privado pode eliminar a pressão
+sobre o Tesouro, mas poderá não resolver
+problemas de eficiência quando a
+alternativa de competição for viável. Dito
+de outra forma, a desregulamentação e a
+privatização devem ser acompanhadas de
+medidas incentivadoras para a competição
+doméstica, em especial na área de servi-
+ços de telecomunicação, onde as autoridades
+reguladoras, de uma forma ou de outra,
+ainda detêm um papel regulador e
+concessor (de freqüências e territórios de
+operação, por exemplo).
+Em segundo lugar, a regulação dos padrões
+tem outro papel. Neste caso, atua
+em benefício da competitividade dos
+produtores locais, quando assume o papel
+de simular um comprador exigente, quanto
+a aspectos de segurança, tolerância e
+performance. Muitas vezes, no entanto, o
+padrão é uma forma de proteger e isolar
+os competidores locais da competição
+internacional e, nestes casos, ele não é
+benéfico. A adoção do padrão local -
+PAL-M para transmissões de TV em cores
+no Brasil - é ilustrativa deste caso, que
+confinou a indústria a seus limites domésticos.
+O papel adequado do governo é criar
+condições para que haja competição doméstica,
+e não garantir subsídios, administrar
+a oferta, patrocinar altos níveis de cooperação
+inter-firmas sempre que isso se
+fizer em prejuízo da competição entre elas,
+ou garantir a demanda e proteger articificialmente
+o mercado interno da competição
+internacional.
+No caso brasileiro, é importante observar
+que, agora que o padrão de desenvolvimento
+da economia brasileira indica ter
+superado uma herança intelectual associada
+ao modelo substituidor de importa-
+ções, deve-se evitar a tentação de convergir
+para outras situações extremadas como
+expor toda a economia, indiscriminadamente,
+à competição estrangeira.
+O governo deve prover as condições
+para incentivar a competição e elevação
+dos padrões, e, neste sentido, o provimento
+de infra-estrutura adequada é fundamental.
+Para isto é preciso analisar criticamente,
+setor por setor, se o provimento
+pode se dar mais eficientemente pelo setor
+privado ou pelo Estado. Para tanto, a
+base preexistente, as condições tecnológicas
+e as alternativas domésticas e internacionais
+devem ser cuidadosamente
+ponderadas. Num tempo de profundas e
+rápidas mudanças, o passado não é um
+guia confiável e pode levar ao comprometimento
+do futuro. O
+BIBLIOGRAFIA SUPLEMENTAR
+BOTELHO, A. et aI. íeferommunicatons in Brazil. New York: Columbia Center for
+telecommunications policy, 1992.
+BUSJNESS WEEK ANO THE FOREIGN POUCY ASSOCIATION. Thé fu't~ré of world
+telecommunications and information technology: national .89vereignity and the role of the
+corporation in the global information age, May 2-3, 1990.
+REICH, Robert B. íhéreaf eoonomy, TheAtlantic Monthly, 35-52 February, 1991.
+RAE • v.36 • n. 2· Abr./Maio/Jun.1996 43

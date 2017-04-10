@@ -1,0 +1,429 @@
+Gest. Prod., São Carlos, v. 14, n. 1, p. 1-12, jan.-abr. 2007
+Impacto da tecnologia da informação na gestão das cadeias de suprimentos – um estudo de casos múltiplos
+Antonio Carlos Gastaud Maçada
+Luis Felipe Feldens
+André Moraes dos Santos
+Resumo
+A gestão da cadeia de suprimentos é reconhecida como uma importante área para a inovação e investimento em Tecnologia da Informação (TI). Os investimentos em TI continuam sendo questão estratégica central em empresas que buscam ganhar vantagem competitiva em um ambiente cada vez mais dinâmico, mesmo sabendo que o impacto não é completamente entendido. O objetivo da pesquisa é identificar e analisar os impactos da TI no processo de gestão da cadeia de suprimentos e validar o conjunto de variáveis selecionadas na literatura de Sistemas de Informações (SI). Para isso é utilizado o estudo de casos múltiplos em empresas dos setores Metal Mecânico, Petroquímico e Varejo. As entrevistas com os executivos e observações revelaram a importância estratégica que a TI exerce no processo de gestão das cadeias de suprimento e também foram identificados impactos positivos da TI no conjunto de variáveis estratégicas selecionadas na revisão da literatura.
+Palavras-chave: Tecnologia da informação. Gestão das cadeias de suprimentos.
+Impacto da tecnologia.
+1 Introdução
+A gestão da cadeia de suprimentos (do inglês, Supply Chain Management – SCM) é reconhecida como uma importante área para inovação e investimento em Tecnologia da Informação (TI) (BOWERSOX; DAUGHERTY, 1995; PATTERSON; GRIMM; CORSI, 2003). Dados revelam que o volume de investimento realizado pelas empresas americanas em softwares de SCM foi de
+US$ 3,5 bilhões em 2001, enquanto as brasileiras investiram US$ 57,7 milhões no mesmo período (B2BMAGAZINE, 2002). Isto reforça a idéia de que a TI já se tornou um componente integrante no processo de gestão das cadeias de suprimento (CHANDRASHEKAR; SCHARY, 1999). Segundo Andersen e Segars (2001), os investimentos em TI continuam sendo questão estratégica central em empresas que buscam ganhar vantagem competitiva em um ambiente cada vez mais dinâmico.
+Por outro lado, as organizações não conseguem compreender completamente os impactos que a TI pode causar no desempenho (ANDERSEN; SEGARS, 2001). Em grande parte dos estudos de Sistemas de Informação (SI), a medição de desempenho tem se baseado em abordagens objetivas, usando um conjunto de variáveis financeiras como retorno sobre investimento (ROI) e retorno sobre ativos (ROA) ou medidas como faturamento e crescimento de vendas (BERGERON; RAYMOND; RIVARD, 2001). Tais medidas têm sido criticadas porque enfatizam somente as dimensões econômicas de desempenho, negligenciando outros objetivos importantes das empresas. Além disso, os dados necessários para comporem as métricas geralmente não estão disponíveis ou não são confiáveis. Devido às questões referidas, cresce na literatura de SI a utilização da percepção dos executivos em estudos de análise de impacto de TI (MAHMOOD; SOON, 1991; PALVIA, 1997; TORKZADEH; DOLL, 1999; LIM; PALVIA, 2001).
+Enquanto a literatura de SI apresenta diversos trabalhos preocupados com a adoção da TI na gestão da cadeia de suprimentos (IACOVOU; BENBASAT; DEXTER, 1995; SPANOS; PRASTACOS; POULYMENAKOU, 2002; PATTERSON; GRIMM; CORSI, 2003), poucos pesquisadores focalizam suas investigações nos impactos dos investimentos da TI na SCM (LIM; PALVIA, 2001). Byrd e Davidson (2003) afirmam que pesquisas empíricas nessa área são extremamente esparsas, se não forem inexistentes. Assim, a importância da TI para a eficiência da gestão das cadeias de suprimentos, somada à falta de modelos que auxiliem na compreensão dos impactos da
+Maçada, Feldens e Santos
+Gest. Prod., São Carlos, v. 14, n. 1, p. 1-12, jan.-abr. 2007
+TI na gestão das cadeias, justificam a oportunidade de pesquisa explorada pelo presente estudo.
+O objetivo da pesquisa é identificar e analisar os impactos da TI no processo de gestão da cadeia de suprimentos e validar o conjunto de variáveis selecionadas na literatura de SI baseado em quatro estudos de caso de empresas dos setores Metal Mecânico, Petroquímico e Varejo. A avaliação do impacto será abordada dentro de uma perspectiva qualitativa, a partir da percepção dos gestores e executivos das organizações.
+Assim, a questão de pesquisa deste estudo pode ser enunciada como: quais são os impactos que a Tecnologia da Informação, aplicada ao processo de gestão da cadeia de suprimentos, causa nas variáveis estratégicas organizacionais?
+Este artigo está estruturado da seguinte forma: na seção 1, o trabalho é apresentado, bem como seu contexto e relevância; a seção 2 trata da fundamentação teórica estruturada com base nos conceitos de cadeia de suprimentos e gestão da cadeia de suprimentos; em seguida são apresentadas as variáveis organizacionais estratégicas impactadas pela TI já identificadas em estudos prévios; a seção 3 descreve a metodologia aplicada na pesquisa; na seção 4, são apresentados os estudos de caso realizados; por último, a seção 5 apresenta as considerações finais do artigo.
+2 Fundamentação teórica
+A fundamentação teórica apresenta os resultados de uma revisão da literatura buscando as definições que servem de base para o desenvolvimento da presente pesquisa. É apresentada a conceituação de cadeia de suprimentos e da gestão das cadeias de suprimentos; após é apresentada a revisão de literatura sobre o uso da TI nas cadeias de suprimento e o impacto dessa utilização; finalizando com a apresentação das seis variáveis estratégicas organizacionais selecionadas para análise baseado em pesquisas acadêmicas anteriores.
+2.1 Cadeia de suprimentos
+A cadeia de suprimentos, de acordo com Swaminathan, Smith e Sadeh (1996), pode ser definida como sendo uma rede de entidades de negócios autônomos ou semi-autônomos responsáveis coletivamente pelas atividades de compras, produção e distribuição associadas com uma ou mais famílias de produtos.
+Lee e Billington (1995) possuem uma definição similar na qual afirmam que uma cadeia de suprimentos é uma rede de entidades que compram matérias-primas, transformam-nas em produtos intermediários e, então, em produtos finais, que são entregues aos consumidores por sistema de distribuição. A Figura 1 apresenta, sob a forma de diagrama, um exemplo de cadeia de suprimentos.
+Como pode ser observado na Figura 1, os materiais fluem do fornecedor de matéria-prima pelas plantas de produção intermediárias que transformam a matéria-prima em produtos intermediários (também conhecidos como componentes ou peças). Estes são montados no próximo nível para formar produtos. Os produtos são enviados para os centros de distribuição e de lá para os varejistas e consumidores.
+2.2 Gestão da cadeia de suprimentos
+Muitas mudanças ocorreram no campo dos negócios nas últimas décadas. O aumento da competição e o advento das terceirizações geraram um novo ambiente, no qual as empresas não atuam mais como elementos isolados, mas como membros de uma cadeia em rede.
+O Fórum Global de Cadeia de Suprimentos (do inglês, Global Supply Chain Forum) define a SCM como sendo a integração dos processos de negócios-chave do usuário final até o fornecedor original que aprovisiona produtos, serviços e informação, adicionando valor para os consumidores e outros acionistas (LAMBERT; COOPER, 2000).
+Houlihan (1985) diz que o objetivo da SCM é reduzir a quantidade total de recursos necessários para gerar um nível desejado de serviço ao consumidor. Outros autores indicaram objetivos que suportam esse objetivo principal (CAVINATO, 1991), incluindo a sincronização das necessidades dos clientes com o fluxo de materiais dos fornecedores (STEVENS, 1989), redução dos investimentos em estoque na cadeia, melhora do serviço ao consumidor e a construção de vantagem competitiva para a cadeia de suprimentos (COOPER, 1993).
+Com a implementação da SCM, o foco estreito dos gestores e as relações adversas dos provedores de serviços
+Fluxo de InformaçõesFluxo de InformaçõesCentro dedistribuiçãoFornecedormatéria-primaPlanta deproduçãoVarejistas/consumidoresFluxo de materiais/transporte
+Figura 1. Exemplo de cadeia de suprimentos. Fonte: Lee e
+Billington (1995).
+Impacto da tecnologia da informação na gestão das cadeias de suprimentos – um estudo de casos múltiplos
+Gest. Prod., São Carlos, v. 14, n. 1, p. 1-12, jan.-abr. 2007
+de logística, fornecedores e consumidores são substituídos por alianças estratégicas e relações cooperativas de longo termo e a visão de fornecedores e consumidores como parceiros ao invés de adversários (TAN; KANNAN; HANDFELD, 1998) com a meta de maximizar a competitividade e a lucratividade da empresa, assim como para toda a cadeia de suprimento incluindo o consumidor final ((LAMBERT; COOPER; PAGH, 1998).
+Poirier e Reiter (1996) consideram a SCM um sistema que envolve todos os elementos de uma cadeia de produção, do fornecedor de matéria-prima até a entrega do produto (ou serviço) pelo comércio varejista (ou pela empresa prestadora de serviços) ao consumidor final, visando à otimização da cadeia de valores como um todo. Essa idéia é derivada da premissa segundo a qual a cooperação entre os membros da cadeia de valores reduzirá os riscos individuais e poderá, potencialmente, melhorar a eficiência do processo logístico, eliminando perdas e esforços desnecessários (BOWERSOX; CLOSS, 1999).
+A importância da atuação sistêmica e em rede da SCM evidencia também a necessidade de coordenação e suporte aos fluxos de informação em toda a cadeia. Essa rede, para ter um funcionamento adequado, deve ter um fluxo de informações bom o suficiente para garantir que problemas em um componente da rede não reflitam nos demais, provocando danos na eficiência da cadeia.
+2.3 Tecnologia da informação na
+gestão da cadeia de suprimentos
+Neste estudo, a tecnologia da informação está sendo compreendida como envolvendo “todos os aspectos de computadores (hardware e software), sistemas de informação, telecomunicação e automação de escritórios” (PALVIA, 1997).
+A TI tem afetado a competição ao alterar a estrutura do setor, criar novos negócios e proporcionar vantagens competitivas. De acordo com Porter e Millar (1985), a TI permeia toda a cadeia de valor e também o sistema de valor, impactando processos, estruturas e até mesmo produtos. Segundo Monteiro e Bezerra (2003), as empresas estão recorrendo à aplicação de TI nas cadeias de suprimento visando à obtenção de vantagem competitiva e automatização dos processos produtivos. Já Bowersox e Closs (1999) citam que os gestores envolvidos na cadeia de suprimentos vêem a TI como a principal fonte de melhorias na produtividade e na capacidade competitiva. Esses autores defendem que a TI é empregada diferentemente de outros recursos já que possibilita um aumento de velocidade de transmissão e de capacidade de dados e simultaneamente reduz custos.
+Para Chandrashekar e Schary (1999), a TI está proporcionando a virtualidade das relações no âmbito da gestão da cadeia de suprimentos. A SCM virtualizada é mais do que apenas ligações eletrônicas entre elos da cadeia. Ela representa configurações e estruturas organizacionais orientadas para este relacionamento eletrônico, o que facilita o efetivo e eficiente fluxo de bens e informações. Isto resulta em maior flexibilidade e capacidade de adaptação da organização e da própria cadeia ao ambiente de negócios. A virtualização da SCM pode representar uma oportunidade de inovação ou também uma ameaça à vitalidade da organização à medida que aumentam os riscos e as dificuldades de coordenação entre os parceiros da cadeia (CHESBROUGH; TEECE, 1996).
+Outro efeito destacado por Chandrashekar e Schary (1999) é a própria inversão do fluxo e configuração de recursos, passando do tradicional sistema de “empurrar” a produção ao mercado para, efetivamente, responder de forma dinâmica às demandas e necessidades dos clientes. Isto somente é possível pelo aumento da velocidade e flexibilidade proporcionada pelo uso da TI. Os sistemas de Estoques Administrados pelo Fornecedor (do inglês, Vendor-managed Inventory) permitem que os fornecedores gerenciem os estoques dos distribuidores, permitindo a aproximação de toda a cadeia com o mercado consumidor final.
+O Quadro 1 apresenta a definição de algumas das TIs aplicadas à cadeia de suprimentos, também conhecidas como Sistemas de Informações Logísticas (SIL).
+2.4 O impacto da TI na gestão da
+cadeia de suprimentos
+A introdução da TI na operação dos negócios está mudando drasticamente a maneira como as cadeias de suprimento operam (GHIASSI; SPERA, 2003). Conforme Boyson, Corsi e Verbraeck (2003), a TI pode ajudar a superar os problemas que afetam as cadeias de suprimento. O autor aponta o EDI (do inglês Electronic Data Interchange) como um exemplo de TI que possibilita a redução de erros e o aumento da eficiência dos processos de trabalho.
+Os principais problemas enfrentados pelas cadeias de suprimento e que são foco na implantação de tecnologia são níveis de inventário inadequados, ordens de entrega e recebimento não cumpridas e problemas na transmissão de informações.
+Tecnologias como o EDI, WMS (do inglês, Warehouse Management System), rastreamento de frotas, códigos de barra, entre outras, estão sendo utilizadas para que seja possível o processamento de mais informação, de maneira mais precisa, com maior freqüência e de uma quantidade maior de fontes dispersas geograficamente. A tecnologia da informação torna possível a publicação, armazenamento e utilização dessa crescente abundância de informações por intermédio de sofisticados sistemas de análise, modelagem e apoio à decisão (BOYSON; CORSI; VERBRAECK, 2003).
+Maçada, Feldens e Santos
+Gest. Prod., São Carlos, v. 14, n. 1, p. 1-12, jan.-abr. 2007
+2.4.1 Variáveis estratégicas organizacionais impactadas pela ti nas cadeias de suprimento
+A revisão da literatura de SI revelou a existência de poucos estudos abordando o impacto da TI na SCM (BYRD; DAVIDSON, 2003). Porém foram encontradas pesquisas que utilizam variáveis validadas para áreas específicas de TI e SCM, permitindo a proposição de um modelo comum de variáveis estratégicas.
+As variáveis estratégicas, de interesse para esta pesquisa, foram identificadas após a revisão da literatura em três áreas: avaliação do impacto da TI nas organizações; medição de performance na SCM e adoção da TI na SCM. As variáveis foram escolhidas tendo como critérios a sua prévia validação pela literatura específica e a sua evidência por cada uma das áreas relevantes. Isto resultou em seis principais variáveis estratégicas relevantes: integração; custos; competitividade; velocidade; coordenação interorganizacional e flexibilidade. Os impactos de cada variável e as respectivas referências da literatura estão apresentados de forma resumida no Quadro 2.
+3 Método de pesquisa
+A pesquisa é de natureza exploratória e, como tal, tem como objetivo fornecer uma melhor compreensão do tema e do contexto, examinar a viabilidade do estudo e identificar sua relevância (HART, 1998). Esse tipo de abordagem é cabido já que na revisão de literatura não foram encontrados estudos que abordem especificamente o uso da TI na gestão das cadeias de suprimento e os seus impactos no conjunto de variáveis estratégicas escolhidas.
+O método utilizado é o estudo de casos múltiplos (YIN, 2001). Conforme Benbasat, Golsdstein e Mead (1987), o estudo de casos múltiplos é útil quando a pesquisa tem a intenção de aprofundar os conhecimentos sobre uma realidade para a construção de uma proposição teórica.
+A formulação de bases teóricas preliminares é fundamental para a realização de um estudo de caso. De acordo com Yin (2001), mesmo um estudo exploratório deve apresentar os pressupostos teóricos que irão nortear a investigação. Assim, as variáveis estratégicas identificadas na revisão da literatura formam a base teórica que orientou a coleta de dados e a interpretação e análise deles.
+Em um estudo de caso, o protocolo é relevante para obtenção da confiabilidade, pois fornece informações para que o estudo, quando repetido sob as mesmas condições, obtenha os mesmos resultados. Seguindo as recomendações propostas por Yin (2001), o protocolo desta pesquisa contempla os seguintes tópicos: visão geral da pesquisa; procedimentos para coleta de dados; questões do estudo de caso; e guia para o relatório.
+A validade do construto refere-se ao estabelecimento de “medidas operacionais corretas para os conceitos que estão sob estudo” (YIN, 2005, p. 55). Outro aspecto que colabora para a validade do constructo é a leitura do
+Quadro 1. Sistemas de informações logísticas (Tecnologias e Definições).
+Sistemas de gestão de armazéns (WMS)
+Sistema que mantém o controle e rastreamento do movimento de estoques por meio dos depósitos, desde o recebimento até a expedição. O WMS gerencia a utilização de recursos tais como espaço e pessoal.
+Identificação por radiofreqüência (RFID)
+Tecnologia que suporta comunicações sem fio para leitura e transmissão de dados. São utilizados nas cadeias de suprimento por etiquetas rastreáveis que possibilitam o controle do posicionamento de produtos.
+Rastreamento de frotas
+Equipamentos de rastreamento de frotas são comumente utilizados em caminhões e reboques de modo a acompanhar a localização e alimentar sistemas de informação. Podem utilizar tecnologias como satélites ou sistemas celulares para a localização dos móveis.
+Códigos de barras
+Sistema de etiquetas padronizadas utilizadas para identificação de produtos, esses códigos são utilizados na aquisição de dados por parte dos sistemas de informações logísticas.
+Intercâmbio eletrônico de dados (EDI)
+Sistema para intercâmbio de dados por tecnologia eletrônica que possibilita transmissões de dados mais ágeis entre parceiros da cadeia de suprimentos.
+Estoque administrado pelo fornecedor (VMI)
+Tem como objetivo fazer com que os fornecedores, por meio de um sistema de EDI, verifique as necessidades do cliente por um produto, no momento certo e na quantidade certa.
+Compras eletrônicas (e-procurement)
+Sistemas utilizados para a automatização dos processos de compras. Podem utilizar a internet como plataforma de modo a possibilitar maior integração com fornecedores.
+Sistemas integrados de gestão (SIG)
+Têm como objetivo apoiar a gestão organizacional integrando os processos e operações da empresa, mantendo uma base unificada de informações.
+Fonte: Autores
+Impacto da tecnologia da informação na gestão das cadeias de suprimentos – um estudo de casos múltiplos
+Gest. Prod., São Carlos, v. 14, n. 1, p. 1-12, jan.-abr. 2007
+Quadro 2. Variáveis selecionadas para o estudo.
+Variável
+organizacional
+Gestão da cadeia de
+suprimentos
+Impacto da tecnologia da informação nas variáveis estratégicas
+Tecnologia da informação e gestão da cadeia de suprimentos
+Integração
+A integração é definida como o nível de conexão entre as atividades da empresa e as atividades dos parceiros (WOOD, 1997; NARASIMHAN;
+JAYARAM, 1998;
+(LI et al., 2002).
+Com o uso da TI, o processo de decisão pode ser simplificado. Uma melhor coordenação entre as áreas funcionais pode ser realizada.
+A TI tem permitido que operações sejam integradas por sistemas específicos, utilizando a Internet e o EDI
+(MAHMOOD; SOON, 1991;
+PALVIA, 1997).
+Com o uso da TI, as empresas conseguem um intercâmbio maior de informações, além da realização de atividades integradas de planejamento e controle da produção
+(LEVARY, 2000; LIM; PALVIA, 2001; JIMÉNEZ-MARTINEZ;
+PÓLO-REDONDO, 2002;
+PATTERSON; GRIMM;
+CORSI, 2003).
+Custos
+A performance financeira de uma cadeia de suprimentos e medida pela análise dos custos totais associados ao processo de distribuição e logística. Geralmente divididos entre custos de operação e de armazenagem.
+(BEAMON, 1999;
+GUNASEKARAN; PATEL;
+TIRTIROGLU, 2001, 2001).
+Altos investimentos em automação e na tecnologia podem reduzir o custo por unidade de produção, obter economias de escala pela utilização de maquinário, espaço, energia e trabalho especializado mais eficiente e melhorar o equilíbrio existente entre padronização e flexibilização dos processos nas organizações (MAHMOOD; SOON, 1991).
+Os custos de operação são reduzidos pela diminuição de processos administrativos com conseqüente redução de papéis, pessoal e estoques
+(BERGERON; RAYMOND, 1992; IACOVOU; BENBASAT; DEXTER, 1995; PREMKUMAR;
+RAMAMURTHY, 1995;
+CONNIE; KUMAR, 1998; STANK; CRUM; ARRANGO, 1999;
+JIMÉNEZ-MARTINEZ;
+PÓLO-REDONDO, 2002;
+PATTERSON; GRIMM;
+CORSI, 2003, 2003).
+Competitividade
+A função da SCM é maximizar a competitividade e lucratividade das empresas, assim como dos parceiros da cadeia e dos usuários finais. (LAMBERT; COOPER; PAGH, 1998, 1998).
+A TI utilizada poderá viabilizar a atuação em outros mercados, assim como aumentar a atuação da empresa em novos mercados (MAHMOOD; SOON, 1991; PALVIA, 1997).
+A utilização da TI possibilita às empresas maior velocidade de resposta a mudanças, maior flexibilidade de operação e possibilidade de criação de novos produtos e serviços (KYJ; KYJ, 1989; VAN HECK; RIBBERS, 1991; BERGERON;
+RAYMOND, 1992;
+JIMÉNEZ-MARTINEZ;
+PÓLO-REDONDO, 2002).
+Velocidade
+A TI atua na SCM aumentando as velocidade e capacidades e reduzindo simultaneamente os custos (BOWERSOX; CLOSS, 1999).
+A tecnologia da informação tende a eliminar atividades redundantes e acelerar o processamento das informações (MAHMOOD; SOON, 1991).
+A utilização de tecnologias como o EDI resulta em uma maior velocidade no processamento das informações. (RICHARDSON, 1998; CRAIG, 1989; HANSEN; HILL, 1989; GOURLEY, 1998; MELE, 1999; LIM; PALVIA, 2001)
+Coordenação
+interorganizacional
+Com a implementação da SCM, as relações adversas entre fornecedores, consumidores e provedores logísticos são substituídas por alianças estratégicas e relações de cooperação de longo prazo possibilitando a visão de consumidores e fornecedores como parceiros ao invés de adversários (TAN; KANNAN; HANDFELD, 1998, 1998).
+Com o uso da TI, o processo de tomada de decisão pode ser simplificado. Uma melhor coordenação entre as áreas funcionais pode ser realizada (MAHMOOD; SOON, 1991).
+A utilização de padrões de comunicação possibilita um melhor intercâmbio de informações e um nível mais elevado de coordenação interorganizacional. Sistemas interorganizacionais possibilitam um maior intercâmbio de informações. (PREMKUMAR; RAMAMURTHY, 1995; IACOVOU;
+BENBASAT; DEXTER, 1995;
+STANK; CRUM;
+ARRANGO, 1999).
+Flexibilidade
+A flexibilidade reflete a habilidade da organização de adaptar-se eficientemente ou responder a mudanças, respondendo às necessidades do mercado sem custos ou tempos excessivos, ou perda de performance (AGGARWAL, 1997; LI, et al., 2002).
+A TI permite que as empresas compartilhem informações e recursos, visando eliminar esforços, ajustes na
+Logística e distribuição.
+(PALVIA, 1997)
+A TI aplicada às cadeias de suprimento possibilita respostas mais rápidas a mudanças nas demandas e um controle mais apurado dos níveis de estoque ao longo da cadeia (CHANDRASHEKAR;
+SCHARY, 1999; STANK; CRUM;
+ARRANGO, 1999, 1999; LEVARY,
+2000).
+Maçada, Feldens e Santos
+Gest. Prod., São Carlos, v. 14, n. 1, p. 1-12, jan.-abr. 2007
+relatório final pelo informante-chave ou respondente da entrevista. O relatório final foi enviado para cada entrevistado das empresas analisadas e nenhuma alteração não foi sugerida.
+3.1 Unidade de análise
+Foram selecionadas quatro empresas a serem pesquisadas, uma do setor varejista, que chamaremos de VAREJO, duas do setor metal-mecânico, que chamaremos de METAL 1 e METAL 2, e uma última do setor petroquímico que chamaremos de PETRO. As empresas foram selecionadas por utilizarem de maneira intensiva a TI na gestão da cadeia de suprimentos, mais especificamente no relacionamento com seus fornecedores de materiais produtivos e não-produtivos.
+3.2 Coleta de dados
+Reich e Benbasat (1996) apontam a necessidade de que a coleta de dados para um estudo de caso seja feita de diferentes fontes. Para essa pesquisa, os métodos de coleta de dados utilizados foram: entrevistas; observações diretas; e análise de documentos.
+3.2.1 Entrevistas
+Foram realizadas entrevistas com os executivos da área de compras que utilizam a TI como ferramenta estratégica na gestão da cadeia de suprimentos. Na empresa VAREJO, foi entrevistado um gerente de distribuição de produtos, responsável pelos processos de aquisição, estocagem e distribuição entre lojas de toda uma linha de produtos. Na empresa METAL 1, foi entrevistado um gerente do setor de compras da empresa. Na empresa METAL 2, o entrevistado era um coordenador da equipe de compradores. Na empresa PETRO, um gerente de suprimentos foi o entrevistado.
+As entrevistas foram realizadas seguindo um roteiro estruturado elaborado a partir da revisão da literatura realizada anteriormente, o principal objetivo do roteiro era de: 1) conhecer as empresas; 2) entender como a TI está sendo utilizada na realidade da empresa; e 3) validar as variáveis selecionadas da literatura como sendo as impactadas pela utilização da TI na gestão das cadeias de suprimentos. As entrevistas seguiram o roteiro abaixo:
+histórico e visão geral da empresa e dos processos de relacionamento com fornecedores;
+as TIs aplicadas no processo de gestão da cadeia de suprimentos na área de compras;
+as dificuldades encontradas na utilização destas tecnologias;
+o fator estratégico da TI na gestão das cadeias de suprimentos;
+o ganho de competitividade advindo da utilização de TI na gestão da cadeia de suprimentos;
+as principais vantagens da TI na SCM; e
+a)
+b)
+c)
+d)
+e)
+f)
+o impacto da TI nas seis variáveis selecionadas para o estudo: custos, velocidade, competitividade, integração, coordenação interorganizacional e flexibilidade.
+3.2.2 Observações diretas
+As observações diretas são importantes fontes de evidências adicionais, pois o pesquisador entra em contato com o ambiente do fenômeno que está sendo estudado (YIN, 2001). Para as observações diretas, foram realizadas visitas formais às empresas, onde se pôde observar o funcionamento dos setores de compras das empresas. O mesmo pesquisador realizou todas as visitas, facilitando a comparação das observações.
+3.2.3 Análise de documentos
+Outra fonte de evidências foram os documentos e informações disponíveis nos sítios eletrônicos institucionais das empresas, nos sites de relacionamento com clientes e documentos de apresentação institucional das organizações. Para Yin (2001), a documentação apresenta como pontos fortes a estabilidade, exatidão, discrição - as evidências não são resultantes do estudo de caso – e a ampla cobertura de eventos, ambientes e tempo.
+A coleta de dados ocorreu entre julho e dezembro de 2003. Todas as entrevistas foram gravadas, posteriormente transcritas e, em seguida, foi realizada a análise de seu conteúdo. As outras fontes de dados também foram utilizadas na geração de relatórios sobre cada um dos casos.
+As limitações do método empregado na presente pesquisa foram referidas por Gil (1995), que diz que o método do estudo de casos não permite generalizar os resultados obtidos. Já Yin (1999) descreve que o estudo de casos fica impregnado pela percepção do entrevistado, que pode macular as respostas um viés pessoal. Outra limitação é decorrente da insuficiência de literatura nacional sobre o assunto, o que levou a utilização de literatura estrangeira na elaboração do modelo teórico da pesquisa. Sabe-se que a literatura estrangeira, muitas vezes, não leva em conta fatores ambientais e culturais de outros países que não o de origem.
+Apesar das limitações apresentadas, o método de estudo de casos se mostrou adequado, possibilitando um aprofundamento nos conhecimentos sobre os temas pesquisados, condizendo com a natureza exploratória da pesquisa.
+4 Resultados
+Esta seção apresenta os resultados dos quatro estudos de caso realizados no desenvolvimento da pesquisa, também é apresentado um quadro de resumo dos impactos
+g)
+Impacto da tecnologia da informação na gestão das cadeias de suprimentos – um estudo de casos múltiplos
+Gest. Prod., São Carlos, v. 14, n. 1, p. 1-12, jan.-abr. 2007
+da TI na gestão da cadeia de suprimentos das empresas pesquisadas.
+4.1 Caso METAL 1
+A empresa METAL 1 é de capital nacional atuando também no exterior no setor metalúrgico. A empresa emprega mais de 6000 funcionários no País e tem um faturamento de mais de 15 bilhões de Reais no ano de 2003.
+A coleta de dados para esse caso foi feita pela análise de documentos corporativos, observação durante visita à empresa e entrevista com gerente de suprimentos da empresa no Brasil.
+As TIs aplicadas na gestão da cadeia de suprimentos são o Sistema Integrado de Gestão (SIG - tradução e adaptação do inglês, Enterprise Resource Planning – ERP), que foi implantado em 99 e recebeu uma atualização em 2002 e um sistema de compras eletrônicas (do inglês,
+e-procurement) que funciona integrado com o SIG. Outras ferramentas específicas são utilizadas em atividades como importações e compras técnicas.
+Para o executivo entrevistado, a TI aplicada à gestão da cadeia de suprimentos tem uma relação fundamental na estratégia do negócio porque é uma ferramenta que possibilita maior eficiência e flexibilidade dos processos. Ela atua na cadeia aproximando tanto fornecedores como clientes além de agilizar as relações de necessidades e expectativas do mercado.
+O executivo afirmou que a empresa é constantemente consultada por outras organizações no sentido de conhecer as práticas da empresa no setor de compras trabalhar. Sabe-se que isso ocorre devido ao fato de que as ferramentas de compra eletrônica utilizadas são diferenciadas no mercado no qual a empresa atua. A percepção do gestor indica que as características dos sistemas empregados resultam em vantagem competitiva, porém não possui métricas que possam informar de forma mais precisa essa vantagem, mesmo sabendo que esse sentimento pode ser percebido no mercado em que atua.
+A infra-estrutura de TI é compartilhada com os parceiros da cadeia, gerando uma interação muito forte com os fornecedores. Pelos sistemas de informação, os fornecedores podem acessar, com senha própria, a sua carteira de compras, acessar o agendamento de pagamentos, seu nível de pontualidade, os atrasos, etc. Pedidos de compras fluem automaticamente das unidades produtivas e dos funcionários para os fornecedores.
+Sobre os impactos do uso da TI na gestão das cadeias de suprimentos o executivo citou os seguintes impactos nas variáveis selecionadas para o estudo:
+impacto forte sobre os custos, com aumento no poder de negociação com fornecedores, redução de custos administrativos e de comunicação;
+a)
+aumento da velocidade dos processos e da rotação de estoque;
+aumento da integração, com um intercâmbio muito grande de informações entre os parceiros da cadeia;
+as relações com fornecedores e clientes ganharam muito com as realizações de alianças de longo prazo, melhorando a credibilidade e confiança nos processos de compras; e
+aumento da flexibilidade derivado da certeza da disponibilidade de matéria-prima.
+4.2 Caso METAL 2
+A empresa METAL 2 é uma organização multinacional de capital privado, cujo maior país acionário é o Estados Unidos. A firma produz implementos agrícolas, sendo que, a filial brasileira possui mais de 1000 funcionários e faturamento de aproximadamente 300 milhões de reais ao ano.
+A coleta de dados para esse caso foi feita por análise de documentos corporativos, observação durante visita à empresa e entrevista com o coordenador da equipe de compras da empresa, que acompanhou os processos de implementação de ferramentas de TI aplicadas aos processos de compras.
+Os principais sistemas de informação utilizados na gestão dos processos de compras são o Sistema integrado de Gestão (SIG) e um sistema de compras eletrônicas (do inglês, e-procurement).
+O SIG auxilia no gerenciamento de todo o fluxo de informações referentes aos produtos que circulam na empresa, desde a compra e recebimento dos materiais, até a utilização dos materiais na produção e a expedição dos produtos acabados, tudo isso acompanhado das movimentações financeiras atreladas a cada um dos processos.
+O sistema de compras eletrônicas é utilizado nas aquisições dos materiais produtivos e não produtivos. O sistema possui controle e cadastramento de todos os fornecedores, sistema de compras internas através de Intranet, apoio ao desenvolvimento de produtos, sistemas para realização de cotações e leilão reverso.
+Segundo o executivo entrevistado, a TI exerce um papel estratégico na gestão da cadeia de suprimentos porque possibilita um controle maior dos processos e total rastreabilidade das informações. A automação de processos resulta em velocidade e agilidade possibilitando que os compradores tenham mais tempo para agir estrategicamente no relacionamento com os fornecedores. Além disso, o uso dos Sistemas de Informação leva à centralização de todos os dados em apenas uma frente (datawarehouse), disponibilizando informações a qualquer usuário do sistema, melhorando o controle sobre os processos de gestão da cadeia de suprimentos.
+O executivo ainda afirma que a TI aplicada na gestão da cadeia de suprimentos resulta em vantagem compeb)
+c)
+d)
+e)
+Maçada, Feldens e Santos
+Gest. Prod., São Carlos, v. 14, n. 1, p. 1-12, jan.-abr. 2007
+titiva devido ao ganho de velocidade nos processos e o maior compartilhamento de informação com os parceiros da cadeia.
+O rápido compartilhamento de informações com seus fornecedores é possibilitado pelo emprego do sistema de compras eletrônicas, o que gera vantagem competitiva na aquisição de matéria-prima. Embora os SIGs e os Sistemas de Gestão de Armazéns (do inglês, Warehouse
+Management Systems – WMS) sejam importantes na gestão de suprimentos, na opinião do executivo, o fundamental é que no mundo de hoje as soluções de TI tornaram-se grandes aliados da gestão de processos e o seu uso é, sem dúvida, um diferencial competitivo.
+É importante diferenciar a simples adoção do uso efetivo da TI. Com sua grande popularização no cenário empresarial, a obtenção de diferencial competitivo não reside na simples adoção de soluções de TI, mas sim na maneira como a empresa utiliza essa solução. Muitas organizações adquirem as soluções de TI disponíveis no mercado, entretanto, nem todas as utilizam da maneira mais eficiente.
+O executivo destaca que a vantagem competitiva ocorre na empresa porque junto com a sua implantação houve um redesenho dos processos do setor de compras. Isto evidencia a necessidade de análise e mudança em todos os aspectos sócio-técnicos que envolvem as soluções tecnológicas.
+A estrutura de TI da empresa é compartilhada com os parceiros da cadeia de forma intensa. Por meio do sistema de compras eletrônicas, fornecedores acompanham diversos processos do setor de compras e também podem atuar conjuntamente com a empresa na formação de consórcios para compra de materiais.
+Sobre os impactos do uso da TI na gestão das cadeias de suprimentos, o executivo citou os seguintes efeitos nas variáveis selecionadas para o estudo:
+redução de custos de comunicação e pessoal maiores que o aumento nos custos de infra-estrutura de TI;
+aumento de velocidade com redução de tempos de resposta (do inglês, lead-times);
+integração aumentada dos sistemas, com total integração dos sistemas legados com o SIG;
+aumento da Coordenação Interorganizacional, com o compartilhamento de informações pertinentes, possibilitando a ação em conjunto de maneira estratégica; e
+aumento da flexibilidade do processo de gestão, com possibilidade de customização e parametrização dos sistemas de gestão e adaptação dos processos de acordo com as necessidades.
+4.3 Caso PETRO
+A empresa PETRO é uma empresa nacional de capital privado, emprega mais de 900 funcionários e fatura aproa)
+b)
+c)
+d)
+e)
+ximadamente 5 bilhões de reais ao ano. É uma indústria petroquímica de 1ª geração, fornecendo matéria-prima para outras empresas.
+A coleta de dados para esse caso foi feita por intermédio de análise de documentos corporativos, observação durante visita à empresa e entrevista com o coordenador da equipe de materiais da empresa, na qual trabalha há 23 anos.
+São três os sistemas de informação utilizados na gestão da cadeia de suprimentos: o Sistema Integrado de Gestão, uma ferramenta de Compras Eletrônicas e um sistema que possibilita a integração do SIG da empresa com sistemas externos.
+O SIG abrange todas as áreas da empresa, na gestão da cadeia de suprimentos atuam os módulos de compras, estoque, contrato, que auxiliam na previsão e controle de estoque, lançamento de ordens e pedidos de compra.
+O Sistema de Compras Eletrônicas é formado por três diferentes módulos. O primeiro módulo é o catalogo interno de produtos, utilizado para usuários realizarem pedidos que são automaticamente encaminhados aos fornecedores. O segundo módulo é utilizado pelo comprador para lançar pedidos de cotação a diversos fornecedores, no qual estes inserem suas ofertas em um ambiente Web que transfere os dados para o SIG. Com esses dados o Sistema de compras eletrônico realiza uma comparação entre os diferentes fornecedores. O último módulo integra a empresa e fornecedores pelos SIGs das empresas.
+A empresa está apta a compartilhar dados de seu SIG com outros sistemas da empresa e de empresas parceiras por meio de uma ferramenta específica para essa interconexão. Além disso a empresa ainda utiliza ferramentas de Inteligência de Negócios (do inglês, Business Inteligence - BI) que permitem extração de informações das bases de dados utilizadas pelos demais sistemas.
+O executivo entrevistado acredita que a TI aplicada à cadeia de suprimentos cumpre um papel estratégico na empresa já que possibilita maior integração com os fornecedores. Também defende que o ganho de vantagem competitiva se dá apenas de forma indireta, decorrente do ganho de agilidade do setor de suprimentos o que proporciona uma melhor e mais estável operação das fábricas.
+Existe um alto grau de compartilhamento da infra-estrutura de TI com os parceiros da cadeia de suprimentos. A empresa de forma pioneira utiliza um sistema para integrar os sistemas de seus fornecedores ao seu SIG. Isso ocorre com aproximadamente 15 fornecedores. A integração com os parceiros da cadeia de suprimentos pela infra-estrutura de TI proporciona à empresa grande agilidade.
+Quanto aos impactos da TI nas variáveis escolhidas para a pesquisa da gestão das cadeias de suprimento, foi analisado o seguinte:
+Impacto da tecnologia da informação na gestão das cadeias de suprimentos – um estudo de casos múltiplos
+Gest. Prod., São Carlos, v. 14, n. 1, p. 1-12, jan.-abr. 2007
+existe uma redução de custos decorrente do estabelecimento de contratos de longo prazo e parcerias com fornecedores;
+existe aumento da velocidade, pela redução dos processos, agilização dos processos de compras, e redução dos prazos de entrega;
+os sistemas estão mais integrados entre si com a utilização do sistema específico para esse fim;
+aumentou o compartilhamento de dados e a geração de relatórios entre a empresa e os parceiros da cadeia, possibilitando a colaboração e planejamento conjunto da produção dentro da cadeia de suprimentos; e
+não existe ganho de flexibilidade, o executivo diz que o sistema somente será flexível se o sistema for customizado para o cliente e isso implica em um custo adicional não previsto.
+4.4 Caso VAREJO
+A empresa VAREJO é uma empresa multinacional de capital privado. A empresa atua no comércio varejista, com mais de 150 lojas em todo o País, empregando mais de 21000 funcionários, e faturamento de aproximadamente 10 bilhões de reais ao ano.
+A coleta de dados para esse caso foi feita por análise de documentos corporativos, observação durante visita à empresa e entrevista com um gerente de distribuição de produtos.
+Nessa empresa é utilizado o SIG na gestão das cadeias de suprimento, e foram apontados ainda como tecnologias importantes os sistemas de gestão de estoques e os sistemas de códigos de barras.
+O executivo foi enfático ao afirmar que a TI exerce papel estratégico de grande importância na gestão das cadeias de suprimento, apoiando as estratégias definidas pela empresa. Também foram citadas, como aspectos
+a)
+b)
+c)
+d)
+e)
+estratégicos, a agilidade obtida nos processos de compras e distribuição e a redução dos tempos para disponibilização dos produtos nas prateleiras. O executivo acredita que a TI é um fator importante na conquista de vantagem competitiva frente aos concorrentes.
+Nessa empresa, notou-se um nível menor de compartilhamento de infra-estrutura de TI com os parceiros da cadeia. Existem apenas algumas experiências menores, com determinados fornecedores importantes, que servem de piloto para um maior compartilhamento no futuro.
+Sobre os impactos do uso da TI na gestão das cadeias de suprimentos, o executivo citou os seguintes efeitos nas variáveis selecionadas para o estudo:
+redução de custos de comunicação, recursos humanos e manutenção do estoque;
+aumento de velocidade com redução de lead-times;
+integração aumentada com melhor comunicação entre os parceiros da cadeia;
+aumento da Coordenação Interorganizacional, com aumento do comprometimento dos fornecedores; e
+não foi notado nenhum aumento da flexibilidade do processo de gestão.
+5 Resumo dos resultados dos casos
+Esta seção traz um sumário dos resultados obtidos nos estudos de caso, apresentado no Quadro 3, com ênfase nos impactos da TI nas variáveis selecionadas para o estudo. Percebe-se a confirmação do impacto nas seis variáveis que foram identificadas na fase de revisão da literatura, ainda que as intensidades variem entre as empresas. Cabe ressaltar que o impacto da TI sobre a variável flexibilidade foi percebido em somente dois casos.
+No Quadro 4, podemos observar os principais tipos de tecnologias utilizadas pelas organizações na gestão da cadeia de suprimentos.
+a)
+b)
+c)
+d)
+e)
+Quadro 4. Resumo dos resultados dos estudos de caso – tecnologias utilizadas.
+Metal 1
+Metal 2
+Petro
+Varejo
+SIG
+usa
+usa
+usa
+usa
+Compras eletrônicas
+usa
+usa
+usa
+pouco uso, fase inicial
+BI
+não foi citado
+não foi citado
+usa
+não foi citado
+Sistema de interligação
+interorganizacional
+não foi citado
+não foi citado
+usa
+não foi citado
+Quadro 3. Resumo dos resultados dos estudos de caso.
+Metal 1
+Metal 2
+Petro
+Varejo
+Custos
+Redução
+Redução
+Redução
+Redução
+Velocidade
+Aumento
+Aumento
+Aumento
+Aumento
+Integração
+Aumento
+Aumento
+Aumento
+Aumento
+Coordenação Interorganizacional
+Aumento
+Aumento
+Aumento
+Aumento Pequeno
+Flexibilidade
+Ganhou
+Ganhou
+Não Mudou
+Não mudou
+Competitividade
+Ganhou
+Ganhou
+Ganhou
+Ganhou
+10 Maçada, Feldens e Santos
+Gest. Prod., São Carlos, v. 14, n. 1, p. 1-12, jan.-abr. 2007
+6 Considerações finais
+O interesse pelos impactos da TI nas organizações tem sido tema de grandes debates entre acadêmicos e administradores. A literatura de SI tem apresentado muitos artigos preocupados com a adoção da TI na gestão da cadeia de suprimentos, mas poucos estudiosos direcionam suas pesquisas em identificar os impactos dos investimentos da TI no processo da gestão da cadeia de suprimentos. Ao mesmo tempo percebe-se que as empresas e seus executivos estão interessados em estudos que apresentem metodologias para avaliação impactos da TI na organização.
+A principal contribuição deste trabalho é estabelecer uma base para estudos sobre o impacto da TI nas cadeias de suprimento ao definir um conjunto de variáveis estratégicas que são impactadas pelo uso da TI na gestão da cadeia de suprimentos.
+As TIs mais utilizadas pelas organizações do estudo são os Sistemas Integrados de Gestão e os Sistemas de Compras Eletrônicas, que em algumas empresas são associados aos SIGs e sistemas de BI. Todos os executivos entrevistados foram unânimes em apontar a TI no processo de gestão da cadeia de suprimentos como ferramenta estratégica. Identificou-se, nos casos apresentados, a importância da utilização da TI e, especificamente, dos sistemas de compras eletrônicas na gestão da cadeia de suprimentos, traduzindo-a em vantagem competitiva em relação aos concorrentes. O compartilhamento efetivo e ágil de informações com os fornecedores foi apontado como um dos aspectos mais importantes no processo de gestão da cadeia de suprimentos, produzindo efeitos na redução de custos de transação e de negociação com os fornecedores.
+O estudo de casos múltiplos revela que as empresas estão utilizando a TI para obter ganhos nas variáveis estratégicas organizacionais. Observa-se que, nos dois casos desenvolvidos em empresas do setor Metal Mecânico, os ganhos no processo de gestão da cadeia de suprimentos é positivo em todo o conjunto de variáveis. Entretanto, as empresas do setor Petroquímico e do Varejo não estão obtendo os mesmos resultados apenas em relação à variável flexibilidade. A empresa do VAREJO apresenta um compartilhamento menor da infra-estrutura de TI com os parceiros de cadeia, apesar de deixar claro que isso é um passo em direção a um compartilhamento maior.
+As variáveis selecionadas para o estudo se mostraram válidas, já que foi verificado o impacto da TI nas seis variáveis apresentadas, apesar de algumas pequenas variações nos níveis de impacto entre empresas que atuam em mercados diferentes. Verifica-se que a implantação da TI nos processos de gestão das cadeias de suprimentos encontra-se em um estágio mais adiantado nas empresas do ramo metal mecânico.
+Uma vez que foram confirmadas evidências do impacto do uso da TI nas variáveis estratégicas, abrem-se espaços para estudos futuros sobre as diferentes intensidades desta relação, considerando-se outras variáveis e ambientes.
+The impact of information technology on supply chain management:
+a multiple case study
+Abstract
+Supply Chain Management (SCM) is recognized as an important area for innovation and investment in Information Technology (IT). IT investments continue being a central strategic issue for companies seeking to gain competitive advantage in a dynamic environment, even though the impact of such investments may not be fully understood. The objective of this research was to identify and analyze the impacts of IT in the process of SCM and to validate the set of selected variables found in the Information Systems (IS) literature. Research based on a multiple case study was conducted in Metal Mechanical, Petrochemical and Retail organizations. The interviews with executives highlighted the strategic importance that IT plays in the process of Supply Chain Management. The findings reveal the positive impacts of IT in the set of selected strategic variables.Keywords: Information technology. Supply chain management. IT Impact.
+Impacto da tecnologia da informação na gestão das cadeias de suprimentos – um estudo de casos múltiplos 11
+Gest. Prod., São Carlos, v. 14, n. 1, p. 1-12, jan.-abr. 2007
+Referências bibliográficas
+GUNASEKARAN, A.; PATEL, C.; TIRTIROGLU, E. Performance measures and metrics in a supply chain environment. International Journal of Operations and Production Management, v. 21, n. 1, p. 71-87, 2001.
+HANSEN, J. V.; HILL, N. C. Control and audit of electronic data interchange. MIS Quarterly, v. 13, n. 4, p. 403-413, 1989.
+HART, C. Doing a Literature Review: Releasing the Social Science Research Imagination. London: SAGE Publications, 1998.
+HOULIHAN, J. B. International supply chain management. International Journal of Physical Distribution & Materials Management, v. 15, n. 1, p. 22-38, 1985.
+IACOVOU, C. L.; BENBASAT, I.; DEXTER, A. S. Electronic data interchange and small organizations: adoption and impact of technology. MIS Quarterly, v. 19, n. 4, p. 465-485,1995.
+JIMENÉZ-MARTINEZ, J.; PÓLO-REDONDO, Y. Key Variables in the EDI adoption by retail firms. Technovation, v. 21, n. 6, p. 385-394., 2002.
+KYJ, L. S.; KYJ, M. J. Customer service: product differentiation in international markets. International journal of physical and material management, v. 19, n. 1, p. 30-38, 1989.
+LAMBERT, D. M.; COOPER, M. C.; PAGH, J. D. supply chain management: implementation issues and research opportunities. The International Journal of Logistics management, v. 9,
+n. 2, p. 1-19, 1998.
+LAMBERT, D. M.; COOPER, M. C. Issues in supply chain management. Industrial Marketing Management, v. 29, n. 1, p. 65-83, 2000.
+LEE, H. L.; BILLINGTON, C. The evolution of supply chain management models and practice at hewlett-packard. Interfaces, v. 23, n. 5, p. 42-63, 1995.
+LEVARY, R. R. Better supply chains through information technology. Industrial Management, v. 42, n. 3, p. 24-30, 2000.
+LI, S. et al. Developing measures of supply chain management performance. In: Annual Meeting Decision Sciences Institute, San Diego, California, nov. 23-26, 2002, Proceedings..., California, 2002.
+LIM, S.; PALVIA, P. EDI in strategic supply chain: impact on customer service. International Journal of Information Management, v. 21, n. 3, p. 193-211, 2001.
+MAHMOOD, M. A.; SOON, S. K. A comprehensive model for measuring the potencial impact of information technology on organizational strategic variables. Decision Sciences, v. 22,
+n. 4, p. 869-897, 1991.
+MELE, J. Simpler solutions. Fleet owner, v. 94, n. 1, p. 50-52, 1999.
+MONTEIRO, A.; BEZERRA, A. L. B. Vantagem competitiva em logística empresarial baseada em tecnologia da informação. In: VI SEMINÁRIO EM ADMINISTRAÇÃO FEA/USP, 6, São Paulo, 2003. Anais..., São Paulo, 2003.
+NARASHIMHAN, R.; JAYARAM, J. Causal linkage in supply chain management: an exploratory study of north american manufacturing firms, Decision Sciences, v. 29, n. 3,
+p. 579-605, 1998.
+PALVIA, P. C. Developing a model of global and strategic impact of information technology. Information & Management,
+v. 32, n. 5, p. 229-244, 1997.
+AGGARWAL, S. Flexibility management: the ultimate strategy, Industrial Management, v. 39, n.1, p.26-31, 1997.
+ANDERSEN, T. J.; SEGARS, A. H. The impact of it on decision structure and firm peformance: evidence from the textile and apparel industry. Information & Management, v. 39, n. 2,
+p. 85, 2001.
+B2BMagazine. Supply chain ainda está só no começo. nov. 2002. Disponível em: <http://www.b2bmagazine.com.br/internas_mat.asp?mat_id=4965>. Acesso em: 23 abr. 2003.
+BEAMON, B. M. Measuring supply chain performance. International Journal of Operations and Production Management, v. 19, n. 3, p. 275-292,1999.
+BENBASAT, I.; GOLDSTEIN, D. K.; MEAD, M. The case research strategy in studies of information systems. MIS Quarterly,
+v. 11, n. 3, p. 369-386, set. 1987.
+BERGERON, F.; RAYMOND, L. The advantages of electronic data interchange. DataBase, v. 23 n. 4, p. 19-31, 1992.
+BERGERON, F.; RAYMOND, L.; RIVARD, S. Fit in strategic information technology management research: an empirical comparison of perspectives. Omega, v. 29, n. 2,
+p. 12-142.2001.
+BOWERSOX, D. J.; CLOSS, D. J. Logística Empresarial: o processo de integração da cadeia de suprimento. São Paulo: Atlas, 1999.
+BOWERSOX, D. J.; DAUGHERTY, P. J. Logistics paradigms: the impact of information technology. Journal of Business Logistics, v. 16, n. 1, p. 65-80, 1995.
+BOYSON, S.; CORSI, T.; VERBRAECK, A. The e-supply chain portal: a core business model. Transportation Research Part E: Logistics and Transportation Review, v. 39, n. 2,
+p. 175-192, 2003.
+BYRD, T. A.; DAVIDSON, N. W. Examining possible antecedents of IT impact on the supply chain and its effect on firm performance. Information & Management, v. 41, n. 2,
+p. 243-255, 2003.
+CAVINATO, J. L. Identifying interfirm total cost advantages for supply chain competitiveness. International Journal of Purchasing and Materials Management, v. 27, n. 4,
+p. 10-15, 1991.
+CHANDRASHEKAR, A.; SCHARY, P. B. Toward the virtual supply chain: the convergence of IT and organization. International Journal of Logistics Management, v. 10, n. 2, p. 27-39, 1999.
+CHESBROUGH, H. W.; TEECE, D. J. When is virtual virtuous? Harvard Business Review, v. 74, n. 1, p. 65-73, 1996.
+CONNIE, W.; KUMAR, R. L. Electronic data interchange: a multi-industry investigation using grounded theory. Information & Management, v. 34, n. 2, p. 75-89, 1998.
+COOPER, M. C. International supply chain management: implications for the bottom line. Proceedings of the Society of Logistics Engineers, Hyattsville, 1993.
+CRAIG, A. L. EDI increases productivity and competitiveness. Journal of Electronic Data Interchange, p. 133-137, 1989.
+GHIASSI, M.; SPERA, C. Defining the Internet-based supply chain system for mass customized markets. Computers & Industrial Engineering, v. 45, n. 1, p. 17-41, 2003.
+GIL, A. C. Métodos e Técnicas de Pesquisa Social. São Paulo: Atlas, 1995.
+GOURLEY, C. What’s driving the automotive supply chain?. Warehousing management, n. 10, p. 44-48, 1998.
+12 Maçada, Feldens e Santos
+Gest. Prod., São Carlos, v. 14, n. 1, p. 1-12, jan.-abr. 2007
+PATTERSON, K. A.; GRIMM, C. M.; CORSI, T. M. Adopting new technologies for supply chain management. Transportation Research Part E, v. 39, n. 2, p. 95-121, 2003.
+POIRIER, C. C.; REITER, S. E. Supply chain optimization. San Francisco: Berret-Koehler, 1996.
+PORTER, M. E.; MILLAR, V. E. How information gives you competitive advantage. Harvard Business Review, v. 63, n. 4, p. 149-160, 1985.
+PREMKUMAR, G.; RAMAMURTHY, K. The role of interorganizational and organizational factors on the decision mode for adoption of interorganizational systems. Decision Sciences, v. 26, n. 3, p. 303-336, 1995.
+REICH, B. H.; BENBASAT, I. Measuring the linkage between business and information technology objectives. MIS Quarterly, v. 20, n. 1, p. 55-81, 1996.
+RICHARDSON, A. “Trading without paper”. Systems international, p. 19-23, 1998.
+SPANOS, Y. E.; PRASTACOS, G. P.; POULYMENAKOU, A. The relationship between information and communication Technologies adoptions and management. Information & Management, v. 39, n. 8, p. 659-675, 2002.
+STANK, T.; CRUM, M.; ARRANGO, M. Benefits of interfirm coordination in food industry supply chains. Journal of business logistics, v. 29, n. 2, p. 21-41, 1999.
+STEVENS, G. C. Iintegration of the supply chain. International Journal of Physical Distribution and Logistics Management, v. 19, n. 8, p. 3-8, 1989.
+SWAMINATHAN, J. M.; SMITH, S. F.; SADEH, N. M. A Multi Agent Framework for Modeling Supply Chain Dynamics. Technical Report, The Robotics Institute, Carnegie Mellon University, 1996.
+TAN, K. C.; KANNAN, V. R.; HANDFELD, R. B. Supply Chain Management: Supplier Performance and Firm Performance. International Journal of Purchasing and Materials Management, v. 34, n. 3, p. 2-9, 1998.
+TORKZADEH, G.; DOLL, W. J. The development of a toll for measuring the perceived impact of information technology on work. OMEGA, v. 27, n. 3. p. 327-339, 1999.
+VAN HECK, E.; RIBBERS, P. M. The adoption and impact of EDI in Dutch SME´s. In: HAWAII INTERNATIONAL CONFERENCE ON SYSTEMS SCIENCES, 32, Hawaii, 1991. Proceedings..., Hawaii, 1991.
+WOOD, A. Extending the supply chain: strengthening links with it, Chemical Week, v. 159, n. 25, p. 25-26, 1997.
+YIN, Robert K. Estudo de caso: planejamento e métodos. 2. ed. Porto Alegre: Bookman, 2001.
+______. Estudo de caso - planejamento e métodos. 3. ed. Porto Alegre: Bookman, 2005.
+Sobre os autores
+Antonio Carlos Gastaud Maçada
+Programa de Pós-Graduação em Administração – PPGA, Escola de Administração,
+Departamento de Ciências Administrativas, Universidade Federal do Rio Grande do Sul – UFRGS,
+Rua Washington Luis, 855 , Centro, CEP 9001046 0, Porto Alegre, RS, Brasil
+e-mail: acgmacada@ea.ufrgs.br
+Luis Felipe Feldens
+Faculdade de Engenharia, Pontifícia Universidade Católica do Rio Grande do Sul – PUC-RS,
+Campus Universitário Central, Av. Ipiranga, 668 1, CEP 90619-900, Partenon, Porto Alegre, RS, Brasil,
+e-mail: ffeldens@pucrs.br
+André Moraes dos Santos
+Programa de Pós-Graduação em Administração – PPGA/EA/UFRGS,
+Programa de Pós-Graduaçao em Administração e Turismo,
+Universidade do Vale do Itajaí – UNIVALI,
+Rua Uruguai, 458 , Centro, CEP 883 02-202, CP 36 0, Itajai, SC, Brasil,
+e-mail: amsantos@univali.br
+Recebido em 26 /10/2004
+Aceito em 10/8/2006

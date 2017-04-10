@@ -1,0 +1,171 @@
+TECNOLOGIA DA INFORMAÇÃO COMO VANTAGEM COMPETITIVA
+Por
+Oscar Fernando Osorio Balarine
+RAE-eletrônica, Volume 1, Número 1, jan-jun/2002.
+http://www.rae.com.br/eletronica/index.cfm?FuseAction=Artigo&ID=1059&Secao=INFORMAÇÃO&Volume=1&Numero=1&Ano=2002
+©Copyright, 2002, RAE-eletrônica. Todos os direitos, inclusive de tradução, são reservados. É permitido citar parte de artigos sem autorização prévia desde que seja identificada a fonte. A reprodução total de artigos é proibida. Os artigos só devem ser usados para uso pessoal e não-comercial. Em caso de dúvidas, consulte a redação: redacao@rae.com.br.
+A RAE-eletrônica é a revista on-line da FGV-EAESP, totalmente aberta e criada com o objetivo de agilizar a veiculação de trabalhos inéditos. Lançada em janeiro de 2002, com perfil acadêmico, é dedicada a professores, pesquisadores e estudantes. Para mais informações consulte o site www.rae.com.br/eletronica.
+RAE-eletrônica
+ISSN 1676-5648
+©2002 Editora: Fundação Getulio Vargas – Escola de Administração de Empresas de São Paulo.
+GESTÃO DA INFORMAÇÃO – TECNOLOGIA DA INFORMAÇÃO COMO VANTAGEM COMPETITIVA
+Oscar Fernando Osorio Balarine
+TECNOLOGIA DA INFORMAÇÃO COMO VANTAGEM COMPETITIVA
+Oscar Fernando Osorio Balarine
+Professor de Administração Financeira, Planejamento Estratégico e Teoria da Decisão. Mestre em Finanças pela Universidade Federal do Rio Grande do Sul. Doutor em Engenharia de Produção pela Universidade Federal de Santa Catarina e University of Salford – UK
+E-mail: balarine@pucrs.br
+Endereço: Av. Ipiranga, 6681 – Prédio 50 – Sala 1101. Porto Alegre - RS, 90619-900
+Interesses de pesquisa: Administração Financeira, Administração de Projetos, Análise de Investimentos, Análises de Viabilidade, Economia da Habitação, Engenharia Econômica, Gestão de Recursos Hídricos, Incorporações Imobiliárias, Planejamento Estratégico, Teoria da Decisão.
+RESUMO
+Sob enfoque estratégico, este artigo procura oferecer uma visão do papel potencial da Tecnologia da Informação como um recurso competitivo. O artigo está organizado em seis seções, mostrando o impacto dos Sistemas de Informação, da Internet e do Comércio Eletrônico nos negócios, visando oferecer recomendações estratégicas.
+ABSTRACT
+In a strategic approach, this paper aims to offer a vision of the business potential role of Information Technology as a competitive resource. The paper is organized into six sections, to understand the impact of Information Systems, Internet and e-business in enterprises, in order to offer business strategic recommendations.
+PALAVRAS-CHAVE
+Estratégias Empresariais; Tecnologia da Informação; Comércio Eletrônico.
+KEY WORDS
+Business Strategy; Information Systems; E-Commerce.
+©RAE- eletrônica - vol. 1 · nº 1 · jan-jun/2002 www.rae.com.br/eletronica 2
+GESTÃO DA INFORMAÇÃO – TECNOLOGIA DA INFORMAÇÃO COMO VANTAGEM COMPETITIVA
+Oscar Fernando Osorio Balarine
+1. INTRODUÇÃO
+Em fevereiro de 2000 o metrô de Londres veiculou campanha publicitária para a rede britânica de supermercados Tesco, que merece olhar reflexivo. As principais estações do metrô londrino expunham outdoors com frase única, “From mouse to house”, seguida do endereço eletrônico da cadeia supermercadista.
+A frase, concisa e objetiva, remete a fenômeno recente com crescimento explosivo, o comércio eletrônico.
+Identificado pela sigla e-commerce, esse novo tipo de relacionamento comercial conduz a questões abrangentes, em termos organizacionais. Que efeitos poderão ser identificados no crescimento da utilização da Internet para os negócios? Quais seus impactos sobre o comércio convencional? E, especialmente, quais os reflexos dessas mudanças no âmbito estratégico empresarial?
+Tais questionamentos são o foco deste artigo. Para tanto, o texto está dividido em seis seções, iniciando por esta introdução, seguida de breve descrição do papel atual da Tecnologia da Informação (TI) e a popularização de suas aplicações. Posteriormente aborda-se o tratamento estratégico que a TI deve receber das organizações, encerrando-se com a indicação de limites percebidos à evolução do uso indiscriminado da Internet no mundo dos negócios.
+2. O PAPEL DA TECNOLOGIA DA INFORMAÇÃO NO AMBIENTE DOS NEGÓCIOS
+O título desta seção poderia servir a duas interpretações. Uma sutil, associada ao princípio de que, apesar da eventual eliminação dos custos de impressão, nunca se gastou tanta tinta e papel como a partir da revolução tecnológica provocada pela massificação dos computadores. Como exemplo, Drucker (2000) salienta que a recente transição da imprensa para meios digitais não vem eliminando o tradicional livro impresso. Isso porque, mesmo estando solidificada a crescente transição dos veículos impressos para canais eletrônicos, percebe-se estranho fenômeno complementar, pois ao invés da TI substituir a imprensa, é a imprensa que a vem adotando como canal de distribuição para informações impressas.
+Mas o objetivo desta seção é explorar uma segunda interpretação, mais direta, que é a de verificar a natureza e os efeitos da TI no ambiente das organizações.
+Para tanto, convém inicialmente adotar algumas definições para os termos que serão utilizados através do texto, tornando-os mais consistentes com as idéias expostas:
+Tecnologia da Informação (TI): corresponde a objetos (hardware) e veículos (software) destinados a criarem Sistemas de Informação (SI);
+Sistemas de Informação (SI): são os resultados da implementação da TI, através da utilização de computadores e telecomunicações;
+Internet: é a rede mundial de comunicações (WWW – World Wide Web, também chamada simplesmente de Web), facultando ambiente para as organizações se direcionarem ao público em geral;
+©RAE- eletrônica - vol. 1 · nº 1 · jan-jun/2002 www.rae.com.br/eletronica 3
+GESTÃO DA INFORMAÇÃO – TECNOLOGIA DA INFORMAÇÃO COMO VANTAGEM COMPETITIVA
+Oscar Fernando Osorio Balarine
+Extranet: lida com aquelas comunicações específicas, no ambiente da Web, direcionadas a uma audiência externa selecionada, protegidas através de códigos de acesso;
+Intranet: são redes privadas, destinadas a veicular comunicações específicas ao público interno;
+Comércio Eletrônico (e-commerce): são as transações que ocorrem via Internet, através da ligação entre compradores e vendedores.
+Isto posto, e retornando ao objetivo desta seção, destaca-se na atualidade o sucesso crescente da utilização de Sistemas de Informação e, em especial, a Internet, no ambiente dos negócios. Inicialmente centrada em dois aspectos básicos (correio eletrônico e consultas), hoje a Internet vem assumindo importância significativa num terceiro segmento, ao ligar compradores e vendedores através do comércio eletrônico.
+Sem dúvida, a Internet já ocupa espaço vital como fonte de informações, tanto pela proliferação de mensagens via correio eletrônico, como através do precioso papel informativo alimentador de investigações e pesquisas, seu objetivo acadêmico inicial.
+Mas é no inesperado campo dos negócios que a Internet vem avançando de forma revolucionária, produzindo o que Drucker (1999, p.81) chama de mudança radical do significado da informação. Segundo aquele autor, a revolução recente da TI vem suplantando o conceito tradicional de utilização da informação operacionalmente, para transformá-la em ferramenta auxiliar à tomada de decisões estratégicas, verdadeira tarefa da alta gerência.
+Note-se que a Internet já exercita papel como local de apresentação pública das organizações, proporcionando criar imagens, comunicar valores, possibilitar acesso a informações e apresentar produtos e serviços. De outro lado, sua aplicação dirigida, a Extranet, vem se transformando no canal específico para comunicações exclusivas com clientes e fornecedores. A Intranet, por sua vez, já assumiu o papel de canal veiculador de mensagens para o público interno, através de redes privadas seguras e econômicas.
+Mas é através do comércio eletrônico que surgem as maiores promessas de impacto, ainda que atualmente incipientes. Seus efeitos já podem ser percebidos interferindo na cadeia de valores (Porter, 1985), mediante descarte de intermediários e geração de economias de escala.
+Convém destacar que o comércio eletrônico ainda desempenha papel acanhado, dadas as limitações atuais do alcance da Web (WWW). Em 1998 o Brasil estava limitado a aproximadamente 3.800.000 usuários da Internet (IBGE, 1999), correspondendo a apenas 2,35% do universo, se considerada uma população total de 161.819.462 habitantes.
+Outros fatores também limitantes ao crescimento do comércio eletrônico são os elevados custos para administrar uma página eletrônica, as dificuldades logísticas associadas à distribuição dos produtos vendidos, além dos problemas de segurança.
+Ainda assim, cresce o número de transações via Internet, principalmente na área de fornecimentos entre empresas. Exemplo típico está ocorrendo no Estado do Rio Grande do Sul, com a implantação da fábrica da General Motors, que montou rede com seus fornecedores, destinada a concentrar todas as compras daquela indústria.
+Mas outros três segmentos do e-commerce vem crescendo sensivelmente. Trata-se dos chamados B2C (Business to Customer), C2B (Customer to Business) e C2C (Customer to Customer). Tais
+©RAE- eletrônica - vol. 1 · nº 1 · jan-jun/2002 www.rae.com.br/eletronica 4
+GESTÃO DA INFORMAÇÃO – TECNOLOGIA DA INFORMAÇÃO COMO VANTAGEM COMPETITIVA
+Oscar Fernando Osorio Balarine
+segmentos apresentam inegável fascínio, principalmente quando transacionam bens passíveis de digitalização (programas de computadores, música, livros, pacotes de viagens, seguros, entre outros).
+Mesmo produtos que exigem a presença física do comprador para sua decisão final, como por exemplo a aquisição de uma residência, já começam a amadurecer. Páginas eletrônicas como a www.planetaimovel.com.br e a www.imovelweb.com.br vem se transformando em importantes ferramentas de pesquisa para a compra, venda ou aluguel de imóveis, ainda que a efetivação dos negócios não seja realizada on-line.
+Até o e-mail, que surgiu como simples ferramenta destinada à troca de mensagens, vem se revelando eficiente canal de vendas, ao assumir funções de mala direta. Tal utilização apresenta vantagens atraentes, pois além de eliminar custos com papel, impressão e postagem, possibilita mensagens que facilitam ligações do receptor às páginas eletrônicas da empresa, através de links (Bruin, 2000).
+Portanto, no ambiente das organizações a Tecnologia da Informação passa a desempenhar papel estratégico, merecendo decisões baseadas nessa nova realidade, onde os Sistemas de Informação possam alavancar dados, transformando-os em ativos estratégicos de negócios.
+Visando auxiliar posicionamentos, uma visão introdutiva a tais desafios será enfocada nas seções seguintes.
+3. A TECNOLOGIA DA INFORMAÇÃO SOB VISÃO ESTRATÉGICA
+Embora inicialmente a Internet e o uso de redes de comunicações tenham sido recebidos com ceticismo e reservas no ambiente empresarial, seu crescimento acelerado e a recente tendência à implementação do comércio eletrônico vem, gradualmente, criando expectativas de que ela possa ser utilizada estrategicamente pelas organizações.
+No entanto, seria inconveniente aos negócios optar por maciços investimentos em Tecnologia da Informação, visando o desenvolvimento de projetos destinados a implementar tecnologias da Internet, partindo de impulsos ou modismos. O bom senso indica que tais investimentos devem receber tratamento adequado, com a realização de análises custo-benefício e percepções dos reflexos de tais decisões na evolução da empresa no longo prazo.
+Pretendendo-se associar tais tecnologias a um processo decisório mais amplo, tal propósito pode iniciar pela utilização de metodologias consagradas, como análises estruturais da indústria (grupo de empresas com características bastante próximas entre sí), visando identificar as forças que dirigem a competição, adotando-se a seguinte adaptação ao modelo de Porter (1986):
+©RAE- eletrônica - vol. 1 · nº 1 · jan-jun/2002 www.rae.com.br/eletronica 5
+GESTÃO DA INFORMAÇÃO – TECNOLOGIA DA INFORMAÇÃO COMO VANTAGEM COMPETITIVA
+Oscar Fernando Osorio Balarine
+Figura 1 – Forças concorrentes sob efeitos da Tecnologia da Informação e da Internet
+Concorrentes na
+Indústria
+Como as empresas concorrentes estão explorando a TI e a Internet?
+Fornecedores
+Como essas tecnologias afetam nossa cadeia de suprimentos?
+Compradores
+O que os clientes esperam de nossa empresa, através dessas tecnologias?
+Produtos
+Substitutos
+Que produtos substitutos poderão estar disponíveis através dessas tecnologias?
+Entrantes Potenciais
+Como novos competidores poderão explorar tais tecnologias?
+Fonte: adaptado de Porter (1986, p.23).
+Portanto, admitindo que …A essência da formulação de uma estratégia competitiva é relacionar uma companhia ao seu meio ambiente… (Porter, 1986, p.22), o modelo de análise apresentado na Figura 1 representa caminho sensato para a empresa se posicionar, partindo do conhecimento dos efeitos das tecnologias da informação e da Internet sobre sua indústria.
+Porém, não é suficiente apenas identificar as potencialidades da TI e da Internet na melhoria dos negócios. Complementarmente, devem ser verificados os custos e benefícios de sua implementação, além dos efeitos esperados sobre a sustentabilidade da organização no longo prazo, como será visto adiante.
+4. ANÁLISE CUSTO-BENEFÍCIO NA IMPLANTAÇÃO DE SISTEMAS DE INFORMAÇÃO
+Conhecidas as forças concorrentes afetando a empresa mediante utilização das Tecnologias da Informação e da Internet, é o momento de realizar detalhada análise custo-benefício, que mostre a viabilidade do investimento em tais tecnologias.
+O estudo pode iniciar pelas etapas seguintes, representativas das características inerentes à TI e Internet, associando-as aos benefícios alcançáveis:
+©RAE- eletrônica - vol. 1 · nº 1 · jan-jun/2002 www.rae.com.br/eletronica 6
+GESTÃO DA INFORMAÇÃO – TECNOLOGIA DA INFORMAÇÃO COMO VANTAGEM COMPETITIVA
+Oscar Fernando Osorio Balarine
+Custo com TI e comunicações: quantificar os custos associados à implantação e manutenção das redes;
+Novos canais de comunicação: analisar os efeitos das redes sobre os públicos interno e externo à organização, especialmente clientes e fornecedores, verificando a necessária logística de suporte;
+Comunicação instantânea: medir os efeitos sobre a redução de custos com a publicidade tradicional e, no longo prazo, os resultados sobre a conquista de clientes;
+Segmentação: verificar a capacidade de adaptação dos sistemas e o uso de bancos de dados para conquista de novos segmentos de mercado;
+Comunicação global: identificar o poder de atração mundial da rede.
+Este conjunto de itens representa uma estrutura básica inicial, visando atingir detalhamento que, necessariamente, deve ser alcançado de forma singular em cada organização.
+Importa considerar que, de um lado, os Sistemas de Informação facilitam a aproximação entre vendedores e compradores em nível global, com economia de custos apreciável. Exemplos disso são registrados por Hagel III & Armstrong (1998, pp.23-5), que relacionam inúmeras empresas atualmente transacionando produtos e serviços, através da troca de informações on line entre os participantes. Mas, por outro lado, tais sistemas exigem contínuo investimento em sua manutenção e atualização, além de gerar sérios problemas de distribuição (logística), sem dúvida um dos grandes gargalos do comércio eletrônico. Neste sentido, Tapscott, Lowy & Ticoll (2000) dedicam o Capítulo 11 de seu livro à descrição dos desafios representados pelo comércio via Internet, identificando problemas associados aos aspectos físicos dos negócios. Mais do que isso, aqueles autores afirmam que as empresas, para serem bem sucedidas no comércio via Internet, necessitam ser “... tão eficientes no mundo físico, como na arena eletrônica.” (Ibid, p.208).
+5. O SIGNIFICADO DOS SISTEMAS DE INFORMAÇÃO NO AMBIENTE DAS ORGANIZAÇÕES
+Supondo que (a) as organizações possuam planos de negócios suportados por estratégias e táticas claramente definidas; e (b) seja identificada a estrutura da indústria e os efeitos do emprego dos Sistemas de Informação nas forças competitivas, conforme modelo apresentado na Figura 1; então resta questionar: poderá o investimento em SI colaborar para o alcance dos objetivos de longo prazo da organização?
+A resposta parece estar relacionada com a associação que possa ser feita entre os objetivos do negócio e o desempenho possível dos Sistemas de Informação a implementar.
+Neste sentido, uma análise do peso dos SI na manutenção da força dos negócios pode auxiliar posicionamentos. Para isso, a influência dos SI precisa ser relacionada à evolução de novos mercados, com a flexibilização dos fatores competitivos e com exigências emergentes do mundo digital.
+Outras indicações importantes podem se originar em análises tipo “Forças e Fraquezas versus Oportunidades e Riscos” (Hill & Westbrook, 1997), ostensivamente recomendadas na década de 80. Hoje, tais análises sugerem retomar importância, ao permitirem verificar os efeitos da adoção dos
+©RAE- eletrônica - vol. 1 · nº 1 · jan-jun/2002 www.rae.com.br/eletronica 7
+GESTÃO DA INFORMAÇÃO – TECNOLOGIA DA INFORMAÇÃO COMO VANTAGEM COMPETITIVA
+Oscar Fernando Osorio Balarine
+Sistemas de Informação como ferramentas estratégicas, num momento de tantas modificações nos conceitos dos negócios e na própria fluidez da cadeia de valores.
+Bickerton, Bickerton & Simpson-Holley (1999, p.129-30) sugerem verificar a importância da Internet nos negócios da empresa, perguntando o quanto representam ser críticas as comunicações para a organização. Aqueles autores mostram, ainda, a utilidade da análise da cadeia de valores de Porter, para melhor identificar onde ocorre a conexão entre os Sistemas de Informação e as atividades dos negócios.
+A Figura 2, adiante, mostra o posicionamento no uso da Internet, Extranet e Intranet, na função de incrementar a velocidade das comunicações através da cadeia de valores:
+Figura 2 – Posicionamento das redes na Cadeia de Valores de Porter
+INTERNET
+M
+A A A M
+A Jaaaa A
+R
+E G
+E
+M
+EXTRANET
+Atividades Secundárias:
+Infra-Estrutura Organizacional; Gerenciamento de
+Recursos Humanos; Desenvolvimento Tecnológico; Suprimentos.
+INTRANET
+Atividades Primárias:
+Logística de Fora para Dentro; Operações; Logística de Dentro para Fora;
+Marketing & Vendas; Serviços.
+Fonte: adaptado de Bickerton, Bickerton & Simpson-Holley (1999, p.131).
+6. Conclusões
+Há poucas dúvidas quanto à revolução atual na área da informação, especialmente através da interação entre computadores e telecomunicações. Alguns autores, inclusive, já apontam a recente mudança de século, como momento de passagem para uma era pós-informação (Negroponte, 1995; Gates, 1995), caracterizada pela personalização das informações e remoção de barreiras geográficas.
+©RAE- eletrônica - vol. 1 · nº 1 · jan-jun/2002 www.rae.com.br/eletronica 8
+GESTÃO DA INFORMAÇÃO – TECNOLOGIA DA INFORMAÇÃO COMO VANTAGEM COMPETITIVA
+Oscar Fernando Osorio Balarine
+Entre tais avanços tecnológicos, a Internet possivelmente represente o maior impacto cultural. O tema, que vem sendo tratado por bibliografia abrangente (Albertin, 2000; Amor, 2000; Fellenstein & Wood, 2000; Kalakota & Whinston, 1997; Tapscott, Ticoll & Lowy, 2000), não apenas conduz à revisão de práticas administrativas afetadas pela tecnologia associada ao comércio eletrônico, mas também oferece oportunidade para reflexões sobre estratégias, visando auxiliar o alcance do sucesso empresarial, em ambientes digitais que vem emergindo de forma altamente competitiva.
+Também outros fenômenos significativos remetem à reflexão sobre essa complexidade inerente ao comércio eletrônico. Martinez (2000), citando a consultora norte-americana Alice Bird McCord, destaca a manutenção do varejo tradicional como importante competidor à participação das vendas através da Internet, no comércio mundial. Para aquela consultora, haverá polarização no varejo tradicional, representado de um lado pelos grandes hipermercados que oferecem preços baixos e sortida gama de artigos; e, de outro lado, pelo surgimento crescente de empresas especializadas, que apostam na diferenciação, oferecendo serviços e atendimento personalizado ao cliente. Tais tendências, certamente, representam mais um obstáculo ao desenvolvimento do comércio eletrônico.
+É momento oportuno, pois, para empreendedores verificarem quais efeitos dessa revolução atingem os negócios, identificando procedimentos para adequar suas instituições a possíveis mudanças na cadeia de valores e no mercado.
+Portanto, empresários inclinados à adoção do comércio on line, não podem implantá-lo sem uma profunda análise dos ambientes interno e externo de suas organizações. Antes do direcionamento de investimentos a tais práticas, devem ser colhidas informações confiáveis sobre o mercado, a concorrência e a própria estratégia dos negócios.
+No Brasil tais cuidados são especialmente necessários, considerando que as empresas atualmente defrontam autêntico paradoxo, pois, como indicado por Dazzi (2000), o ingresso maciço de organizações na Web se realiza numa aceleração bem maior do que a velocidade com que a população nacional vem se conectando à rede. A isso acresçam-se outros obstáculos, como os custos da infra-estrutura (aquisição de computadores, acessos, ligações telefônicas, etc.) e o desenvolvimento da logística de apoio.
+Neste cenário, de novidades crescentes, surge questionamento inquietante: como evitar que tais mudanças inviabilizem os negócios, sem, no entanto, precipitar novos posicionamentos?
+Sem dúvida, a resposta deve incluir os conceitos disseminados por Drucker (1998), associando Teoria dos Negócios e Estratégia. Segundo aquele autor, toda organização opera a partir de um conjunto de hipóteses sobre seu negócio, objetivos, clientes e resultados, cabendo à estratégia converter essa teoria em desempenho. Sendo o ambiente imprevisível, caberá à estratégia tornar a empresa intencionalmente oportunista, capacitando-a a atingir os resultados desejados.
+Note-se que o oportunismo destacado por Drucker não implica em acomodação e aproveitamento das circunstâncias para se chegar a um resultado mais facilmente. O oportunismo, nesse caso, deve conduzir a soluções inovadoras e perenes, pois se os caminhos escolhidos não aproximarem a empresa de sua meta estratégica, então não será oportunismo, mas desvio.
+Artigo recebido em 19/04/2000. Aprovado em 07/11/2001.
+©RAE- eletrônica - vol. 1 · nº 1 · jan-jun/2002 www.rae.com.br/eletronica 9
+GESTÃO DA INFORMAÇÃO – TECNOLOGIA DA INFORMAÇÃO COMO VANTAGEM COMPETITIVA
+Oscar Fernando Osorio Balarine
+Referências Bibliográficas
+ALBERTIN, A.L. Comércio Eletrônico: modelos, aspectos e contribuições de sua aplicação. São Paulo, Atlas, 2000. 3a. Ed.
+AMOR, D. The e-business (r)evolution. New Jersey, Prentice Hall, 2000.
+BICKERTON, P.; BICKERTON, M. & SIMPSON-HOLLEY, K. Cyberstrategy. Oxford, Butterworth-Heinemann, 1999.
+BRUIN, D. E-mail é novo instrumento de marketing direto. Gazeta Mercantil. São Paulo, 17 de março de 2000, p.C-8.
+DAZZI, C. Mercado virtual superestimado. Gazeta Mercantil. São Paulo, 21 de março de 2000, p.C-4.
+DRUCKER, P. On the profession of Management. Cambridge, Mass., Harvard Business School Press, 1998.
+___. Desafios gerenciais para o Século XXI. São Paulo, Pioneira, 1999.
+___. Além da revolução da informação. HSM Management. N.18, janeiro-fevereiro 2000. pp.48-55.
+FELLENSTEIN, C. & WOOD, R. Exploring E-commerce, Global E-business, and E-societies. New Jersey, Prentice Hall, 2000.
+GATES, B. A estrada do futuro. São Paulo, Companhia das Letras, 1995.
+HAGEL III, J. & ARMSTRONG, A.G. Vantagem competitiva na Internet: como criar uma nova cultura empresarial para atuar nas comunidades virtuais. Rio de Janeiro, Campus, 1998. 2a. Ed.
+HILL, T. & WESTBROOK, R. SWOT analysis: it’s time for a product recall. Long Range Planning. V.30, N.1, February 1997. pp.46-52.
+IBGE. Pesquisa Nacional por Amostra de Domicílios – PNAD 1998. Rio de Janeiro, IBGE, 1999.
+KALAKOTA, R. & WHINSTON, A. B. Electronic Commerce: a manager’s guide. New Jersey, Addison-Wesley, 1997.
+MARTINEZ, C. Varejo tradicional resiste à Internet. Gazeta Mercantil. São Paulo, 5 de abril de 2000, p.C-7.
+NEGROPONTE, N. A vida digital. São Paulo, Companhia das Letras, 1995.
+PORTER, M. Competitive Advantage: creating and sustaining superior performance. New York, Free Press, 1985.
+___. Estratégia Competitiva: técnicas para análise de indústrias e da concorrência. Rio de Janeiro, Campus, 1986.
+©RAE- eletrônica - vol. 1 · nº 1 · jan-jun/2002 www.rae.com.br/eletronica 10
+GESTÃO DA INFORMAÇÃO – TECNOLOGIA DA INFORMAÇÃO COMO VANTAGEM COMPETITIVA
+Oscar Fernando Osorio Balarine
+TAPSCOTT, D.; LOWY, A. & TICOLL, D. Planos de ação para uma economia digital. São Paulo, Makron Books, 2000.
+TAPSCOTT, D.; TICOLL, D. & LOWY, A. Capital Digital: dominando o poder das redes de negócios. São Paulo, Makron Books, 2000.
+©RAE- eletrônica - vol. 1 · nº 1 · jan-jun/2002 www.rae.com.br/eletronica 11

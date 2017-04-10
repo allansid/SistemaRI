@@ -1,0 +1,584 @@
+RAC, v. 5, n. 1, Jan./Abr. 2001: 105-120 105
+A Tecnologia da Informação na Área Hospitalar: um Caso
+de Implementação de um Sistema de Registro de Pacientes
+José Rodrigues Filho
+Jefferson Colombo B. Xavier
+Ana Lívia Adriano
+RESUMO
+O sistema de registro médico computadorizado, ou seja, o desenvolvimento do prontuário eletrônico,
+é um dos temas mais discutidos nos dias de hoje na área de informática médica. Há afirmações de
+que a combinação de computadores, redes de telecomunicações, informações médicas e dados
+eletrônicos de pacientes pode melhorar a qualidade do cuidado de saúde, a produtividade dos
+profissionais de saúde, facilitar o acesso aos serviços disponíveis e reduzir custos administrativos
+associados à prestação de serviços. O registro de pacientes é considerado o módulo básico de um
+sistema computadorizado de gerenciamento de pacientes e, conseqüentemente, do prontuário eletrônico.
+Uma tentativa é feita, neste trabalho, para descrever a implementação de um sistema de
+registro de pacientes, denominado R-ATA (registro-admissão, transferência e alta), no Hospital
+Universitário Lauro Wanderley da Universidade Federal da Paraíba.
+Palavras-chaves: registro de pacientes; prontuário eletrônico; registro-admissão e transferência;
+desenvolvimento de sistemas de informação.
+ABSTRACT
+The computer-based patient record (electronic patient record) is an area of medical informatic that
+has been well discussed during this decade. It has been alleged that the powerful combination of
+computers, communication networks, online medical information, and electronic patient data can
+improve the quality of health services, increase access to health care, productivity of health
+professionals, and reduce unnecessary cost. Patient registration: admission/transfer/discharge is the
+basic module of a patient management system. The purpose of this work is to describe the
+implementation of a patient registration system, named R-ATA, implemented in the Lauro Wanderley
+Teaching Hospital of the Universidade Federal da Paraíba, Brazil.
+Key words: patient registration; electronic medical record; admission/transfer/discharge; information
+system development.
+106
+José Rodrigues Filho, Jefferson Colombo B. Xavier e Ana Lívia Adriano
+RAC, v. 5, n. 1, Jan./Abr. 2001
+INTRODUÇÃO
+Tem sido afirmado que a combinação de computadores, redes de telecomunicações,
+informações médicas online e dados eletrônicos de pacientes pode
+melhorar a qualidade e as decisões inerentes ao cuidado de saúde, além de facilitar
+o acesso aos serviços disponíveis. Assim sendo, tem-se enfatizado a automação
+do prontuário do paciente, já que os sistemas de arquivo médico baseados em
+computadores, por mais incompletos que sejam, contribuem significativamente
+para melhorar a qualidade do tratamento e o controle dos custos de saúde (Lindberg
+e Humphreys, 1995; Rodrigues Filho, 1995).
+Não há dúvidas de que as tecnologias de informação e comunicação estão nos
+conduzindo a uma nova era, à medida que nos aproximamos do final do século
+XX; contudo não podemos deixar de nos preocupar com os limites da difusão
+dessas tecnologias, sobretudo na área de saúde: será que todos se beneficiarão
+do aumento das disponibilidades de recursos de saúde online, ou estamos caminhando
+para uma sociedade dos que têm e dos que não têm informações? (Thomas
+et al., 1998).
+A disponibilidade da opção tecnológica que visa a uma combinação poderosa
+da tecnologia digital e dados é muito recente, razão pela qual os sistemas de
+informações clínicas desenvolvidos nos últimos vinte anos são considerados pobres
+em qualidade e desempenho, além de oferecerem poucas opções aos profissionais
+médicos (Chu, 1993).
+A mais recente investida da informática médica está sendo direcionada ao
+desenvolvimento de sistemas de arquivos médicos computadorizados, a exemplo
+do projeto de informática médica, desenvolvido nos Estados Unidos, que objetiva
+automatizar o prontuário do paciente (Stead, 1989; Dick, 1991).
+Um sistema de arquivo médico é um conjunto de componentes que forma os
+mecanismos para que os prontuários sejam criados, usados, armazenados e acessados,
+fazendo parte de um sistema de informação hospitalar (SIH) e tendo como
+foco central os dados clínicos.
+Em 1989, por exemplo, o Instituto de Medicina da Academia de Ciências dos
+Estados Unidos formou uma comissão, composta por mais de duzentos membros
+representantes das instituições de saúde americanas, para estudar como a tecnologia
+poderia melhorar os sistemas de registro médico. Após dezoito meses de
+trabalho, a mencionada comissão constatou que tais sistemas não se diferenRAC,
+v. 5, n. 1, Jan./Abr. 2001 107
+A Tecnologia da Informação na Área Hospitalar
+ciavam daqueles existentes há cinqüenta anos, ou seja, a pobreza dos sistemas de
+arquivo médico já estava comprometendo a prestação do cuidado de saúde, já
+que não atendia às necessidades dos profissionais de saúde, pacientes, administradores
+e pesquisadores, apesar dos avanços tecnológicos na área de saúde
+durante as últimas décadas. Conseqüentemente, foi proposto um sistema de
+registro médico baseado em computador, ou seja, o desenvolvimento do prontuário
+eletrônico (Dick, 1991).
+As barreiras apontadas, na época, para dificultar o desenvolvimento do prontuário
+eletrônico diziam respeito ao desenvolvimento de padrões, sobretudo na área
+médica, educação e treinamento dos usuários e desenvolvedores de sistemas,
+além de outros desafios técnicos e organizacionais.
+A previsão do Instituto de Medicina americano era de que, dentro de uma
+década, ou seja, a partir do ano 2001, os objetivos de se automatizar o prontuário
+do paciente seriam atingidos. Diante das barreiras, já mencionadas, mas que
+ainda hoje existem, alguns anos serão necessários para se ver o prontuário eletrônico
+substituir o prontuário de papel, sobretudo nos países em desenvolvimento.
+Embora se reconheça a necessidade de se melhorar os sistemas de informação
+em saúde e de ter havido avanço tecnológico e melhor padronização dos dados,
+ainda persistem a falta de consenso sobre conteúdos, desagregação do ambiente
+organizacional dos serviços de saúde, comportamento imprevisível do usuário,
+além de uma variedade de questões legais e sociais que precisam ser encaradas,
+a exemplo das políticas públicas, destinadas a disciplinar e facilitar o acesso dos
+cidadãos às redes de informações, evitando uma elitização e desigualdade social
+entre os que têm e os que não têm informações.
+Os sistemas de prontuários eletrônicos requerem certo grau de precisão, o que
+não faz parte das práticas atuais, principalmente no Brasil. Os serviços de prontuários
+na maioria dos hospitais brasileiros, quando existem, são de baixo padrão,
+diante da desordem organizacional dessas instituições; portanto o serviço de arquivo
+médico, considerado o coração de qualquer instituição hospitalar, funciona de
+forma muito precária na maioria dos nossos hospitais.
+Acontece que a documentação sobre os cuidados do paciente está se tornando
+imperativa, não sendo mais possível tolerar registros pobres, incompletos e
+desordenados, como os que existem na generalidade dos hospitais. O grande
+problema para se automatizar parte das atividades do serviço de arquivo médico
+não diz mais respeito aos custos, mas à educação dos profissionais de saúde, que
+interagem com o prontuário do paciente: médicos, técnicos, enfermeiros, entre
+outras profissões.
+108
+José Rodrigues Filho, Jefferson Colombo B. Xavier e Ana Lívia Adriano
+RAC, v. 5, n. 1, Jan./Abr. 2001
+Além disto, no Brasil, muitos dos sistemas de informações no setor saúde em
+geral, e hospitalar em particular, foram desenvolvidos sem nenhuma forma de
+padronização da informação, conforme critérios desenvolvidos por instituições
+nacionais ou internacionais. Assim, muitas vezes, dados sem utilidade são coletados,
+enquanto outros de maior importância deixam de ser registrados.
+A padronização da informação exige grande esforço dos profissionais de saúde,
+sendo uma esperança para o controle de grande quantidade de informações clínicas
+e de pesquisa, que pode economizar o seu tempo valioso; portanto, considerando
+o desenho modular para o desenvolvimento de sistemas de informações hospitalares,
+o propósito deste trabalho é descrever a implementação de um sistema de
+registro de pacientes, denominado R-ATA (registro-admissão, transferência e
+alta), no Hospital Universitário Lauro Wanderley da Universidade Federal da
+Paraíba, o qual foi desenvolvido cumprindo padrões internacionais, como os
+especificados pela American Society for Testing and Materials (ASTM), que
+tem tratado da padronização da informação em saúde há mais de vinte anos
+(Megargle, 1991). Esta aplicação computacional poderá ser implementada em
+quaisquer hospitais, postos de saúde ou ambulatórios.
+SISTEMA DE INFORMAÇÃO HOSPITALAR
+Um sistema de informação hospitalar integrado, como qualquer outro de área
+distinta, consiste em dois componentes: hardware e software. Contém diversos
+módulos ou subsistemas, dentro dos seguintes grupos funcionais: administração,
+gerenciamento de pacientes, aplicações médicas e sistema médico-técnico (vide
+Figura 1).
+Historicamente, os sistemas de informações hospitalares foram desenvolvidos
+para atender inicialmente às necessidades administrativas: aplicações financeiras,
+folha de pagamento, contabilidade etc. Em seguida enfatizou-se a automação dos
+sistemas médico-técnicos: patologia, radiologia, laboratórios, farmácia etc., os
+quais compõem também um sistema de informação hospitalar.
+A tecnologia da época facilitou automatizar sistemas alimentados por dados ou
+informações bem estruturadas, a exemplo dos sistemas administrativos e médicotécnicos.
+As informações necessárias ao cuidado direto do paciente diferenciam-se
+qualitativamente das informações que apóiam as funções administrativas. Além
+disto, informações administrativas podem ser coletadas retrospectivamente, mas
+as informações sobre o tratamento do paciente devem ser oportunas e disponíveis
+no ponto ou hora do cuidado.
+RAC, v. 5, n. 1, Jan./Abr. 2001 109
+A Tecnologia da Informação na Área Hospitalar
+Figura 1: Sistema de Informação Hospitalar Integrado
+Assim, durante longo período, os hospitais gastaram muito em sistemas que
+nem sempre processavam informações inerentes às funções do cuidado do paciente,
+priorizando apenas as aplicações computacionais na área administrativa.
+Os sistemas de informações clínicas requerem considerações mais complexas
+de desenho do que os sistemas de informações administrativas.
+Embora os preços do mercado de informática tenham caído substancialmente
+nos últimos anos, o software não tem acompanhado o desenvolvimento do
+hardware, sobretudo na área de saúde. Muitos dos sistemas de informações
+estão em desuso, pelo menos nos países desenvolvidos, já que foram adquiridos
+de diferentes fornecedores, impossibilitando a integração e a interação dos seus
+componentes.
+Há comentários de que os sistemas de informações hospitalares demonstrados
+no ano de 1990, por exemplo, se pareciam com aqueles demonstrados no ano de
+1975 (Ball et al., 1991), ou seja, poucas mudanças foram implementadas num
+período de quinze anos, apesar do grande avanço da tecnologia.
+Sistemas
+Contábeis
+Almoxarifado
+Geral
+Finanças Administração
+Geral
+Sistemas Administrativos
+Pesquisas
+Médicas
+Sistema de
+Apoio ao
+Diagnóstico
+Referências
+Bibliográficas
+Apli
+caç
+ões
+Mé
+di
+cas
+Laboratório
+Farmácia
+Radiologia
+Mé
+di
+c
+o-Téc
+ni
+c
+o
+Gerência de Pacientes
+Registro de
+Pacientes
+Arquivo
+Médico
+Sistemas Clínicos
+Médico Enfermagem
+Prontuário
+Médico
+110
+José Rodrigues Filho, Jefferson Colombo B. Xavier e Ana Lívia Adriano
+RAC, v. 5, n. 1, Jan./Abr. 2001
+A alegação era de que os vendedores de software estavam ainda tentando
+recuperar os seus investimentos destinados ao desenvolvimento de aplicações de
+software de épocas passadas. Infelizmente, no mundo ocidental, os vendedores
+de software e alguns consultores é que definem as necessidades dos usuários no
+tocante à definição de sistemas de informação. Conseqüentemente, a tecnologia
+da informação é orientada pelo mercado e não pelas necessidades do usuário, ou
+seja, as pessoas têm de se ajustar à tecnologia e não a tecnologia ser ajustada aos
+interesses do usuário, em benefício do bem-estar e qualidade de vida. Além do
+mais, muitas vezes quando a tecnologia da informação é introduzida nos países
+em desenvolvimento, tipicamente tem sido na forma de aplicações e sistemas
+que são “soluções do primeiro mundo” para “problemas do primeiro mundo”
+(Braa, 1996).
+No caso específico da saúde, é preciso que os profissionais de saúde e as
+associações médicas e paramédicas comecem a ter papel decisivo na definição
+dos sistemas de informação, enquanto usuários, propondo até mesmo uma
+mudança de paradigma, quando necessário, em matéria de desenvolvimento de
+sistemas (Rodrigues Filho, 1999).
+É comum encontrar instituições hospitalares com sistemas de informações
+financeiras, contas hospitalares, folhas de pagamento e muitas outras funções,
+que não atendem às exigências do hospital, por serem completamente desintegradas.
+Nos últimos anos, as organizações hospitalares têm-se preocupado com
+a integração de dados administrativos e dados clínicos, como forma desejável e
+necessária ao seu bom funcionamento.
+Em 1988, a Associação Internacional de Informática Médica (International
+Medical Information Association – IMIA) fez a recomendação de que o tratamento
+do paciente se tornasse o foco principal dos sistemas de informações
+hospitalares (Ball et al., 1991).
+Para alguns, a falta de sucesso dos sistemas de informações hospitalares pode
+ser atribuída à falha dos planejadores de sistemas em entender o fluxo de dados
+clínicos; à noção errada dos administradores de acharem que as aplicações
+médicas são um produto das aplicações administrativas; à falha de não incluírem
+os usuários, sobretudo os profissionais médicos, no desenho e implementação dos
+sistemas de informações hospitalares, além da falta de recursos destinados ao
+processamento automatizado dos hospitais (Friedman e Martin, 1997).
+Os sistemas de gerenciamento de pacientes, considerados como nova geração
+de sistemas a integrarem um sistema de informação hospitalar, são mais recentes
+e tiveram origem no desenvolvimento de sistemas de registro de pacientes.
+Sistemas de informações hospitalares complexos e reconhecidos como o DHCP
+RAC, v. 5, n. 1, Jan./Abr. 2001 111
+A Tecnologia da Informação na Área Hospitalar
+(Decentralized Hospital Computer Program), hoje instalado em dezenas de
+unidades de saúde da Administração dos Veteranos e do Departamento de Defesa
+dos Estados Unidos, tiveram como módulo básico e inicial o sistema de registro
+de pacientes (Munnecke e Kuhn, 1989). O mesmo aconteceu com o DIOGENE
+(Division d’Informatique Hôpital Genève), sistema de informação complexo,
+instalado num hospital de 1.600 leitos, na Universidade de Genebra (Scherrer et
+al., 1990). Merece destaque, também, o famoso sistema de informação COSTAR
+(The Computer Stored Ambulatory Record), desenvolvido por Barnett e seus
+colegas no Laboratório de Ciências da Computação do Hospital Geral de
+Massachusetts, e que tem como fundação o sistema de registro de pacientes
+(Blum, 1986).
+A gerência de pacientes, como se vê na Figura 1, inclui sistemas de registro de
+pacientes e os denominados sistemas de arquivo médico e de informações clínicas,
+que agregam tanto as informações das atividades médicas quanto as das atividades
+de enfermagem (planos de tratamento, diagnósticos, ordens médicas etc),
+além de informações pessoais e demográficas dos pacientes.
+Funcionalmente, a unidade de registro e admissão de pacientes faz parte do
+Serviço de Arquivo Médico e Estatística (SAME) de um hospital, sendo a fonte
+principal de informações pessoais do paciente. O arquivo médico, por sua vez, é
+considerado “o repositório centralizado de todas as informações pessoais e médicas
+sobre os pacientes de uma organização de atenção à saúde”, tendo assim uma
+importância fundamental em praticamente todas as atividades clínicas e administrativas
+(Rodrigues, 1987). Com o advento da moderna tecnologia, tornou-se
+possível a automação de muitas das funções do SAME, incluindo as funções de
+registro de pacientes.
+SISTEMA DE REGISTRO DE PACIENTES
+Um sistema de registro de pacientes, denominado R-ATA (registro-admissão,
+transferência e alta), foi desenvolvido como módulo básico de um sistema de
+gerenciamento de pacientes, com as possibilidades de interligação com outros
+módulos, como se mostra na Figura 1. Esta aplicação computacional tem as seguintes
+funções:
+. Identficar ou verificar pacientes por meio de um índice de pacientes criado e
+mantido pelo processo de registro. O índice de pacientes deve ser mantido não
+só por hospitais, mas por qualquer unidade de assistência médica, sendo uma
+subfunção do registro.
+112
+José Rodrigues Filho, Jefferson Colombo B. Xavier e Ana Lívia Adriano
+RAC, v. 5, n. 1, Jan./Abr. 2001
+. Manter o arquivo de registro e dados demográficos como um nó comum para o
+sistema de arquivo médico, de modo que possa ser utilizado por outros sistemas
+a serem desenvolvidos.
+. Estabelecer o registro inicial de entrada de dados dos pacientes mediante a
+criação do segmento de dados demográficos, que serão usados para a criação
+de um índice de pacientes para o arquivo médico.
+. Acompanhar a movimentação do paciente dentro do hospital.
+. Produzir o censo de pacientes e relatórios estatísticos.
+. Oferecer aos outros departamentos do hospital informações comuns sobre cada
+paciente registrado/admitido.
+. Criar relatórios administrativos sobre a taxa de ocupação e média de permanência
+do hospital. O controle de leitos é a ferramenta gerencial que visa a
+assegurar que o leito, como fonte produtora de receitas, está sendo utilizado de
+forma eficiente.
+. Identificar os médicos de cada paciente.
+. Elaborar lista de altas hospitalares de interesse dos setores de admissão do
+serviço de arquivo médico, farmácia e outros departamentos.
+Os desafios do gerenciamento das informações de saúde, em geral, e hospitalar
+em particular, não dependem apenas dos avanços tecnológicos. Além da tecnologia,
+um estudo da melhoria do registro de pacientes deve considerar como o uso
+desses registros deve ser melhorado. A melhoria dos registros e a racionalidade
+clínica dos profissionais de saúde são tópicos que estão inevitavelmente associados,
+uma vez que os registros médicos refletem o processo racional clínico. Se
+se deseja criar melhores sistemas de registro de pacientes, o usuário deve ser
+reconhecido e as atividades inerentes às soluções dos problemas dos profissionais
+de saúde devem ser examinadas.
+Se os sistemas de arquivo médico nos hospitais brasileiros são pobres e desorganizados,
+o mesmo acontece em muitos hospitais de países desenvolvidos. O
+redesenho desses sistemas oferece o mais simples e imediato enfoque para o
+controle dos custos de saúde e a prevenção de erros médicos (Brunum, 1989).
+Há afirmações de que nos Estados Unidos os sistemas de registro médico são
+igualmente de má qualidade e perigosos, não contribuindo para a melhoria dos
+cuidados de saúde (Hirshey et al., 1989; Pories, 1990). Resumidamente, as
+principais falhas dos registros médicos podem ser descritas como sendo de
+conteúdo, formato, acesso e disponibilidades.
+RAC, v. 5, n. 1, Jan./Abr. 2001 113
+A Tecnologia da Informação na Área Hospitalar
+Problemas de Conteúdo e Formato
+Os dados do prontuário médico são freqüentemente ilegíveis, não acurados,
+fragmentados, incompletos, incompreensíveis para o paciente e seus familiares e,
+algumas vezes, excessivos ou redundantes. Nem sempre a documentação do
+prontuário é ordenada de forma lógica; a pobreza do seu formato impede uma
+utilização mais eficiente.
+Problemas de Acesso e Disponibilidade
+Já foi registrado que é grande o percentual de prontuários não localizados, ou
+seja, em 30% das buscas nem sempre se localiza o prontuário (GAO, 1991). A
+indisponibilidade do prontuário cria sérios problemas e frustrações para o usuário.
+É prática comum o médico deixar o prontuário em diferentes setores do hospital
+e até em casa.
+Tais informações são suficientes para mostrar quanto outros fatores dificultam
+o trabalho de automação do prontuário médico e quanto é importante educar os
+profissionais de saúde para lidar com a tecnologia da informação, sobretudo os
+que interagem com o prontuário médico.
+Embora durante o desenvolvimento do R-ATA diversas questões referentes à
+padronização dos dados contidos nos sistemas de registro de pacientes, conforme
+especificações da ASTM, instituição envolvida com o desenvolvimento de padrões
+para as aplicações computacionais em medicina (Megargle, 1991), tenham sido
+consideradas, as questões inerentes ao conteúdo, formato, acesso e disponibilidade
+do prontuário não foram examinadas, além de outras questões de ordem
+organizacional e social.
+Como veremos a seguir, isto dificultou a implementação de um sistema que,
+embora tecnicamente apropriado e justificado, estava predisposto à falhas
+causadas pela falta de especificação do grupo destinado a usá-lo e de um ambiente
+familiarizado com a tecnologia da informação.
+Nenhuma tentativa será feita neste trabalho para revisar a literatura sobre o
+sucesso e falhas de implementação de sistemas de informação (Markus, 1983;
+Davis et al., 1992; Pollalis e Frieze, 1993), apesar de se reconhecer que este
+tópico é quase inexistente na literatura brasileira.
+114
+José Rodrigues Filho, Jefferson Colombo B. Xavier e Ana Lívia Adriano
+RAC, v. 5, n. 1, Jan./Abr. 2001
+METODOLOGIA DE IMPLEMENTAÇÃO E UTILIZAÇÃO DO R-ATA
+O Hospital Universitário Lauro Wanderley dispõe de aproximadamente 250
+leitos. Considerando a falta de recursos computacionais (hardware) do hospital,
+o sistema de registro de pacientes foi testado na Unidade de Clínica Médica, que
+dispõe de 70 leitos e é dividida em duas alas, comportando as várias especialidades
+médicas.
+O ponto de partida para se iniciar o processo de armazenamento de dados no
+R-ATA se dá com o cadastramento dos prontuários, como exemplificado na Tela
+1 (primeiro atendimento). Complementando as informações do primeiro atendimento,
+pode-se armazenar outros dados sociodemográficos, oriundos da ficha
+social preenchida pelos assistentes sociais do hospital, mediante entrevista. Estes
+dados são capturados tanto antes como depois da internação do paciente.
+Tela 1
+O gerenciamento das internações hospitalares inicia-se com o preenchimento
+da guia de internamento, que identifica quando e onde o paciente está internado,
+além de identificar a clínica e o médico responsável pela internação (vide Tela 2).
+RAC, v. 5, n. 1, Jan./Abr. 2001 115
+A Tecnologia da Informação na Área Hospitalar
+Tela 2
+Inicialmente foi feito todo um esforço para capturar e registrar informações
+de todos os pacientes internados nas duas alas da Unidade de Clínica Médica,
+dispondo-se apenas de uma máquina (microcomputador). Percebeu-se, posteriormente,
+certo atraso no preenchimento de determinados documentos, principalmente
+da ficha social, preenchida pelas assistentes sociais do hospital. Desta
+feita, tornava-se impossível manter o sistema atualizado diariamente. Assim, e
+considerando a falta de recursos computacionais, optou-se pela implementação
+do sistema em uma única ala, abrangendo 35 leitos. Neste caso, foi possível
+manter o sistema atualizado diariamente.
+Em geral, a internação é feita após o preenchimento da ficha social do paciente;
+contudo pacientes internados nos finais de semana ou dias feriados só têm a sua
+ficha social preenchida posteriormente, ou seja, dois ou três dias depois. Como já foi
+dito, informações sobre o tratamento médico não devem ser coletadas retrospectivamente,
+mas devem ser oportunas e disponíveis no ponto e na hora do cuidado.
+Várias outras telas vão sendo simultânea e automaticamente preenchidas, a
+partir do primeiro atendimento e do processo de internação do paciente: gerência
+de leitos, cadastros das clínicas, médicos etc. Diversos relatórios são produzidos
+116
+José Rodrigues Filho, Jefferson Colombo B. Xavier e Ana Lívia Adriano
+RAC, v. 5, n. 1, Jan./Abr. 2001
+pelo sistema, a exemplo do relatório de ocorrências (vide Tela 3) e outros relacionados
+com importantes indicadores de produtividade hospitalar: taxa de
+ocupação hospitalar, pacientes-dia, média de permanência etc.
+Tela 3
+As funções de alguns desses relatórios e as suas respectivas alterações discriminam-
+se a seguir.
+. Relatório de ocorrências por unidade: trata-se de relatório que fornece a
+quantidade de altas, internações, transferências, óbitos e pacientes que passaram
+do dia anterior, a cada dia do mês.
+. Mapa diário de internação: relatório que reflete a ocupação atual dos leitos
+masculinos e femininos por especialidade médica.
+. Resumo geral da entrevista social: relatório que fornece a quantidade detalhada
+de cada item da entrevista social realizada no período fornecido pelo usuário.
+. Gerência de leitos: relatório que permite à administração de enfermagem
+visualizar graficamente a ocupação dos leitos em cada ala, especificando os
+pacientes internados em determinada enfermaria ou leito.
+RAC, v. 5, n. 1, Jan./Abr. 2001 117
+A Tecnologia da Informação na Área Hospitalar
+. Cadastro de pacientes: permite corrigir ou acrescentar informações dos prontuários
+dos pacientes.
+. Entrevista social do paciente: permite corrigir ou acrescentar informações
+da ficha social dos pacientes.
+. Cadastro de médicos: permite cadastrar, alterar ou excluir informações dos
+médicos cadastrados no sistema.
+. Cadastro das clínicas: permite cadastrar, alterar ou excluir informações das
+clínicas cadastradas no sistema.
+. Cadastro das unidades: permite cadastrar, alterar ou excluir informações das
+unidades médicas cadastradas no sistema.
+. Cadastro de assistentes sociais: permite cadastrar, alterar ou excluir informações
+das assistentes sociais cadastradas no sistema.
+. Relatório de produtividade hospitalar: permite cálculo semanal, mensal ou
+anual, da média de permanência, taxa de ocupação, pacientes-dia e leitos-dia
+de cada unidade hospitalar.
+Para a elaboração do protótipo do sistema algumas características metodológicas
+foram adotadas, como, por exemplo, preservação dos documentos atuais
+do hospital, interface fiel à realidade e a produção de relatórios baseados na
+prática cotidiana. Diversas entrevistas e reuniões foram realizadas, tanto com o
+pessoal administrativo como com outros profissionais de saúde, sobretudo da
+área de enfermagem.
+Embora as assistentes sociais do setor pudessem ser as mais beneficiadas com
+o volume de informações produzidas pelo sistema, elas reagiram de forma negativa,
+tentando até boicotar informações que delas dependiam. Ainda que as informações
+contidas no prontuário não sejam propriedade deste ou daquele profissional,
+as assistentes sociais se mobilizaram para que os dados da ficha social não
+fossem capturados pelo sistema.
+É sabido que a tecnologia traz mudanças e ameaças, sobretudo para profissionais
+menos familiarizados com os avanços tecnológicos. É aceitável reações
+dessa natureza e é preciso estudá-las conjuntamente, de modo que a tecnologia
+não seja ameaça, mas ferramenta que venha auxiliar os profissionais a desempenharem
+as suas atividades com mais eficiência. A tecnologia deve ser
+desenvolvida para atender, de forma satisfatória, às necessidades do usuário e
+não tornar-se fator causador de ameaças e sofrimentos.
+Talvez a falta de envolvimento dos profissionais do serviço social com o desenvolvimento
+do sistema tenha sido a causa principal das resistências ao funcionamento
+118
+José Rodrigues Filho, Jefferson Colombo B. Xavier e Ana Lívia Adriano
+RAC, v. 5, n. 1, Jan./Abr. 2001
+do sistema. Essa experiência demonstrou que um sistema de informação não
+deve ser considerado artefato puramente técnico, mas um sistema social, em que
+as pessoas são mais importantes do que a tecnologia.
+CONCLUSÃO
+Os resultados da automação do prontuário médico parecem ser promissores
+para a melhoria da qualidade do tratamento de saúde, redução de custos e avanço
+do conhecimento.
+O desenho de um sistema de informação hospitalar requer considerações
+complexas, mas todo o esforço deve ser feito para vencer barreiras de ordem
+legal, organizacional e tecnológica. A gerência da complexidade da medicina
+moderna exige a automação dos registros médicos como tecnologia essencial
+aos cuidados médicos dos dias de hoje e do futuro.
+Nos últimos anos começou a surgir nova geração de sistemas de informações
+hospitalares, priorizando a integração de informações clínicas e administrativas
+como a chave do seu sucesso. O avanço da tecnologia da informação no setor
+saúde em geral, e hospitalar em particular, exige uma educação paralela dos
+profissionais de saúde e um estudo destinado a melhorar as práticas de registro,
+indispensáveis à melhoria da qualidade do tratamento médico.
+O sistema de registro de pacientes descrito neste trabalho, desenvolvido como
+o módulo básico e inicial de um sistema de informação hospitalar, foi um experimento
+apropriado para se avaliar a importância e complexidade do desenvolvimento
+ou desenho de um sistema de informação.
+Assim, a importância da tecnologia da informação na área de saúde precisa ser
+mais pesquisada e discutida no nosso país, de modo que critérios de padronização
+e outros elementos sejam mais bem definidos, principalmente pelos profissionais
+de saúde.
+RAC, v. 5, n. 1, Jan./Abr. 2001 119
+A Tecnologia da Informação na Área Hospitalar
+REFERÊNCIAS BIBLIOGRÁFICAS
+BALL, M. J. et al.
+Status and progress of hospital
+information system (HIS).
+International Journal of
+Biomedical Computer, v. 29,
+p. 161-148, 1991.
+BRAA, J.
+Community-based participatory
+design in the third world. In:
+PARTICIPATORY DESIGN
+CONFERENCE (1996:
+Cambridge). Proceedings...
+Cambridge: [s.n.], 1996.
+BRUNUM, J. F.
+The misinformation era : the fall
+of the medical record. Annals of
+Internal Medicine, v. 110,
+p. 482-484, 1989.
+CHU, S.
+Clinical information systems : a
+fourth generation. Nursing
+Management, v. 24, n. 10, p. 59-60,
+1993.
+DAVIS, G. B. et al.
+Diagnosis of an information
+system failure. Information and
+Management, v. 23, p. 293-318,
+1992.
+DICK, R. S.
+The computer-based patient
+record : an essential technology
+for health care. Washington, DC:
+National Academy Press, 1991.
+FRIEDMAN, B. A.;
+MARTIN, J. B.
+Hospital information system : the
+physician role. Journal of the
+American Medical Association,
+v. 257, n. 13, p. 1792, 1997.
+GAO.
+Medical ADP systems:
+automated medical record hold
+promise to improve patient care.
+Washington, DC : [s.n.], 1991.
+HIRSHEY, C. O. et al.
+The medical practice environment:
+internists’ view of the future.
+Archives of Internal Medicine,
+v. 149, p. 1745-1749, 1989.
+LINDBERG, D. A. B.;
+HUMPHREYS, B. L.
+Computers in medicine. Journal
+of the American Medical
+Association, v. 272, n. 231, p.
+1667-1668, 1995.
+MARKUS, M. L.
+Power, politics and MIS
+implementation. Communication
+of the ACM, v. 26, n. 6, p. 430-444,
+1983.
+120
+José Rodrigues Filho, Jefferson Colombo B. Xavier e Ana Lívia Adriano
+RAC, v. 5, n. 1, Jan./Abr. 2001
+MEGARGLE, R.
+Role of ASTM in computer
+information standards for
+medicine. Topics in Health
+Record Management, v. 11,
+n. 4, p. 17-26, 1991.
+POLLALIS, U. A.;
+FRIEZE, I. H.
+A new look at critical success
+factor in IT. Information
+Strategy, 1993.
+PORIES, W. J.
+Is medical record dangerous to
+our health? North Carolina
+Medical Journal, v. 51, p. 47-55,
+1990.
+RODRIGUES, R. J.
+Informação e o administrador
+de saúde. São Paulo : Pioneria,
+1987.
+RODRIGUES FILHO, J.
+Automação do arquivo médico.
+Suprimentos e Serviços
+Hospitalares, ano 1, n. 8, nov.
+1995.
+O paradigma interpretativo na
+pesquisa e desenvolvimento de
+sistemas de informação. In: 16TH
+ANNUAL CONFERENCE OF
+THE BALAS (1999 : New Orleans).
+Proceedings... New Orleans:
+BALAS, 1999.
+STEAD, W. W.
+A quarter-century of
+computer-based medical
+records. [S.l.] : MD Computing,
+1989.
+THOMAS, R. et al.
+Access to health information and
+support : a public highway or a
+private road? Journal of the
+American Medical Association,
+v. 280, n. 15, p. 1371-1374, 1998.

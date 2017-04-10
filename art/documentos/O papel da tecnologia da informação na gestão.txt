@@ -1,0 +1,1116 @@
+124
+O papel da tecnologia da informação na gestão
+do conhecimento
+Resumo
+Embora a Gestão do Conhecimento (GC) seja função comum nas
+organizações, muitas não têm visão clara de como incorporá-la e
+transformá-la em vantagem competitiva. A escassez de estudos
+comprovando que a GC faz diferença no desempenho organizacional, e
+a cultura, talvez sejam os fatores mais influentes na promoção ou
+inibição de práticas de GC. Há empresas que usam ferramentas de
+Tecnologia da Informação (TI) como fator de competitividade,
+confundindo-as com GC. Outras acreditam que a TI sozinha possa
+servir para gerenciar o conhecimento, o que é um equívoco. A razão
+disso pode estar no surgimento da TI antes da GC, ou na escassez da
+literatura abordando a função da TI na GC. Daí a falta de clara distinção
+entre TI e GC que vise à interação adequada entre ambas. O papel
+principal da TI é dar suporte à GC, ampliando o alcance e acelerando a
+velocidade de transferência do conhecimento. É identificar,
+desenvolver e implantar tecnologias que apóiem a comunicação
+empresarial, o compartilhamento e a gestão dos ativos de
+conhecimento. A TI desempenha papel de infra-estrutura, a GC envolve
+aspectos humanos e gerenciais. Este artigo discute a interação entre TI
+e GC como instrumentos de gestão estratégica e desempenho
+organizacional.
+Palavras-chave
+Gestão do conhecimento. Tecnologia da informação. Desempenho
+organizacional. Estratégia em gestão do conhecimento. Ambiente de
+compartilhamento.
+The role of information technology in
+knowledge management
+Abstract
+Although Knowledge Management (KM) has ordinary function in
+organizations, many of them still do not have a clear vision on how to
+incorporate and change it into competitive advantage. The lack of
+empirical studies that assess the difference of KM in organizational
+performance, and culture, are perhaps the major factors in GC practical
+promotion or inhibition. Some companies use Information Technology (IT)
+tools as competitiveness factor, misunderstanding it as GC. Others
+believe that IT alone can be used for managing knowledge – it is a
+mistake. The reason for this can be the arising of IT before KM, or the
+scarcity of literature dealing with IT function in GC. So, there is a lack of
+clear distinction between IT and KM concerning the appropriate
+interaction between them. The main IT role is to give support to KM,
+enlarging its scope and speeding up knowledge transference, as well as
+to identify, develop and implant technologies that support the enterprise
+communication, the sharing and management of knowledge assets. IT
+plays an infrastructure role; the KM involves human and managerial
+aspects. This paper discusses the interaction between IT and KM as
+tools that support strategic management and organizational performance.
+Keywords
+Knowledge management. Information technology. Organisational
+performance. Strategy in knowledge management. Sharing environment.
+INTRODUÇÃO
+A evolução tecnológica que envolve o mundo, as
+organizações e as pessoas atinge praticamente todas as
+atividades e favorece a veiculação livre e rápida de grande
+volume de informações por diversos meios,
+principalmente pela Internet. A rapidez de evolução
+nessa área ocorreu, segundo Schreiber et al. (2002), em
+vista da necessidade de tecnologias padronizadas e
+eficientes na melhoria da qualidade dos processos e de
+modelos práticos e ágeis. Esses autores destacam dois
+elementos-chave para dirigir este processo:
+a) o rápido crescimento da rede mundial de computadores
+“world wide web (www)”, que estabeleceu uma infraestrutura
+de compartilhamento do conhecimento;
+b) a identificação do conhecimento como fator chave de
+produção, além do trabalho e do capital.
+Sob a ótica do valor do conhecimento e na busca de
+orientar indivíduos e empresas a conquistar espaços nas
+instituições e nos mercados, muitas pesquisas têm sido
+conduzidas. Praticamente todas essas pesquisas enfatizam
+a informação e o conhecimento como sendo hoje os bens
+de maior valor. Nesse contexto, a nova economia,
+chamada economia do conhecimento, é fundamentada
+na capacidade intelectual para gerar riquezas. Apoiados
+nesse raciocínio, vários autores, entre os quais Mukherji
+e Mukherji (2003), têm levado pessoas e organizações a
+refletir sobre que estratégias adotar para implantar
+modelos gerenciais baseados em conhecimento.
+A tecnologia da informação (TI), que é gerada e
+explicitada devido ao conhecimento das pessoas, tem
+sido, ao longo do tempo, cada vez mais intensamente
+empregada como instrumento para os mais diversos fins.
+É utilizada por indivíduos e organizações, para
+acompanhar a velocidade com que as transformações vêm
+ocorrendo no mundo; para aumentar a produção,
+melhorar a qualidade dos produtos; como suporte à
+análise de mercados; para tornar ágil e eficaz a interação
+com mercados, com clientes e até com competidores.
+É usada como ferramenta de comunicação e gestão
+empresarial, de modo que organizações e pessoas se
+mantenham operantes e competitivas nos mercados em
+Adroaldo Guimarães Rossetti
+Doutorando em engenharia e gestão do conhecimento - EGC/UFSC
+E-mail: adroaldo@cnpat.embrapa.br
+Aran Bey Tcholakian Morales
+Doutor em pesquisa operacional e sistemas, Universidade Federal de
+Santa Catarina (UFSC).
+E-mail: aran@stela.ufsc.br
+Ci. Inf., Brasília, v. 36, n. 1, p. 124-135, jan./abr. 2007
+125
+que atuam. Em face disso, além de
+sua rápida evolução, é cada vez
+mais intensa a percepção de que a
+tecnologia de informação e
+comunicação não pode ser
+dissociada de qualquer atividade,
+como importante instrumento de
+apoio à incorporação do
+conhecimento como o principal
+agregador de valor aos produtos,
+processos e serviços entregues
+pelas organizações aos seus
+clientes. A figura 1, que lembra a
+visão piramidal da evolução dos
+sistemas de informação referida
+por Martin (1982), Martin e
+Leben (1989), adaptada e
+apresentada por Pacheco e Kern
+(2003), com base no trabalho de
+Pant e Hsu (1995), dá uma idéia
+de como a tecnologia da
+informação e comunicação evoluiu nas organizações.
+Nota-se, pois, ao longo do tempo, conforme O’Brien
+(2004), considerável expansão das funções dos sistemas
+de informação computadorizados, causando impacto a
+FIGURA 1
+Evolução da tecnologia da informação e comunicação nas organizações
+Fonte: adaptada com base em Martin (1982), Martin e Leben (1989) e Pacheco e Kern (2003)
+TABELA 1
+Evolução dos Sistemas de Informação
+Período / Uso
+De 1950 a 1960 (‘50-’60): Processamento de dados
+De 1960 a 1970 (’60-’70): Relatórios administrativos
+De 1970 a 1980 (’70-’80): Apoio à decisão
+De 1980 a 1990 (’80-’90): Apoio estratégico e ao usuário
+final
+A partir de 1990 (’90-): Empresa e conexão em rede
+global
+Funções dos Sistemas de Informação
+Sistemas de processamento eletrônico de dados: processamento de transações,
+manutenção de registros e aplicações contábeis tradicionais.
+Sistemas de informação gerencial: relatórios administrativos de informações
+pré-estipuladas para apoiar a tomada de decisão.
+Sistemas de Apoio à Decisão (SAD): apoio interativo e ad hoc ao processo de
+tomada de decisão gerencial.
+Sistemas de computação do usuário final: apoio direto à computação para
+produtividade do usuário final e colaboração de grupos de trabalho. Sistemas
+de suporte a executivos: informações críticas para a alta gerência. Sistemas
+especialistas: conselho especializado baseado em conhecimento para os usuários
+finais. Sistemas de informação estratégica. Produtos e serviços estratégicos
+para obtenção de vantagem competitiva.
+Sistemas de informação interconectados: sistemas direcionados ao usuário
+final, à empresa e à computação, às comunicações e à colaboração
+interorganizacionais, incluindo operações e administração globais nas Internet,
+intranets, extranets e outras redes empresariais e mundiais.
+usuários finais e a gestores das organizações. Na tabela 1,
+são apresentadas as principais funções desses sistemas
+nos três marcos fundamentais de sua evolução, como
+suporte operacional e transformacional de dados,
+informação e conhecimento.
+Fonte: adaptado de O’Brien (2004).
+Ci. Inf., Brasília, v. 36, n. 1, p. 124-135, jan./abr. 2007
+O papel da tecnologia da informação na gestão do conhecimento
+126
+Vê-se ainda, pela figura 1, que cada fase de operação desses
+sistemas tem o apoio de outras estruturas ou ferramentas
+essenciais para a eficiência e eficácia de suas funções.
+Dessa forma, encontram-se os armazéns de dados (Data
+warehouse) com as bases de dados OLTP (Online
+Transaction Processing) ou transação de processos on-line,
+por exemplo, possibilitando a operação dos dados, além
+de favorecer sua transformação em informações úteis às
+organizações e transmissão aos ambientes
+organizacionais, por exemplo. Do mesmo modo, a Web,
+as extranets e os chamados entrepostos ou subarmazéns
+de dados (Data marts) somam-se, apoiando os sistemas
+de informação na tomada de decisões, além de apoiar a
+transformação das informações em conhecimento.
+Identicamente, os sistemas interconectados, como
+sistemas de informações empresariais (Enterprise
+Information System – EIS), sistemas de informações
+geográficas (Geographic Information System – GIS) e o
+padrão de assinatura digital (Standard of digital signature –
+DSS), a Internet, as intranets e outras aparecem como
+ferramentas de apoio estratégico ao conhecimento. Nessa
+mesma linha, “novas tecnologias de informação e
+comunicação” têm surgido, como forma de “extração do
+conhecimento” explícito, “interoperabilidade”
+(principalmente como sistemas abertos, habilidade de
+intercambiar e transmitir dados, informações e
+conhecimento, uniformidade na interação com o usuário
+e a construção de interfaces customizáveis), “análise de
+redes”, “governo eletrônico” e tantas outras.
+A exemplo dessa pequena amostra de evolução da
+tecnologia da informação e comunicação, cresce
+exponencialmente o número das chamadas “ferramentas
+de gestão do conhecimento”, como: APIs – Aplicativos de
+Interfaces Padronizadas; BI – Business Intelligence; COINS
+– Communities of Interests Networks (Redes de Interesses
+de Comunidades); CRM – Customer Relationship
+Management; CSCW – Computer Supported Cooperative
+Work (Trabalhos colaborativos apoiados por
+computador); EIPs – Enterprise Information Portals; EISs
+– Executive Information System; ERP – Enterprise Resources
+Planning; ETD – Engagement Team Database (Banco de
+dados de comprometimento de grupos); GED –
+Gerenciamento de documentos; PdCCs – Portais de
+conhecimentos corporativos; SGC – Sistemas de Gestão de
+Conteúdos; Forecasting e Technology Assessment, entre
+tantas outras.
+Observa-se, pois, que há incessante busca pela tecnologia
+como instrumento de extração do conhecimento
+humano; de incorporação desse conhecimento, tanto na
+cultura quanto nos processos de gestão organizacionais e
+até como forma de gestão do conhecimento (GC).
+Embora se trate de excelente recurso e valioso suporte à
+GC, convém lembrar que só a tecnologia não é suficiente.
+A GC vai além da simples utilização de ferramentas de
+TI, deve ocupar-se de outros fatores intrinsecamente
+ligados a características humanas, muitas das quais
+impenetráveis pela tecnologia, apesar de ainda pouco
+exploradas. Essa busca acirrada decorre, provavelmente,
+do fato de que tanto o conceito de TI, quanto a sua
+realidade nas organizações antecedem ao conceito e à
+realidade da GC, como meio para gerenciar esses recursos
+que envolvem principalmente pessoas e tecnologias.
+Enquanto a tecnologia da informação e comunicação
+começou a ser utilizada pelas organizações na década de
+1950 (figura 1), o conceito de GC, segundo Sveiby (2003,
+p.3), surgiu no início da década de 1990, a partir de cujo
+período, segundo o autor, “a gestão do conhecimento
+não é mais uma moda de eficiência operacional. Faz parte
+da estratégia empresarial”. Sob a ótica da economia do
+conhecimento, em contraposição à economia industrial,
+por exemplo, surge a preocupação com a gestão desse
+novo capital – o conhecimento.
+O objetivo deste artigo é apresentar uma discussão sobre
+a interação entre tecnologia da informação e gestão do
+conhecimento como instrumentos de gestão estratégica
+nas organizações.
+REVISÃO DA LITERATURA
+Segundo vários autores, entre os quais Toumi (2001), o
+sucesso do negócio está ficando cada vez mais dependente
+da inovação e do conhecimento, que estão mudando as
+formas tradicionais de organizar negócios nas empresas.
+As suposições tradicionais em coordenação, controle e
+apropriação de recursos estão perdendo sua relevância, e
+as habituais formas de administrar as organizações estão
+se tornando inadequadas. Com o advento da TI, novas
+formas de rede de organização estão emergindo e a
+importância de redes informais dentro e entre
+organizações está se tornando amplamente concebida.
+Na rede da sociedade de conhecimento, as empresas de
+negócios terão novos experts, e os gerentes de negócio
+precisam entender de diferentes sistemas de valor. Isto
+tem implicações no design organizacional, na estratégia,
+nas práticas de gestão e tecnologias organizacionais,
+conduzindo às novas teorias e práticas de GC. Como os
+negócios empresariais têm um papel fundamental no
+sistema socioeconômico global, é importante entender
+como o conhecimento está influenciando a mudança
+desses negócios. Esse entendimento propiciará o
+desenvolvimento de uma compreensão do sucesso das
+Ci. Inf., Brasília, v. 36, n. 1, p. 124-135, jan./abr. 2007
+Adroaldo Guimarães Rossetti / Aran Bey Tcholakian Morales
+127
+organizações de conhecimento-intensivo e do
+investimento requerido para esse sucesso.
+Para Toumi (2001), novas informações, comunicação e
+tecnologias computacionais estão mudando
+fundamentalmente a organização e o conteúdo de
+trabalho, enfatizando que pelo menos para alguns
+membros da sociedade, carreiras de trabalho de longavida
+estão se transformando em um mosaico onde
+trabalho produtivo, aprendizado e desenvolvimento de
+competência são inseparáveis.
+Diante desse quadro, a integração entre GC e TI aparece
+como um imperativo para atender a tais necessidades.
+Essa integração, contudo, é extremamente complexa, pois
+envolve tanto o gerenciamento de ativos intangíveis de
+diferentes naturezas – pessoas, conhecimentos tácitos,
+explícitos, individuais, organizacionais e de redes –,
+quanto conhecimentos estruturais, que servem de base
+tecnológica para a estocagem, para a melhoria e para o
+fluxo dos bens intangíveis, e sistemas de informação com
+aplicativos que possibilitem o aumento da interação entre
+pessoas nos ambientes interno e externo, agregando
+fornecedores e clientes à cadeia de valor das organizações.
+Diante dessa complexidade, há muitos pesquisadores,
+como Santiago Júnior (2004), por exemplo, a enfatizar
+que as TI têm-se tornado o centro nervoso das empresas,
+um fator estratégico de competitividade e de
+sobrevivência. Embora isso seja verdade, é preciso cautela,
+para que não se cometa o equívoco de achar que a TI, em
+si, seja a solução para o sucesso das organizações. Aliás,
+Davenport e Prusak (1998) afirmam que algumas
+organizações, equivocadamente, presumiram que a
+tecnologia poderia substituir a qualificação e o julgamento
+de um trabalhador humano experiente, o que se tem
+revelado falso. Esses autores destacam que a informação
+se movimenta pelas organizações por redes hard e soft. As
+redes hard têm uma infra-estrutura definida, formada por
+fios, utilitários de entrega, antenas parabólicas, centrais
+de correio, endereços, caixas postais eletrônicas.
+Envolvem conhecimento estruturado, qualificações
+técnicas e experiência profissional. Já as redes soft são
+menos formais e visíveis; são circunstanciais; envolvem
+um claro senso dos aspectos culturais, políticos e pessoais
+do conhecimento, da transferência do conhecimento.
+A integração adequada entre ambas é que permite o bom
+posicionamento da empresa no mercado, sua resposta
+acertada às demandas.
+Para Davenport e Prusak (1998), o objetivo das
+ferramentas de GC é modelar parte do conhecimento
+que existe nas cabeças das pessoas e nos documentos
+corporativos, disponibilizando-a para toda a organização.
+A mera existência de conhecimento na empresa é de
+pouco valor, se ele não estiver acessível e não for utilizado
+como um dos seus recursos mais importantes. Com essas
+ferramentas, pretende-se que o conhecimento possa fluir
+por meio de redes de comunidades, transformando a
+tecnologia em um meio e o conhecimento em um capital,
+em uma mensagem.
+A expressão gestão do conhecimento assume significados
+diversos, de acordo com o contexto em que se aplica.
+Especialmente com o advento da TI e com o avanço nas
+práticas de gestão organizacional, a GC tem sido
+entendida sob a forma de diferentes estratégias, a partir
+das quais as organizações lidam com o conhecimento,
+interna e externamente, para obter vantagens
+competitivas. Tal é a constatação de renomados autores
+na área, como Davenport et al. (1996), por exemplo.
+Sveiby (2003) apresenta a seguinte classificação para
+abordar o campo da GC, tanto em termos das áreas do
+conhecimento, que a compõem, quanto em relação aos
+níveis de percepção, que caracterizam o processo:
+ÁREAS DO CONHECIMENTO:
+• gestão de pessoas: envolve as áreas de filosofia,
+psicologia, sociologia e administração, para o
+entendimento da dinâmica dos processos de criação e
+difusão de conhecimento tácito;
+• gestão da informação: envolve as áreas de tecnologia e
+ciência da informação, para a construção da base de
+conhecimento codificado.
+NÍVEIS DE PERCEPÇÃO:
+• perspectiva individual: inclui as motivações e as
+capacidades dos indivíduos;
+• perspectiva organizacional: inclui os recursos e as
+competências essenciais das organizações.
+Dessa forma, como afirmam Davenport e Prusak (1998,
+p.130), “a gestão do conhecimento deve ser parte do
+trabalho de cada um dos membros da empresa”. GC é,
+pois, a gestão dos ativos intangíveis baseada, sobretudo,
+na competência dos colaboradores de uma determinada
+organização.
+A GC pode ser sintetizada, segundo Salim (2001), como
+um processo articulado e intencional, destinado a
+sustentar ou a promover o desempenho global de uma
+Ci. Inf., Brasília, v. 36, n. 1, p. 124-135, jan./abr. 2007
+O papel da tecnologia da informação na gestão do conhecimento
+128
+organização, tendo como base a criação e a circulação de
+conhecimento.
+Há forte tendência em correlacionar GC com
+desempenho organizacional em sentido amplo, o que tem
+sido comprovado em diversas pesquisas realizadas com
+métodos diferentes, junto a empresas de distintos perfis
+e portes, também em locais diferentes. Três estudos
+recentes a esse respeito feitos por amostragem
+quantitativamente significativa, detalhando as relações
+entre GC e desempenho organizacional, apontam-nas
+como positivas, mas identificam questões intrigantes do
+ponto de vista da percepção e da forma de inserção da
+GC no interior das empresas.
+O primeiro desses estudos, conduzido por Maier e Remus
+(2002), descreve o modo como empresas alemãs utilizam
+a GC. O trabalho foi baseado em uma pesquisa empírica
+realizada por um dos autores (MAIER, 2002) e em uma
+pesquisa bibliográfica sobre quatro estudos empíricos de
+outros pesquisadores sobre o assunto.
+No primeiro caso, Maier (2002) investigou o estado-daarte
+dos sistemas de gestão do conhecimento (Kenowledge
+Management System – KMS) utilizados nas 500 maiores
+firmas da Alemanha e nas 50 mais importantes
+companhias dos setores bancário e de seguros daquele
+país. Dos questionários enviados, houve retorno de 73
+respondentes. Analisando as respostas, Maier e Remus
+(2002) concluíram que a GC, embora pareça absorver
+todos os tipos de abordagens teórica e prática, muitas
+vezes não leva em consideração o valor estratégico ou de
+negócios. Para eles, a noção de GC está relacionada à
+alavancagem de recursos que devem ser concentrados
+em poucas metas, mas claramente definidas.
+Consideraram, também, GC como a acumulação de
+recursos pela mineração de experiências e pelo acesso de
+recursos de outras firmas, de modo que a empresa possa
+aumentar a velocidade de desenvolvimento de novos
+produtos, ampliando o seu ciclo de vida. Maier e Remus
+(2002, p.104) concluíram que “os esforços de GC das
+organizações respondentes, em média, ainda têm
+elementos para ir até os mais avançados benefícios que
+podem ser colhidos”.
+No segundo caso, a partir da análise dos quatro estudos
+empíricos de outros pesquisadores, alguns dos quais,
+estudos de casos, provenientes de dados empíricos, Maier
+e Remus (2002) elaboraram um quadro das dimensões de
+estratégias de GC orientadas por processos. Narram o
+quanto as organizações seguem tais metas de GC e
+explicam até que ponto elas atingiram essas metas.
+Mencionam, além disso, que as organizações não dão
+muita atenção ao valor estratégico de suas iniciativas,
+ligando GC a atividades estratégicas de negócios ou
+vantagens competitivas. Os resultados permitiram
+concluir, finalmente, segundo Maier e Remus (2002,
+p.105), que “(...) GC, na prática, parece ser um esforço
+que compreende todos os tipos de atividades, medidas e
+tecnologias”. Para os autores, as estratégias de GC são
+afetadas pelo uso de tecnologias de informação e
+comunicação que influenciam todos os níveis de
+intervenção, isto é, a cultura corporativa subjacente, a
+estrutura organizational, as funções e processos,
+classificados como tecnologias que suportam a GC. Na
+opinião dos autores, isso permite inferir que as
+tecnologias de informação utilizadas são, de alguma
+forma, a partir de certas instâncias, confundidas com
+estratégias de GC ou que estas estratégias têm dimensão
+secundária como ações integrativas em um sistema de
+GC. Acrescentam que se pode também atribuir os valores
+da dimensão secundária ao mecanismo social para troca
+de conhecimento (ambiente da dimensão cultural).
+O segundo estudo, realizado por Leite (2004), analisou
+as relações entre GC e estratégia; GC e gestão de
+competências e GC e resultados, em 99 empresas
+brasileiras a partir de um amplo referencial teórico. Entre
+os 16 conceitos de GC revisados pela autora, a maioria
+traduz a expressão como processos, fluxos ou redes de
+valor, para que as empresas possam chegar a uma posição
+superior em relação à concorrência. Ela adotou o conceito
+de Weggeman (1997), que considera GC como um
+processo contínuo, relacionado à criação de valor em
+uma cadeia de produção, o que, segundo este autor,
+confere-lhe dinamicidade.
+Entre as principais conclusões, a autora destaca que em
+muitas organizações as iniciativas para a GC parecem
+iniciativas isoladas de áreas funcionais, não sendo raro
+observar esforços de departamentos de recursos humanos
+ou de tecnologia da informação tentando desenvolver
+ou implementar projetos de GC, ou seja, a cúpula da maior
+parte das empresas ainda não apóia as iniciativas de GC,
+nem tampouco os empregados compreendem o que
+significa GC. Acrescenta ainda que a potencial
+contribuição da TI não chega a ser um destaque, restringese
+ao desenvolvimento e uso dos registros dos ativos
+intelectuais e dos sistemas de processamento. Leite (2004,
+f.137) concluiu que “(...) as empresas brasileiras ainda
+possuem poucas práticas que relacionam a gestão do
+conhecimento à estratégia empresarial, gestão de
+competências e de resultado ...”. Inferiu, além disso, que
+essas empresas não enfrentam os obstáculos que se
+impõem à implementação da GC.
+Ci. Inf., Brasília, v. 36, n. 1, p. 124-135, jan./abr. 2007
+Adroaldo Guimarães Rossetti / Aran Bey Tcholakian Morales
+129
+O terceiro estudo foi efetuado por McKeen et al. (2006),
+com objetivo de verificar até que ponto as organizações
+acoplam, em particular, práticas de GC positivamente
+relacionadas com desempenho organizacional e se
+desempenho organizacional é, em troca, positivamente
+relacionado a desempenho financeiro. Os autores
+afirmam que estavam pouco interessados nos
+mecanismos tecnológicos, socioculturais ou estruturais
+pelos quais a GC é apoiada ou aumentada. Ao invés disso,
+focalizaram na qualidade e na extensão percebidas nas
+praticas da GC e como estas práticas se relacionaram a
+resultados. Dessa forma, o estudo de McKeen et al. (2006)
+delineia-se como um dos mais exaustivos e completos
+realizados recentemente sobre o assunto. Os autores
+elaboraram um quadro com 12 práticas de GC, a partir
+de 30 pesquisas anteriores, que também relacionaram
+GC com desempenho organizacional. Pode-se afirmar,
+portanto, que a base conceitual dos autores está assentada
+em uma revisão bibliográfica que permite identificar, com
+expressivo grau de profundidade, os problemas associados
+à implantação das estratégias de GC. Essas 30 pesquisas,
+objeto do estudo, foram feitas, respectivamente, uma em
+1999, cinco em 2000, quatro em 2001, quatro em 2002,
+sete em 2003, oito em 2004 e uma em 2005. Com base
+nesse conjunto de 12 práticas de GC e nos três indicadores
+de performance organizacional, mencionados como
+disciplinas de valor por Treacy e Wiersema (1995) –
+liderança em produto, proximidade do consumidor e
+excelência operacional –, McKeen et al. (2006) elaboraram
+um questionário para estudar as relações entre GC e
+desempenho organizacional, em empresas do Canadá e
+dos Estados Unidos. Apesar de a taxa de retorno à
+amostra composta de 90 empresas ter sido de apenas 7%,
+os autores consideraram válidos os resultados obtidos.
+Com base nesses resultados, concluíram que a GC deixou
+de ser um conceito emergente para tornar-se uma função
+comum nas organizações. Mesmo assim, indicam que na
+prática ainda há problemas a resolver. Mencionam, nesse
+sentido, que a cultura talvez seja o fator mais influente
+na promoção ou inibição de práticas de GC.
+Os autores confirmaram o vínculo entre GC e
+desempenho organizacional, já referido por pesquisas
+quantitativas e qualitativas, e certa relação positiva, ainda
+que fraca, entre desempenho organizacional e
+desempenho financeiro. Suas conclusões são sintetizadas
+com o seguinte relato:
+Mais especificamente, concluímos que as práticas de
+GC estão diretamente relacionadas a várias medidas
+intermediárias de desempenho organizacional
+estratégico (proximidade do consumidor, liderança
+em produto e excelência operacional) e que essas
+medidas intermediárias estão associadas ao desempenho
+financeiro (McKEEN et al., 2006, p.1-2).
+Os autores mencionam ainda, com base na pesquisa
+bibliográfica realizada, que há uma espécie de
+desequilíbrio entre o desenvolvimento de pesquisas
+teóricas nessa área e a falta de estudos empíricos que
+comprovem ou não as hipóteses acadêmicas.
+RESULTADOS E DISCUSSÃO
+Apesar das diferenças metodológicas, uma questão que
+permeia as três pesquisas recentes, mencionadas e
+sintetizadas na tabela 2, a seguir, sobre GC e desempenho
+organizacional, diz respeito à visão dos processos em
+relação à GC. Leite (2004) deixa claro, em seu trabalho,
+que muitos autores, de certa forma, confundem
+orientação por processos e melhoria nessa orientação
+com GC, algo que merece análise mais detalhada.
+Confrontando-se não apenas os resultados, mas
+principalmente as observações propostas em cada uma
+dessas pesquisas, conclui-se pela ausência de uma
+percepção, por parte das empresas-alvo dos estudos, que
+relacione os conhecimentos gerados nos processos de
+negócios com aqueles que surgem e se desenvolvem ao
+longo das estruturas verticais das organizações, as quais
+dão suporte e infra-estrutura à realização dos processos.
+Assim como existe tendência a considerarem-se todos
+os fluxos como processos, independentemente de
+gerarem ou não valor, há falta de percepção referente à
+articulação dos conhecimentos gerados nas estruturas
+verticais (funcionais) e horizontais (processuais) e com
+respeito à estrutura-síntese que possibilitaria que essa
+articulação fosse caracterizada como gestão. Não existe,
+portanto, uma visão integradora de processos a estruturas
+funcionais e vice-versa, e de como o conhecimento
+gerado nesse complexo de interações poderia ser
+gerenciado. Se falta uma concepção de GC como
+estratégia, segundo afirmam Maier e Remus (2002) e Leite
+(2004), e se a GC tende a incorporar-se como função,
+conforme afirmam McKeen et al. (2006), resta
+compreender se a função da GC seria estratégica, ou seja,
+integradora dos processos horizontais e verticais, em um
+plano superior da gestão.
+Embora sejam recentes os estudos sobre GC, o número
+de pesquisas tem crescido bastante, em uma nítida
+evidência da importância dessa área. Nota-se, contudo,
+que as organizações ainda não têm uma visão clara de
+como incorporá-la em sua cultura, de modo a transformá-
+Ci. Inf., Brasília, v. 36, n. 1, p. 124-135, jan./abr. 2007
+O papel da tecnologia da informação na gestão do conhecimento
+130
+la em grande fator de sucesso. Em contrapartida, é escassa
+a literatura que aborde especificamente a função da TI
+na GC. Provavelmente dessa lacuna, decorre a falta de
+clara distinção entre TI e GC, de modo que a interação
+adequada entre ambas aumente substancialmente o
+desempenho organizacional, permitindo às empresas
+posição de destaque no mercado. Em nenhuma das
+pesquisas referidas, há menção evidente do papel das TI
+nos sistemas de GC utilizados nas organizações estudadas.
+Com exceção de McKeen et al. (2006), que esclarecem
+que seus objetivos não visavam a mecanismos
+tecnológicos, os outros se restringem a afirmações
+genéricas. Maier e Remus (2002) relatam que as práticas
+de GC compreendem as tecnologias, que as estratégias
+de GC são afetadas pelas tecnologias de informação e
+comunicação, embora não digam como afetam; e que as
+TI, de certa forma, são confundidas com GC. Leite
+(2004), por sua vez, limita-se a dizer que há organizações
+que confundem GC com TI e que a contribuição desta,
+nas empresas estudadas pela autora, não chega a ser um
+destaque.
+TABELA 2
+Conceitos de GC e suas respectivas características, segundo as organizações objeto dos três principais estudos
+abordados
+Autores
+Maier e Remus (2002)
+Leite (2004)
+McKeen et al. (2006)
+O que estudaram
+Investigaram o estado-da-arte da
+GC nas 500 maiores firmas da
+Alemanha e nas 50 mais importantes
+companhias dos setores bancário e
+de seguros daquele país.
+Analisou as relações entre GC e
+estratégia, GC e gestão de
+competências e GC e resultados, em
+99 empresas brasileiras.
+Estudaram as relações entre GC e
+desempenho em 90 empresas do
+Canadá e dos Estados Unidos.
+A partir daí, elaboraram um quadro
+com 12 práticas de GC, a partir de
+30 pesquisas anteriores, as quais
+também relacionaram GC com
+desempenho organizacional.
+Conceitos de GC
+A GC está relacionada à
+alavancagem de recursos, os
+quais devem ser concentrados
+em poucas metas. E também à
+acumulação de recursos pela
+mineração de experiências e
+pelo acesso aos recursos de
+outras firmas, de modo que a
+empresa possa aumentar a
+velocidade do desenvolvimento
+de novos produtos, acelerando
+o seu ciclo de vida.
+Adotou o conceito de
+Weggeman (1997), que
+considera GC como um
+processo contínuo, relacionado
+à criação de valor em uma
+cadeia de produção.
+A base conceitual dos autores,
+portanto, está assentada em uma
+revisão bibliográfica que
+permite identificar com
+expressivo grau de profundidade
+os problemas associados à
+implantação das estratégias de
+GC.
+Conclusão
+“(...) GC, na prática, parece ser
+um esforço que compreende
+todos os tipos de atividades,
+medidas e tecnologias”.”Os
+esforços de GC das empresas
+respondentes, em média, ainda
+têm elementos para colher
+benefícios mais avançados”.
+“(...) as empresas brasileiras
+ainda possuem poucas práticas
+que relacionam a GC à
+estratégia empresarial, gestão de
+competências e de resultado ...”.
+“A GC deixou de ser um
+conceito emergente para tornarse
+uma função comum nas
+organizações”.”Confirmaram a
+existência de vínculo entre GC
+e desempenho, já referido em
+outras pesquisas”.
+As pesquisas de Maier e Remus (2002), Leite (2004) e
+McKeen et al. (2006) apontam diversos tipos de lapsos
+entre o que as empresas consideram GC e seu
+desempenho organizacional, sob o ponto de vista mais
+amplo que o de simples processos de negócios.
+Para Maier e Remus (2002), o vínculo entre GC e
+estratégia de negócios não está amplamente
+implementado na prática, devido à ausência de modelos
+que relacionem esforços de GC, no sentido de processos
+orientados por conhecimento, estrutura e instrumentos
+organizacionais, atividades relativas à cultura
+empresarial, implementação de tecnologias e estratégia
+de negócios. Conforme esses autores, essa lacuna seria
+preenchida com a implementação de uma visão por
+processos, sendo a GC aplicada tanto em nível interno,
+quanto às áreas externas da organização, principalmente
+àquelas que se relacionam ao ambiente competitivo do
+mercado: consumidores, competidores e acionistas. Eles
+acreditam que deve haver um equilíbrio entre a visão
+baseada em recursos defendida por alguns autores e a
+Ci. Inf., Brasília, v. 36, n. 1, p. 124-135, jan./abr. 2007
+Adroaldo Guimarães Rossetti / Aran Bey Tcholakian Morales
+131
+visão baseada em mercado, no plano das vantagens
+competitivas. Nesse contexto, uma estrutura para
+estratégias de gestão do conhecimento pode ser baseada
+na tradicional análise de Oportunidades e Ameaças;
+Sucessos e Fracassos (Opportunities and Threats; Strengths
+and Weaknesses – SWOT), proposta por Zack (1999), na
+qual a estratégia é vista como instrumento de equilíbrio
+entre as forças dos ambientes externo e interno à
+organização. No ambiente externo, referente às
+oportunidades e ameaças e no ambiente interno,
+referente aos sucessos e fracassos. O ambiente externo
+age, empurrado pela estrutura do modelo das cinco forças
+ou fatores, desenvolvido e proposto por Porter (1998,
+p.4), conhecidas como “Ameaça da entrada de outras
+organizações no mercado; Poder de barganha dos
+fornecedores; Poder de barganha dos compradores;
+Ameaça da disponibilidade de serviços ou de produtos
+substitutos; Concorrentes”. Esse modelo representa uma
+estratégia de orientação de mercado que internamente é
+estudado sob as lentes das capacidades e potencialidades
+dos recursos básicos existentes na organização. Por isso,
+acredita-se que o conhecimento é um dos mais
+importantes, se não o recurso estratégico mais
+importante de uma organização. Para Maier e Remus
+(2002, p.116),
+a grande vantagem da assim chamada estratégia de
+GC orientada por processos é que ela possibilita uma
+integração da visão baseada em recursos e da visão
+orientada ao mercado da organização.
+Um ponto de vista alternativo para solucionar os lapsos
+entre GC e desempenho seria a adoção de uma
+perspectiva mais pragmática que, conforme Maier e
+Remus (2002), não distingue entre estratégias,
+instrumentos, atividades e esforços, estando unicamente
+baseadas em pesquisas empíricas. Neste aspecto, esses
+autores relacionam oito itens que consideram
+importantes:
+• mapeamento de fontes de especialização interna,
+tornando visíveis os recursos relacionados ao
+conhecimento;
+• estabelecimento de novos papéis de conhecimento,
+como operadores ou engenheiros de conhecimento;
+• criação de ambientes virtuais para permitir o
+compartilhamento de conhecimento tácito;
+• sustentação de fluxos de conhecimento nas
+organizações, adaptando-se modelos de comunicação
+a essa necessidade;
+• gestão do conhecimento como estratégia de
+negócios, podendo-se escolher entre integrar a GC a
+todas as estratégias, ou apenas a algumas consideradas
+essenciais;
+• conhecimento focado no consumidor, capturandose
+suas necessidades, preferências, reações;
+• estratégia de gestão de recursos intelectuais, como
+patentes, propriedade intelectual, arranjos
+organizacionais;
+• inovação e criação do conhecimento, com pesquisa
+e desenvolvimento focados na melhoria das inovações
+(MAIER; REMUS (2002, p.105).
+A falta de um terreno fértil, de uma espécie de preparação
+para que as empresas brasileiras adotem práticas que
+tipifiquem a relação entre GC e desempenho
+organizacional, é também constatada por Leite (2004),
+com a seguinte afirmação:
+(...) o fato de as empresas brasileiras não aplicarem
+estas práticas permite supor que uma das prováveis
+razões, que faz com que as empresas tenham
+dificuldade para iniciar ou abandonar projetos dessa
+natureza, tem origem na falta de uma base
+solidamente constituída para que compreendam e
+reconheçam o conhecimento como recurso
+estratégico, como elemento-chave da construção das
+competências organizacionais e humanas e como
+parte a ser avaliada e acompanhada na contribuição
+do resultado organizacional (LEITE, 2004, f.138).
+Portando, se o conhecimento ainda não é visto na
+organização como recurso estratégico, há de se alcançar
+este estágio, a partir de uma análise das bases
+representadas por tais práticas.
+Leite (2004) menciona que o conhecimento tácito ainda
+é pouco trabalhado pelas empresas brasileiras, que têm
+dificuldade para gerenciá-lo, no tocante ao nível de
+socialização entre as pessoas. Ressalta, porém, que aquelas
+que valorizam tanto o conhecimento tácito quanto o
+explícito conseguem melhor desempenho. Segundo a
+autora, quase a metade confunde TI com GC e 49% das
+99 empresas ouvidas acreditam que a TI possa sozinha
+servir para gerenciar o conhecimento. Observou,
+contudo, que os entraves detectados na GC tácito
+apontam o inverso, ou seja, que a supremacia da TI é algo
+ilusório se não existe o desenvolvimento correspondente
+na área do inter-relacionamento humano. Outro lapso
+verificado é a falta de transparência quanto à divulgação
+Ci. Inf., Brasília, v. 36, n. 1, p. 124-135, jan./abr. 2007
+O papel da tecnologia da informação na gestão do conhecimento
+132
+dos propósitos mais elevados da administração. Dentre
+as empresas respondentes, apenas 8% afirmaram que
+deixam clara a sua estratégia organizacional para
+empregados de todos os níveis. Já o conceito de
+competência como resultado de conhecimentos,
+habilidades, atitudes e resultados alcançados por um
+indivíduo no seu trabalho é aplicado por 20% das
+empresas respondentes. A GC como processo contínuo,
+envolvendo ações que determinam os conhecimentos
+de acordo com a estratégia, a identificação de
+conhecimentos disponíveis, o compartilhamento, a
+aplicação e a avaliação do valor do conhecimento para o
+negócio, é um conceito aplicado por somente 5% das
+empresas entrevistadas. Além disso, 14% delas possuem
+métricas para GC, 8% têm equipes específicas para ações
+de GC e 9% possuem orçamento para essa área. Ficou
+evidenciado, também, que, nas organizações brasileiras,
+o estilo dinâmico, que qualifica as empresas que enfatizam
+simultaneamente os níveis tácito e explícito do
+conhecimento, tem relação com o desempenho superior
+apresentado por essas empresas.
+McKeen et al. (2006) chamam a atenção ao fato de que as
+organizações avaliam diferentemente as práticas de GC
+quando tomadas isoladamente e quando combinadas
+com disciplinas de desempenho organizacional,
+liderança em produto, proximidade do consumidor e
+excelência operacional. McKeen et al. (2006, p.1) afirmam
+ser “surpreendente a existência de um lapso significativo
+entre as práticas de GC que as firmas acreditam ser
+importantes e aquelas que estão diretamente
+relacionadas ao desempenho organizacional”. Na
+avaliação dos pesquisadores, isto talvez seja um indício
+da falta de uma evidência empírica de grande escala, que
+possibilite assegurar que a GC faz mesmo diferença para
+o desempenho organizacional. Eles ressaltam que, no
+tocante aos impactos na GC, os resultados financeiros e
+não financeiros são construtos diferentes, ou seja, se
+houver mudanças nas práticas de GC, elas não
+necessariamente afetarão o desempenho financeiro.
+Um fator de restrição ou de estímulo à GC, dependendo
+de como seja moldado, é a cultura organizacional. Para
+McKeen et al. (2006), organizações que valorizam seus
+empregados pelo que eles sabem e que os recompensam
+por compartilhar seus conhecimentos criam um clima
+mais favorável à GC. A ausência de ações desse tipo pode
+inibir a GC e dificultar o desempenho organizacional.
+Os estudos relacionando GC a desempenho
+organizacional, embora recentes, têm apresentando uma
+tendência de crescimento significativo nos últimos três
+anos. Contudo, os pesquisadores ainda encontram
+dificuldades para estabelecer indicadores que
+correlacionem efetivamente a GC com os aspectos do
+desempenho organizacional.
+McKeen et al. (2006), após uma exaustiva revisão de
+pesquisas sobre as relações entre GC e desempenho
+organizacional, concluíram que existem 12 indicadores
+de práticas de GC que podem ser associados a práticas
+voltadas à competitividade externa, como liderança em
+produto, intimidade com o consumidor e excelência
+operacional. Eles ressaltam que algumas práticas de GC
+consideradas relevantes por seus entrevistados do
+Canadá e dos Estados Unidos, para efeito do desempenho
+organizacional, foram avaliadas diferentemente quando
+tomadas individualmente e quando cruzadas com as
+práticas mencionadas de desempenho externo.
+A GC é, por assim dizer, a capacidade de lidar de forma
+criativa com as diferentes dimensões do conhecimento,
+desde sua criação a partir de dados, sua transformação
+em informações, e, a partir da análise das informações e
+sua transformação em conhecimento propriamente, sua
+contextualização, categorização, armazenamento, uso e
+disseminação, correção, compilação e reutilização. Para
+Kruglianskas e Terra (2003), a gestão do conhecimento
+aumenta e complementa outras iniciativas
+organizacionais, tais como o gerenciamento total da
+qualidade, a reengenharia de processos e o aprendizado
+organizacional, proporcionando novo e urgente centro
+de atenção para sustentar a posição competitiva. Assim,
+pode-se concluir que a GC está intimamente relacionada
+ao fator sucesso na tomada de decisões, o qual tende a
+aumentar à medida que aumenta a interação entre GC e
+TI. As ferramentas de GC pretendem auxiliar no processo
+de captura e estruturação do conhecimento de grupos de
+indivíduos, disponibilizando esse conhecimento em uma
+base compartilhada (base de conhecimento) por toda a
+organização.
+GC, portanto, não é só tecnologia, envolve, além disso,
+gestão de pessoas, com perspectivas e motivações
+individuais, aspectos psicológicos, emocionais e valores
+intrínsecos de personalidade e caráter. Administrar esse
+recurso pressupõe a prática constante e ininterrupta dos
+quatro pilares do conhecimento, preconizados por Delors
+(2001): aprender a conhecer; aprender a fazer; aprender a
+viver juntos (aprender a viver com os outros); aprender a
+ser. Para isso, embora seja necessário dispor de bons
+indicadores de desempenho, mas não é suficiente. É
+indispensável criar ambiente favorável ao
+compartilhamento, não só do conhecimento inerente
+Ci. Inf., Brasília, v. 36, n. 1, p. 124-135, jan./abr. 2007
+Adroaldo Guimarães Rossetti / Aran Bey Tcholakian Morales
+133
+aos aspectos organizacionais, mas também daquele
+referente aos requisitos e valores humanos, que podem
+favorecer a internalização e a codificação do
+conhecimento tácito, que não é tão simples, portanto
+precisa ser objeto de cuidado pelas empresas, a fim de ser
+explorado e valorizado convenientemente.
+Amaratunga et al. (2002), ao referirem-se às constantes
+mudanças no mundo dos negócios e classificá-las como
+geradoras de incertezas no interior das organizações,
+recomendam a implantação de ferramentas como o BSC
+– Balanced scorecard –, por exemplo, como forma de
+equilibrar e preservar a organização de certos riscos. Os
+autores enumeram, além disso, outras vantagens dessa
+ferramenta como apoio a um modelo de gestão, tais como
+ajudar a agilizar e manter a comunicação em todos os
+níveis, possibilitar o desenvolvimento de metas
+organizacionais, favorecer a criação de um sistema de
+recompensa e reconhecimento para a melhoria do
+desempenho futuro, permitir a quebra de barreiras
+organizacionais, apoiar a coordenação de possibilidades
+de crescimento, demonstrar a necessidade de melhorias
+de forma clara, oportunizar uma tentativa inicial realista
+de implementação, integrar o sistema de medida de
+desempenho da organização e facilitar a mudança de
+cultura corporativa.
+Os resultados obtidos nos principais estudos, que estão
+resumidos na tabela 2, permitem concluir que a GC deve
+ser vista ao mesmo tempo como brotando da melhoria
+dos processos e como suportada pelos arranjos
+organizacionais funcionais. Contudo, é importante a
+realização de pesquisas empíricas, capazes de esclarecer
+como os processos geradores de conhecimento, ao nível
+horizontal, podem integrar-se ao conhecimento gerado
+verticalmente, de modo que a GC seja exercida sem que
+se abra mão da estratégia. Tal complexidade merece novas
+pesquisas, embora não seja assunto novo. Em 1976, o
+general Clausewitz, famoso estrategista de guerra, segundo
+Mukherji e Mukherji (2003, p.1), já reconhecia que “tudo
+em estratégia é muito simples, mas isto não significa que
+tudo seja muito fácil”.
+O papel principal da TI na GC consiste em dar suporte à
+gestão do conhecimento, em ampliar o alcance e acelerar
+a velocidade de transferência do conhecimento. É
+importante ressaltar que a TI desempenha um papel de
+infra-estrutura, pois a GC envolve também aspectos
+humanos e gerenciais. Sua função é identificar e/ou
+desenvolver e implantar tecnologias e sistemas de
+informação que dêem apoio à comunicação empresarial
+e à troca de idéias e experiências. Isso facilita e incentiva
+as pessoas a se unirem, a tomarem parte de grupos.
+Favorece a renovação em redes informais de aquisição e
+troca de conhecimento, além de facilitar o
+compartilhamento de problemas, perspectivas, idéias e
+soluções em seu dia-a-dia profissional.
+Nota-se, embora que timidamente, esforços que apontam
+para a efetividade da GC e, nesse contexto, a função da
+TI e seus serviços como meios para o sucesso de uma
+estratégia, e não como um fim em si mesmo. É evidente,
+também, a necessidade de alinhamento da tecnologia
+com os processos da empresa e com as questões relativas
+à interação entre as pessoas, certamente o recurso
+intangível mais importante em todo esse contexto. Esta
+temática é algo que precisa ser igualmente aprofundada.
+CONCLUSÕES
+O resultado do estudo, a pesquisa bibliográfica e
+elaboração do trabalho permitiram as seguintes
+conclusões:
+1. A importância da GC é percebida pelo aumento de
+pesquisas sobre o assunto. Há, contudo, um desequilíbrio
+entre pesquisas teóricas e empíricas que comprovem as
+hipóteses acadêmicas e mostrem que a GC faz diferença
+no desempenho organizacional. Parece faltar uma sólida
+base conceitual que abranja a organização,
+proporcionando, a todos os colaboradores, clara
+compreensão do que significa GC. Provavelmente por
+isso, muitas delas ainda não têm uma visão clara de como
+incorporá-la em sua cultura, de modo a transformá-la
+em grande fator de sucesso. A cultura talvez seja o fator
+mais influente na promoção ou inibição de práticas de
+GC.
+2. O conhecimento tácito ainda não aparenta ser tão
+creditado pelas organizações, quanto o explícito. Parece
+haver dificuldade para geri-lo no âmbito da socialização
+entre as pessoas. Organizações que valorizam seus
+empregados pelo que eles sabem, recompensando-os por
+compartilhar seus conhecimentos, criam um clima mais
+favorável à GC e conseguem melhor desempenho.
+3. Apesar de alguns obstáculos que impedem melhor
+entendimento da função da GC, já existe grande número
+de iniciativas de GC em andamento nas organizações.
+Elas combinam várias abordagens, atividades singulares
+diferentes e tecnologias, que supostamente entregam
+valores de negócios, pela melhoria do modo como as
+organizações alavancam o conhecimento.
+Ci. Inf., Brasília, v. 36, n. 1, p. 124-135, jan./abr. 2007
+O papel da tecnologia da informação na gestão do conhecimento
+134
+4. A GC está intimamente relacionada ao fator sucesso
+na tomada de decisões, o qual tende a aumentar à medida
+que aumenta a interação entre GC e TI. Essa interação
+apropriada é que permite o bom posicionamento da
+empresa no mercado, sua resposta acertada às demandas.
+5. Os gestores devem atentar ao contexto da estratégia
+organizacional, focando-a na obtenção de melhoria do
+desempenho organizacional, a partir de uma visão
+integrada de GC, tanto nos planos vertical (das estruturas
+funcionais e de comando), quanto horizontal (relativo
+aos processos), pela busca do alinhamento entre práticas
+de GC e outras disciplinas voltadas à agregação de valor.
+6. É escassa a literatura que aborde especificamente a
+função da TI na GC. Provavelmente dessa lacuna, decorre
+a falta de clara distinção entre TI e GC e o fato de certas
+organizações confundirem tecnologias de informação
+com estratégias de GC. Isso parece obstaculizar, de certa
+forma, a adequada interação entre ambas, o que
+propiciaria substancial aumento do desempenho
+organizacional.
+7. Há empresas que acreditam que adquirir e implantar
+ferramentas e processos baseados apenas na tecnologia
+da informação seria suficiente para qualificá-las como
+uma empresa orientada para a gestão do conhecimento,
+o que significa, no mínimo, um grande equívoco.
+8. A TI desempenha um papel de infra-estrutura na GC.
+É utilizada como ferramenta de apoio à análise de
+mercado e suporte à tomada e decisão. Funciona como
+instrumento para desenvolver e implantar tecnologias
+que apóiem o mapeamento, a extração, a codificação, a
+modelagem, a disponibilização, o compartilhamento do
+conhecimento e a comunicação empresarial. Favorece a
+interação entre pessoas e grupos (gestores, operadores
+do conhecimento e empregados). A mera existência de
+conhecimento na empresa é de pouco valor, se ele não
+estiver acessível e não for utilizado como um dos seus
+recursos mais importantes.
+9. A TI é um instrumento facilitador da rápida
+mobilidade do conhecimento no interior das
+organizações. Um fator estratégico de competitividade e
+de sobrevivência nas empresas. É preciso, porém, cautela
+para que não se cometa o equívoco de julgar que a TI, em
+si, seja a solução para o sucesso das organizações.
+10. O grande desafio da GC parece ser: Como gerenciar
+as chamadas organizações de conhecimento intensivo?
+Como modelar o conhecimento para transformá-lo em
+um ativo que implique resultados para as organizações?
+Como mensurar dimensões de gestão que não podem ser
+expressas em valores financeiros, mas que fazem grande
+diferença no desempenho geral das organizações e
+permitem conquistar e manter uma posição sustentável
+no mercado? Como GC e TI podem interagir de modo
+eficaz nesse processo?
+Artigo submetido em 02/06/2007 e aceito em 24/10/2007.
+REFERÊNCIAS
+AMARATUNGA, Dilanthi et al. Application of the balanced scorecard
+concept to develop a conceptual framework to measure facilities
+management performance within NHS facilities. International Journal
+of Health Care Quality Assurance, v. 15, n. 4, p. 141-151, 2002.
+DAVENPORT, Thomas, H.; JARVENPAA, Sirkka, L.; BEERS,
+Michael, C. Improving knowledge work processes. Sloan Management
+Review, Cambridge Massachusetts, v. 37, n. 4, p. 53-65. Summer 1996.
+__________; PRUSAK, Laurence. Conhecimento empresarial: como
+as organizações gerenciam o seu capital intelectual. Trad. de Lenke
+Peres. 8. ed. Rio de Janeiro: Campus, 1998. 237 p.
+DELORS, Jacques. Educação: um tesouro a descobrir: relatório para a
+Unesco da Comissão Internacional sobre Educação para o século XXI.
+5. ed. São Paulo: Cortez; Brasília: UNESCO, 2001. 288 p.
+KRUGLIANSKAS, Isak; TERRA, José Cláudio Cyrineu. Gestão do
+conhecimento em pequenas e médias empresas. São Paulo: Negócios Editora,
+2003. 375 p.
+LEITE, Eliane Santos. Gestão do conhecimento nas empresas brasileiras:
+relações entre estratégia empresarial, gestão de competências e de
+resultado e impactos no desempenho de negócios. 2004. 186 f.
+Dissertação (Mestrado em Administração de Empresas)- Programa
+de Pós-graduação, Pontifícia Universidade Católica do Rio de Janeiro,
+Rio de Janeiro, 2004.
+MAIER, Ronald. State-of-practice of knowledge management systems
+– results of an empirical study. Journal of the Swiss Computer Society, v.
+3, n. 1, p. 15-23, Feb. 2002. Informatik/Informatique, Zeitschrift der
+Schweizerischen Informatikorganisationen. Disponível em: <http://
+www.upgrade-cepis.org/issues/2002/1/up3-1Maier.pdf>. Acesso em: 30
+jan. 2006.
+__________; REMUS, Ulrich. Defining process-oriented knowledge
+management strategies. Knowledge and Process Management, Hoboken,
+v. 9, n. 2, p. 103-118, Apr./June 2002.
+MARTIN, James. Strategic data-planning methodologies. 2nd ed.
+Englewood Cliffs, New Jersey: Prentice Hall, 1982. 236 p.
+__________; LEBEN, Joe. Strategic information planning methodologies.
+2nd ed. Englewood Cliffs, New Jersey: Prentice-Hall, 1989. 328 p.
+MCKEEN, J. D.; ZACK, M. H.; SINGH, Satyendra. Knowledge
+management and organizational performance: an exploratory survey.
+In: HAWAII INTERNATIONAL CONFERENCE ON SYSTEM
+SCIENCES, 39., 2006. Hawaii. Proceedings… Hawaii: [s.n.], 2006.
+MUKHERJI, Ananda; MUKHERJI, Jyotsna. Understanding strategy:
+why is strategy so difficult?. Advanced in Competitiveness Research, v.
+11, n. 1, p. 1-19, 2003.
+Ci. Inf., Brasília, v. 36, n. 1, p. 124-135, jan./abr. 2007
+Adroaldo Guimarães Rossetti / Aran Bey Tcholakian Morales
+135
+O’BRIEN, James. A. Sistemas de informação e as decisões gerenciais na
+era da Internet. Trad. de Célio Knipel Moreira e Cid Knipel Moreira.
+2. ed. São Paulo: Saraiva, 2004. 431 p.
+PACHECO, Roberto Carlos dos Santos; KERN, Vinicius Medina.
+Arquitetura conceitual e resultados da integração de sistemas de
+informação e gestão da ciência e tecnologia. DataGramaZero – Revista
+de Ciência da Informação, v. 4, n. 2, abr. 2003. Disponível em: <http://
+www.dgz.org.br/abr03/Art_03.htm>. Acesso em: 27 set. 2005.
+PANT, Somendra; HSU, Cheng. Strategic information systems
+planning: a review. In: INFORMATION RESOURCES
+MANAGEMENT ASSOCIATION INTERNATIONAL
+CONFERENCE., 1995, Atlanta/Georgia. Proceedings …. Atlanta/
+Georgia: [s.n.], 1995.
+PORTER, Michael. E. Competitive strategy: techniques for analysing
+industries and competitors. 1. ed. New York: [s.n.], 1998. 396 p.
+SALIM, Jean Jacques. Palestra gestão do conhecimento e
+transformação organizacional. In: SEMANA DA EQ/UFRJ, 68., 2001,
+Rio de Janeiro. Anais .... Rio de Janeiro: Universidade Federal do Rio
+de Janeiro, 2001.
+SANTIAGO JÚNIOR, José Renato Sátiro. Gestão do conhecimento: a
+chave para o sucesso empresarial. São Paulo: Novatec, 2004. 208 p.
+SCHREIBER, Guus et al. Knowledge engnineering and management: the
+CommonKADS methodology. Cambridge/Massachussets: MIT Press,
+2002. 932 p.
+SVEIBY, Karl Erik. A nova riqueza das organizações: gerenciando e
+avaliando patrimônios de conhecimento. 7. ed. Rio de Janeiro: Campus,
+2003. 260 p.
+TOUMI, Iikka. From periphery to center: emerging research topics
+on knowledge society. Technology Review, Helsinki, v. 16, p. 1-63, Aug.
+2001.
+TREACY, Michael; WIERSEMA, Frederik D. A disciplina dos líderes
+de mercado: escolha seus clientes, direcione seu foco, domine seu
+mercado. Trad. de Nivaldo Montingelli. Rio de Janeiro: Rocco, 1995.
+236 p.
+WEGGEMAN, Mathieu. Knowledge management. Shiedam: Scriptum,
+1997.
+ZACK, Michael H. Developing a knowledge strategy. California
+Management Review, Califórnia, v. 41, n. 3, p. 125-145, 1999.
+Ci. Inf., Brasília, v. 36, n. 1, p. 124-135, jan./abr. 2007
+O papel da tecnologia da informação na gestão do conhecimento

@@ -1,0 +1,829 @@
+31
+Vol. III - nº 01 - jan/jun 2007
+MEDIDAS PARA AVALIAÇÃO DE PERFORMANCE
+DA ÁREA DE TECNOLOGIA DE INFORMAÇÃO
+EM EMPRESAS
+Abner Netto, Walter de Mendonça e Marco Antonio Pinheiro da Silveira
+Universidade Municipal de São Caetano do Sul
+Rua Santo Antônio, 50 - São Caetano do Sul - SP - Brasil - CEP 09550-001
+abner@enygma.com.br
+marco.pinheiro@imes.edu.br
+Este trabalho apresenta resultados de uma pesquisa que
+visou identificar mecanismos disponíveis para se realizar
+avaliação de performance da área de Tecnologia de
+Informação (TI) em empresas. Foi realizado levantamento
+bibliográfico, e nele se buscou encontrar medidas
+quantitativas e qualitativas, e que considerem a
+performance da TI tanto do ponto de vista interno (gestão
+da área de TI), quanto do ponto de vista externo
+(atuação da área de TI na competitividade da empresa).
+É conhecida a dificuldade de se avaliar com precisão
+a performance da área de TI, ou de projetos específicos
+de TI. Apesar disto vários autores e instituições
+já propuseram mecanismos que procuram contribuir
+para isto. A pesquisa realizada confirma a existência de
+múltiplos métodos e pontos de vista. São apresentadas
+as medidas identificadas e conclui-se é desejável que
+os gerentes procurem observar o desempenho da área
+de TI segundo os diferentes enfoques existentes.
+Palavras-Chave: Tecnologia da Informação, Métricas
+em TI, Indicadores em TI
+RESUMO ABSTRACT
+This paper shows the results of a research whose
+objectives were to identify mechanism to evaluate the
+performance of IT’s area in corporations. It was a
+bibliographical study trying to find informations about
+how to measure the IT’s performance from inside view
+(IT managing) and outside view (competitiveness of IT
+area inside the corporation). The research showed
+several different methods for measuring performance
+and the need to know and choose a specific way to
+apply in a specific company.
+Keywords: Information Technology, IT metrics, IT
+indicators
+32
+Revista de Informática Aplicada
+1. INTRODUÇÃO
+Este trabalho faz uma análise dos mecanismos disponíveis
+para que empresários e gerentes de
+informática avaliem o desempenho da área de TI na
+organização. Trata-se de um tema relevante, pois, se
+por um lado se sabe que TI traz benefícios para operação
+de uma organização, sendo praticamente imprescindível
+para isso, por outro lado sabe-se que não
+é possível se medir com precisão a relação custo-benefício
+existente em um processo de implantação de
+ferramentas de TI.
+Pode-se considerar que a dificuldade de se avaliarem
+os benefícios obtidos com a implantação de Tecnologia
+de Informação/Sistemas de Informações (TI/SI) está
+associada ao componente humano que está presente
+nesta. Conforme apontam os livros texto da área de Sistemas
+de Informações, como O’Brien, (2004), um Sistema
+de Informações é composto por recursos de
+hardware, software e humanos. A abordagem teórica
+baseada em recurso considera que um sistema de informações
+pode ser inimitável, quando alguns elementos (ou
+recursos) associados a ele o tornam difíceis de serem
+copiados.
+Brynjolfsson (1993) rediscute o chamado Paradoxo
+da Produtividade - segundo o qual não é possível se
+estabelecer a relação entre produtividade e implantação
+de TI Segundo este autor, o crescente interesse no
+Paradoxo da Produtividade produziu uma quantidade
+significativa de pesquisas, mas isto só aprofundou o
+mistério.
+A complexidade existente na tarefa de elaborar uma
+relação de métricas para a área de TI pode ser observada
+quando comparamos dois textos recentes publicados
+na literatura da área de negócios. McBride (2005) informa,
+no artigo denominado “Benefícios de TI são difíceis
+de mensurar”, que uma pesquisa realizada pela consultoria
+Gartner em empresas australianas revelou que as empresas
+têm tido dificuldades para encontrar mecanismos
+capazes de mensurar benefícios proporcionados por soluções
+de TI. Segundo a Gartner, apenas uma entre sete
+companhias utiliza ferramentas ou metodologias para
+medir a contribuição de TI para os negócios. Em
+contrapartida, Symons & Brown (2004) afirmam na
+Forrester Research que “raramente se encontram problemas
+na produção de métricas de TI”. Os autores propõem
+uma framework para avaliação da área de TI,
+baseada em cinco métricas, que serão mencionadas a
+seguir.
+Assim, apesar de não ser possível avaliar precisamente
+a performance da área de TI, ou de projetos
+específicos de TI, vários autores já propuseram mecanismos
+que procuram contribuir para isto. Este trabalho
+visou identificar o maior número possível destes
+mecanismos por meio de levantamento bibliográfico.
+Procurou-se realizar a pesquisa com uma visão mais
+ampla possível, incluindo-se medidas de natureza qualitativa,
+que nem sempre são consideradas métricas.
+Porém, a proposta neste trabalho é verificar
+parâmetros importantes presentes na literatura voltados
+para avaliação do desempenho da área de TI. O
+intuito é fornecer uma relação destes parâmetros/ indicadores
+/ medidas / métricas, apresentando suas
+principais proposições. Esta relação de parâmetros
+pode ser útil para gerentes e pesquisadores com atuação
+ligados ao assunto, e indiscutivelmente não esgotará
+o assunto.
+Seria bastante confortável e prático se a avaliação da
+área de TI pudesse ser integralmente realizada com a
+utilização de indicadores numéricos, mas observa-se que
+isto não é possível, devido aos aspectos intangíveis presentes
+nos resultados da implantação de TI. Por outro
+lado, as empresas de todos os portes - micro, pequenas,
+médias e grandes - investem constantemente em TI, visando
+para melhorar ou agilizar seus processos empresariais,
+porém não dispõem de um indicador ou índice
+para avaliarem a performance desses investimentos nos
+negócios, ou que pelo menos a posicione frente a seus
+concorrentes.
+Algumas instituições têm criado indicadores a fim
+de prover informações para essas empresas. Alguns
+deles são: Custo Total de Propriedade (TCO), que é
+adotado por empresas de consultoria, os índices G e
+CAPT, da pesquisa do CIA (Centro de Informática
+Aplicada), da Fundação Getúlio Vargas (FGV-EAESP),
+o iDigital, a pesquisa da Universidade de São Paulo
+(FEA-USP). Por outro lado, autores propõem modelos
+que contêm itens a serem considerados na análise
+dos impactos da TI na competitividade empresarial, os
+quais estão sendo considerados neste estudo como
+medidas de natureza qualitativa.
+33
+Vol. III - nº 01 - jan/jun 2007
+2. METODOLOGIA
+Foi adotado neste trabalho o método de pesquisa
+bibliográfica, a qual, segundo Gil (2002) deve ser desenvolvida
+com base em material já elaborado, constituído
+principalmente de livros e artigos científicos.
+É importante destacar que, apesar da busca de textos
+e propostas sobre o tema ser o principal objetivo
+deste estudo, também é relevante a classificação proposta
+para as medidas e métricas da área de TI. Devese
+lembrar ainda, que a quantidade de textos que tratam
+do assunto é grande, e que forma selecionados no trabalho
+aqueles considerados mais relevantes, respeitandose
+a classificação proposta.
+3. PESQUISA BIBLIOGRÁFICA
+Para classificar as medidas pesquisadas neste trabalho,
+foi considerada a tipologia apresentada na Tabela
+1
+Como se pode observar na Tabela 1, além de classificação
+das medidas entre qualitativa/quantitativa, adotou-
+se neste trabalho uma diferenciação para as medidas
+de desempenho segundo a abrangência:
+- Interna: está associado ao desempenho da gestão
+interna da área de TI .
+- Externa: está associado ao desempenho das aplicações
+de TI com relação a promover aumento
+de competitividade da empresa.
+Deve-se salientar que existe uma zona nebulosa na
+diferenciação entre medidas de desempenho internas e
+externas. Poder-se-ia argumentar que o bom desempenho
+interno da área de TI deveria estar associado a um
+bom desempenho externo. Porém, pode-se também considerar
+a situação na qual a área de TI é eficiente na
+implementação das ferramentas de TI definidas, mas o
+conjunto dos aplicativos não resulta em vantagem competitiva
+para a empresa. O fato que levou prioritariamente
+à adoção da classificação medidas de desempenho externo/
+interno é a identificação de medidas que levam em
+conta predominantemente o aspecto da gestão da área
+de TI, como o trabalho de Albertin (2004) – “Administração
+de Informática”. Porém há neste trabalho também
+uma conexão entre a gestão interna da área de TI e a
+gestão da empresa como um todo.
+3.1. Medidas Quantitativas
+3.1.1. Total Cost of Ownership (TCO) ou
+Custo Total de Propriedade
+O TCO foi criado em 1987 pelo Gartner Group,
+como um método para se calcular o custo total de propriedade
+em TI. Ele ajuda essencialmente uma empresa
+a determinar se ganha ou perde na implementação
+de tecnologias específicas, e é composto pelos custos
+orçados (diretos) e pelos não orçados (indiretos), calculados
+para cada equipamento da empresa, para depois
+se traçar o panorama global.
+Os custos orçados são aqueles que formam o núcleo
+da área de sistemas - software, hardware, pessoal
+administrativo e operacional, desenvolvimento e suporte
+técnico; pode-se destacar as despesas com a aquisição
+e atualização de hardware e software, o gerenciamento
+das redes e sistemas, as taxas de comunicação.
+Os custos não orçados são os custos indiretos, que
+normalmente não são tratados pelo orçamento - como
+o tempo de sistema fora do ar, tempo de aprendizado
+de novas funções e a perda de produtividade por conta
+Tabela 1: Tipologia para classificação das medidas / métricas / parâmetros para avaliação da área de TI
+em empresas
+Desempenho
+Externo Interno
+Medida (TI x Competitividade (Administração
+da Empresa) de Informática)
+Quantitativa Índice G, TCO, CAPT
+Qualitativa
+Cadeia de Valor, Visão
+FCS,
+Baseada em Recursos.
+34
+Revista de Informática Aplicada
+da indisponibilidade dos recursos de informática; podese
+acrescentar também os custos do usuário final -
+customizações, suporte e treinamento informal.
+No gráfico abaixo é possível identificar as áreas principais
+responsáveis pelo TCO.
+Ao utilizar o TCO as empresas podem entender os
+custos decorrentes da propriedade e do uso de recursos
+de TI durante o seu ciclo de vida, e implementar as
+melhorias necessárias para poder reduzi-lo.
+Algumas ações que podem ajudar nessa
+implementação e, com isso, permitir que a empresa
+ganhe competitividade através de recursos de
+informática são (INFORMATIVO, 2005):
+• a criação de um processo de medição do TCO;
+• a padronização através do uso de poucas
+tecnologias;
+• o estabelecimento de uma infra-estrutura de
+networking;
+• a adoção de uma política de sistemas;
+• a instalação de uma ferramenta de TCO;
+• a integração dos ambientes em uma Intranet.
+Segundo César e Coen (2005), um dos grandes problemas
+da área de TI é que para os executivos da área
+financeira, a maioria dos gastos em TI são considerados
+como centro de custos, dessa forma, TI é encarada
+como um departamento que gasta o dinheiro da
+empresa, por isso não tem a mesma influência que um
+departamento que faz entrar o dinheiro na empresa (departamento
+comercial, por exemplo). Assim o TCO e
+outros indicadores de desempenho em TI, podem ser
+utilizados para evidenciar o retorno dos investimentos
+em TI para o negócio.
+Porém o método do TCO não é elogiado, nem aceito
+por todos da área de TI. Segundo Vilarouca Jr (2005)
+um dos problemas do TCO é a restrição de análise, já
+que está voltado exclusivamente para a plataforma baixa,
+possui excesso de fórmulas e o tempo para se usar o
+método é tão específico que poderia sair mais caro que
+o próprio custo total de propriedade.
+Ainda segundo o autor (Vilarouca Jr, 2005) uma pesquisa
+realizada pelo Gartner Group afirma que: “a
+especificidade, ligada diretamente ao downtime ou custo
+de inatividade, é necessária porque pode representar
+43% dos gastos totais de TI. As despesas indiretas ou
+hidden costs, aponta ainda a pesquisa, somam mais de 3
+mil reais por usuário a cada ano, o que pode representar
+1,5 milhão de reais nesse mesmo período, para uma rede
+de 500 usuários”.
+3.1.2. Pesquisa Fundação Getúlio Vargas –
+Índices G e CAPT
+A pesquisa é realizada anualmente desde 1989 com
+empresas nacionais (industrias, comércio e serviços),
+com representação de cerca de 60% das 500 maiores
+empresas nacionais e uma amostra representativa das
+médias e grandes empresas nacionais de capital privado.
+A pesquisa é desenvolvida pelo professor Fernando
+de Souza Meirelles do Centro de Informática Aplicada
+(CIA), da Fundação Getúlio Vargas de São Paulo
+(FGV-EAESP). Em 2005 foi realizada a 16ª Edição o
+que pode representar um fator de sucesso e tradição
+para a pesquisa.
+Segundo os próprios pesquisadores, a pesquisa FGVEAESP
+busca verificar a evolução, a situação atual e as
+tendências em TI, provendo dessa forma indicadores,
+análise comparativa e diagnósticos da área nas diversas
+empresas pesquisadas. Com destaques para: Perfil do
+Uso do Software (qual é o melhor?), Gastos com Informática
+(índice G) e Custo Anual por Teclado (CAPT).
+Para a avaliação de performance na área de TI a pesquisa
+fornece o índice G, que é a porcentagem anual de
+Principais Responsáveis pelo TCO
+administração
+12%
+operações
+com usuário final
+51%
+investimentos
+20%
+suporte
+17%
+Fonte: Gartner Group
+35
+Vol. III - nº 01 - jan/jun 2007
+gastos mais investimentos efetuados pela empresa em TI
+em comparação com o seu faturamento. Na última pesquisa
+o índice G para médias e grandes empresas nacionais
+privadas foi de 5,1%, em 2002 esse índice representava
+4,5%, indicando um aumento dos gastos e investimentos
+em TI ao longo dos anos de cerca de 10%.
+Outro índice instituído pela pesquisa é o CAPT,
+intitulado pela própria pesquisa como “novo conceito
+amplo e simples de TCO”, que divide os gastos e investimentos
+totais pelo número de teclados (micros, terminais
+burros, coletores, caixas, ...) de uma empresa.
+Na pesquisa realizada em 2002 (13ª Edição) o CAPT
+representa 12 milhões para médias e grandes empresas
+nacionais privadas.
+A pesquisa FGV deve ser usada pelos gestores e gerentes
+de tecnologia como benckmarking para avaliar suas
+operações e performance na área de TI.
+No gráfico abaixo podemos observar a distribuição
+do CAPT em três setores pesquisados.
+3.1.3. Pesquisa FEA – iDigital
+O indicador iDigital desenvolvido pelo Grupo de Pesquisa
+em Gestão da Tecnologia da Informação da Faculdade
+de Economia, Administração e Contabilidade
+da Universidade de São Paulo (FEA-USP) conta com
+o apoio do Conselho Nacional de Desenvolvimento Científico
+e Tecnológico (CNPq) e da Fundação de Amparo
+a Pesquisa do Estado de São Paulo (FAPESP).
+No ano de 2003 a pesquisa foi realizada com o apoio
+da Federação das Indústrias do Estado de São Paulo
+(FIESP) e do Centro das Indústrias do Estado de São
+Paulo (CIESP).
+O indicador iDigital avalia o nível de informatização
+das empresas levando em consideração: o nível de utilização
+de recursos da TI, o nível de adequação desses
+recursos ao negócio e as características das práticas de
+gerenciamento da tecnologia. (IDIGITAL, 2004).
+Segundo a pesquisa para que proprietários e gestores
+avaliem adequadamente a informatização de seus processos
+é necessário:
+• Verificar a situação da empresa em relação ao uso
+da TI em seus processos;
+• Confrontar esse uso com outras empresas de mesmo
+porte e setor;
+• Conhecer as alternativas disponíveis para a informatização
+e que indiquem as rotas que o processo
+de informatização deve seguir.
+Fonte: Pesquisa FGV-EASP 2002 – 13º Edição
+Média do CAPT
+(por setor e número de teclados - US$ 1000)
+12
+9
+13 13
+9
+7
+10
+11
+13 13
+16
+9
+Indústria Comércio Serviços
+Média até 170 170 à 650 acima 650
+36
+Revista de Informática Aplicada
+O indicador iDigital trabalha com uma escala de pontuação
+de 1 a 100, que representa o nível de informatização
+das empresas pesquisadas. Segundo Vidal, Souza e
+Zwicker (2005) o indicador é uma medida da intensidade
+e qualidade do uso da TI nos processos organizacionais e
+sua base conceitual é o processo de criação de valor para
+os negócios pelo uso da TI.
+Para o calculo do indicador iDigital são levados em
+consideração cinco dimensões:
+1. Infra-estrutura: equipamentos de informática,
+redes e a estrutura de apoio;
+2. Sistemas aplicativos: todos os sistemas de informação
+em uso na empresa;
+3. Uso organizacional: extensão e intensidade de
+uso dos aplicativos nas atividades empresariais;
+4. Governança: o planejamento e o envolvimento
+de usuários e executivos no uso da informática e
+no processo de informatização;
+5. Impactos organizacionais: grau de influência
+da TI no desempenho dos processos empresariais.
+Após o uso dessas cinco dimensões o índice é
+calculado com base nos valores mínimos e máximos
+fornecidos pelas empresas na pesquisa utilizando técnicas
+estatísticas baseadas na modelagem por equações
+estruturais (um procedimento relativamente complexo,
+que é efetuado diretamente pelos
+organizadores da pesquisa), obtendo assim um valor
+específico para cada uma das dimensões. Depois o
+indicador iDigital é calculado considerando-se as cinco
+dimensões de maneira conjunta.
+Na terceira edição da pesquisa (2004) onde foram
+pesquisadas 1.330 empresas, o valor médio do iDigital
+por porte da empresa ficou assim distribuído:
+iDigital
+Uso
+impactos
+Governança
+Aplicativos
+Infraestrutura
+Fonte: Vidal, Souza e Zwicker (2005)
+Micro Pequena Média Grande Geral
+100
+90
+80
+70
+60
+50
+40
+30
+20
+10
+0
+29
+60
+51
+72
+46
+3.1.4. Balanced Scorecard
+A idéia de medir a performance apoiada não apenas
+em indicadores contábeis e financeiros vem da década
+de 90, quando a síntese do Balanced Scorecard (BSC)
+feita por Robert S. Kaplan, professor da Harvard
+Business School, e David P. Norton, presidente da
+Renaissance Solutions, em 1992, no artigo The balanced
+scorecard – measures that drive perfomance (Balanced
+Scorecard – medidas que impulsionam o desempenho)
+publicado na revista Harvard Business Review. Seu
+único objetivo, segundo Kraemer (2004), era mostrar
+as desvantagens de usar apenas medidas financeiras -
+que de acordo com Kallás, (2003) prejudicam a capacidade
+das empresas em criar valor econômico para o
+futuro - para julgar o desempenho empresarial, incentivando
+as empresas a medir também fatores como qualidade
+e satisfação do cliente.
+O BSC é um Sistema de Gestão Estratégica que
+utiliza, de modo balanceado, indicadores financeiros e
+não-financeiros que estabelecem as relações de causa
+37
+Vol. III - nº 01 - jan/jun 2007
+e efeito entre esses indicadores (KAPLAN e
+NORTON, 1997). Este cenário balanceado como é
+chamado por Campos, J.A. (1998) procura equilibrar
+as relações existentes entre quatro perspectivas analisadas
+pelo BSC: Financeira, Clientes, Processos Internos
+e Aprendizado. Nesse cenário, quando os quatro
+conjuntos de indicadores estiverem devidamente equilibrados
+de forma que todas as perspectivas estejam
+alinhadas com a estratégia adotada pela empresa, poderá
+possibilitar um melhor desempenho.
+Assim, por se tratar de um sistema misto, que leva
+em conta medidas quantitativas e qualitativas e, para
+que haja um perfeito “alinhamento estratégico” é necessário,
+segundo o Working Council Research (2003),
+estabelecer a criação de um plano tático para a área de
+TI com métricas alinhadas com o plano estratégico da
+empresa e que levem em consideração os seguintes
+aspectos:
+• Os objetivos estejam em sintonia com o Plano
+Estratégico da empresa;
+• Os indicadores sejam expressos em linguagem nãotécnica
+e de fácil compreensão;
+• Quando da medida de performance de projetos,
+além dos aspectos financeiros, que seja considerado
+satisfação dos usuários e gestão de talentos;
+• Que os scorecards considerem categorias para a
+gestão da segurança da informação;
+• Que os scorecards sejam apresentados / exibidos
+em uma única página;
+• Os scorecards devem ser escolhidos em conjunto
+com as pessoas envolvidas com a tarefa e as lideranças
+da empresa;
+• Os indicadores devem ser revisados periodicamente
+para que conservem sua relevância e acompanhem
+as necessidades de mudança;
+Conforme Wanderley et all (2003) o processo do
+scorecard inicia-se com o alinhamento estratégico partindo
+da alta administração através da fixação de metas
+financeiras, dos clientes, dos processos internos e do
+aprendizado e crescimento.
+As metas financeiras priorizam a receita, a rentabilidade
+e a geração de fluxo de caixa. As metas relacionadas
+aos clientes devem ser definidas baseadas no tipo
+de segmento e tipo perfil de cliente. No caso de TI, os
+clientes podem diferir de outras empresas, pois na área
+de TI, os clientes podem ser internos e/ou externos.
+Os processos internos podem ser medidos e acompanhados
+de maneira que sejam definidos não somente com
+medidas financeiras, mas também com qualidade, com
+processos mais rápidos, melhor atendimento, garantias e
+com excelência para uma estratégia bem sucedida.
+A perspectiva do aprendizado e crescimento faz menção
+à necessidade de aprimoramento contínuo dos sistemas
+organizacionais, dos empregados na forma de melhor
+capacitação, melhoria da tecnologia utilizada,
+melhoria dos sistemas de informação.
+Assim, segundo Wanderley et all (2003), a partir da
+visão e estratégia da empresa, os objetivos e os indicadores
+são estabelecidos para cada uma das quatro perspectivas.
+Existe um equilíbrio entre indicadores externos,
+voltados para os acionistas e clientes, e as medidas internas
+dos processos do negócio, inovação, aprendizado e
+crescimento. Há um equilíbrio entre as medidas de resultado
+que são conseqüências dos esforços do passado, e
+as medidas que determinam o desempenho futuro.
+38
+Revista de Informática Aplicada
+3.1.4.1. Perspectiva Financeira
+Considerando que a TI é parte integrante da estratégia
+da empresa, também pode-se considerar que algumas
+medidas de caráter financeiro podem ser associadas
+à ela e essas medidas ou parâmetros poderão
+servir para mostrar o retorno financeiro advindo da utilização
+da TI ou através de ganhos de competitividade
+ou economia obtida com um processo ou atividade realizada
+com o auxílio da TI (WORKING COUNCIL
+RESEARCH, 2003).
+3.1.4.2. Perspectiva dos Clientes
+Conforme Kaplan e Norton (1996), essa perspectiva
+deve responder à seguinte pergunta: “Para alcançarmos
+nossa visão, como deveríamos ser vistos pelos
+nossos clientes?”
+Por intermédio de suas considerações, Kaplan e
+Norton (1997) concluíram que as organizações geralmente
+selecionam dois conjuntos de medidas para essa
+perspectiva. O primeiro são as medidas essenciais:
+a) participação no mercado;
+b) retenção de clientes;
+c) captação de clientes;
+d) satisfação dos clientes; e
+e) lucratividade de clientes.
+Dessa maneira, nesta perspectiva, a TI poderá exercer
+papel importante à medida em que venha a proporcionar
+ganhos de competitividade aos clientes internos e
+no caso dos clientes externos, o grau de satisfação desses
+com relação aos serviços prestados. Essa perspectiva
+do BSC aplicado a TI, pode ser usada para diferentes
+medida, conforme citado nos itens a, b, c,d e e.
+3.1.4.3. Perspectiva dos Processos Internos
+Na perspectiva relativa aos processos internos, são
+identificados os processos críticos no qual a empresa
+deve buscar a excelência, no sentido de atender aos
+objetivos dos clientes e dos acionistas.
+Fonte: Kaplan & Norton – p.10 (1997)
+Financeira
+Para sermos bem sucedidos financeiramente, como
+deveríamos ser vistos pelos nossos acionistas?
+Clientes
+Para alcançarmos nossa
+visão, como deveríamos
+ser vistos pelos
+nossos clientes?
+Aprendizado e Crescimento
+Para alcançarmos nossa visão, como
+sustentaremos nossa capacidade de
+mudar e melhorar?
+Processos internos
+Para satisfazermos nossos
+clientes, em que processos
+de negócios devemos
+alcançar a excelência?
+Visão e
+Estratégia
+39
+Vol. III - nº 01 - jan/jun 2007
+Alguns aspectos dessas medidas serão incluídos como
+medidas de desempenho na perspectiva dos processos
+internos da grande maioria das organizações e também
+na área de TI (WORKING COUNCIL RESEARCH
+2003), Kaplan e Norton (1996), enfatizam que algumas
+organizações oferecem produtos exclusivos, medidos por
+precisão, tempo/velocidade, clareza ou consumo de materiais,
+permitindo obter altas margens de lucro para vendas
+efetuadas a segmentos específicos de mercado. Nesta
+perspectiva, a TI pode oferecer várias contribuições, pois
+tem a qualidade de automatizar os processos internos e
+torná-los mais ágeis, econômicos e facilmente difundidos
+por toda a organização.
+3.1.4.4. Perspectiva do Aprendizado e do Crescimento
+Os objetivos estabelecidos nas demais perspectivas
+revelam onde a empresa deve se destacar para obter
+um desempenho excepcional. Os objetivos da perspectiva
+do aprendizado e crescimento, por sua vez, oferecem
+a infra-estrutura que tornará possível que se atinjam
+objetivos ambiciosos nas outras três perspectivas.
+Portanto, a capacidade de alcançar metas superiores
+depende das capacidades organizacionais para o aprendizado
+e crescimento. (KAPLAN e NORTON, 1996).
+Segundo Kaplan e Norton (1997, p. 132-152), a
+perspectiva do aprendizado e crescimento está dividida
+em três categorias principais:
+a) Capacidade dos Empregados;
+b) Capacidade do Sistema de Informação;
+c) Motivação, Empowerment e Alinhamento;
+Diferentemente do que ocorre com as perspectivas
+financeiras, dos clientes e dos processos internos, há
+um número muito menor de exemplos concretos de
+medidas para a perspectiva do aprendizado e crescimento.
+Essa carência de unidades de medidas e experiências
+empíricas nessa quarta perspectiva do Balanced
+Scorecard é uma indicação de que não se está vinculando
+os objetivos estratégicos de reciclagem dos empregados,
+fornecimento de informações e alinhamento
+de pessoas, equipes e unidades organizacionais à estratégia
+e aos objetivos de longo prazo. (KAPLAN e
+NORTON, 1996)
+3.2. Medidas de Natureza Qualitativa
+Além dos indicadores numéricos descritos acima,
+foram considerados outros indicadores de ordem qualitativa
+que apesar de não serem específicos para área
+de TI podem ser adaptados de forma a analisar a
+performance da área.
+3.2.1. Análise com base nos modelos de Porter
+Michael Porter desenvolveu dois modelos genéricos
+para análise de vantagens competitivas nas empresas em
+seu setor de atuação. Um deles é o modelo das cinco
+forças, que sugere a análise de: 1. poder de barganha dos
+compradores, 2. poder de barganha dos fornecedores, 3.
+concorrência, 4. produtos substitutos e 5. novos entrantes.
+O modelo das cinco forças de Porter busca analisar a
+competividade, sendo largamente utilizado no desenvolvimento
+de estratégias nas organizações (TURBAN, 2004).
+O outro modelo de Porter, o da Cadeia de Valor,
+mostra como um produto se encaminha, iniciando na
+etapa da matéria-prima até o consumidor final (HITT,
+2005) e pode aumentar as comunicações e a colaboração
+interna na empresa, de forma a aumentar drasticamente
+os serviços de coordenação e apoio administrativos
+(O’BRIEN, 2004). A otimização dos elos entre
+departamentos internos e com o exterior (fornecedores
+e canais de distribuição) é uma fonte poderosa de vantagem
+competitiva que pode e deve ser melhorada com
+o uso de TI, para desempenho de funções de otimização
+e controle, assim como para tomada de decisão
+(PORTER & MILLAR, 1985). Esses elos surgem quando
+a maneira como uma atividade é desempenhada afeta
+o custo ou a eficácia de outras.
+Os dois modelos de Porter mencionados foram desenvolvidos
+originalmente para analisar o ambiente competitivo
+das organizações. Mas o próprio autor os utiliza
+como base para análise da utilização da TI como
+fonte de vantagem competitiva (PORTER & MILLAR,
+1985). Silveira (2003) desenvolveu um estudo em que
+gerentes de TI de grandes empresas são solicitados a
+identificar projetos de TI (já implantados e planejados),
+relacionando-os a vantagem competitiva, utilizando
+como referência os modelos das Cinco Forças e da
+Cadeia de Valor. Assim, serão utilizados nesse trabalho
+para avaliar a performance da área de TI.
+40
+Revista de Informática Aplicada
+A figura abaixo, do modelo da Cadeia de Valor, podemos
+identificar vários sistemas que ajudam a otimizar
+os elos entre os departamentos de uma empresa. Quanto
+mais otimizados esses elos, melhor avaliada a contribuição
+de TI para os negócios.
+A área de TI, mais do que nunca, deve estar alinhada
+com o planejamento estratégico dos negócios de forma
+a contribuir para seu crescimento, operação e manutenção.
+Dessa forma, qualitativamente a avaliação da área
+de TI será de grande importância para os negócios.
+Sugestões: pesquisar gerentes.
+5. CONCLUSÃO
+Esse trabalho objetivou reunir diferentes métodos utilizados
+e difundidos sobre a avaliação do desempenho
+da área de TI em empresas privadas. Após a avaliação
+de métodos quantitativos e qualitativos da área de TI
+podemos concluir que há grande dificuldade de avaliação
+desse segmento devido à falta de estudos empíricos
+que tratem da medição da performance em TI.
+Os métodos quantitativos podem trazer uma visão
+mais clara sobre a avaliação da área, pois numeram e
+pontuam ações de TI, podendo dessa forma criar uma
+escala como na pesquisa da Fundação Getúlio Vargas
+e da FEA-USP onde é possível visualizar graficamente
+a performance de outras empresas e assim adequar sua
+empresa como o mercado ou posicioná-la da melhor
+maneira.
+Os métodos qualitativos, avaliados segundo os modelos
+de Porter e com a ajuda do Balanced Scorecard,
+podem dar aos gerentes ou empresários uma visão mais
+ampla sobre o desempenho da área de TI, contribuindo
+para sua melhor atuação nos negócios da empresa.
+Em face da grande variedade de indicadores de
+performance meramente financeiros, é possível con-
+Fonte: O’Brien, 2004, página 46
+INFRA ESTRUTURA DA EMPRESA
+Sistemas de Trabalho Colaborativo
+ADMINISTRAÇÃO DE RECURSOS HUMANOS
+Sistemas de Banco de Dados de Qualificações dos Funcionários
+DESENVOLVIMENTO TECNOLÓGICO
+Engenharia e Projeto Assistidos por Computador (CAD)
+COMPRA DE RECURSOS
+Intercâmbio Eletrônico de Dados (EDI) com Fornecedor
+LOGÍSTICA
+INTERNA
+Armazenamento
+Automatizado
+Just-in-Time
+OPERAÇÕES
+Manufatura
+Flexível
+Assistida por
+Computador
+(CAM)
+LOGÍSTICA
+EXTERNA
+Pontos-de-Venda
+e Processamento
+de Pedidos Online
+MARKETING
+& VENDAS
+Marketing
+Interativo
+Direcionado
+SERVIÇO
+Sistema
+Especialista
+de Balcão de
+Atendimento
+MARGEM
+MARGEM
+PROCESSOS PRIMÁRIOS PROCESSOS DE APOIO
+41
+Vol. III - nº 01 - jan/jun 2007
+cluir que a área de TI possui poucos indicadores de
+caráter qualitativos, sendo que caberá às empresas
+escolherem a melhor composição de indicadores ou
+melhor método, de acordo com suas necessidades,
+cultura e organização adaptando à sua realidade. Procurando
+entender TI como uma área que agrega valor
+ao negócio e não somente como custo.
+BRYNJOLFSSON, Erik. The Productivity Paradox of
+Information Technology: Review and Assessment.
+Communications of the ACM, December, 1993
+CESAR, Ricardo; COEN, Luciana. A difícil relação
+entre TI e finanças. ComputerWorld de 06/jan/2005.
+Disponível em <http://computerworld. uol.com.br/
+AdPortalv5/adCmsDocumentShow. aspx?GUID=
+950AB90A-A0AA-475E-8780-3A8736F2C9D2
+&ChannelID=37>. Acesso em: 15/06/2005.
+DEMING, W.E; Saia da Crise. -1986- São Paulo: Editora
+Futura: reimpressão MIT Press: 2000
+GIL, A.C. Como elaborar projetos de pesquisa. São
+Paulo: Atlas, 2002
+GONÇALVES, J.E.E. Os Impactos das Novas
+Tecnologias nas Empresas Prestadoras de Serviços.
+Revista de Administração de Empresas - V.34, nº 1, p.
+63-81, 1993.
+HITT, Michael A.; IRELAND, R. Duane; HOSKISSON,
+Robert E. Administração Estratégica. São
+Paulo: Pioneira Thompson Learning, 2005.
+IDIGITAL. Disponível em <http://www.idigital.
+fea.usp.br/idigital/>. Acesso em: 30/09/2004
+INFORMATIVO Técnico nº 58. Disponível em <http:/
+/www.revista.unicamp.br/infotec/informacao/
+inf58.htm>. Acesso em 15.jun.2005.
+JUNIOR, Josafá Vilarouca. Além do TCO. Disponível
+em <http://www.itweb.com.br/solutions/gestao_ empresarial/
+tco/artigo.asp?id=1086>. Acesso em: 09/06/
+2005.
+KALLÁS, D. Balanced Scorecard: Aplicações e Impactos.
+Um estudo com jogos de empresas. Dissertação
+de Mestrado. FEA/USP, 2003.
+REFERÊNCIAS BIBLIOGRÁFICAS
+KAPLAN, Robert S. e NORTON, D.P. A estratégia
+em ação: Balanced Scorecard. 7ª ed. Rio de Janeiro:
+Campos, 1997.
+_______. The Balanced Scorecard: Translating
+Strategy into Action. Harvard Business School Press,
+Boston, 1996.
+_______. Organização orientada para a estratégia:
+como as empresas que adotam o balanced scorecard
+prosperam no novo ambiente de negócios. Tradução
+de Afonso Celso da Cunha Serra. Rio de Janeiro:
+Campus, 2000.
+_______. Having trouble with your strategy? Then map
+it. Harvard Business Review. set./out., 2000.
+_______. Transforming the balanced scorecard from
+performance measurement to strategic management: part
+I. Accounting Horizons. v. 15, n. 1, p. 87-104, mar.
+2001.
+_______. Transforming the balanced scorecard from
+performance measurement to strategic management: part
+II. Accounting Horizons. v. 15, n. 2, p. 147-160, jun.
+2001.
+KRAEMER, M.E.P. Balanced Scorecard como Sistema
+de Gerenciamento Estratégico em Instituições
+de Ensino Superior. IV Colóquio Internacional sobre
+Gestão Universitária na América do Sul – Florianópolis,
+2004 disponível em <http://www.inpeau.ufsc.br/
+coloquio/a0index.php > . Acesso em: 17/06/2005.
+MCBRIDE, Siobhan. Benefícios de TI são difíceis de
+mensurar. ComputerWorld de 17/maio/2005. Disponível
+em <http://computerworld.uol.com.br/AdPortalV5/
+adCmsDocumentShow.aspx?GUID= B25CA52F-
+4 6 3 A - 4 2 5 8 - 8 7 5 5 - E C D 8 F F 3 1 7 D A 7
+&ChannelID=28>. Acesso em: 18/05/2005.
+42
+Revista de Informática Aplicada
+O’BRIEN, James A. Sistemas de Informação e as
+Decisões Gerenciais na Era da Internet. São Paulo:
+Saraiva, 2004.
+OLIVEIRA, A.C. Tecnologia de Informação:
+Competitividade e Políticas Públicas. Revista de Administração
+de Empresas, v.36, n.2, p 34-43, 1996.
+PORTER, Michael E; MILLAR, Victor E. How
+Information Gives You Competitive Advantage.
+EUA: Harvard Business Review, July-August 1985.
+SCHAICOSKI, J.C. A utilização do ROI na análise
+de projetos de Tecnologia da Informação. Dissertação
+de Mestrado de Engenharia da Produção. UFSC,
+2002.
+STONER, J. A. F.; FREEMAN, R. E. Administração.
+Rio de Janeiro: LTC Editora S.A., 1999.
+SYMONS, Craig; BROWN, Adam. The Five Top
+Measurable Metrics IT Management Should Focus
+On. Forrester Research (22/set/2004). Disponível em
+<http://www.forrester.com>. Acesso em: 25/05/2005.
+TURBAN, Ephraim; MCLEAN, Ephraim;
+WETHERBE, James. Tecnologia da Informação para
+Gestão. Porto Alegre: Bookman, 2004.
+VIDAL, Antônio Geraldo da Rocha; SOUZA, César
+Alexandre de Souza; ZWICKER, Ronaldo. iDigital:
+Pesquisa do Perfil da Empresa Digital. Disponível
+em <http://www.idigital.fea.usp.br/idigital/>. Acesso em:
+10/04/2005.
+WANDERLEY, C.A; MEIRA, J.M, SOUZA, B.C.
+Utilização da Regressão Logística para Determinar as
+Características das Empresas que Adotam o Balanced
+Scorecard. Enampad. Atibaia-SP, 2003.

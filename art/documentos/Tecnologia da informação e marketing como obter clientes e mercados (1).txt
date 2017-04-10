@@ -1,0 +1,1324 @@
+l1~lEARTIGOS
+TECNOLOGIA DA INFORMAÇÃO E
+MARKETING
+COMO OBTER CLIENTES E MERCADOS
+* Carlos Alberto Gonçalves
+~ Cid Gonçalves Filho
+"Marketing é tão básico que não pode ser considerado
+uma junção separada. É o próprio negócio
+observado do ponto de vista de seu resultado final,
+isto é, do ponto de vista do cliente."
+Peter Drucker
+PALAVRAS-CHAVE:
+marketing de relacionamento, database marketing, sistema de informação em marketing, clientes, vantagem competitiva,
+tecnologia da informação, negócios, estratégia mercadológica, competição, mudança social.
+KEYWORDS:
+relationship marketing, database marketing, marketing information system, clients, competitive advantage, information technology, business,
+marketing strategy, competition, social change.
+* Professor do Centro de Pós-Graduação em Administração da UFMG.
+'Cc Professor Titular da Faculdade de Ciências Econômicas, Administrativas e Contábeis da FUMEC/MG.
+Revista de Administração de Empresas São Paulo, v. 35, n. 4, p. 21-32 Jul./Ago. 1995 21
+l1~lJARTIGOS
+1. VERIIY, John. lhe info revolution.
+Business Week, New
+York, p.36-41, June 1994.
+2. SYNNOn, Willian R. The information
+weapon: winning
+customers and markets with
+technology. New York: John
+Wiley & Sons, 1987.
+3. Idem, ibidem.
+4. HAMMER, M., CHAMPY, J.
+Reengenharia. Rio de Janeiro:
+Campus, 1993.
+22
+A Tecnologia da Informação passa a ser vista como
+uma arma para obtenção de clientes e negócios
+competitivos. Permite que o Marketing trate
+novamente necessidades e desejos de forma
+personalizada.
+The Information Technologies can be seen as an
+important resource to get clients and competitive
+business. It makes possible Marketing actions to
+treat needs and desires in a personalized way
+again.
+Ainformação é hoje poderoso recurso
+das organizações, permitindo a
+estas perfeito alinhamento estratégico
+- mediante constantes fluxos bidirecionais
+entre a empresa e o macroambiente
+-, e criando condições para que
+se viabilizem seus objetivos e se cumpra
+sua missão corporativa. As empresas têm,
+no fluxo informacional, o elo que une e
+coordena seus componentes, o que propicia
+a manutenção do equilíbrio e da integração
+em um ambiente em crescente
+mutação.
+Vários autores têm elaborado comentários
+sobre a passagem da era industrial
+para a era da informação, situação na qual
+as atividades informacionais, que têm no
+conhecimento sua maior riqueza, ultrapassaram
+as industriais. Em junho de 1994, a
+revista Business Week1 publicou uma pesquisa
+constatando que o investimento privado
+em tecnologia da informação é hoje
+o dobro daquele voltado para máquinas
+industriais. Em 1975a relação era inversa.
+Conforme essa mesma pesquisa, a exportação
+de produtos de informática e software
+nos EUA é hoje mais representativa
+do que a de veículos e peças, empregando
+já mais pessoas.
+Segundo Synnotf', hoje a maioria das
+pessoas nos EUA está na área de serviços
+altamente informacionais e baseadas em
+conhecimento. Em termos de hardware, a
+velocidade de processamento sobe rapidamente,
+o processamento paralelo é uma
+realidade, a optoeletrônica e a comunicação
+sem fio agilizam as redes, e até o ano
+de 1997cada micro pessoal terá mais de 1
+gigabyte de disco. O software passa a contar
+com o paradigma da orientação a objetos,
+a inteligência artificial se desenvolve
+e o reconhecimento da fala já se está tornando
+uma realidade. Alguns projetos de
+redes e TVs a cabo sinalizam a possibilidade
+de se terem disponíveis 500 canais
+ativos por 24 horas. Em vista desse desenvolvimento
+tecnológico, deve-se analisar
+as palavras de Andy Cove, presidente
+da Intel Corp.: "Você pode retardar a tecnologia,
+mas o custo de retardá-la é geralmente
+alto ".
+Atecnologia da informação, que surgiu
+como ferramenta de redução de custos e
+agilizadora do processamento de informação,
+tem sido cada vez mais aplicada em
+todos os ramos da atividade humana, devido
+ao crescimento exponencial de seus
+recursos e habilidades. Diante desse cenário,
+milhares de organizações passaram a
+usar a tecnologia da informação não somente
+para automatizar processos repetitivos,
+reduzir despesas e agilizar tarefas,
+mas principalmente para viabilizar e otimizar
+o relacionamento com clientes e com
+o macroambiente, obtendo vantagem competitiva
+nos seus negócios. A Federal
+Express permite ao cliente localizar on-line
+o volume despachado; a American Hospital
+Supply instalou terminais junto aos
+seus clientes, permitindo-lhes fazer pedidos
+on-line que, além de serem mais econômicos,
+são processados muito mais rapidamente
+e com segurança',
+A importância dos processos informacionais
+pode ser sentida com a recente repercussão
+dos conceitos de reengenharia
+de Hammer e Champy', que sugerem um
+enfoque nos processos que criam valor
+© 1995, Revista de Administração de Empresas / EAESP / FGV, São Paulo, Brasil.
+TECNOLOGIA DA INFORMAÇÃO E MARKEll NG...
+sil e EUA têm exigido deles conexão com
+seus computadores, para pedidos, cobrança
+e contas a pagar. Essas organizações não
+querem trabalhar com instituições que
+gerem atrasos, erros e não tenham capacitação
+adequada. Tentam evitar, assim,
+transtornos no seu processo produtivo.
+Além disso, determinam o tipo de tecnologia
+a ser utilizada, criando padrões que
+impõem constante atualização das potencialidades
+tecnológicas do parceiro. Exemplo
+deste fato é o padrão Edifact, da ONU
+(Organização das Nações Unidas), já adotado
+por várias companhias.
+Em novembro de 1994, Verity e Hof', na
+revista Business Week, completaram essa
+visão, informando que a Internet, rede
+mundial até agora utilizada somente para
+fins científicos, irá mudar a forma das organizações
+fazerem seus negócios via home
+shopping, publicidade, trocas de informações,
+divulgação de publicações etc. Empresas
+como AD Online Agency e Open
+Market, entre outras, demonstram serviços
+disponíveis, com telas gráficas e amigáveis.
+Imagine se o seu concorrente permitir
+ao cliente, por meio de notebook conectado
+a um telefone celular, consultar preços,
+fazer pedidos, obter informações e saldo e
+aplicar dinheiro. Por que o cliente irá preferir
+outro serviço? Se você recebe em sua
+casa, uma semana antes do aniversário do
+seu filho, oferta de brinquedos voltados
+para ele - quanto a idade, sexo e preferências
+-, será que você se dará o trabalho
+de ir até uma loja? Se você pode, via
+microcomputador, personalizar os produtos
+oferecidos, e dali mesmo transmitir o
+pedido, por que irá telefonar a alguma loja
+para saber se ela tem o que você deseja?
+Este é o início de uma corrida pelo uso da
+tecnologia, da qual quem estiver fora acabará
+à margem do mercado. O grande desafio
+do profissional de marketing e informação
+será planejar, construir, administrar
+e avaliar sistemas de informação, fundamentais
+para as organizações, em sintonia
+com suas estratégias de negócio, visando
+a atingir sua missão, objetivos e metas, em
+um ambiente sob constante mutação.
+para o cliente e que cortam transversalmente
+os departamentos das organizações.
+Uma análise mais profunda dos sete princípios
+da reengenharia, encontrados no
+artigo pioneiro de Hammer", demonstra
+que cinco deles dizem respeito ao fluxo
+informacional e que todos se relacionam
+com o papel capacitador da tecnologia da
+informação. Conforme Webster6, pode-se
+verificar uma tendência de formação de
+organizações em rede, resultantes de alianças
+estratégicas e outros tipos de associações
+- divisões, subsidiárias, representantes
+- que atuam como uma confederação,
+uma coalizão frouxa e flexível guiada por
+um núcleo. O núcleo da organização em
+forma de rede tem funções tais como desenvolver
+e coordenar as alianças,
+direcionar recursos financeiros e tecnológicos,
+definir e gerenciar a competência
+central do núcleo, desenvolver relacionamentos
+com clientes e gerenciar recursos
+de informação que integram a rede. Achave
+para esse tipo de organização é evitar
+fazer o máximo de coisas, especialmente
+aquelas que não fazemos bem e outras
+empresas podem fazer melhor, desenvolvendo
+e concentrando-se na competência
+e competitividade do núcleo. As organizações
+em rede necessitam da tecnologia
+da informação para ligar seus componentes
+e parceiros, de modo a gerar perfeita
+integração, rápida comunicação e agilidade
+na resposta. A IBM (International
+Business of Machine) é um exemplo de organização
+que está reinvestindo em si
+mesma sob o conceito de rede. Neste novo
+enfoque a informação cria relacionamentos
+a longo prazo com clientes, associações
+e alianças estratégicas.
+As redes digitais integradas e os satélites
+distribuídos, em implantação nos EUA
+e Europa, levarão, através de fibras óticas
+e sinais analógicos de alta freqüência, fluxos
+de informação até lares, empresas e
+indústrias. Cada lar terá um equipamento
+- misto de televisão, computador, telefone
+e fax - que permitirá comprar, ver,
+obter, comunicar, imprimir e armazenar
+todo tipo de informação que se desejar. A
+Microsoft está preparando um servidor de
+vídeo Tiger, um aparelho que, posicionado
+sobre o televisor, permitirá vídeo digital
+e interativo. As empresas poderão manter
+entre si comunicação tão eficiente, que
+somente aquelas integradas conseguirão
+sobreviver.
+Buscando uma atuação conjunta com
+seus parceiros, várias organizações no Bra-
+5. HAMMER, Michael. Reengineering
+work: don't auto mate,
+obliterate. Harvard Business
+Review, Boston, v. 68, n. 4,
+p.104-112, July/Aug. 1990.
+6. WEBSlER, F. lhe changing
+role of marketing in the corporation.
+Journal of Marketing,
+Chicago, v. 56, n. 57, p. 1-17,
+Oct, 1992.
+7. VERllY, J., HOF, R. D. lhe
+Internet: how it will change the
+way you do business. Business
+Week, New York, n. 3.383,
+p. 38-46, Nov. 1994.
+PLANEJAMENTO INTEGRADO DE NEGÓCIOS
+E SISTEMAS E O MODELO DE PORTER
+No passado, muitas empresas faziam
+planejamento estratégico de seus negócios
+e, depois, um PDI ( Plano Diretor de
+Informática), que deveria reagir ao que foi
+RAE • v. 35 • n. 4 • Jul./Ago. 1995 23
+11~lEARTIGOS
+8. PORTER, Michael. Vantagemcompetitiva.
+Rio de Janeiro:
+Campus, 1989.
+9. . Competitive
+strategy. New York: The Free
+Press, 1980.
+10. Idem, ibidem.
+11. SYNNOTT,Willian R. Op. cit.
+12. Idem, ibidem.
+24
+proposto pelo planejamento empresarial.
+Hoje, somente o planejamento integrado
+de negócios e sistemas, realizado como um
+todo, pro ativamente, buscando oportunidades
+e alternativas, tratando a informação
+como os outros recursos (capital, humanos
+e físicos), é sinérgico com as metas
+negociais da empresa. Nesse sentido, pode-
+se analisar as estratégias genéricas de
+Porter" para negócios, e integrá-las com as
+estratégias de sistemas de informação.
+Para tanto, são necessários dois grupos de
+conceitos introduzidos por Porter", Conforme
+esse autor, os segmentos de negócio
+podem ser classificados nas seguintes
+categorias:
+• decadentes: sem lucros e declinando -
+candidatos a serem extintos;
+• colheita: baseia-se em técnicas ultrapassadas
+de cortar custos e/cu crescer preços
+até que os lucros desapareçam, de
+onde a empresa tira seu lucro atual;
+• enfoque: focaliza um segmento do mercado
+onde se pode competir com sucesso
+utilizando-se de vantagem de custo/
+produto;
+• líderes: atuam em um bom mercado e
+com possibilidade de crescimento.
+Segundo Porter", são estas as estratégias
+genéricas para se obter vantagem
+competitiva:
+• liderança de custo: deve-se ter um produto
+de baixo custo, para que se possa
+obter um bom potencial de manutenção
+de preços baixos;
+• diferenciação: deve-se criar um único
+produto ou serviço diferenciável no mercado;
+• enfoque: deve-se encontrar um nicho no
+mercado no qual seja possível competir
+favoravelmente. Pode-se utilizar vantagem
+de custo ou diferenciação.
+Assim, surge o modelo de competitivida
+de estratégica, proposto por Synnott",
+que une as estratégias de negócio e tecnologia,
+para cada tipo de segmento de negócio
+e sua estratégia genérica.
+Por exemplo, se a estratégia para o segmento/
+produto é a diferenciação, devemos
+buscar inovação tecnológica, agregando
+valor para o cliente, mediante informação,
+serviços e facilidades geradas pela
+tecnologia de informação, sistemas para
+controle e gestão de qualidade etc. Se a
+estratégia de negócio é preço/custo, devemos
+construir sistemas que reduzam
+custos, automatizem, controlem etc. Se a
+estratégia é suporte, devemos reduzir o
+corpo de profissionais que mantém os sistemas
+de apoio ao produto, apenas fazendo
+o essencial. Assim, gera-se o elo entre
+as estratégias genéricas de Porter e as estratégias
+para sistemas de informação.
+TÉCNICAS PARA INOVAR E USAR A
+TECNOLOGIA DA INFORMAÇÃO DE FORMA
+COMPETITIVA
+Synnott" classifica os sistemas de informação
+como Operativos (suporte à parte
+operacional e de produção da empresa),
+Gerencial (apoio a tomadas de decisão) e
+Suporte a Clientes (SSC-Sistemas de Apoio
+a Clientes: apoio a operações com clientes).
+A inovação tecnológica normalmente
+está voltada para os SSc. Home bank é
+uma típica aplicação de SSC. Para que haja
+inovação tecnológica, podemos implementar
+pesquisas de mercado e serviços
+de informação para inteligência competitiva
+e mesmo criar área de pesquisa e desenvolvimento
+em tecnologia da informação,
+como o Office of Innovation, da
+Kodak, ou Information Services Division,
+do Citibank. Também pode-se inserir pessoal
+de tecnologia nas áreas de produto,
+criando" empreendedores tecnológicos" e
+gerando uma aliança entre o pessoal de
+sistemas e aqueles que lidam com clientes.
+DESENVOLVIMENTO DE SISTEMAS DE
+INFORMAÇÃO DE MARKETlNG
+São sistemas capazes de reunir, selecionar,
+avaliar e distribuir as informações necessárias
+e precisas, para que o profissional
+de marketingpossa tomar decisões. Inicialmente,
+identificam-se necessidades de
+informação, de modo a gerar subsídios
+para a construção dos Sistemas de Informação
+de Marketing (SIM). Usualmente estes
+sistemas contemplam três áreas:
+• registros internos: dados e informações
+existentes dentro da organização. Podem
+vir dos sistemas aplicativos já implantados
+e do pessoal interno, e podem contemplar
+dados de vendas, custos, lucros
+e receitas, crescimento de segmentos,
+estoques, prazos de produção, entrega,
+revendedores, distribuição das vendas e
+clientes atuais. A Sears, por exemplo,
+mantém cadastro com 40 milhões de
+clientes e o utiliza para promoções. A
+RAE • v.35 • n.4 • Jul./Ago. 1995
+TECNOLOGIA DA INFORMAÇÃO E MARKETING...
+Mead Paper permite aos vendedores
+conhecer o estoque em segundos. Fazem,
+ambas as empresas, uso dos sistemas
+operativos existentes, dos sistemas
+de informação gerencial e do EIS
+(Executive Information Systems);
+• pesquisas de mercado;
+• inteligência de marketing: informações
+sobre o macroambiente e o microambiente
+de marketing, incluindo clientes e
+concorrentes, fruto de um monitoramento
+ambiental contínuo. Esse monitoramento
+pode usar, como fontes, entrevistas
+de seleção de empregados de
+concorrentes, clientes de concorrentes,
+material publicado e documentos públicos,
+observação dos concorrentes, seus
+produtos (desmontar, aprender), evidências
+físicas (caminhões que entram e
+saem, lixo dos concorrentes). Além disso,
+pode-se monitorar vendas e patentes
+e comprar serviço de banco de dados.
+Segundo Auster e Choo-', estas são
+.as principais fontes de informação nas
+organizações:
+* fontes externas: clientes, competidores,
+associações de classe, governo e
+outras pessoas externas, jornais, periódicos,
+publicações do governo, bibliotecas
+externas, anais de conferências,
+relatórios de companhias de pesquisa
+e serviços de informação eletrônica;
+* fontes internas: superiores, profissionais,
+subordinados, memorandos,
+circulares, relatórios, estudos, biblioteca
+e informações geradas pelos sistemas
+de informações gerenciais.
+Degent" mapeia os processos dos serviços
+de inteligência empresarial e propõe o
+fluxo de informação apresentado na figura
+1para a operacionalização deste serviço.
+O centro da questão é a pequena margem
+de automação e estruturação da coleta,
+avaliação e divulgação. Os processos
+informacionais relativos às fontes externas
+são pouco trabalhados, mesmo hoje, em
+plena era da reengenharia.
+M/X DE MARKET/NG E A TECNOLOGIA DA
+INFORMAÇÃO
+Define-se Mix de Marketing como sendo
+um grupo de variáveis controláveis de
+markeiing que a empresa utiliza para obter
+a resposta que deseja no mercado alvo.
+As diversas variáveis podem ser reunidas
+RAE • v.35 • n.4 • Jul./Ago. 1995
+nos grupos conhecidos corno" quatro Ps"
+(Praça, Promoção, Produto, Produtividade).
+Vamos analisar os benefícios do uso
+da tecnologia da informação no marketing,
+sob a ótica de cada um desses grupos de
+variáveis. Os recursos citados atendem,
+muitas vezes, a mais de um dos quatro Ps,
+mas estão sendo incluídos naquele mais
+significativo. Os itens abaixo são mais significativos
+quando o produto não é a própria
+informação, quando, no caso, a aplicação
+da TI é simplesmente essencial.
+12 P: Praça
+Pode-se aplicar a tecnologia da informação
+ampliando o conceito de praça e diferenciando
+o produto das seguintes maneiras:
+• compra por computador: permite que
+se realizem vendas sem estoque, apenas
+intermediando a transação entre o cliente
+e o fornecedor. Pode ser realizada em
+casa,via microcomputador, o que representa
+uma tendência, com o advento da
+superinfovia, crescimento das redes de
+telecomunicações e redução de preço dos
+computadores. Exemplos: oProdigy, sistema
+da IBMe Sears, permite compras,
+reservas de passagens aéreas, hotéis ou
+veículos,competições,acessoa previsões
+do tempo etc.OHome Shopping, que também
+pode ser feito através de terminais
+instalados junto ao cliente, permite processar
+pedidos, cobrança, pagamentos a
+fornecedores etc., tal como o faz a
+American Hospital Supply ". Os quiosques
+multimídia com touch screen (telas
+sensíveis ao toque) também permitem
+13. AUSTER, E., CHOO, C. W.
+Environmental scanning: a conceptual
+framework for studying
+lhe information seeking behavior
+of executives. In: 54th
+Anual Meeting ot the American
+Saciety af Infarmatian Science.
+Medford: Learned Informalion
+Inc. 1991.
+14. DEGENT, R. J. A importância
+estratégica do serviço de inteligência
+empresarial. Revista
+de Administração de Empresas,
+São Paulo, v. 26, n.1, p.77-
+84, jan./mar. 1984.
+15. SYNNOn, Willian R. Op. cit.
+25
+11~lEARTIGOS
+16. KOTLER, P.,ARMSTRONG,
+G. Princípios de marketing.
+Englewod Gliffs: Prentice Hall,
+1993.
+17. SYNNOTT,Willian R. Op. cit.
+18. Idem, ibidem.
+19. KOTLER, P.,ARMSTRONG,
+G. Op. cit.; SYNNOn, Willian,
+R.Op.cit.
+20. SYNNOTT,Op. cit.
+21. Idem, ibidem.
+26
+compra direta. i}Electronicstore faz vendas
+com estes quiosques, com emissão
+de recibo e indicação do prazo de entrega.
+O Sam's Club, da K-Mart, também
+está usando esta tecnologia, segundo
+Kotler e Armstrong". Na era da realidade
+virtual será possível andar pelos corredores
+das lojas apenas movendo o
+mo use, e, como se estando presente no
+local, manipular, girar, ver de perto e
+comprar as mercadorias. Os conhecidos
+sistemas de reserva de passagem aérea,
+utilizados por agências de viagens e
+companhias aéreas, são realizados por
+via eletrônica. O EDI (Electronic Data
+Interchange), ou intercâmbio eletrônico
+de informações, que consiste de troca
+de arquivos eletrônicos entre organizações,
+encontra-se em pleno crescimento,
+aproximando fornecedores, clientes,
+bancos etc. Algumas empresas só
+trabalham com bancos e fornecedores
+que se utilizam do EDI, eliminando fluxo
+de papel e erros. As VANs (redes de
+valor agregado), que são empresas possuidoras
+de redes nacionais e internacionais,
+alugam serviços para conexão
+entre parceiros comerciais. Um conceito
+corrente entre algumas empresas diz:
+"No EDI, No Business" (sem EDI não há
+negócio);
+• sistemas de distribuição: permite aos
+clientes consultas on-line. Por exemplo,
+a Federal Express possui banco de dados
+indicando !1 posição das mercadorias
+despachadas e o local onde se encontram;
+os pacotes passam pelas leitoras
+de código de barra várias vezes durante
+o trajeto, inclusive nos caminhões.
+Assim, mediante consultas on-line, os
+clientes podem saber onde se encontram
+suas encomendas":
+• multiplicação dos pontos de venda: refere-
+se às possibilidades de aumento de
+pontos de venda, tal como o fez, por
+exemplo, o banco de Boston, ao instalar
+caixas automáticos em supermercados;
+• telemarketing-televenda: refere-se à divulgação
+via correios, serviços telefônicos
+como os de prefixo 900, televisão e
+pedidos por catálogo. Um exemplo é o
+Citi$hopper, com um milhão de membros
+que compram por telefone".
+29 P: Promoção/vendas
+Apromoção,o processode venda, tem sido
+otimizada com as seguintes aplicações:
+• videocassete, teleconferência, videodisco,
+CD-ROMi
+• notebooks (microcomputadores portáteis):
+utilizados por vendedores, esses
+equipamentos deixam-lhes mais tempo
+para vender, ao lhes permitir reduzir e
+agilizar as tarefas administrativas". Na
+Shell Chemical, os vendedores fazem
+controle de despesas e reembolso, armazenam
+sua base de clientes, conectamse
+via correio eletrônico, acessam documentos
+corporativos, fazem sua agenda,
+gráficos etc. AFrito-Lay permite que os
+vendedores enviem à matriz, via modem,
+relatórios de vendas diários. AAllegheny
+Beverage agilizou pedidos e controle
+do estoque;
+• expert systems: são sistemas de computador
+que simulam o conhecimento de
+um especialista, e têm sido utilizados
+para apoiar os clientes na decisão de
+compras e especificação de produtos
+adequados. Por exemplo, esse sistema é
+utilizado para as apólices de seguro da
+Coopers & Lybrand; na GM o sistema
+EPIC permite aos vendedores consultar
+microcomputadores com cores, preços,
+modelos etc.20;
+• sistemas de vídeo por computador:
+permitem aos clientes verem a si mesmos
+utilizando o produto antes da compra.
+Por exemplo, na LSAyers, pelo sistema
+Magic Mirror uma pessoa pode se
+ver na coleção de roupas da loja antes
+de experimentá-las - isso já permitiu à
+LS Ayers obter 700% de aumento em
+vendas em uma semana. Outras aplicações
+voltam-se para cirurgia plástica e
+cortes de cabelo":
+• códigos de barra, cartões magnéticos,
+impressores de cheques etc.: são sistemas
+que permitem a agilização de check
+outs;
+• cartões de débito e smart cards: mais
+especificamente, smart cards, são cartões
+magnéticos inteligentes que contêm chip
+de memória interno e carregam, além de
+informações diversas - reservas de hotéis,
+tíquetes, passagens aéreas - dinheiro
+eletronicamente gravado, que pode
+ser transferido na hora.
+39 P: Produto
+Com relação ao produto, vários dos
+itens citados em outros Ps sem dúvida o
+diferenciam e o ampliam, mas podem, ainda,
+ser citados:
+• expansão do conceito do produto, com
+serviços de atendimento ao cliente, onde
+o pessoal tem acesso a informações mais
+solicitadas, garantia dos produtos, pon-
+RAE • v. 35 • n. 4 • Jul./Ago. 1995
+TECNOLOGIA DA INFORMAÇÃOEMARKETING ...
+tos de manutenção, problemas mais freqüentes,
+coleta de sugestões etc. Por
+exemplo, no Bank of Boston, 87% dos
+problemas dos clientes são simples, previsíveis,
+e são respondidos na hora",
+Outro exemplo são as concessionárias de
+veículos, que fazem acompanhamento
+da revisão dos veículos;
+• sistemas de monitoramento e controle
+da qualidade;
+• atuação sinérgica com a estratégia de negócio:
+baixar custo, diferenciar ou enfocar.
+42 P: Produtividade
+Produtividade é uma palavra-chave
+para os líderes de custo. Aumento da produtividade
+e redução de custos estão associados
+ao aumento de produtividade:
+• operacional: envolve sistemas de automação,
+controle da produção, reengenharia
+e qualidade;
+• gerencial: é obtida com a construção de
+sistemas de informação gerencial, centros
+de informação, uso de microcomputadores
+(PCs), EIS (Executive Information
+System - sistemas de informação
+para executivos e apoio a tomadas de decisão),
+sistemas especializados e de treinamento;
+• de escritório: pode ser obtida por meio
+de micros (PCs), automação de serviços
+de escritório, softwares para workgroups
+- que viabilizam e facilitam o trabalho
+em grupo - e correio eletrônico;
+• de informática: é obtida com o uso de
+metodologias modernas, treinamento e
+terceirização, linguagens mais poderosas,
+geradores de aplicação e redução de
+custos de manutenção.
+Além desses, associa-se também o aumento
+de produtividade no cliente: facilitam-
+se as suas operações mediante a automatização
+de processos empresa-cliente.
+MARKETING DE RELACIONAMENTO
+Henry Ford já preconizava que a venda
+de um veículo é só o início de um longo
+relacionamento com o cliente. Como se
+sabe, obter um novo cliente custa mais caro
+do que manter os já existentes. E clientes
+satisfeitos trazem outros. Este conceito se
+choca com a maneira pela qual algumas
+empresas americanas lidavam com seus
+fornecedores, com os quais buscavam sem-
+RAE • v. 35 • n. 4 • Jul./Ago. 1995
+pre o menor preço. Comprava-se do fornecedor
+mais barato e mantinha-se, com
+outros vendedores, um relacionamento
+que visava a manter a pressão por preço
+baixo. Porém, a troca constante de fornecedores
+tinha um custo: gerava produtos
+que tinham elevado índice de rejeição,com
+insuficiente inspeção da qualidade do material
+recebido. Os estoques deveriam ser
+bem controlados e administrados devido
+ao grande número de fornecedores com
+prazos de entrega, qualidade e negociação
+distintas. Empresas japonesas concorrentes
+estabeleceram associações comseusfornecedores
+de modo a obter mercadorias de
+qualidade conhecida, por um preço razoável,
+permitindo-lhes melhorar a qualidade
+de seus produtos e reduzir estoques,
+custos de compra e controles.
+Observando-se, do ponto de vista teórico,
+essas perspectivas, ver o marketing como
+um processo de maximização de lucro
+focado em transações independentes no
+mercado não se encaixa
+nas relações de longo
+prazo com os clientes e
+na formação de alianças
+estratégicas. O foco
+muda de produtos e
+empresas para pessoas
+/ organizações e o
+processo social que une
+estes atores em um relacionamento.
+A própria
+distinção entre a firma e seu ambiente
+de mercado torna-se nebulosa nas organizações
+em rede (consumidores / fornecedores)
+construídas em termos de associações
+onde os limites tradicionais da firma
+tornam-se menos distintos.
+Oprocesso de compra não pode ser avaliado
+isoladamente, como se cada compra
+independesse das demais. Apartir de uma
+compra, evoluiu-se para compras repetitivas,
+relacionamentos de longo prazo e
+associações com dependência em uma certa
+área de atividade, onde a confiança
+substituiu a postura de adversários. Preços
+estão sujeitos a negociações segundo
+parâmetros de mercado, mas não são definidos
+por este. Compras repetitivas reduzem
+custos de publicidade. O fato de
+um vendedor pensar na possibilidade de
+novas vendas para o comprador pode favorecer
+a negociação. Fica mais fácil, para
+o comprador, quando este sabe onde encontrar
+o que deseja por um custo razoável.
+Acriação desses relacionamentos ven-
+A implementação de estratégias
+voltadas para o mercado vai
+requerer habilidades em projeto,
+desenvolvimento, gerência e
+controle de alianças estratégicas
+com parceiros de todos os tipos,
+mantendo-os todos sempre
+focados no cliente em mutação
+inserido em um mercado global.
+22. Idem, ibidem.
+27
+l1~lEARTIGOS
+dedor-comprador fazem a venda ficar
+mais eficiente.
+A implementação de estratégias voltadas
+para o mercado vai requerer habilidades
+em projeto, desenvolvimento, gerência
+e controle de alianças estratégicas com
+parceiros de todos os tipos, mantendo-os,
+todos, sempre facadas no cliente em mutação
+inserido no mercado global. O núcleo
+da organização será definido pelos
+mercados a que se destina e pela sua base
+de conhecimento, competência técnica, e
+não por suas fábricas e prédios. O foco no
+consumidor e o posicionamento assistidos
+pela tecnologia da informação serão os
+limites flexíveis que manterão
+a organização coesa.
+Conforme Regis
+McKenna23, o novo
+marketing será baseado
+no conhecimento
+e na experiência, a
+empresa dominará
+uma escala de conhecimento
+- da tecnologia,
+dos concorrentes,
+dos clientes, da organização,
+do ambiente
+competitivo -, colocando
+em prática as seguintes atitudes: integrar
+o cliente ao processo de desenvolvimento
+e trabalhar a infra-estrutura de
+fornecedores, sócios e usuários que ajudarão
+a manter a reputação da empresa. Em
+um mercado de mudanças rápidas, a credibilidade
+torna-se o valor de sustentação da
+empresa. As relações são a chave, a base
+da escolha do cliente. O que é uma marca
+bem-sucedida senão uma relação especial?
+Para melhor se relacionar com seus clientes,
+as organizações devem posicionar seus
+produtos e a si mesma, criando uma personalidade
+própria.
+23. McKENNA, Reuis. Marketing
+de relacionamento. Rio de
+Janeiro: Campus, 1993.
+24. PEPPERS, D., ROGERS, M.
+Marketing um a um. Rio de Janeiro:
+Campus, 1994.
+25. NASH, E.Database Marketing.
+São Paulo: Makron Books,
+1994.
+26. McKENNA, Regis. Op. cít.
+28
+SATURAÇÃO DO MARKETlNG DE MASSA E
+SEGMENTAÇÃO
+O mercado é segmentado agrupandose
+os compradores por itens comuns, tais
+como desejos, localizações, atitudes de
+compra etc.Aorganização passa a centrar
+seus esforços nos mercados em que ela
+pode atender melhor e obter resultados
+mais expressivos. Porém, esta visão do
+markeiing de massa, pela qual, por questões
+técnicas e gerenciais os clientes são
+tratadqs em grupos, como se fossem
+iguais, pode produzir distorções no mesmo
+nível em que traria benefícios. Segundo
+Peppers e Rogers", há vinte anos um
+artigo de marketing perguntava: Grace
+Slick (vocalista da banda Jefferson Airplane/
+Star-ship) eTriciaNixon, a burguesa
+filha de Richard Nixon, são a mesma
+pessoa? O que tornou esta pergunta espantosa
+na década de 70 foi o fato de que
+ela corroía a validade dos tradicionais instrumentos
+demográficos para segmentar
+consumidores em grupos distintos. Características
+demográficas tais como idade,
+sexo e renda não são o bastante para
+diferenciar ou agrupar clientes. E necessário
+conhecer realmente os clientes, suas
+atitudes, valores, crenças e estilo de vida.
+Nash" revela que o database marketing e
+omarketing individual completam o círculo
+de evolução do markeiing. As vendas começaram
+com a comunicação" de um para
+um", atrás de um balcão ou na porta da
+casa,um processo em que o relacionamento
+entre vendedor e cliente permitia, ao
+primeiro, fornecer a honestidade da marca,
+a confiança e segurança que o outro necessitava
+para utilizar um novo produto.
+Com o marketing de massa, esse tipo de relacionamento
+deteriorou-se em vários
+campos. Onome da marca tornou-se a fonte
+de confiança e autoridade. Podia-se
+contar com a Sony para televisões ou
+Brastemp para geladeiras. Mesmo assim,
+no entanto, essas excelentes companhias
+não conseguiram compensar a perda do
+relacionamento aconselhador /I de um para
+um" ou dos serviços contínuos das vendas
+nos velhos tempos, que fazia com que
+o vendedor / dono do estabelecimento conhecesse
+o comprador e, a partir desse
+fato, perguntasse da família, guardando" o
+que você mais gosta para quando você
+voltar" etc.Essa comunicação exige, assim,
+conhecimento dos clientes como indivíduos,
+considerando cada um com suas necessidades,
+preferências, interesses e personalidade
+exclusiva. Atelevisão de massa
+não tem este conhecimento, as revistas
+também não o tem.
+Mckeena" afirma que a propaganda
+está atingindo a obsolescência. No antigo
+modelo demarketingvendiam-se bens produzidos
+em massa, para um mercado de
+massa, 'através de comunicação de massa.
+A tarefa do marketing era usar a publicidade
+de modo a transmitir uma mensagem
+unilateral: "Compre isto!". Esta mensagem
+não funciona mais. Em 1989 os anúncios
+em jornais aumentaram 4%, comparados
+aos 6%de 1988e 9%de 1987.Segundo um
+estudo de [ohn Philip [ones, da Syracuse
+RAE • v. 35 • n.4 • Jul./Ago. 1995
+TECNOLOGIA DA INFORMAÇÃO E MARKETlNG ...
+University, os gastos com propaganda
+estacionaram em 1,5%do PIB(Produto Interno
+Bruto), em 1984.O excesso de publicidade
+começou a ricochetear em si própria.
+Nos Estados Unidos, os consumidores
+são bombardeados por três mil mensagens
+de marketing por dia. Porém, um
+grande número de vozes produz impacto
+menor. Os consumidores não conseguem
+lembrar que comercial apresenta determinado
+produto, nem tampouco as qualidades
+que diferenciam um produto do outro,
+gerando confusão. Os anúncios tornaram-
+se irritantes e é comum o consumidor,
+com seu controle remoto, mudar de
+canal ou mesmo reduzir o volume da televisão.
+Quanto aos jornais, muitas vezes,
+na leitura, as páginas são puladas ou os
+anúncios nem notados.
+Peppers e Rogers" analisam o marketing
+de massa, comparando-o com o marketing
+individualizado. Citam o exemplo da Kellogg,
+na qual as compras de cereais são
+vistas como uma torta com milhões de
+transações independentes. A questão é
+aumentar o número de transações de compra,
+com relação à concorrência. Mas pode-
+se olhar essa torta de forma completamente
+diferente. Esses milhões de transações,
+na verdade, não são independentes.
+Cada .uma é parte de pequenas compras
+matinais feitas pelo mesmo consumidor.
+Os consumidores lembram-se da última
+vez que compraram o produto, se foibom
+ou não. Mas o consumidor individual não
+representa nem um pontinho na tela do
+computador das organizações. Estas não
+conhecem o cliente individual. Por isso um
+cheque desse cliente é devolvido ao banco
+mesmo após anos de movimentação.
+Também é por esta razão que toda semana
+o seu supermercado pede a carteira de
+identidade para aceitar o seu cheque. Essas
+empresas fazem marketing tentando sempre
+obter novos clientes, mas não têm
+grande preocupação em reter os que já
+possui.
+o FUTURO INDIVIDUALIZADO E
+"MARKETING UM A UM"
+Peppers e Rogers" afirmam que o antigo
+paradigma da produção, mídia e marketing
+de massa estão sendo substituídos
+por um outro, inteiramente novo, um sistema
+econômico individualizado. O futuro
+será caracterizado por uma produção
+personalizada, uma mídia individualizada,
+mudando as regras da concorrência:
+em vez da fatia de mercado, a fatia de
+RAE • v. 35 • n. 4 • Jul./Ago. 1995
+clientes - um cliente de cada vez. Os lucros
+focarão menos o curto prazo mas
+aqueles provenientes da relação duradoura
+com o cliente.
+Amídia individualizada permite transmitir
+uma mensagem única a um indivíduo
+específico. É bilateral, permite mensagens
+do cliente para a empresa, e é econômica.
+Uma parte da mídia individualizada
+já existe, o restante está chegando:
+50%das residências nos EUApossuem fax,
+a TV interativa está a caminho e há uma
+proliferação crescente de PCs, telefones
+celulares, notepads etc.
+O profissional de marketing de massa
+tenta vender um produto ao maior número
+de consumidores possível. O profissional
+de marketing individualizado busca
+vender a um único cliente o maior número
+- e diferentes linhas - de produtos
+possível, durante um longo período de
+tempo. Não estamos lidando somente com
+a qualidade do produto, mas principalmente
+com a qualidade do relacionamento.
+Em vez de medir o sucesso pelo número
+de transações realizadas no período
+neste mercado, o sucesso será medido pela
+perspectiva de valor futuro que o cliente
+atribuir à empresa. A verdadeira medida
+do sucesso da empresa não será a fatia de
+mercado, mas a fatia de clientes. Voltar-se
+para esta fatia significa assegurar-se de
+que cada cliente individual que compra o
+seu produto comprará mais, somente da
+sua marca, em vez de utilizar-se de outra
+solução. Aexigência fundamental da fatia
+de clientes é conhecer cada um deles, saber
+quem jamais comprará o seu produto
+para parar de gastar dinheiro e quem tem
+real potencial de compra. Este pode, inclusive,
+transformar-se em defensor do seu
+produto, além de leal consumidor.
+Atecnologia da informação permite-nos
+usar o computador como memória adicional,
+que viabiliaza conhecer cada cliente,
+um a um, como no passado o médico local
+conhecia seus pacientes. O marketing individualizado
+destaca-se, comparativamente,
+do marketing de massa da seguinte maneira:
+• o marketing de massa exige que os gerentes
+de produto vendam um produto
+de cada vez para o maior número de
+clientes, mas o marketing individualizado
+exige que os gerentes de clientes vendam
+a maior quantidade de produtos
+para um cliente de cada vez;
+• o profissional do marketing de massa busca
+diferenciar seus produtos, mas o pro-
+27. PEPPERS, D., ROGERS, M.
+Op. cit.
+28. Idem, ibidem.
+29
+11~lEARTIGOS
+relação a um chip de memória -, ao perguntar
+a um engenheiro porque selecionara
+o chip da Intel, esperou explicação em
+jargão técnico nesse sentido: "porque ele tem
+tempo de acesso de tantos 'nano' segundos"
+ou "sua dissipação de força é 'assim e assado'".
+Porém, a resposta foi de que quase
+todos os chips que usava eram da Intel,
+sendo natural, assim, que o novo chip também
+o fosse. O engenheiro completou:
+"simplesmente compramos da Intel porque temos
+uma relação comercial com ela e confiamos
+na empresa" .
+No marketing individualizado, o antigo
+organograma da área de marketing deve ser
+modificado. No lugar de gerências de produto,
+temos gerências de clientes, onde cada
+gerente é responsável por um conjunto
+de clientes. Os gerentes de clientes podem
+ser chamados de gerentes de relacionamento.
+A Ciba-Geigy e a USAir são
+clientes da IBM. Cada um destes clientes
+é de responsabilidade de um gerente específico.
+É função desta pessoa conhecer,
+da melhor forma possível, os negócios dessas
+empresas-cliente, de modo a assegurar
+a participação da IBM na maior parte
+possível dos seus negócios de informática.
+fissional do marketing individualizado
+procura diferenciar seus clientes;
+• o profissional do marketing de massa procura
+obter um fluxo constante de clientes
+novos, mas o profissional do marketing
+individualizado busca obter novos
+negócios com os clientes que já possui;
+• um profissional de marketing de massa
+concentra-se nas economias de escala,
+mas o profissional do marketing individualizado
+o faz na economia de escopo,
+ou seja de poder economizar seus esforços
+ao concentrar-se e otimizar o marketing
+dos clientes um a um.
+29. McKENNA,Regis. Op. cit.
+Acurto prazo não é muito difícil se comprar
+uma fatia de mercado. A menos que
+o produto seja inovador, ou seja, possui
+baixa concorrência ou demanda muito
+grande, pode-se aumentar a fatia de mercado
+com descontos, abatimentos, cupons
+etc. Como o jogo do abatimento é acessível
+a todo mundo, todos estão jogando
+com as mesmas regras, e é raro o desconto
+oferecido por uma empresa não ser igualado
+pelos concorrentes. Assim, os aumentos
+de fatia de mercado são comprados e pagos
+com margens de lucro cada vez menores.
+Orelacionamento da empresa com seus
+clientes e o seu posicionamento sob o ponto
+de vista destes clientes são elementos
+intangíveis de marketing que podem influenciar
+mais os negócios que o preço ou
+o produto. Mclcenna", quando realizava
+um estudo de mercado para a Intel- com
+EXEMPLOS PIONEIROS DE OATABASE MARKETING
+SISTEMAS DE INFORMAÇÃO PARA
+GERÊNCIA DO RELACIONAMENTO COM
+CLIENTES
+Sistemas de Informação para Gerência
+do Relacionamento com Clientes são sistemas
+planejados, construídos e administra-
+A American Express está usando compu com massivo
+processamento paralelo, e baseandosuas pro s dados das transações
+de seus membros. A Philip Morris ma promoção do
+cigarro Marlboro, distribuindo 30 milhões de brindes afumantes, além de
+construir um banco de dados com 26 milhões de nomes. No lançamento
+de uma nova marca de cigarros, ofereceu dois ma . ros
+um que preenchesse um questionário. Obteve o cadastro d mil de
+r~:~~i~;n~g~~u:~~er;::!~.ãO, da concorrência; obteve ainda retorno do
+No Brasil, em 1987, o Centro Aupitivo Telex detinha. em relação à
+Siemens, 50% a mais do mercado de aparelhos auditivos. OCentro Auditivo
+Telexfazia publicidade em televisão, mas 98% do públiCOnão estava
+interessado em seus produtos. A Siemens começou a enviar publicidade
+e atuar somente sobre o público-alvo. Hoje, o Centro Auditivo Telex possui
+só 20% do mercado.
+A Nestlé,por meio de seu serviço de atendimento ao consumidor, acompanha
+e cadastra crianças. A Brastemp criou seu clube de consumidores.
+A Kibon cadastra o hobby de seus consumidores, visando ao patroclnio
+de esportes2•
+A SE americana mantém dados geográficos. demográficos e
+psicográficos dos clientes, com seu histórico de compras. Sabem o que e
+quando o cliente comprou. Após a vida útil do aparelho enviam ao cliente
+publicidade sobre os novos produtos. A empresa Fingerhut, através dema-
+Ia direta e brindes, tem cadastro de 20 milhões de clientes, para os quais
+envia 400 milhões de malas por ano. Um mês antes do aniversário do cliente,
+envia-lhe ofertass. A R. R. Donneley tem 8 mil versões do Farm Jouma/.
+para tipos diferentes de propriedade. culturas e dados demográficos4•
+São aplicações dos sistemas de informação de clientes:
+• aumento da venda;
+• reconquista de clientes;
+• estímulo à freqüência de compras;
+• aumento da produtividade de vendas;
+• aproximação do cliente;
+• maximização do relacionamento;
+• bloqueio da concorrência;
+• apoio à estratégia (4 Ps);
+• produção de propaganda alinhada com as necessidades do
+cliente;
+• identificação do Core Group (grupo central de interesse);
+• realização de pesquisas (considerando o database como um "'oeus
+group" gigante) e testes de mercado;
+• cruzamento com cadastros de terceiros não-concorrentes;
+• upgrade vertical (assinatura por perlodo maior) e horizontal (outras
+assinaturas e produtos);
+• diferenciação da oferta de produtos e preços, por segmento;
+• criação de jornais e prospectos, apoio a agentes, criação de clubes e cartões
+"for members on/y", demarketíng e retenção dos clientes atuais.
+30 RAE • v. 35 • n. 4 • Jul./Ago. 1995
+TECNOLOGIA DA INFORMAÇÃO E MARKETING ...
+dos de modo a maximizar a sintonia e o
+relacionamento entre a organização e seus
+clientes, permitindo a recepção e manutenção
+de informações sobre esses clientes
+atuais ou potenciais, seu comportamento,
+desejos e necessidades, além de fornecer
+subsídios para a gerência estratégica
+de marketing da empresa e otimizar os resultados
+obtidos no mercado.
+Esses sistemas permitem maximizar o
+relacionamento com os clientes, ao criar,
+na organização, uma memória - por meio
+do computador - que permite, em larga
+escala, conhecer cada cliente ou possível
+cliente mais detalhadamente do que o
+dono de uma pequena mercearia conhece
+seus fregueses, direcionando as ofertas,
+moldando os produtos e criando uma via
+de mão dupla de informação entre a empresa
+e o mercado. A tecnologia fará com
+que o marketing seja feito Uum a um", como
+no passado, porém com grande número
+de clientes. Somente as organizações detentoras
+dos sistemas de gerência de
+clientes poderão manter relacionamentos
+ótimos com grande número de clientes, e
+fazer um markeiing onde a oferta terá endereço
+certo e o cliente terá resposta e
+acompanhamento individual, como se fosse
+único.
+Besserr" apresenta o exemplo da rede
+de supermercadosA&P, que incentiva seus
+clientes a obterem o cartão magnético
+Bonus Saver, que, além de facilitar o check
+out, dá acesso a descontos em mercadorias
+marcadas a cada semana. Para obter o desconto,
+o consumidor deve apresentar o cartão,
+que é lido em uma leitora no caixa.
+Ao mesmo tempo que o cliente economiza
+alguns dólares, o histórico da compra é
+armazenado nos computadores da companhia.
+Mantendo estas informações, aA&P
+tem condições de estabelecer relacionamentos
+de longo prazo com seus clientes
+e obter vantagem competitiva sobre as cadeias
+regionais de supermercados. A empresa
+centralizou suas compras e reduziu
+custos, mas faz ofertas dos produtos regionalmente
+para o mercado local, oferecendo
+aos consumidores os produtos de sua
+preferência. O cartão permite, aos clientes
+leais e mais freqüentes, descontos especiais,
+assim como também pode oferecer
+Coca-Cola aos bebedores de Pepsi e viceversa.
+Pode oferecer aos fumantes assíduos
+uma nova marca ou mesmo ofertas
+para experimentaroutro tipo de cigarro,atingindo
+em 100%os clientes-alvo (como os
+clientes são acionados um a um, clientesalvo
+soa melhor que mercado-alvo).
+A tecnologia da informação torna-se
+capacitadora de uma reengenharia no
+marketing de massa, mudando o paradigma
+tradicional e permitindo que o marketing
+individualizado se torne realidade.
+Os sistemas de informação para a gerência
+de relacionamento com clientes são o
+suporte da gerência de clientes da organização.
+Esses sistemas são compostos de
+bancos de dados (database) e de programas
+de computador (sistemas aplicativos)
+construídos de modo a otimizar o relacio-
+30. BESSEN, Jim. Riding the
+marketing information wave.
+Harvard Business Review,
+Boston, v.71, n. 5, p.150-160,
+Sep./Oct. 1993.
+Outros exemplos de uso de Sistemas de Informações de clientes apoiados
+em data bases 5:
+• United Artists TIIeaters (objetivo: lealdade do cliente). Cada vez que o
+cliente comprava um bilhete, o programa registrava, através de cartões
+magnéticos, o tipo de filme, dia da semana e período de exibição. São
+oferecidos incentivos gratuitos como pipoca e refrigerantes ou escolha
+de poltronas. O sistema envia promoções sobre determinado tipo de
+filme para quem se interessaria pelo mesmo, além de outras, para períodos
+fora de pico (válido para linhas aéreas e hotelaria);
+• Brlstol-Myers Squibb (NUPRIN) (objetivo: experimentação). A Nuprin
+Challenge preparou programa com um livro de informações sobre doenças,
+amostras de produtos, um bilhete de sorteio (US$ 20,000.00), um
+cupom de venda rastreando-a e um cupom de pesquisa. As ofertas foram
+feitas em jornais, revistas, TV, "disque 800" e mala direta. Foram
+obtidas 500 mil respostas. Dos que responderam ao "disque 800", 80%
+eram clientes do Tylenol, o maior concorrente;
+• Budwelser (objetivo: construção de banco de dados). A campanha,
+estruturada em anúncios de uma página, em várias revistas, oferecia
+sorteios de jeeps Cherokees dourados, 500 bikes Trek e 250 mil brindes,
+além de um prêmio de 1 milhão em ouro, para ser atribuído com
+base num desenho. Em troca, bastava preencher um questionário com
+nome, telefone, data de nascimento, o nome da cerveja preferida e a
+freqüência com que a bebia.
+O que é possivel fazer com esses bancos de dados? Os usos são ilimitados,
+para conquista, programas de lealdade, lançamento de novas marcasetc.
+Na revista Harvard8usiness Review, de setembro de 19946, uma charge
+mostra um consumidor incauto que, tomando banho e escovando os dentes
+não percebe que está sendo observado por homens de marketing por
+todos os lados. É citado também o caso de Lisa Tomaino, casada com um
+pOlicial,que manteve secreto o seu endereço, para evitar malas diretas
+publicidade. No último ano ela teve um filho. Foi muito para seu grande
+segredo. Seis semanas mais tarde ela estava inundada de mala direta
+para novas mães. O hospital vendera seu nome e endereço para uma
+empresa de marketing direto.
+1. BESSEN,Jim. Op. cit.
+2. MENDONCA, Cláudio. A eficiência do Database. Marketing e Negócios,
+Rio de Janeiro, aoo 11,n. 17, p.27-28, fev. 1994.
+3. KOTLER, p., ARMSTRONG, G. Op. cít,
+4. BESSEN,Jim. Op. cit.
+5. NASH, E. Op. cit.
+.1i.B~SSEN, Jim.Op. cit.
+RAE • v. 35 • n. 4 • Jul./Ago. 1995 31
+l1~lEARTIGOS
+namento com clientes. Através de monitoramento
+ambiental e de coleta de informações
+internas e externas, os dados são
+validados e armazenados emum banco de
+dados (database), que é a memória de nosso
+sistema. Apartir das informações armazenadas,
+é gerido o processo de administração
+e gerência de marketing, incluindo
+a geração de oportunidades, estratégias,
+planejamento, implantação, operação e
+controle das atividades de marketing. A
+estrutura desse sistema pode ser visualizada
+na figura 2.
+Sistemas de Gerência de Clientes são
+um subconjunto do que definimos como
+DatabaseMarketing. Database Marketing refere-
+se à utilização de bases de dados (informações
+armazenadas em mídia eletrônica)
+e de sistemas de informação, para
+otimizar os resultados de marketing. Essas
+informações ou sistemas, como o próprio
+nome o diz, referem-se ao marketing como
+um todo e a todos os públicos envolvidos
+no macroambiente da organização, entre
+os quais, fornecedores, concorrentes, governo
+etc. Na prática, porém, quando se
+fala em database markeiing, a literatura geralmente
+define-o como 1/guardar e tratar
+informações sobre clientes, geralmente visando
+à promoção", ficando o conceito de database
+marketing igualado aos dos sistemas
+de gerência de clientes.
+A revista Business Week, em sua edição
+de setembro de 199431, traz Database Marketing
+como matéría de capa. Conforme o
+quadro preparado pela Coopers & Lybrand
+Consulting, apresentado naquela
+matéría, o ciclo do database marketing é o
+seguinte:
+31. LEWYN, M.,VERITY, J.
+Database Marketing. Business
+Week, New York, n. 3.372,
+p.34-40, Sep. 1994.
+. coletando dados:o cliente fornece informações
+sobre si mesmo voluntariamente,
+preenchendo cartões de garantia, participando
+de concursos, preenchendo
+cadastros. Os dados dão entrada no computador
+e são combinados combases públicas;
+• digerindo dados: usando sofisticadas
+técnicas estatísticas, o computador agrega
+e classifica os dados, gerando um
+banco de dados consolidado;
+• encontrando o consumidor ideal: o
+computador encontra os consumidores
+ideais para um dado produto baseandose
+nos dados daqueles que já compram
+muito o produto. Os consumidores são
+também classificados por características
+tais como interesses, renda etc.;
+• usando o conhecimento: os dados podem
+ser usados com vários fins, tais como
+determinar promoções, desenvolver
+novos produtos e assegurar que os consumidores
+apropriados os conheçam, mandar
+mensagens para a audiência certa;
+• compartilhando dados com revendedores:
+scanners em caixas registradoras
+informam quem comprou e onde. Associados
+com os dados do fabricante, permitem
+planejar publicidade local, alocação
+de prateleiras e layouts de lojas;
+• redefinindo o database: o database é
+constantemente atualizado com respostas
+a cupons, clubes de produtos, "telefone800",
+concursos,listasde terceirosetc.
+CONCLUSÕES
+Com a redução dos custos dos equipamentos
+processadores de informação
+(computadores, fax, TVinterativa, telefone,
+telefone celular, bips e notepads), expansão
+das redes e mídia informacional (fibra
+ótica e rede mundial de satélites), desenvolvimento
+do software e hardware, as possibilidades
+de se aplicar a tecnologia da
+informação no marketing aumentarão a
+cada dia, a cada minuto. Ganharão os inovadores
+aqueles que saírem na frente, obtendo
+vantagem competitiva ao melhorar
+o relacionamento com os clientes, tornarse-
+ão um alvo móvel mais difícil de ser seguido
+pela concorrência. Ganharão os
+clientes que, de posse de recursos cada vez
+mais fáceis para escolher e obter o que desejarem,
+poderão ter as suas necessidades
+sempre mais satisfeitas. O
+~ 0950403
+32 Artigo recebido pela Redação da RAE em agosto/1994, avaliado em setembro/1994 e fevereiro/1995 e aprovado para publicação em abril/1995.

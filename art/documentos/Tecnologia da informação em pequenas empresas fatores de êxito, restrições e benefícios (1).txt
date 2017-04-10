@@ -1,0 +1,711 @@
+RAC, v. 8, n. 2, Abr./Jun. 2004: 09-26 9
+Tecnologia da Informação em Pequenas Empresas:
+Fatores de Êxito, Restrições e Benefícios
+Glaúcia Aparecida Prates
+Marco Túlio Ospina
+RESUMO
+Existem poucos estudos sobre análises do desempenho da Tecnologia da Informação em pequenas
+empresas, principalmente em países em desenvolvimento como o Brasil. O artigo propõe-se a
+analisar os impactos que a Tecnologia da Informação provocou nos aspectos organizacionais,
+referentes aos critérios de desempenho nas empresas analisadas, além de identificar a sua amplitude
+de uso, os fatores que contribuem para o seu êxito, os motivos que levaram ao seu uso e as
+dificuldades encontradas na sua implantação. Consideraram-se fatores como os seguintes: a)
+aumento da continuidade; b) melhoria dos controles; c) condições de proporcionar maior
+compreensão das funções produtivas. A pesquisa foi realizada por meio de um estudo multicaso
+em 25 empresas, no primeiro trimestre de 2002, que atuam nos setores eletro-eletrônico, distribuição
+e comércio e serviços. Os resultados indicaram que a implantação da Tecnologia da Informação
+(TI) trouxe como maiores fatores de êxito, apontados pelas empresas, os dois seguintes: a percepção
+da necessidade pelos usuários e o apoio da cúpula administrativa. Como benefícios foram destacados
+esta dupla: melhoria na compreensão produtiva, aumento na satisfação do usuário.
+Palavras-chaves: tecnologias da informação; pequenas empresas; impacto organizacional.
+ABSTRACT
+Studies have been conducted on Information Technology in specific areas, about standards and
+success factors, user’s satisfaction. There are a few papers about IT (Information Technology)
+analysis in small business, mainly in countries under development such as Brazil. The aim of this
+paper is to describe the organizational impact due to the IT implementation in small business,
+considering performance criterion, success factors, adoption motivation and difficulties. IT
+considers three factors such as: a) to increase the continuity; b) controls more efficient; c) to
+provide more understanding of productive functions. This research was conducted by multicases
+method in 25 firms, during the first trimester of 2002. The studied firms integrate many sectors
+such as electrical-eletronical, logistic, commerce and services. The results indicated the two
+highest scores on success factors: use needs perceptions and management support. As benefits
+were pointed: a better understanding of productive functions and user´s satisfaction.
+Key words: information technology; small business; organizational impact.
+10
+Glaúcia Aparecida Prates e Marco Túlio Ospina
+RAC, v. 8, n. 2, Abr./Jun. 2004
+INTRODUÇÃO
+Estima-se que o uso de computadores em pequenas empresas ao longo dos
+últimos 5 anos, cresceu 30–80%, dependendo da localização e natureza do negócio
+(Palvia & Palvia, 1999).
+Entretanto tal estatística indica que o aumento do uso ocorre principalmente
+nas funções operacionais e administrativas e não em atividades estratégicas e
+de tomada de decisões (Fuller, 1996).
+Pesquisas já realizadas em TI (Tecnologia da Informação) em áreas especificas,
+padrões de uso da informática, fatores de êxito, percepção de uso da TI. Fuller
+(1996) também fornece ampla análise das questões de TI nas pequenas empresas.
+Entretanto pouca literatura foi encontrada relativa à análise da TI em pequenas
+empresas, principalmente em países em desenvolvimento, como é o caso do
+Brasil.
+O objetivo deste artigo é descrever o impacto organizacional derivado da
+implantação de Tecnologia da Informação em pequenas empresas considerando
+as indicações de Zuboff (1994). Consideram-se fatores como os três seguintes:
+a) aumento da continuidade; b) melhoria dos controles; c) aumento da
+compreensão das funções produtivas.
+Importância da TI nas Organizações
+Não há mais dúvidas de que para as funções da administração – planejamento,
+organização, liderança e controle – são de suma importância os sistemas que
+fornecem informações aos administradores. Para Stoner (1999) somente com
+informações precisas e na hora certa os administradores podem monitorar o
+progresso na direção de seus objetivos e transformar os planos em realidade.
+Assim, para esse autor as informações devem ser avaliadas segundo quatro
+fatores:
+. qualidade da informação – quanto mais precisa a informação, maior sua
+qualidade e com mais segurança os administradores podem contar com ela
+no momento de tomar decisões;
+RAC, v. 8, n. 2, Abr./Jun. 2004 11
+Tecnologia da Informação em Pequenas Empresas: Fatores de Êxito, Restrições e Benefícios
+. oportunidade da informação – para um controle eficaz, a ação corretiva
+deve ser aplicada antes de ocorrer um desvio muito grande do plano ou do
+padrão; portanto as informações devem estar disponíveis para a pessoa certa
+no momento certo;
+. quantidade da informação – dificilmente os administradores podem tomar
+decisões precisas e oportunas sem informações suficientes; contudo é
+importante que não haja uma inundação de informações, de modo a esconder
+as coisas importantes;
+. relevância da informação – de modo semelhante, a informação que os
+administradores recebem deve ter relevância para suas responsabilidades e
+tarefas (Stoner, 1999).
+O propósito básico da informação, dentro do contexto organizacional, de acordo
+com Oliveira (1998), é o de habilitar a empresa a alcançar seus objetivos por
+meio do uso eficiente dos recursos disponíveis (pessoas, materiais, equipamentos,
+tecnologia, dinheiro, além da própria informação). Neste sentido, a teoria da
+informação considera os problemas e as adequações do seu uso efetivo pelos
+tomadores de decisão.
+Segundo Oliveira (1998), a eficiência na utilização da informação é medida em
+relação ao custo para obtê-la e o valor do benefício derivado de seu uso. Associamse
+à produção da informação os custos envolvidos na coleta, processamento e
+distribuição.
+Chaves & Falsarella (1995) afirmam que há relação entre as características
+dos sistemas de informação e os estágios de desenvolvimento da Informática em
+que uma organização se encontra, conforme propõe Nolan (1977), o que vem
+descrito no Quadro 1 a seguir.
+12
+Glaúcia Aparecida Prates e Marco Túlio Ospina
+RAC, v. 8, n. 2, Abr./Jun. 2004
+Quadro 1: Estágios da Tecnologia da Informação nas Organizações
+Fonte: Chaves e Falsarella (1995).
+A Pequena Empresa e o Uso da Tecnologia de Informação
+Conforme Solomon (1986), uma dada tecnologia não é automaticamente boa
+ou má para a pequena empresa. Seu resultado dependerá da maneira como esta
+tecnologia será aplicada. Na verdade, o aumento da precisão organizacional,
+auxiliada por sistemas de informação, trará maior eficiência na administração de
+seus processos, recursos e atividades e maior eficácia na obtenção de resultados
+previamente estabelecidos.
+Impacto da Tecnologia da Informação nas Organizações:
+Segundo Gonçalves (1993), a tecnologia é o fator individual de mudança de
+maior importância na transformação das empresas. Tais transformações não se
+restringem apenas ao modo de produzir bens e serviços, mas induzem novos
+processos e instrumentos que atingem por completo a estrutura e o comportamento
+das organizações, repercutindo diretamente em sua gestão.
+RAC, v. 8, n. 2, Abr./Jun. 2004 13
+Tecnologia da Informação em Pequenas Empresas: Fatores de Êxito, Restrições e Benefícios
+A relação entre estrutura organizacional e tecnologia tem sido alvo de grande
+atenção, uma vez que as recentes inovações trazem mudanças radicais nas
+organizações, já que são capazes de alterar a forma de administrar a empresa ou
+até mesmo o local de realização do trabalho (Gonçalves, 1993).
+Certamente, se nada mudar em relação à maneira pela qual o trabalho é feito
+e se o papel da TI for meramente o de automatizar um processo já existente, as
+vantagens econômicas serão mínimas.
+Os impactos sobre a produtividade e a forma geral de organização das empresas
+podem ser muito significativos, pois a TI é diferente de outras formas de tecnologia
+que afetam as tarefas de produção e coordenação, ou que expandem a memória
+organizacional (Oliveira, 1996). O impacto da tecnologia pode provocar a
+transformação no trabalho das pessoas, na produção dos grupos, no desenho da
+própria organização e no desempenho da empresa (Gonçalves, 1998).
+De acordo com Yong (1992), nos países do primeiro mundo a TI tem sido
+considerada como um dos fatores responsáveis pelo sucesso das organizações,
+tanto no âmbito de sobrevivência, quanto no aumento da competitividade.
+Corroborando este pensamento, Zuboff (1994) afirma que a TI, baseada nos
+computadores, está proporcionando nova infra-estrutura para as várias atividades
+produtivas e comunicativas, algo vital para a vida organizacional.
+Os administradores em geral investem em novas ferramentas de TI, porque
+acreditam que isso lhes permitirá realizar suas operações mais rapidamente e a
+um custo mais baixo; utilizam-na para objetivos estratégicos e para planejar e
+alcançar um ou mais dos três objetivos operacionais independentes:
+a) aumentar a continuidade (integração funcional, automação intensificada,
+resposta rápida);
+b) melhorar o controle (precisão, acuidade, previsibilidade, consistência, certeza);
+c) proporcionar maior compreensão das funções produtivas (visibilidade,
+análise, síntese).
+As atividades mais suscetíveis a alterações, segundo Oliveira (1996), são aquelas
+de intensiva informação, podendo-se distinguir três grupos:
+. Produção. A física (crescentemente atingida pela robótica e instrumentação
+de controle), a produção de informação (influenciada pelos computadores
+em tarefas burocráticas, como contas a receber, contas a pagar, faturamento
+etc.) e a produção de conhecimento (CAD, CAM, análise de crédito e risco,
+produção de software etc.).
+14
+Glaúcia Aparecida Prates e Marco Túlio Ospina
+RAC, v. 8, n. 2, Abr./Jun. 2004
+. Trabalhos de coordenação. A telecomunicação é o instrumento fundamental
+da mudança. Afeta a distância física, a natureza do tempo sobre o trabalho,
+armazena informações e mantém a memória organizacional como banco de
+conhecimento.
+. Gestão. Afeta a direção, ao permitir monitorar o ambiente e tomar as decisões
+para adaptar a organização ao ambiente; afeta o controle, ao medir o
+desempenho e compará-lo com os planos, para manter-se no rumo desejado.
+Custos com Tecnologia de Informação
+Para Giurliani (1999) o uso de tecnologias de informação carrega consigo custos
+‘invisíveis’, que são aqueles referentes aos gastos com usuário final, como suporte
+e treinamento informais (quando alguém interrompe suas atividades para auxiliar
+um colega com dificuldades referentes ao uso ou obtenção da informação); perda
+de tempo em atividades extremamente elaboradas para obter uma informação,
+cujo valor não compensa o trabalho empregado; finalmente, custos decorrentes
+da perda de produtividade, devido à indisponibilidade da informação (queda do
+sistema, por exemplo).
+Da mesma forma, para o autor os custos mais facilmente mensuráveis (‘visíveis’)
+seriam aqueles relacionados a hardware e software (despesas com compra e/
+ou leasing de equipamentos, upgrades, atualizações); gerenciamento (redes,
+sistemas, banco de dados); suporte (helpdesk, treinamento, viagens, manutenção);
+desenvolvimento (aplicações, testes e documentação, customização e
+manutenção); e taxas de comunicação (aluguel de linhas de comunicação de
+dados, taxas de acesso a servidores).
+Pesquisas Realizadas sobre TI em Pequenas Empresas
+Segundo Thong (2001, p.148), “enquanto a literatura de Sistemas de Informação
+tem identificado fatores potenciais para o sucesso da implementação de TI,
+nenhuma pesquisa tem investigado a importância relativa destes fatores no
+contexto das pequenas empresas”.
+O mesmo autor ainda cita que as pequenas empresas possuem inúmeras
+características diferentes das grandes e médias empresas; e notavelmente sofrem
+de recursos reduzidos. Sem conhecer a importância de fatores-chaves, as
+pequenas empresas podem estar gastando recursos limitados e energia em fatores
+de pouca importância para a contribuição limitada no sucesso da implementação
+da TI. Dessa maneira, Thong (2001) realizou uma pesquisa sobre as restrições
+RAC, v. 8, n. 2, Abr./Jun. 2004 15
+Tecnologia da Informação em Pequenas Empresas: Fatores de Êxito, Restrições e Benefícios
+de recursos e implementação de sistemas de informação em pequenas empresas
+em Singapura, baseada no modelo de implantação de TI em pequenas empresas
+de Welsh & White (1981), o qual considerou a estrutura de restrições de recursos
+em pequenas empresas e a teoria das restrições de Attewell (1992). O modelo
+foi testado em amostra de 114 pequenas empresas. Os resultados comprovaram
+que as pequenas empresas com sucesso em TI tendiam a ter alta participação
+de especialistas externos, investimento adequado, alto conhecimento dos usuários,
+alto grau de envolvimento do usuário e alto suporte do gerente geral. Concluindo
+assim que tal participação do especialista externo é a chave principal do sucesso
+da implantação da TI em pequenas empresas.
+Palvia e Palvia (1999) conduziram um estudo focalizado em empresas
+verdadeiramente pequenas, as quais possuíam um numero muito reduzido de
+funcionários e não possuíam um departamento de Gestão de Sistema de
+Informação formal.
+Neste ambiente, o proprietário era também gerente, e principal usuário, além
+de desempenhar as principais atividades de TI. Dessa maneira os autores
+construíram um instrumento de medição da satisfação em TI. Uma pesquisa foi
+conduzida em amostra de 1460 empresas para identificar os padrões de satisfação.
+As áreas de insatisfação em TI foram: treinamento e educação, manutenção dos
+softwares, documentação e suporte pelo fabricante. Nessas áreas as deficiências
+foram devidas ao comportamento dos vendedores de software e consultores.
+Finalmente, a análise de contingência da satisfação em TI baseou-se em fatores
+relacionados ao negócio em si e às características dos proprietários. A observação
+concluiu que as características do proprietário têm impacto maior na satisfação
+em TI do que qualquer outro fator. No estudo esses autores consideraram gênero,
+idade do proprietário, raça e habilidade em computação.
+Um novo ângulo de se avaliar a TI também tem sido estudado em países de
+pouco desenvolvimento. Anandajaran, Igbaria e Anakwe (2002) realizaram um
+estudo para determinar os fatores que motivam os usuários a aceitar a TI. Foram
+coletados dados de 143 usuários na Nigéria que apontaram a pressão social
+como importante fator.
+Segundo El-Manaki (1990), a pequena empresa absorve novas tecnologias de
+informação de forma lenta e limitada nos seus processos administrativos ou de
+produção. De acordo com o autor uma das razões para que isto ocorra é a falta
+de tecnologia específica para a pequena empresa. O uso de ferramentas de
+apoio de decisão para a pequena empresa é fator diferencial. Esses sistemas, de
+acordo com Machado (1996), são itens de primeira necessidade para profissionais,
+cujas decisões definem os destinos de produtos e serviços e, em conseqüência, o
+êxito ou o fracasso das organizações.
+16
+Glaúcia Aparecida Prates e Marco Túlio Ospina
+RAC, v. 8, n. 2, Abr./Jun. 2004
+O panorama da pequena empresa no Brasil, sob o aspecto de tecnologias de
+informação, não é dos melhores. Uma pesquisa da Microsoft, citada por Silva
+(1997), indica que 58% das pequenas empresas que não possuem computadores
+acreditam que a informática seja desnecessária; 5% nem sabem os motivos
+pelos quais não se automatizam; e 11% afirmam estar providenciando a compra
+de computadores.
+Estatísticas da Sondagem Sebrae (2000) mostram que apenas 30% das micros
+e pequenas empresas estão totalmente informatizadas. Destas, 50% não possuem
+acesso à Internet e 55% não possuem computadores ligados em rede. Por meio
+desses números, verifica-se que existe informatização apenas de processos
+operacionais isolados da empresa. Desses sistemas de informação não se extraem
+informações relevantes para a tomada de decisão, nem do ambiente interno da
+empresa e muito menos do seu ambiente externo. Para Saviani (1995) a
+informática, nas pequenas empresas, não tem a mínima visão de como produzir
+informações, sejam elas gerenciais ou não.
+Apesar deste cenário, uma parcela de pequenas empresas, impulsionadas pela
+competitividade (incluindo grandes empresas) está optando por informatizar seu
+negócio. Cerca de 80% das pequenas empresas informatizadas atribuem o grau
+de ‘muito importante’ ao uso de computadores na empresa.
+A Qualidade e a Necessidade da Tecnologia de Informação
+na Pequena Empresa
+Neste sentido, um sistema de informação, voltado à pequena empresa, deve
+respeitar alguns quesitos: custo, tempo e qualidade.
+Silva (1997) afirma que as pequenas empresas brasileiras são muito sensíveis
+a preço. Das pequenas empresas não informatizadas, 41% afirmam que o motivo
+é não ter condições de investir nesta área, segundo informações da Sondagem
+Sebrae (1999). Outro grande problema com relação aos custos é a avaliação do
+preço da nova tecnologia. Os três, segundo Souza Neto (1998), são o custo de
+desenvolvimento, o preço de mercado e a receita esperada.
+O fator tempo é considerado por El-Manaki (1990) como uma das barreiras
+encontradas pela pequena empresa que dificulta a incorporação de tecnologias
+informatizadas em seus sistemas administrativos; a outra é o custo. Em virtude
+do dinamismo da pequena empresa, seu sistema de informação não pode levar
+muito tempo para ser desenvolvido e implantado. Segundo Penteado (1996), não
+são apenas as grandes empresas que têm pressa de informatizar seus processos;
+as pequenas também.
+RAC, v. 8, n. 2, Abr./Jun. 2004 17
+Tecnologia da Informação em Pequenas Empresas: Fatores de Êxito, Restrições e Benefícios
+Satisfeitos os quesitos de custo e tempo, a pequena empresa não pode abrir
+mão do fator qualidade nos seus sistemas de informação. Se qualidade pode ser
+definida como adequação ao uso (Paladini, 1997), um sistema de informação
+deve ser adequado às necessidades da pequena empresa. De acordo com Silva
+(1997), a informática representa para o pequeno empresário os trinômios bons,
+simples e baratos; para Paulo Castro da IBM, esta é a linguagem do small business
+de hoje e do futuro.
+Como a pequena empresa não possui hierarquia formal, ela não distingue as
+necessidades de informação de maneira metódica. Muitas vezes o proprietário/
+gerente, além de supervisionar os processos, assume papéis operacionais no diaa-
+dia da empresa. Dessa forma, o sistema de informação deve possuir
+características ao mesmo tempo estratégicas, táticas e operacionais, de acordo
+com Thong (2002).
+As necessidades de informação da pequena empresa podem ser exemplificadas
+com base nas funções gerenciais. Assim, as informações necessárias refletem a
+urgência com que as decisões devem ser tomadas, em virtude da horizontalização
+da estrutura hierárquica da empresa. Para o autor informação sobre matéria
+prima, produtos em processo e/ou acabados e disponibilidade e custo de estoque
+podem reduzir a pressão e potenciar decisões tomadas no decorrer das atividades
+do proprietário/gerente da pequena empresa no que diz respeito à produção e
+materiais. Em recursos humanos, as informações necessárias são os registros
+de empregados, folha de pagamento, programas de treinamento e férias,
+disponibilizadas de maneira ágil, possibilitando que o proprietário utilize seu tempo
+no negócio principal da empresa.
+A compilação de dados financeiros requer tempo e análise pelo responsável
+por esta atividade. Um sistema de informação pode reduzir esse tempo, além de
+projetar tendências ou simular situações refletidas nas contas a pagar, contas a
+receber e fluxo de caixa da empresa. Na função de marketing, as informações
+podem auxiliar análises atuais de vendas, comparar históricos e projetar tendências,
+tendo em vista a precária dinâmica de fluxo de caixa das pequenas empresas.
+Implementação de Tecnologia da Informação na Pequena
+Empresa
+Para Saviani (1995) a área de informática da pequena empresa não tem visão
+estratégica da utilização de hardware e software para a produção de informações.
+Segundo o autor, isto se dá porque, na maioria das vezes, o ‘gerente’ dessa
+área geralmente é um ex-programador. A situação fica mais complexa, ao saber
+18
+Glaúcia Aparecida Prates e Marco Túlio Ospina
+RAC, v. 8, n. 2, Abr./Jun. 2004
+que as pequenas empresas brasileiras não desenvolvem um Plano de Metas que
+as oriente para o futuro de um, dois ou três anos.
+Dessa forma, fica cada vez mais difícil que a produção de informações seja o
+maior objetivo de uma área de informática moderna. Neste sentido, é fundamental
+o estabelecimento de um Plano Diretor de Informática (PDI), mas somente depois
+de desenvolvido o Plano de Metas, dentro do qual a informática agiria como
+apoio do planejamento estratégico da empresa. A estratégia de PDI tem como
+missão básica o apoio, por meio do processamento eletrônico de dados, de cada
+segmento do Plano de Metas, produzindo informações gerenciais com qualidade,
+atendidos os quesitos de custo e prazo, conforme Saviani (1995). Outro ajuste,
+igualmente necessário, é fazer com que cada usuário de um sistema informatizado
+entenda seu sistema não apenas de forma isolada e independente, mas de maneira
+integrada com todas as áreas da empresa.
+Uma estratégia para as pequenas empresas, que até o momento não tiveram
+contato com as novas tecnologias de informação, segundo Yong (1994), foi dividida
+em duas etapas:
+a) Familiarizar-se com a tecnologia de computadores, adquirindo um
+microcomputador que possa ajudar nas funções não essenciais da empresa.
+b) Analisar as metas da empresa e suas esferas essenciais para aplicar
+tecnologias de informação, nas esferas essenciais dos resultados pretendidos.
+Com o tempo, o pequeno empresário terá visão realista da maneira como os
+dados fluem na sua empresa e idéia aproximada de quais são as prioridades,
+analisando os impactos dos resultados sobre a produtividade. Não importa qual a
+tecnologia escolhida: esta deve ser flexível e adaptar-se ao desenvolvimento da
+organização.
+De acordo com o Sebrae (2000), as vantagens que a TI traz para a pequena
+empresa podem ser dividias em três grupos.
+a) Menores custos: a informática, quando bem utilizada, reduz os custos da
+empresa, porque agiliza e possibilita maior segurança e confiabilidade nos
+processos, rotinas e controles administrativos; simplifica as tarefas burocráticas;
+reduz os erros e praticamente elimina a repetição do trabalho.
+b) Maior produtividade: possibilita que as pessoas produzam mais, em menos
+tempo, com menor dispêndio de recursos; permite aproveitar melhor a capacidade
+produtiva da empresa com o planejamento e o controle da produção; armazena e
+localiza imediatamente informações fundamentais para os negócios; agiliza os
+RAC, v. 8, n. 2, Abr./Jun. 2004 19
+Tecnologia da Informação em Pequenas Empresas: Fatores de Êxito, Restrições e Benefícios
+processos de tomada de decisões em relação a preços, estoques, compras e
+vendas, entre outros.
+c) Maior qualidade: a qualidade dos produtos e serviços é melhorada, pois as
+tecnologias de informação ajudam a manter o padrão dos produtos dentro das
+especificações estabelecidas; proporciona melhores condições de trabalho para
+os empregados; reduz esforços com a burocracia para concentrá-los nas
+atividades fins da empresa.
+METODOLOGIA
+Esta pesquisa destaca-se por constituir-se num multicaso, no qual a amostra
+foi intencional; haja vista a dificuldade na obtenção de retorno das empresas,
+quando escolhidas por meio de um plano amostral aleatório (Kerlinger, 1980).
+O estudo ocorreu em níveis exploratórios, contando com a participação de 25
+empresas dos setores eletro-eletrônico, distribuição e comércio e serviços da
+macrorregião de Ribeirão Preto-SP, no primeiro trimestre de 2002. Os dados
+primários e secundários foram coletados; utilizou-se como instrumento de pesquisa
+um questionário, sendo analisados por meio de estatística descritiva e análise
+documental, respectivamente.
+O instrumento de pesquisa foi construído em três partes: (1) perfil empresas;
+(2) utilização da TI; e (3) características dos impactos causados pela TI. As
+perguntas foram respondidas na escala de Likert, variando de 1 a 5; sendo 1=
+nenhuma, 2= baixa, 3 = média, 4= elevada, 5= total, calculando-se as médias e
+desvio-padrão.
+ESTUDO DO IMPACTO DA INTRODUÇÃO DE TECNOLOGIA DA
+INFORMAÇÃO EM PEQUENAS EMPRESAS
+As empresas pesquisadas integram os setores eletro-eletrônico (35%), comércio
+e serviços (42%), distribuição (10%) e varejo (13%). Dentre as empresas
+pesquisadas, em 55% a TI já foi implantada há mais de 10 anos e em 7 % há
+mais de 7 anos, evidenciando que o uso de TI já se tornou uma realidade nas
+empresas de pequeno porte.
+20
+Glaúcia Aparecida Prates e Marco Túlio Ospina
+RAC, v. 8, n. 2, Abr./Jun. 2004
+Dentre as empresas pesquisadas, 23 % possuem até 10 funcionários; 55 %
+possuem entre 11 e 25 funcionários; e 22 % entre 26 e 99 funcionários.
+Em referência à diferenciação vertical, percebeu-se que a maioria das
+organizações pesquisadas possui estrutura organizacional reduzida em termos
+de níveis hierárquicos: dois níveis (59%); três níveis (28 %); e quatro níveis
+(13 %). Isto indica a adoção de uma estrutura horizontalizada que fornece
+maior rapidez na tomada de decisão, além de comunicação mais rápida e
+eficiente.
+Na maioria das empresas, a adoção da TI surge em função de uma necessidade
+derivada dos objetivos organizacionais preestabelecidos. Assim, um dos itens
+avaliados refere-se à identificação dos motivos que levaram as empresas a
+implantar a TI. Os motivos considerados mais importantes são apresentados na
+Tabela 1 abaixo.
+Tabela 1: Motivos para Implantação de TI
+A seguir é demonstrada a amplitude do uso da TI, por meio da identificação do
+estágio, conforme as estratégias de negocio de cada uma, além da porcentagem
+de cada tipo de Sistema de Informação utilizado pela empresa. Na Tabela 2,
+encontra-se a descrição do estágio segundo Nolan (1977).
+Salienta-se que as empresas se concentram nos estágios iniciais da implantação
+de TI, sendo que 43,1 % das empresas estão no estagio 1 (Iniciação), 29,1 % no
+Contágio.
+Motivos para implantação de TI %
+Necessidade de integração 2
+Melhoria de controles organizacionais 24
+Competitividade 8
+Manter sua participação 5
+Aumentar sua participação 22
+Melhoria da qualidade de atendimento 8
+Aumentar a produtividade 20
+Gerar um ambiente criativo 1
+Reduzir custos 10
+RAC, v. 8, n. 2, Abr./Jun. 2004 21
+Tecnologia da Informação em Pequenas Empresas: Fatores de Êxito, Restrições e Benefícios
+Tabela 2: Amplitude do Uso da TI por Parte das Empresas Estudadas
+Escala Utilizada: 1= Nenhuma, 2= Baixa, 3 = Média, 4= Elevada, 5=Total.
+Em toda a introdução de tecnologia ocorrem obstáculos, internos e externos,
+como resistências para os internos e mudança de cenário financeiro para os
+externos. Em relação à implantação da TI nas pequenas empresas estudadas, as
+principais barreiras enfrentadas são descritas na Tabela 3.
+Os resultados indicam que as dificuldades foram percebidas como muito
+expressivas, sendo a resistência por parte dos funcionários sem conhecimento
+prévio de informática a mais relevante, pois estes temiam serem substituídos por
+computadores.
+Tabela 3: Dificuldades Encontradas na Implantação da TI
+Escala utilizada: 1= Nenhuma, 2= Baixa, 3= Média, 4= Elevada, 5=Total.
+Dificuldades encontradas 1
+(%)
+2
+(%)
+3
+(%)
+4
+(%)
+5
+(%)
+Média Desvio
+padrão
+Resistência pelos funcionários 20 05 35 20 20 3,20 1,47
+Cultura tradicional 10 10 50 30 - 3,01 1,24
+Ausência de pessoal qualificado 40 05 40 15 - 2,75 1,19
+Falta de suporte técnico 38 - 38 26 - 2,56 1,17
+Falta de sinergia entre as áreas 40 - 40 20 - 2,41 1,17
+Apreensão os funcionários pela falta de
+reinamento
+43 - 43 14 - 2,38 1,14
+Dificuldades internas 35 - 35 25 05 2,15 1,11
+Falta de clareza estratégica 40 20 40 - - 2,09 1,08
+Falta de recursos financeiros 40 20 40 - - 1,95 1,01
+Erro na implantação 75 - 15 - 10 1,90 1,00
+Equipamentos obsoletos 60 - 40 - - 1,80 0,98
+Clima motivacional desfavorável 60 20 20 - - 1,70 0,95
+Falhas na segurança 70 - 30 - - 1,60 0,89
+Necessidade de mudança na estrutura
+organizacional
+85 - 15 - - 1,31 0,86
+Ergonomia 86 - 14 - - 1,22 0,81
+Problemas de apoio da alta gerência 82 - 10 08 - 1,08 0,75
+22
+Glaúcia Aparecida Prates e Marco Túlio Ospina
+RAC, v. 8, n. 2, Abr./Jun. 2004
+Para a obtenção de êxito no uso da TI é imprescindível que alguns fatores
+organizacionais de ordem técnica, social e financeira estejam alinhados para
+fornecer infra-estrutura adequada, como pode ser observada na Tabela 4 a
+seguir.
+Entre os fatores mais importantes para o êxito da TI em pequenas empresas
+nota-se a percepção da necessidade do uso da TI pelos usuários, apoio da cúpula
+executiva e treinamento para os usuários.
+Entretanto a responsabilidade do gerente de operações, dedicação da equipe
+de implementação e superação das barreiras socioculturais são consideradas de
+média e elevada importância.
+Tabela 4: Fatores de Êxito para Utilização de TI
+Escala utilizada: 1= Nenhuma, 2= Baixa, 3= Média, 4= Elevada, 5=Total.
+Na Tabela 5, as vantagens proporcionadas pela introdução de TI em empresas
+foram agrupadas de acordo com Zuboff (1994), considerando suas similaridades,
+visando a facilitar a compreensão dos resultados alcançados.
+Analisando-se os benefícios referentes ao Aumento de continuidade, verificase
+que não houve tendência generalizada de grandes benefícios alcançados pelas
+empresas nesse quesito. Percebe-se que um número relativamente pequeno de
+empresas obteve vantagens elevadas e totais, advindas da implantação de TI,
+exceto as facilidades conferidas pelo aumento da velocidade de resposta,
+diretamente proporcional à velocidade e acompanhamento da capacidade de
+processamento dos hardwares comprados pela empresa.
+Para o conjunto de benefícios relacionados à Melhoria nos controles, esses
+estão evidenciadas na redução das redundâncias de operações e relatórios mais
+consistentes. Visto que todos esses fatores obtiveram avaliações próximas ou
+superiores à importância elevada. Essas vantagens foram obtidas graças à menor
+repetição do trabalho de digitação, busca por informações que já estão incluídas
+em banco de dados como de clientes, fornecedores e de modelos de documentos
+já formatados; relatórios mais consistentes devem-se ao fato de que os sistemas
+Fatores de Êxito 1
+(%)
+2
+(%)
+3
+(%)
+4
+(%)
+5
+(%)
+Média Desvio
+padrão
+Percepção da necessidade pelos usuários - - 41,6 29,2 29,2 3,72 0,90
+Apoio da cúpula executiva 14,6 14,6 41,6 29,2 - 3,70 1,05
+Treinamento adequado - 29,2 41,6 29,2 - 3,65 1,40
+Aceitação por toda a organização 14,6 41,6 14,6 14,6 14,6 2,75 1,25
+Dedicação da equipe de implementação - 14,6 58,8 14,6 14,6 2,70 1,20
+Responsabilidade do gerente de operações 14,6 85,4 - - - 2,45 0,85
+Superação de barreiras sócio-culturais 29,2 56,5 14,3 - - 2,12 0,96
+RAC, v. 8, n. 2, Abr./Jun. 2004 23
+Tecnologia da Informação em Pequenas Empresas: Fatores de Êxito, Restrições e Benefícios
+de informação poder consolidar informações de várias operações que compõem
+as funções gerenciais como vendas, finanças, recursos humanos e outras.
+Com relação às vantagens de Melhoria de compreensão das funções
+produtivas, pode ser verificada uma melhoria acentuada no aumento de
+satisfação dos usuários, o que ocorre devido à sensação do aumento na capacidade
+de executar tarefas com mais eficiência e eficácia e seguida por melhoria no
+processo de planejamento e direção na organização e aumento na capacidade de
+correlação entre as diversas áreas da empresa. Por meio de sistemas de
+informação, os diretores e gerentes podem visualizar a empresa e suas áreas
+como um todo, ao longo do processo produtivo, determinando as áreas deficientes.
+Tabela 5: Benefícios Obtidos pela TI em
+Pequenas Empresas Estudadas
+Escala utilizada: 1= Nenhuma, 2= Baixa, 3= Média, 4= Elevada, 5=Total.
+CONSIDERAÇÕES FINAIS
+Este estudo analisou as características de vinte e cinco pequenas empresas da
+macrorregião de Ribeirão Preto -SP, nos setores eletro-eletrônico, serviços,
+Benefícios 1
+(%)
+2
+(%)
+3
+(%)
+4
+(%)
+5
+(%)
+Média Desvio
+padrão
+24
+Glaúcia Aparecida Prates e Marco Túlio Ospina
+RAC, v. 8, n. 2, Abr./Jun. 2004
+transporte e varejo. Essas empresas, em sua maior parte, possuem estrutura
+organizacional enxuta de até quatro níveis, sendo que a maioria possui dois níveis
+(59%), no que se refere ao grau de hierarquização. Destaca-se que a TI vem
+sendo utilizada pelas organizações por mais de dois anos em 82 % delas, e constitui
+para elas ferramenta estratégica no processo de planejamento, direção e controle.
+A maior dificuldade encontrada na sua utilização está relacionada à resistência
+por parte dos funcionários, indicando falta de treinamento e explicação prévia à
+implantação dos benefícios que seriam trazidos nas atividades rotineiras, levando
+tais funcionários a pensar que poderiam perder seus postos de trabalho para a
+TI. Além disso, havia a cultura tradicional da empresa em realizar suas tarefas;
+logicamente a mudança implicava o temor e a percepção de que ocorreriam
+alterações no modo operacional.
+É importante considerar que, na presente pesquisa, os dois fatores de êxito
+mais altos, apontados pelas empresas, foram a percepção da necessidade pelos
+usuários e o apoio da cúpula administrativa. Mesmo tendo ocorrido a resistência,
+os resistentes, após a implantação da TI, perceberam a sua importância nos
+processos, aumentando a capacidade de trabalho, levando a empresa a robustecer
+a sua competitividade. O mesmo pode-se se dizer da cúpula administrativa; apesar
+de a maioria das empresas pequenas ainda considerar a TI como custo e não
+como vantagem competitiva, essas foram capazes de apoiar a implantação da
+TI, percebendo que não haveria outra maneira de permanecer no negócio a não
+ser melhorar seus controles gerenciais e aumentar a produtividade.
+Por fim, destaca-se que as empresas estão visualizando como a TI pode ser
+útil, porém não conseguiram ainda avaliar, em termos de custo/benefício, o
+investimento realizado. Os benefícios com maior intensidade, por outro lado, estão
+relacionados à melhoria de compreensão das funções produtivas, principalmente
+ao aumento da satisfação do usuário, em melhoria de controles (redução de
+redundância de operações e aumento de continuidade), em face da maior
+velocidade de resposta.
+Fator limitante do trabalho foi o número reduzido de empresas no estudo, uma vez
+que muitas empresas se mostraram relutantes em responder às questões retratadas
+na pesquisa, justificando que o tema era de natureza estratégica para seus negócios.
+Em futuras pesquisas, deverão ser desenvolvidos estudos quantitativos e
+qualitativos, para se identificarem e compararem os resultados da implantação
+da TI em empresas de diferentes localizações: ambiente urbano e rural, nível
+intelectual do proprietário, além de outras variáveis.
+Artigo recebido em 22.04.2003. Aprovado em 26.12.2003.
+RAC, v. 8, n. 2, Abr./Jun. 2004 25
+Tecnologia da Informação em Pequenas Empresas: Fatores de Êxito, Restrições e Benefícios
+REFERÊNCIAS BIBLIOGRÁFICAS
+ANANDARAJAN, M;
+IGBARIA, M.;
+ANAKWE, U. P.
+It acceptance in a less developed
+country: a motivational factor
+perspective. International Journal of
+Information Management, n.22, p.47-
+65, 2002.
+ATTEWELL, L. P.
+Technological diffusion and
+organizational learning: the case of
+business computing. Organization
+Science, v. 3, n.1, p.1-19, 1992.
+CHAVES, E. O. C.;
+FALSARELLA,O. M.
+Os sistemas de informação e sistemas
+de apoio à decisão. Revista do
+Instituto de Informática, v. 3, n.1, p.
+24-31, 1995.
+EL-NAMAKI, M. S. S.
+Small Business: the myths and the
+reality. Long Range Planning, v.23,
+n.4, p.78-87,1990.
+FULLER, T.
+Fullfilling IT needs in small
+businesses: a recursive learning
+model. International Small Business
+Journal, v.14, n.4, p-25-44,1996.
+GIURLIANI, S.
+A difícil arte de fazer contas. Gestão
+Empresarial,v.1, n. 3, p.7-16, 1999.
+GONÇALVES, J. E. L.
+Os impactos das novas tecnologias
+nas empresas prestadoras de serviço.
+Revista Administração de Empresas,
+v. 34, n. 1, p.63-81, 1993.
+KERLINGER, F. N.
+Metodologia da Pesquisa em
+Ciências Sociais. São Paulo: EPU,
+1980.
+MACHADO, C.
+Como dar o tiro certo na hora de
+decidir. Informática Exame. São
+Paulo: Editora Abril, v.11, n.120, p.49-
+55, 1996.
+NOLAN, A.
+Information Systems. New York:
+HTE, 1977.
+OLIVEIRA, A. C.
+Tecnologia de informação:
+competitividade e políticas públicas.
+Revista de Administração de
+Empresas, v. 36, n. 2, p. 34-43, 1996.
+PALADINI, E. P.
+Gestão da Qualidade no Processo: a
+Qualidade na Produção de Bens e
+Serviços. São Paulo: Atlas, 1995.
+PALVIA, P. C.;
+PALVIA, S. C.
+An examination of the IT satisfaction
+of small business users. Information
+& Management, v. 5, n.35, p.127-137,
+1999.
+PENTEADO, S.
+Chegou a vez das pequenas.
+Informática Exame, São Paulo:
+Editora Abril, v.11, n.119, p.52-57,
+1996.
+26
+Glaúcia Aparecida Prates e Marco Túlio Ospina
+RAC, v. 8, n. 2, Abr./Jun. 2004
+SAVIANI, J. R.
+Repensando as pequenas e médias
+empresas: como adequar os
+processos de administração aos
+novos conceitos de modernidade.
+São Paulo: Makron Books, 1995.
+SEBRAE
+Informática: solução para a pequena
+empresa. Brasília: SEBRAE, 1994.
+SILVA, V. L.
+O grande salto das pequenas.
+Pequenas empresas, grandes
+negócios, São Paulo: Editora Globo,
+v.IX, n.104, p.86-88, 1997.
+SOLOMON, S.
+A grande importância da pequena
+empresa: a pequena empresa nos
+Estados Unidos no Brasil e no mundo.
+Rio de Janeiro: Editorial Nórdica,
+1986.
+SONDAGEM CONJUNTURAL
+Comércio varejista. Rio de Janeiro:
+FGV/SEBRAE, v.8, n.46, 2000.
+SONDAGEM SEBRAE
+2ª Pesquisa sobre informatização e
+impacto do “Bug do Milênio”.
+Brasília: SEBRAE, v.8, n.44, 1999.
+SOUZA NETO, J. A.
+Negociação de tecnologia. Porto
+Alegre: SEBRAE, 1998.
+SILVA, A.
+Globalização, tecnologia e
+informação: a tríade que desafia a
+administração. Revista Brasileira de
+Administração, v. VIII, n. 22, p.10-19,
+1998.
+STONER, J. A. F.
+Administração. 5. ed. Rio de Janeiro:
+LTC, 1999.
+TAURION, C.
+A bula para combater custos. Gestão
+Empresarial, São Paulo: IDS, ano I,
+n. 3, p.18-20, 1999.
+TEIXEIRA, C. Z.
+Organização industrial da pequena
+empresa. São Paulo: IBRASA, 1986.
+THONG, J. Y. L.
+Resource constraints and information
+systems implementation in
+Singaporean small businesses.
+Omega, n.29, p.143-156, 2001.
+WELSH, J.;
+WHITE, J. F.
+A small business is not a little big
+business. Harvard Business Review,
+v.59, n.4, p. 18-32, 1981.
+YONG, C. S.
+Tecnologia de informação. Revista de
+Administração de Empresas, v. 32,
+n.1, p.78-87, 1992.
+ZUBOFF, S.
+Automatizar/informatizar as duas
+faces da tecnologia inteligente.
+Revista de Administração de
+Empresas, v. 34, n. 6, p. 80-91, 1994.

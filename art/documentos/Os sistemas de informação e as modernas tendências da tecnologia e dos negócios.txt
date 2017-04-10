@@ -1,0 +1,1325 @@
+ARTIGOS
+- OS SISTEMAS DE INFORMAÇAO
+EAS MODERNAS TENDÊNCIAS
+DA TECNOLOGIA E DOS
+NEGÓCIOS
+'Maurício Prates de Campos Filho
+Uma visão gerencialista dos Sistemas de Informação, enfatizando sua
+importância na competitividade das organizações e indicando como elas são
+influenciadas pelas modernas tendências dos negócios e da tecnologia.
+The Information Systems, from a management point of view, their importance on the
+organizations competitivity and how they are influenced by technological and business
+modern trends.
+PALAVRAS-CHAVE:
+Sistemas de informação, gerenciamento,
+competitividade,
+digitalização, portabilidade.
+KEYWORDS:
+Inforrnation systems, management,
+competitiveness, convergence
+of computing and
+communication, digitalization,
+portability
+* Professor Titular e Coordenador
+do Programa de Mestrado
+em Gerenciamento de Sistemas
+de Informação da Pontifícia
+Universidade Católica de Campinas.
+Revista de Administração de Empresas São Paulo, v. 34, n. 6, p. 33-45 Nov./Dez. 1994 33
+i1~lÉARTIGOS ,-----~_._--,--------
+Os sistemas de informação (5.1.)podem
+afetar das mais variadas formas o desempenho
+das modernas organizações, abrindo-lhes,
+inclusive, novos espaços e oportunidades
+de atuação competitiva, motivo
+pelo qual os gerentes e administradores
+não podem se furtar a compreender sua
+natureza e a utilizar seus recursos com eficácia.
+O leque de novas oportunidades que
+os 5.1. trazem começa com a melhoria e
+otimização das operações internas da organização,
+indo até suas operações externas,
+auxiliando na competitividade vantajosa
+através de benefícios diretos aos
+clientes ou usuários. Por outro lado, os 5.1.
+também podem acrescentar novos riscos
+ao desempenho organizacional, tais como
+Iilh!lEi'
+Representação dos elementos e componentes do S.1.
+SISTEMA DE
+INF RMAÇÃO
+PRATICAS Dt 'qABALHO
+vulnerabilidade a acidentes, ao vandalismo
+e ao uso estratégico de 5.1. pelos competidores.
+Assim, os 5.1. podem ser conceituados,
+do ponto de vista do seu
+gerenciamento, como uma combinação
+estruturada de informação, recursos humanos,
+tecnologias de informação e práticas
+de trabalho, organizados de forma a
+permitir o melhor atendimento dos objetivos
+da organização. Essa conceituação é
+bastante abrangente, mas tesn a vantagem
+de levar a uma compreensão maior sobre
+os usos e limitações dos sistemas convencionais
+e tradicionais de negócios ou servi-
+ços, assim como sobre os possíveis impactos
+de futuras inovações no comportamento
+organizacional. De acordo com essa conceituação,
+os seguintes exemplos podem
+ser considerados como 5.1. consistentes':
+1. ALTER, S. Information systems
+- a management perspective.
+New Work: Addison
+Wesley, 1992.
+34
+., sistemas interativos usados por gerentes
+e executivos de alto escalão para o
+monitoramento das operações de sua
+empresa;
+• sistemas biométricos que garantem acesso
+seletivo a setores de segurança da organização,
+através de leitura e análise de
+impressões digitais ou de vasos sangüíneos
+da retina ocular;
+sistemas de reservas de companhias aé-
+reas usados por agentes de viagem para
+fazer o booking de vôo de seus clientes;
+• sistemas de videoconferência usados
+para manter coordenados os gerentes de
+marketing geograficamente dispersos de
+uma mesma empresa.
+OS COMPONENTES IDO 8.1
+A figura 1 procura expandir o conceito
+de 5.1., mostrando esquematicamente as
+correlações existentes entre os objetivos
+organizacionais e os componentes informação,
+práticas de trabalho, recursos humanos
+e tecnologias de informação. Essa
+figura enfatiza que o ponto focal para o
+entendimento da natureza do 5.1. são as
+práticas de trabalho, e não as tecnologias
+de informação, como pode parecer à primeira
+vista. A chave para a conceituação
+está na forma através da qual os componentes
+interagem para criar práticas de trabalho
+que atendam convenientemente os
+objetivos da organização. A figura 1 também
+fornece um formato básico para desenvolver
+a configuração de qualquer tipo
+ou exemplo de 5.1.
+Os objetivos organizacionais
+Os objetivos organizacionais não são
+exatamente um componente do 5.1., mas
+exercem um papel vital na determinação
+das práticas de trabalho. São os objetivos
+que provêem os critérios básicos para se
+decidir como e quando as práticas de trabalho
+da organização devem ser alteradas
+e adaptadas. Outros determinantes de importância
+são as características dos recursos
+humanos, a informação disponível e
+as tecnologias de informação em uso, além
+de outros fatores externos ao sistema. O
+lançamento de um produto novo no mercado,
+por exemplo, pode motivar rapidamente
+uma variedade de práticas de trabalho,
+combinando sistemicamente os recursos
+humanos, as informações e as tecnologias
+de informação.
+© 1994, Revista de Administração de Empresas / EAESP / FGV, São Paulo, Brasil.
+OS SISTEMAS DE INFORMAÇÃO E AS MODERNAS TENDÊNCIAS...
+As práticas de trabalho
+As práticas de trabalho consistem nos
+métodos utilizados pelos recursos humanos
+para desempenhar suas atividades no
+5.1.,incluindo não somente os procedimentos
+descritos pelos manuais de operação,
+mas também as linhas de ação nas quais
+os recursos humanos se coordenam, se comunicam
+e tomam decisões, realizam negócios
+ou serviços e desempenham outras
+tarefas. Note-se que se usa o termo "prátí-
+cas de trabalho" e não "procedimentos",
+implicando que os 5.1. incluem tanto as
+atividades orientadas aos procedimentos,
+como as atividades orientadas aos recursos.
+As atividades orientadas ao procedimento
+são aquelas utilizadas para tarefas
+repetitivas e rotineiras, tais como a emissão
+de ordens de compra e de faturas, ao
+passo que as atividades orientadas ao recurso,
+tais como planilhas de cálculo e
+pacotes gráficos, servem para dar suporte
+aos recursos humanos na comunicação e
+na tomada de decisões. A figura 1revela o
+fato de que as práticas de trabalho centralizam
+todas as conexões com os outros elementos,
+ilustrando que o 5.1.só existe no
+contexto das atividades que os recursos
+humanos desempenham na organização.
+A centralização das práticas de trabalho
+nos 5.1.explica como elas operam e quais
+as razões de seus sucessos ou insucessos.
+Por exemplo, a diferença principal entre
+esforços bem ou mal-sucedidos para impor
+o uso de microcomputadores nas atividades
+empresariais reside em se eles são
+ou não incorporados às práticas de trabalho
+da organização. Em práticas de trabalho
+como o monitoramento de projetos, os
+microcomputadores são parte ativa do 5.1.,
+caso contrário, eles irão apenas ocupar espaço
+ocioso nas mesas de trabalho".
+A informação
+Dados formatados e textos fazem parte
+integrante dos 5.1.Os dados são caracteres,
+imagens ou sons que podem ou não ser
+pertinentes e utilizáveis para uma tarefa
+em particular. A informação pode ser considerada
+como um conjunto de dados cuja
+forma e conteúdo são apropriados para
+uma utilização em particular. A figura 1
+deixa claro que a vinculação entre as prá-
+ticas de trabalho e a informação funciona
+biunivocamente, ou seja,nos dois sentidos
+(flecha dupla), indicando que as práticas
+RAE • v. 34 • n. 6 • Nov./Dez. 1994
+o status atual da
+tecnologia da informação
+capacita as práticas de
+trabalho do dia-a-dia nas
+organizações, mas serve
+também como ponto de
+partida para as inovações
+que se tornam necessárias
+à sua sobrevivência nos
+negócios.
+determinam as necessidades de informa-
+ção, ao passo que a disponibilidade de
+dados é que vai determinar quais as práticas
+viáveis para uma determinada aplica-
+ção. Cabe lembrar que os primeiros 5.1.
+informatizados continham apenas textos
+e dados numéricos. Nos anos 80,entretanto,
+ocorreram progressos extraordinários
+na informática, surgindo as modernas
+tecnologias de informação, e hoje os 5.1.
+podem utilizar também imagens e sons de
+forma até então insuspeitada.
+Os recursos humanos
+Com exceção dos casos em que as tarefas
+são totalmente automatizadas, os 5.1.
+deverão incluir, necessariamente, recursos
+humanos que coletam, processam, recuperam
+e utilizam dados. Também aqui, a figura
+1 mostra que a vinculação entre os
+recursos humanos e as práticas de trabalho
+são biunívocas, ou seja, as práticas afetam
+os recursos humanos, ao passo que as
+características dos recursos humanos no
+sistema vão determinar quais práticas serão
+viáveis e adequadas. Em geral, o desenvolvimento
+e a implementação do 5.1.
+provocam impactos sobre os recursos humanos
+envolvidos, e essa é uma situação
+de difícil gerenciamento. As oportunidades
+pessoais podem ser influenciadas, por
+exemplo, através da aplicação de tecnologias
+de informação às práticas de trabalho,
+tornando as atividades mais motivadoras
+e desafiadoras. Por outro lado,
+esse tipo de iniciativa deve ser tomada de
+2. IVES, B., LEARMONTH, G.
+The information system as a
+competitive weapon. CommunicationsoftheACM,
+v.27,
+n. 12, p. 1193, Dec. 1984.
+35
+11~tEARTIGOS
+MOTIVAÇÃO PARA REENGENHARIA DO S.!.
+ibUiFf1
+Fatores de motivação para reengenharia do S.1.
+3. JOHNSTON, H.R., VITALE,
+M.R. Creating competitivo
+advantage with Inter organizational
+information svstems.
+MIS Quarterly, p.153,
+Jun. 1988.
+4. ROCKART, J., MORTON, M.
+Implications of changes in
+information technology for
+corporate strategy. Interfaces,
+v.14, n.1, p.84, Jan./Feb.1984.
+36
+forma dosada e otimizada, para que não
+venha a desvalorizar a experiência profissional
+ou tornar as tarefas tediosas ou obsoletas.
+As tecnologias de informação
+Entende-se por tecnologias de informa-
+ção o conjunto de hardware e software que
+desempenha uma ou mais tarefas de
+processamento das informações do S.L,tal
+como coletar, transmitir, estocar, recuperar,
+manipular e exibir dados. Aí podem
+estar incluídos microcomputadores (em
+rede ou não), mainframes, scanners de có-
+digo de barra, estações de trabalho,
+software de execução,software de planilhas
+eletrônicas ou de banco de dados etc. É
+preciso ficar claro que a tecnologia de informação
+só é importante à medida que
+seja considerada apenas como um dos
+componentes do S.1., pois entender as
+tecnologias de informação não é o mesmo
+que entender o S.I. como um todo. Um
+problema freqüente no desenvolvimento,
+implantação e gerenciamento de S.L empresariais
+reside na tendência distorcida
+dos staff técnicos em supervalorizar as
+tecnologias, o que colide frontalmente com
+a visão dos usuários e clientes, bastante
+focalizada nas práticas de trabalho. Essa
+dicotomia pode estorvar significativamente
+a saudável e necessária comunicação
+entre os implantadores de S.l. e seus usu-
+ários, sendo uma das mais correntes causas
+de insucessos e de falhas do S.L
+Os S.I.,em geral, não são sistemas está-
+ticos, o que é reconhecido nas modernas
+organizações onde as práticas de trabalho
+estão em constante mudança para manter
+a necessária competitividade. A figura 2
+procura ilustrar como a dinâmica do S.L,
+feita principalmente através das mudan-
+ças das práticas de trabalho, é dirigida por
+novas idéias, novos problemas e por for-
+ças competitivas, ambientais e tecnoló-
+gicas. Tais forças criam novos objetivos
+organizacionais, que vão requerer novas
+práticas de trabalho, que, por sua vez, requerem
+adaptações por parte dos recursos
+humanos, além de novas informações
+disponíveis e do desenvolvimento de novas
+tecnologias de ínformação". Trata-se,
+na verdade, de um processo cíclico de
+reengenharia. As mudanças e adaptações
+que envolvem os recursos humanos, a informação
+e as tecnologias de informação
+afetam diretamente as práticas de trabalho
+e então reverberam para os outros
+componentes do S.I.,transformando-o". A
+natureza dinâmica dessas intrincadas relações
+é uma das razões que tornam complexos
+e arriscados o desenvolvimento e
+a implementação dos S.I. Isso deixa evidenciado
+que o S.L envolve muito mais
+que meramente a tecnologia.
+O status atual da tecnologia da informação
+capacita as práticas de trabalho do
+dia-a-dia nas organizações, mas serve
+também como ponto de partida para as
+inovações que se tornam necessárias à sua
+sobrevivência nos negócios. As deficiências
+nas práticas de trabalho das empresas
+podem revelar necessidades, oportunidades
+e riscos. Essas necessidades e
+oportunidades podem motivar fortemente
+a busca por melhoramentos tecnológicos,
+tais como a captação de dados estratégicos
+por tecnologia de scanners, ou a
+transmissão de dados via satélite. Por outro
+lado, as inovações podem se vulgarizar
+rapidamente, e o ciclocontinua com a
+busca por novas oportunidades nos negó-
+cios.Afigura 3 procura ilustrar como esse
+processo cíclico é comandado por duas
+forçasmotrizes: as novas necessidades dos
+negócios e as novas tecnologias. À medida
+que a tecnologia evolui, ela também
+prepara a plataforma para o desenvolviRAE
+• v. 34 • n. 6 • Nov./Dez. 1994
+OS SISTEMAS DE INFORMAÇÃO E AS MODERNAS TENDÊNCIAS. ..
+mento de novas tecnologias ainda mais poderosas.
+Em contrapartida, as novas
+tecnologias abrem as possibilidades de
+avanço, tanto nas práticas de trabalho
+empresariais, como na tecnologia de informação
+propriamente dita. Esse fenômeno
+de reforço mútuo cria condições para o
+surgimento das mudanças necessárias no
+futuro, quando elas se fizerem presentes.
+A figura 3 também sugere que a implantação
+de sistemas de informação não é uma
+mera e simples tarefa técnica. As mais
+bem-sucedidas utilizações de sistemas de
+informação decorrem das necessidades e
+oportunidades de negócio. A adoção de
+novas tecnologias e, conseqüentemente, de
+novas práticas de trabalho, é um processo
+de mudança realmente complexo e multifacetado.
+O ciclo de realimentação força
+a renovação tecnológica, primeiro porque
+o progresso da tecnologia empurra a
+tecnologia corrente para um novo patamar
+e segundo porque o avanço da tecnologia
+faz com que os negócios progridam, o que,
+por sua vez, gera novas necessidades, levando
+a mais avanços na tecnologia.
+AS MODERNAS TENDÊNCIAS DOS NEGÓCIOS
+Estão listadas a seguir as mais importantes
+tendências relacionadas aos sistemas
+de informação e às tecnologias de informação
+que influenciarão decisivamente
+os negócios nesta e na próxima década.
+Essas tendências deverão gerar oportunidades
+de negóciosrelacionadas com ossistemas
+de informação, tanto na criação de
+vantagens competitivas para os negócios
+existentes, como na criação de novos negócios:
+• crescente interpenetrabilidade dos computadores
+nas organizações;
+• crescente convergência da computação
+com as telecomunicações;
+• crescente automação do trabalho individual
+e coletivo;
+• crescente valor intrínseco da informação;
+• crescente rapidez no andamento dos
+negócios;
+• surgimento de novas formas de organização
+e gerenciamento;
+• aceleração da competição global;
+• aceitação gradual de padrões globais.
+RAE • v. 34 • n. 6 • Nov./Dez. 1994
+A crescente interpenetrabilidade dos
+computadores
+Na década de 70,os computadores, em
+sua larga maioria, eram máquinas enormes
+e caras, controladas por equipes tecnicamente
+treinadas e encerradas em salas
+especiais com ar-condicionado, fechadas
+e isoladas do dia-a-dia das organiza-
+ções. Esse quadro de isolamento e de
+míticamudou sensivelmente com o advento
+irreversível dos computadores pessoais
+(PCs- personal computers) na década de
+80, que, cada vez mais ligados em redes
+na década de 90,tomarão omainframe uma
+peça a mais em alguns poucos sistemas de
+grande porte. Atualmente, muitos trabalhadores
+podem esperar ter algum tipo de
+iii!l!ltEI
+Ciclo de vinculação entre mudanças tecnológicas e novas práticas
+interação diária com o computador. O grá-
+fico 1 mostra como essa tendência se desenvolveu
+rapidamente na década de 805.
+Ainda existem corporações centralizadas
+com departamentos de computação e
+CPDs, mas mesmo nelas o índice de uso
+de computadores pessoais vem aumentando
+irresistivelmente, num segmento que
+engloba desde os gerentes executivos até
+suas secretárias. Além disso, nas modernas
+sociedades, as pessoas lidam cada vez
+mais com máquinas que contêm algum
+tipo de computador na forma de microprocessadores,
+que vão desde caixas eletrônicos
+até fornos de microondas, passando
+pelos jogos eletrônicos.
+Aadoção dos computadores pessoais na
+década de 80 é freqüentemente denomi-
+5. U.S. DEPARTMENT DF COMMERCE.
+Bureau oi tbe sensos,
+statistical abstract of tne
+United States, Washigton,
+1990.
+37
+i1~lÉARTIGOS
+ijMini··1
+PCs em uso nos Estados Unidos (milhões de unidades)
+60
+1981 1982 1983 1984 1985 1986 1987 1988 1989
+6. MEIRElLES, F. S. Evolução
+da microinformática: ciclos, cenários
+e tendências. RAE, v.34,
+n. 3, p.62.
+7. BRAND, Stewart. The media
+laboratory. New York:
+Viking Penguin, 1987.
+B. MCKENNEY, James L.,
+MCFARLAN,Waren F.The Intormation
+archipelago maps and
+bridges, Harvard Business
+Review, p. 109, Sep./Oct. 1982.
+9. VIDA do futu ro já funciona
+nas infovias de hoje. Folha de
+São Paulo - Folha de Informática,
+13 jun. 1994, p. G1O.
+38
+nada de Revolução dos Microcomputadores''.
+O gráfico 1 ilustra como os PCs
+cresceram, somente nos Estados Unidos,
+de 2 milhões de unidades em 1980 para 52
+milhões em 1989, graças a tecnologias cada
+vez mais confiáveis,mais poderosas e mais
+baratas. É mais do que certo que os computadores
+se tornarão cada vez mais interpenetrantes
+nas organizações e nos negó-
+cios,mas ainda não está claro como exatamente
+isso se dará. Uma das previsões é
+de que o computador se tornará tão prevalente
+que sequer será notado. Aliás, esse
+tipo de assimilação já ocorreu no passado
+com outras máquinas prevalentes, como
+o motor elétrico, por exemplo, que de serem
+considerados à parte das máquinas
+que moviam, passaram a ser hoje considerados
+como apenas parte ou componenh~das
+mesmas. É muito provável que, no
+futuro, o computador venha a ser visto
+apenas como um utensílio doméstico ou
+de escritório, como são hoje consideradas
+as máquinas de fax ou os aparelhos de
+TV7
+.
+A convergência da computação com as
+telecomunicações
+Na década de 60, as organizações encaravam
+os sistemas de computação (maínframes,
+periféricos etc.), os sistemas de escritório
+(copiadoras, máquinas de escrever
+etc.) e os sistemas de comunicação (telefones,
+correios etc.) como sistemas essencialmente
+independentes. O gerente de computação
+da organização, bem-treinado
+tecnicamente, gerenciava sua área de forma
+quase que independente, ao passo que
+as comunicações e a infra-estrutura de escritório
+eram comandadas individualmente
+por pessoas com pouca ou nenhuma
+preparação técnica ou profissional especí-
+fica. Eram esferas de gerenciamento diferenciadas
+em gênero, número e grau. Subseqüentemente,
+muitas necessidades
+operacionais levaram a computação e as
+comunicações a se juntarem gradual e rapidamente.
+As potencialidades das telecomunicações
+tornaram-se cada vez mais
+necessárias à expansão da computação, até
+o ponto em que a computação se tornou
+um componente essencial ao desempenho
+das comunicações. Surgiram, aos poucos,
+os sistemas de computação distribuídos,
+requerendo redes de comunicação que fizessem
+o enlace entre os diversos computadores
+e usuários. Começaram a surgir os
+sistemas telefônicos computadorizados,
+denominados PBXs (private branch exchanges),
+que substituíram com grande sucesso
+os ineficientes sistemas manuais de
+telefonia. As tarefas comuns de um escritório,
+como datilografar, copiar etc., come-
+çaram a depender de dispositivos cada vez
+mais automatizados. Na década de 80, a
+convergência dos sistemas de computação,
+dos sistemas de escritório e dos sistemas
+de comunicação levou a uma rotina hoje
+totalmente sedimentada. À medida que
+essa superposição de sistemas se tornou
+uma realidade irreversível, as organiza-
+ções rearranjam suas equipes de computação
+e comunicação, juntando-as e tornando-as
+interdisciplinares para que possam
+gerenciar com eficiência a inevitável
+convergência dos sistemas". As chamadas
+U infovias", calcadas na tecnologia de fibras
+óticas e promovendo a fusão da TV, do PC
+e do telefone, hoje realidade nos Estados
+Unidos, são uma demonstração cabal dessa
+convergência".
+A crescente automação do trabalho
+A automação pode ser entendida como
+o uso de máquinas para a realização de
+tarefas que as pessoas podem realizar ou
+que já realizaram. Por toda a sociedade
+moderna, nas organizações e nos negócios,
+as tarefas estão se tornando cada vez
+mais automatizadas e cada vez menos intensivas
+em mão-de-obra. Essa tendência
+causa impactos cada vez maiores nas pessoas,
+na sociedade e nos negócios. Entender
+adequadamente a automação requer
+RAE • v. 34 • n. 6 • Nov./Dez. 1994
+OS SISTEMAS DE INFORMAÇÃO E AS MODERNAS TENDÊNCIAS...
+uma visão clara e precisa dos tipos específicos
+de tarefas automatizáveis, que podem
+ser divididas em dois tipos básicos: Evolução da distribuição de empregos nos Estados Unidos
+as tarefas voltadas aos dados (tomada, 50%
+recuperação, transmissão, armazenamento,
+exibição de dados etc.) e as tarefas
+voltadas aos objetos físicos (fabricação de
+peças, transporte de produtos, montagem
+de componentes etc.).
+O uso de computadores para automa-
+ção das tarefas de escritório, por exemplo,
+eliminou muitas tarefas ineficientes e caras,
+como a redatilografia de documentos
+inteiros apenas para a inserção de pequenas
+modificações no texto. Isso foi acompanhado
+pela mudança do papel como
+meio de armazenamento de dados para
+apenas meio de exibição de dados. Na
+realidade, os sistemas de informação
+computadorizados automatizaram certas
+funções corriqueiras e padrões dos negó-
+cios, como contabilidade e compras, enquanto
+criaram, paralelamente, formas
+mais precisas e efetivas de realizar as tarefas.
+Sem dúvida, um ganho em dobro!
+Por outro lado, a automação industrial, ou
+automação da manufatura, causou um duplo
+impacto nas fábricas e indústrias. De
+um lado, automatizou os processos de
+contabilidade, de estoque, de inventário,
+de dados da qualidade, das especificações
+de produto e das comunicações fabris. Por
+outro, automatizou as tarefas voltadas diretamente
+aos objetos físicos, envolvendo
+tarefas repetitivas ou insalubres, ou mesmo
+perigosas e arriscadas, como soldagem,
+pintura, fundição, manipulação de
+metais etc. Deve-se observar que, embora
+a tendência de automação seja forte e visível
+tanto nas fábricas como nos escritó-
+rios, nestes últimos ela tem se verificado
+com maior rapidez e intensidade devido
+ao fato de que as tarefas de escritório são
+muito mais intensivas em dados do que
+em manipulação.
+o crescente valor intrínseco da
+informação
+A nossa sociedade contemporânea, na
+realidade uma sociedade de caráter pósindustrial,
+é citada freqüentemente como
+sendo "economia da informação" ou da
+"era da informação"!". Em nível mais
+simplista, isso significa que o que as pessoas
+produzem está mais ligado à informação
+do que aos bens físicos. O gráfico 2
+RAE • v.34 • n.6 • Nov./Dez. 1994
+45%
+40%
+35%
+30%
+25%
+20%
+15%
+10%
+5%
+0% .---+--~--r--+--~--r--+--~--r-~
+1880 1890 1900 1910 1920 1930 1940 1950 1960 1970 1980
+ilustra esse fenômeno, mostrando a tendência
+de longo prazo na distribuição de
+mão-de-obra nos Estados Unidos, relativa
+ao período de 1880 a 1980. Nesse período
+de um século, os empregos relativos
+à informação foram de menos de 10%para
+quase 50%, ao passo que os empregos relativos
+a serviços foram de 25%para quase
+30%. Paralelamente, os empregos na
+agropecuária decresceram de 40% para
+menos de 5%, ao passo que os relativos à
+manufatura subiram para perto de 50%,
+mas decaíram a cerca de 20%11.
+Esse gráfico deixa claro que a economia
+dos Estados Unidos reorientou-se de uma
+fase industrial e agrária para um fase da
+informação, significando que a mão-deobra
+norte-americana está produzindo
+mais informação do que bens de consumo
+comuns. O gráfico, entretanto, não deixa
+antever outro conceito novo, o de "conteú-
+do de informação nos produtos", que pode
+ser definido como o grau no qual o valor
+dos produtos residem na informação mais
+do que no material dos mesmos. À medida
+que a manufatura toma-se mais automatizada,
+ela vai se dividindo em duas
+fases. A primeira é uma fase de projeto,
+onde se cria uma descrição computadorizada
+do produto e de seus processos.
+A segunda é a fase de manufatura do produto,
+onde se utiliza diretamente a descri-
+ção computadorizada do produto e dos
+processos. À medida que a produção se
+move nessa direção, cresce cada vez mais
+a proporção da informação no valor final
+do produto.
+Aindústria de semicondutores pode ser
+-o- Infonnaçto
+~Indú.trla
+-I:!r- Serviços
+~ Agricultura
+10. NAISBITI, John. Megatrenas.
+New York: Warner
+Books, 1984; U. S. DEPARTMENT
+OFCOMMERCE,Office of
+Telecommunications. The Information
+Economy, v. 9, Washington,
+1977.
+11. STALKJr., George. Timethe
+next source of competitive
+advantage, Harvard Business
+Review, p. 41, Jul./Aug. 1988.
+39
+11~1EARTIGOS
+12. HORTON, Robert M. Future
+challenges to management,
+M/T Management, p. 3, Winter,
+1989.
+40
+um bom exemplo desse fenômeno. A forma
+mais acirrada de competição entre as
+empresas fabricantes de chips consiste na
+habilidade em projetar novos dispositivos
+semicondutores e transferir as informações
+de projeto para a manufatura da maneira
+mais rápida e eficiente possível. Essa tendência
+tem influenciado outras áreas da
+indústria, desde as empresas automobilísticas
+até as farmacêuticas. A tendência no
+sentido de se prover informações sobre a
+descrição dos produtos nas fábricas
+automatizadas está causando uma mudança
+na lógica dos negócios de serviços
+e de manufatura, criando o que se denomina
+de "customização em massa", ou
+seja, o uso das técnicas de produção em
+massa para a produção de serviços e produtos
+customizados. Trata-se, na realidade,
+de se manter as vantagens da produ-
+ção em massa e, ao mesmo tempo, prover
+valor em função da customização. Da perspectiva
+do produtor, o serviço ou produto
+é produzido em massa, mas do ponto de
+vista do consumidor, o serviço ou produto
+é customizado.
+As novas formas de organização e
+gerenciamento
+Muitos negócios de grande porte são
+tradicionalmente organizados de forma
+absolutamente hierárquica, com as fun-
+ções divididas entre departamentos e as
+decisões tomadas nas mais altas camadas
+e posteriormente filtradas para as camadas
+inferiores. Nesse modelo convencional,
+muitas das interações ocorrem apenas
+em pequenos grupos intradepartamentais,
+não havendo quase nenhuma interação
+interdepartamental. Nessas condições, os
+gerentes procuram monitorar o fluxo de
+informações, de um lado controlando rigidamente
+o seu departamento, e de outro,
+manipulando cuidadosamente a imagem
+do mesmo dentro da organização. Em
+conseqüência, muitos gerentes intermedi-
+ários desperdiçam tempo excessivo na
+combinação, no arranjo e na sumarização
+de resultados operacionais e na confecção
+de relatórios. As formas tradicionais de
+organização estão em cheque e mudando
+rapidamente devido à combinação de alternativas
+bem-sucedidas e de novas
+tecnologias de informação. Estão surgindo
+modelos organizacionais novos, em
+função da necessidade competitiva de
+menos hierarquia gerencial, como comprova
+o sucesso mercadológico das empresas
+japonesas, com apenas seis níveis de hierarquia
+contra a média de doze nas empresas
+norte-americanas e européias. O
+achatamento das camadas hierárquicas
+nas empresas está se tornando na ação estratégica
+para se evitar atrasos, para se dar
+uma resposta mais ágil aos clientes, para
+permitir a chegada de produtos de melhor
+qualidade ao mercado e para se reduzir
+os overheads, inclusive induzindo a processos
+de terceirização.
+Os sistemas de informação também são
+uma importante ferramenta nos processos
+de downsizing e de reengenharia organizacional.
+A existência de bases de dados
+prontamente acessíveis, com dados de
+desempenho e outros tipos de dados
+corporativos, permite a consolidação e a
+sumarização automática dos resultados
+operacionais de que a alta gerência necessita.
+Essas e outras pressões competitivas,
+somadas a um movimento geral de repasse
+de maiores responsabilidades para os
+empregados, podem levar a cortes de até
+metade da pirâmide gerencial.
+A maior rapidez no andamento dos
+negócios
+O tempo se tornou um recurso corporativo
+estratégico e decisivo para o sucesso
+nos negócios", As habilidades para
+levar rapidamente os produtos ao mercado
+e para responder rapidamente às demandas
+dos clientes são chaves determinantes
+para o sucesso competitivo. Nesse
+sentido, as áreas em que os sistemas de
+informação têm provocado enorme impacto
+são o ciclo de projeto e manufatura e o
+controle de estoque e inventário. Muitas
+empresas têm feito cortes significativos,
+tanto no tempo de projeto, como no tempo
+de manufatura, da ordem de 50% ou
+mais. Esse melhoramento resulta do fluxo
+de reorganização do trabalho, removendo
+burocracia desnecessária, utilizando tecnologia
+de informação para a eliminação
+de trabalho redundante, e aumentando a
+rapidez do trabalho realmente necessário.
+Os sistemas de CAD (Computer Aided
+Design), por exemplo, permitem o uso de
+desenhos computadorizados e listagens de
+partes da versão anterior do produto como
+ponto de partida para o projeto da nova
+versão. Além disso, o projeto da nova' verRAE
+• v. 34 • n. 6 • Nov./Dez. 1994
+OS SISTEMAS DE INFORMAÇÃO E AS MODERNAS TENDÊNCIAS ...
+são do produto pode ser testado por simulação
+em computador, evitando atrasos e
+demoras resultantes da construção de
+modelos físicos e de protótipos. Nessa linha,
+muitos projetos podem ser transmitidos
+diretamente para a fábrica, de forma
+a alimentar diretamente as máquinas-ferramenta
+de controle numérico e outros
+maquinários automatizados, como robôs,
+por exemplo.
+Graças aos sistemas de informação que
+rastreiam e coordenam as vendas, os estoques
+e os pedidos de compra, os níveis de
+estoque têm sido cortados em 50% ou
+mais, tanto na manufatura quanto na distribuição.
+Nesse sentido, as tecnologias de
+informação habilitadas são: código de barras,
+que permite a identificação de itens
+individuais e a prevenção de erros; a comunicação
+de dados, que permite a consolidação
+de dados provenientes de localizações
+múltiplas e a computação de alta
+velocidade, que permite processar os dados
+brutos para novas ordens de compra
+e outros tipos de informação necessários
+ao suporte da demanda dos clientes, mantendo-se
+um nível mínimo de estoque. Em
+decorrência, muitos economistas acreditam
+que esse tipo de controle rígido de
+estoque ajuda significativamente no achatamento
+do ciclo tradicional de negócios
+que se verificou nos anos de 80.
+A aceleração da competição
+global
+Na competição global, os
+negócios e os competidores
+encontram-se geograficamente
+distribuídos em todo o
+mundo. A tendência em torno
+da competição global, que
+teve início na década de 80,
+mostra uma aceleração significativa
+na década de 90. Os
+negócios estão cada vez mais
+dando resposta rápida às demandas
+e necessidades dos
+clientes, uma vez que as clientelas
+estão cada vez menos restritas aos
+locais de produção. Os avanços nos sistemas
+de informação são uma força importante
+para a tendência de globalização, já
+que eles ajudam a simplificar a customização
+dos produtos e a personalização
+dos serviços. As tendências em torno da
+conectividade e da padronização global
+também têm ajudado muito na redução
+das vantagens tradicionais de proximidade
+geográfica do cliente. Um exemplo digno
+de nota é o uso de comunicação via satélite
+que as empresas Texas Instruments
+e Hewlett-Packard estão utilizando para
+conectar seus escritórios nos Estados Unidos
+com postos de venda na Ásia".
+A aceitação gradual de padrões globais
+A comunicação eletrônica só é bem-sucedida
+onde padrões técnicos bem aceitos
+asseguram a compatibilidade e a facilidade
+de transmissão e decodificação de dados.
+Aimposição de padrões técnicos bem
+estabelecidos é cada vez mais exercida
+pelos usuários das tecnologias de informa-
+ção em diversas e variadas áreas, tais como
+sistemas de telefonia, sistemas de computação,
+sistema de EDI (Electronic Data
+Interchange) para transações de negócios e
+sistemas de protocolo máquina-a-máquina
+na manufatura automatizada. As pressões
+em torno do uso cada vez maior de
+padrões globais colocam em sérios riscos
+aquelas empresas que só confiam em suas
+tecnologias de informação proprietárias,
+mas, por outro lado, ajudam muito aquelas
+iniciantes na produção, através das
+vantagens competitivas.
+AS MODERNAS TENDÊNCIAS TECNOLÓGICAS
+Todas astendências de negó-
+cios vistas acima são direcionadas,
+em maior ou menor
+extensão, por uma série de tendências
+tecnológicas nos sistemas
+de informação. Desde 1960
+as características-chave do
+hardware de computadores, tais
+como custo, confiabilidade e
+compactabilidade, têm melhorado
+continuamente, a uma
+taxa anual média de cerca de
+20%. Nesse ritmo, a capacidade
+de hardware que custava 100
+em 1960, veio a custar 10 em
+1970,1.0 em 1980e 0.1 em 1990.Imaginese
+o que teria ocorrido em outros setores
+industriais, como o automotivo e o aeronáutico,
+por exemplo, se tais índices tivessem
+também ocorrido! A evolução tecnológica
+na informática foitão rápida que os
+desenvolvimentos registrados na década
+de 80 soariam como ficção científica mesRAE
+• v. 34 • n. 6 • Nov./Dez. 1994
+13. MALONE, Thomas W., VATES,
+J., BENJAMIN, R. L. The
+logic of electronic markets,
+Harvard Busíness Revíew, p.
+166, May-June 1989.
+41
+11~t1ARTIGOS
+14. LEWIS, Peter H. Introducing
+chips for tne year 2000.
+New York Times, p. 8-5, June
+19,1990.
+42
+mo para os especialistas da década de 60!
+Não existe razão para se acreditar que essas
+taxas de melhoria do hardware estejam
+decrescendo. Ao contrário, muitos especialistas
+asseguram que essas taxas de desenvolvimento
+já se encontram no nível de
+40%ao ano, tendendo a 70%até o final da
+década de 90. Essa aceleração do desenvolvimento
+da informática revela a consistência
+do ciclo dinâmico mostrado na
+figura 3, onde os progressos na tec-nologia
+da informação provocam progressos conseqüentes
+nas práticas de trabalho dos sistemas
+de informação das organizações.
+Nessa linha, podem ser enumeradas as
+seguintes tendências tecnológicas que atualmente
+influenciam os sistemas de informação:
+• aumento na velocidade e na capacidade
+dos componentes eletrônicos;
+• aumento na disponibilidade de informa-
+ção digitalizada;
+• aumento de portabilidade e compactabilidade
+dos dispositivos eletrônicos;
+• aumento na conectividade dos sistemas;
+• aumento na facilidade de uso dos sistemas;
+• contínua inabilidade de se automatizar
+o bom senso.
+o aumento no desempenho dos
+componentes eletrônicos
+O aumento na velocidade e na potência
+dos componentes eletrônicos é a força-motriz
+por trás do imenso progresso que se
+verifica nos computadores e nas telecomunicações.
+Esse aumento resulta diretamente
+na miniaturização contínua desses componentes,
+que consiste nos processos de se
+criar componentes cada vez menores e
+mais potentes. Essa miniaturização come-
+çou quando um transistor de estado sólido
+(um dispositivo do tipo on-off), feito de
+um material semicondutor chamado silí-
+cio, substituiu com sucesso a complexa
+válvula eletrônica, em meados da década
+de 50. A situação explodiu, quando, ao final
+da década de 50, foi inventado o circuito
+integrado, um conjunto de múltiplos
+transistores montados em um simples e
+pequeno chip de silício, com o tamanho da
+unha do dedo mínimo. Hoje já são comuns
+chips ainda menores, com mais de 1 megabyte,
+e já se encontram em pleno desenvolvimento
+circuitos integrados em larga
+escala e com até 64megabytes, de altíssima
+confiabilidade.
+O aumento da capacidade, da potência
+e da confiabilidade desses componentes
+miniaturados permite o desenvolvimento
+de uma série de equipamentos de uso corrente
+na tecnologia da informação, tais
+como computadores pessoais, periféricos,
+scanners de código de barras, máquinas de
+fax, telefones celulares, comutadores teleEstima-se
+que, em torno do
+ano 2000, a Intel estará
+produzindo chips para
+computadores pessoais com
+100 milhões de transistores,
+dezenas de vezes mais
+poderosos que os atuais 486.
+Eles deverão operar com
+ciclos internos acima de
+250 megahertzs,
+desempenhando mais de
+2 bilhões de operações
+por segundo.
+fônicos e cabos telefônicos de fibra ótica.
+Estima-se que, em torno do ano 2000, a
+Intel estará produzindo chips para computadores
+pessoais com 100milhões de transistores,
+dezenas de vezes mais poderosos
+que os atuais 486.Eles deverão operar com
+ciclosinternos acima de 250megahertz, desempenhando
+mais de 2 bilhões de operações
+por segundo". Esse tipo de desempenho
+significa que uma equivalente capacidade
+de computação deverá estar entre
+10a 100vezes mais barata no ano 2000.
+Por outro lado, os especuladores intelectuais
+de longo prazo estimam cenários
+onde os computadores serão entregues
+gratuitamente pelo fabricante aos usuários,
+desde que os mesmos utilizem seus
+softwares com exclusividade. É interessante
+lembrar que na década de 60, como
+mostra o gráfico3,a implantação de um sisRAE
+• v. 34 • n. 6 • Nov./Dez. 1994
+OS SISTEMAS DE INFORMAÇÃO E AS MODERNAS TENDÊNCIAS. ..
+tema de informação demandava um investimento
+de 20% no software e 80% no hardware,
+situação já invertida na década 90.
+o aumento na disponibilidade da
+informação digitalizada
+A informação existe sob cinco formas
+diferentes: dados formatados, textos, imagens
+(figuras), áudio (som) e vídeo (seqüência
+combinada de sons e imagens),
+cada uma delas podendo ser digitalizada.
+A digitalização envolve a codificação dos
+dados num equivalente, ou aproximadamente
+equivalente, conjunto de números.
+Por exemplo: a palavra "abc" pode ser codificada
+como "31-32-33", desde que a regra
+de codificação seja a de se adicionar
+30 a cada letra posicionada no alfabeto. Já
+que cada tipo de dado pode ser digitalizado,
+ele poderá também ser armazenado,
+manipulado e transmitido pelos computadores
+e sistemas de informação. Isso
+significa que o disco do microcomputador
+pode armazenar números, textos, figuras
+e sons, assim como a linha telefônica pode
+transmitir qualquer tipo de dado. Apesar
+de a digitalização ser conhecida por muitas
+décadas, somente nas décadas de 70 e
+de 80 é que ela encontrou grandes oportunidades
+tecnológicas, quando a miniaturização
+dos componentes eletrônicos finalmente
+permitiu velocidades de processamento
+e capacidades de armazenamento
+adequadas para a transmissão de
+grandes volumes de dados via telefone e
+para a manipulação e armazenamento de
+imagens e sons. Entretanto, a digitalização
+trouxe em seu bojo novos problemas e algumas
+dúvidas e incertezas, particularmente
+na área da ética. Tome-se como
+exemplo o fato de que se imagens podem
+ser facilmente copiadas e manipuladas
+pela digitalização, fotografias ou documentos
+pessoais podem ser forjados ou
+alterados por computadores. Esses e outros
+efeitos tornaram a digitalização um
+assunto delicado e ainda socíalmente em
+aberto.
+o aumento na portabilidade dos
+sistemas
+Como já foi mencíonado antes, os primeiros
+computadores enchiam uma sala
+inteira para serem operados. Até a década
+de 80, os sistemas telefônicos eram típicaRAE
+• v.34 • n.6 • Nov./Dez. 1994
+Milta·,'
+Evolução da proporção do investimento na implantação de sistemas
+100%
+90%
+80%
+70%
+60%
+50%
+40%
+30%
+20%
+10%
+0%
+1960 1965 1970 1975 1980 1985 1990
+mente ancorados em lugares fixos pelas
+conexões a cabo, e a alimentação de dados
+no computador envolvia a presença
+de terminais de vídeo em lugares também
+fixos. Atualmente, em função da miniaturização
+dos componentes eletrônicos,
+observa-se um avanço significativo na
+tecnologia das comunicações, levando
+"portabilidade" dos dispositivos de comunicação
+e dos computadores. Os dispositivos
+apresentam portabilidade quando
+podem ser carregados convenientemente
+pelos usuários quando estes se deslocam.
+Os laptops e notebooks, por exemplo, são
+computadores portáteis cada vez mais utilizados
+por executivos e gerentes em suas
+viagens de negócio. Por outro lado, centenas
+de páginas de dados podem ser armazenadas
+em um simples disquete do tipo
+high density, ao passo que os dados contidos
+em centenas desses disquetes podem
+ser facilmente armazenados em um CO
+(compact disc). Os telefones também estão
+aumentando rapidamente sua portabilidade.
+A utilização cada vez maior dos telefones
+celulares demonstra que, em pouco
+tempo, os telefones fixos pelo cabeamenta
+estarão praticamente fora de uso.
+Nas aplicações de rastreamento e controle
+de estoque, os terminais de dados portá-
+teis, com leitoras óticas de códigos de barra,
+são cada vez mais empregados pelas
+grandes e médias organizações. Essa forte
+tendência de portabilidade traz uma série
+de vantagens, mas também traz maior dificuldade
+no controle do enorme fluxo de
+43
+l1~lÉARTIGOS
+informações que permite. É uma questão
+em aberto, que aguarda abordagens mais
+objetivas e definitivas.
+o aumento na conectividade dos
+sistemas
+A conectividade pode ser definida como
+a habilidade de se transmitir dados
+entre dispositivos computadorizados em
+sistemas de informação. Cada vez mais,
+dados computadorizados podem ser
+transmitidos para praticamente qualquer
+ponto geográfico da Terra. O escopo da
+conectividade inclui a comunicação interativa
+pessoa-a-pessoa, a transmissão de
+fax e a transmissão máquina-a-máquina de
+dados de negócios e de instrução de equipamento
+automatizado. Asformas correntes
+de conectividade representam um enorma
+progresso em relação às primeiras redes
+telefônicas, cujas chamadas eram
+dirigidas por centros de comutação mecâ-
+nica e percorriam muitos quilômetros de
+fios de cobre. Antigamente, as chamadas
+de longa distância requeriam a presença
+de telefonistas que faziam a comutação
+manualmente. As chamadas telefônicas
+nas grandes organizações eram feitas através
+de painéis com comutadores mecânicos,
+onde as telefonistas conectavam manualmente
+as chamadas externas para
+dentro da rede telefônica interna. Dessa
+forma, a transmissão de dados de negócios
+em linhas telefônicas era limitada pela
+quantidade de dados que podia ser codificada
+em sinais analógicos, enviada através
+dos cabos de cobre, e só então decodificada.
+O desenvolvimento dos circuitos integrados
+permitiu que os sistemas telefônicos
+viessem a operar de forma completamente
+diferente. Com a possibilidade da
+discagem direta, o envio de chamadas passou
+a ser feito eletronicamente, em vez de
+mecanicamente, como antes.As chamadas
+passaram a ser transmitidas através de
+microondas e, mais recentemente, através
+de fibras óticas, permitindo a transmissão
+de uma quantidade muito maior de
+dados. Na década de 80, os telefones portáteis
+celulares deixaram de ser uma peça
+de ficçãocientíficapara ser uma ferramenta
+de rotina nos negócios. A transmissão
+de dados através de máquinas de facsímile
+(fax) também explodiu na década
+44
+de 80, passando de alguns milhares de
+máquinas utilizadas em 1984para mais de
+um milhão em 1994,somente nos Estados
+Unidos. Nesse mesmo período, as redes
+de fibra ótica se expandiram em taxas semelhantes,
+e hoje elas permitem não só a
+transmissão de dados computadorizados,
+mas também a transmissão de vídeo
+interativo, para sistemas de videoconferência
+por exemplo.
+o aumento na facilidade de uso dos
+sistemas
+Uma das previsões da década de 20era
+de que não adiantaria fazer um milhão
+de carros, pois não havia um milhão de
+motoristas. Em outras palavras, com a
+tecnologia corrente na época, parecia que
+qualquer pessoa comum, não treinada, teria
+sérias dificuldades para aprender a dirigir
+um automóvel. Hoje em dia, com os
+avanços da tecnologia automobilística,
+qualquer pessoa, até mesmo com sérias limitações
+físicas, pode perfeitamente
+aprender a dirigir um carro com seguran-
+ça. Na década de 60, os computadores
+eram considerados um privilégio somente
+ao alcance de especialistas altamente
+treinados. As primeiras formas de entrada
+e armazenamento de dados consistiam
+de cartões perfurados e fitas magnéticas
+processados nos chamados centros de
+computação, ou CPDs, que tanto afastavam
+o usuário final da computação. Asinformações
+utilizáveis, que advinham do
+computador, eram disponíveis quase que
+exclusivamente na forma de relatórios em
+Os S.l. estão, mais e mais,
+tornando-se parte
+indispensável das modernas
+organizações, de tal forma
+que os gerentes de hoje
+precisam aprender muito
+sobre os S.l., cujo
+gerenciamento deve ser
+visto como a motivação
+central de suas carreiras
+profissionais.
+RAE • v. 34 • n. 6 • Nov./Dez. 1994
+OS SISTEMAS DE INFORMAÇÃO E AS MODERNAS TENDÊNCIAS. ..
+papel despejados pelo CPD. Mesmo na
+década de 80, muitos usuários finais se
+preocupavam com sua falta de conhecimento
+das técnicas de computação, e
+freqüentemente se autocensuravam por
+suas dificuldades com o computador.
+Hoje, milhões de pessoas comuns,
+usuários finais de todos os tipos, utilizam
+com sucesso os computadores pessoais de
+mesa, mesmo conhecendo pouco, ou quase
+nada, da tecnologia dos computadores.
+A informação é atualmente muito acessí-
+vel, graças a terminais de vídeo que exibem
+textos e gráficos em cores, através de
+programas aplicativos de fácil manipula-
+ção com as tecnologias combinadas de
+windows e mouses. As tecnologias de entrada
+e recuperação de dados existem hoje
+tanto em sistemas de negócios (planilhas
+controladoras de estoque, por exemplo),
+como em sistemas de apoio (processadores
+de texto, por exemplo). Assim, usuários finais
+de sistemas em concebidos e confiáveis,
+podem desempenhar seus trabalhos
+com sucesso, preenchendo células de
+formulários, em vez de manejar complexas
+linguagens de computador. Não se
+sabe exatamente como os computadores
+serão utilizados daqui a dez anos, mas certamente
+sabemos que serão ainda mais fá-
+ceis de utilizar do que atualmente.
+A contínua inabilidade de se
+automatizar o senso comum
+Apesar dos enormes avanços na tecnologia
+da computação, os programadores
+e analistas ainda não têm a menor idéia
+de como programar o senso comum nos
+computadores que, apesar de suas altas
+velocidades e alto desempenho, continuam
+bastante estúpidos. Mesmo quando
+os analistas de sistemas incluem na programação
+as regras básicas do raciocínio,
+suas exceções e seus casos especiais, alguma
+coisa parece ficar faltando. O sistema
+acaba por responder incorretamente, e
+mesmo de forma desastrosa, quando ele
+encontra uma situação de interação de fatores,
+uma situação imprevista ou
+compreen-dida limitadamente. Embora o
+proces-samento de informações pelas
+mentes das pessoas apresente diversas falhas,
+elas usualmente exercitam o senso comum,
+ou bom senso. Quando uma situa-
+çãoimprevista surge, as pessoas a reconhecem
+e identificam mentalmente, e reagem
+de acordo com o reconhecimento feito.
+Atualmente não existe nenhum indicativo
+de que, nas próximas décadas, os
+analistas e programadores venham a introduzir
+o senso comum nos computadores.
+Em conseqüência, apesar da enorme
+facilidade de uso dos computadores,
+qualquer aparência de que eles venham a
+ser inteligentes é meramente superficial.
+Os usuários terão que ser vigilantes, lembrando
+sua responsabilidade sobre aquilo
+que for produzido pelo computador.
+CONCLUSÃO
+Os 5.1.estão se tornando parte indispensável
+das modernas organizações, de
+tal forma que os gerentes de hoje precisam
+aprender muito sobre os 5.1., cujo gerenciamento
+deve ser visto como a motivação
+central de suas carreiras profissionais.
+Os gerentes atuais devem estar preparados
+para identificar e configurar o 5.1.
+na organização, pensar em como ele pode
+afetar a organização,· e decidir como tirar
+o melhor proveito do 5.1.em benefício da
+organização. Alguns gerentes encontrarão
+oportunidades profissionais e pessoais
+nesse campo, outros lidarão confortavelmente
+com o 5.1.como um fato inevitável
+que carreia benefícios e custos, e outros
+gerentes ainda terão a visão imobilista de
+que os 5.1.são arriscados e restritivos. Este
+trabalho procura identificar uma série de
+tendências que deverão afetar os 5.1.e as
+organizações no futuro próximo. Essastendências
+exercerão poderosos impactos nas
+práticas de trabalho dos sistemas de informação
+das organizações e dos negócios,
+alterando fortemente as condições de
+competitividade. Dessa forma, os desenvolvlmentos
+decorrentes dessas tendências
+modernas poderão prover novas oportunidades
+de negócios, para que se possa
+atingir vantagens competitivas, ou pelo
+menos se evitar desvantagens competitivas.
+Portanto, torna-se necessário entender
+como essas tendências podem afetar
+os papéis dos sistemas de informação na
+sociedade em geral e nos negócios em particular.
+~ 0940604
+~
+Artigo recebido pela Redação da RAE em agosto/94, avaliado e aprovado para publicação em outubro/94. 45

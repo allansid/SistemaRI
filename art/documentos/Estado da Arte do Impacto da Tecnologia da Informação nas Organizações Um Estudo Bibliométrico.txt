@@ -1,0 +1,300 @@
+
+Revist
+a CAP
+ - Número 04 - 
+Ano 4 - V
+olume 4 - 2010 
+ 77
+Estado da Arte do Impacto da Tecnologia da
+Informação  nas  Organizações:
+Um Estudo Bibliométrico
+Resumo:   
+As   organizações   da   atualidade   p
+ara   manterem-se
+competitivas no mercado precisam cada vez mais de informações úteis
+para  tomada  de  decisão.    Uma  forma  bastante  difundida  no  ambiente
+empresarial é a adoção da 
+T
+ecnologia da Informação (TI), que através
+de  suas  ferramentas  viabiliza  o  processo  de  transformação  de  dados
+em informações. Neste ambiente, o conhecimento dos impactos da TI é
+importante.  Visa  o  presente  trabalho,  portanto,  analisar  as  tendências
+temáticas  e  metodológicas  de  publicações  nacionais  e  internacionais,
+compreendidas no período entre os anos de 2005 e 2009. Trata-se de
+um estudo bibliométrico em que foram analisados 38 artigos, de forma
+que as análises são fragmentadas em duas esferas: a primeira, através
+de  uma  abordagem  metodológica  e  a  segunda,  através  de  uma
+abordagem  temática.  Metodologicamente,  algumas  lacunas  foram
+encontradas,  como  a  carência  de  artigos  com  enfoque  econômico,
+comportamental  e  institucional,  além  da  ausência  de  artigos  com
+abordagem normativa e a falt
+a de mais artigos teóricos. 
+T
+ematicamente,
+em  2009  observa-se  uma  queda  de  produção.  Constata-se  também
+uma  grande  predominância  de  coleta  de  dados  com  questionários  e
+entrevistas,  além  dos  artigos  se  deterem  mais  a  tecnologia  ERP
+(
+Enterprise  Resource  Planning
+)  e  à  própria  TI.  De  acordo  com  o
+exposto,  acredita-se  que  os  achados  desta  pesquisa  possam
+contribuir para o crescimento de publicações que estudem os impactos
+da  TI  nas  organizações,  de  forma  a  trazer  novos  conhecimentos  e
+enriquecendo  cada  vez  mais  os  estudos  na  área,  incentivando  os
+pesquisadores  a  repensarem  seus  estudos,  e  com  isso  talvez
+preencherem  as  lacunas  aqui  encontradas  e  discutidas.
+Palavras-chave:
+ bibliometria, 
+T
+ecnologia da Informação (TI), imp
+acto e
+metodologia
+State of the Art of the Impact of
+Information  Technology  in
+Organizations:  a  bibliometric  study
+Abstract:
+  Nowadays  organizations  need  more  and  more  useful
+information  to  take  their  decisions,  in  order  to  keep  themselves  being
+competitive  in
+the  market.  
+A
+very          well
+known  way  at
+the   business
+environment  to
+do    it    is    the
+adoption          of
+Information
+T
+echnology  (IT)  which,
+through  some  of  its  tools,  makes
+the  process  of  data  transformation  into
+information possible. In this kind of environment, IT impact knowledge is
+important.  This  paper  aims  to  analyze  thematic  and  technological
+tendencies  of  national  and  international  publications,  between  the
+years  2005  e  2009.  It’s  a  bibliometric  study  in  which  38  articles  have
+been  analyzed,  and  the  analysis  has  been  fragmented  into  two
+spheres:  the  first  one  through  a  methodological  approach,  and  the
+second  one  through  a  thematic  approach.  Methodologically
+,  some
+shortcamings  have  been  found,  like  the  lacking  of  articles  with
+econômic,  behavioral  and  institutional  focus,  besides  the  absence  of
+articles  with  normative  approach,  as  well  as  theoretical  papers.
+Thematically
+, a lowering down in production can be observed in 2009. 
+A
+great  predominance  of  data  collecting    with  questionnaires  and
+interviews,  as  well  as  articles  related  to  ERP  (Enterprise  Resource
+Planning)  and  IT
+  can  also  be  observed.    
+According  to  the  above,  it  is
+believed that the findings of this research may contribute to the growth
+of publications that study the impacts of IT in organizations, in order to
+bring  new  knowledge  and  enrich  more  and  more  studies  in  this  field,
+encouraging  researchers  to  rethink  their  studies,  and  this  may  fill  the
+gaps  found  and  discussed  here.
+Keywords
+:  bibliometrics,  Information  
+T
+echnology  (IT),  imp
+act  and
+methodology
+1  Introdução
+O  ambiente  empresarial  é  constantemente  impactado
+pelas  mudanças  que  rotineiramente  ocorrem  no  meio
+ambiente,  seja  cultural,  político,  social  ou  econômico.  
+A
+necessidade  das  organizações  adaptarem-se  as  mudanças
+ocorridas  no  meio  ambiente  tem  alavancado  grandes
+avanços  em  várias  áreas  do  conhecimento.  Como  as
+mudanças  no  meio  ambiente  e  os  avanços  decorrentes
+impactam  direta  ou  indiretamente  as  organizações,  estas
+têm  que  ser  ágeis,  criando  mecanismos  que  permitam
+antecipar  eventos  e  desenvolver  alternativas  de  ação  para
+aproveitar  as  oportunidades  e/ou  minimizar  os  possíveis
+problemas.
+Tanto  p
+ara  antecip
+ar  mudanças,  como  p
+ara
+desenvolver alternativas de ação, os gestores necessitam de
+informações  pertinentes,  que  os  subsidiem  no  processo  de
+tomada  de  decisões.  Informações,  no  entendimento  de
+Ricardo Adriano Antonelli
+Asspem  
+Assessoria  Consultoria  e  Planejamento  Empresarial
+Especialist
+a pela Universidade 
+Tecnológica Federal do Paraná
+ricardoaantonelli@yahoo.com.br
+Márcia dos Santos Bortolocci Espejo
+Universidade  Federal  do  Paraná
+Doutora pela Universidade Federal do Paraná
+marciabortolocci@uf
+pr.br
+Lauro Brito de Almeida
+Universidade  Federal  do  Paraná
+Doutor pela Universidade Federal do Paraná
+gbrito@uol.com.br
+Fernanda Luiza Longui
+Oliveira  &  Casagrande  
+Advogados  
+Associados
+Especialista pela Universidade Castelo Branco
+fernanda@oliveiraecasagrande.com.br
+78 
+   Revist
+a CAP
+ - Número 04 - 
+Ano 4 - V
+olume 4 - 2010
+Romney  e  S
+teinbart  (2000,  p.  13)  são  “dados  que  foram
+organizados   e   processados   de   forma   que   sejam
+significativos”.
+Para atender às necessidades e demandas
+dos  gestores,  a  
+Tecnologia  da  Informação  (TI)  ganha  p
+apel
+relevante  no  contexto,  na  produção  e  disponibilização  de
+informações  para  os  gestores.  Para  Walton  (1993,  p.  23):
+Do  modo  como  é  utilizada  nos  locais  de  trabalho,  a
+tecnologia da informação abrange uma gama de produtos
+de 
+hardware
+ e 
+software
+ que proliferam rapidamente, com
+a cap
+acidade de colet
+ar
+, armazenar
+, processar e acessar
+números e imagens, para o controle dos equipamentos
+e  processos  de  trabalho,  e  para  conectar  pessoas,
+funções  e  escritórios  tanto  dentro  quanto  entre
+organizações.
+Sobre  a  importância  da  
+TI,  
+Albertin  (2004a,  p.  15)
+argumenta  que  os  Sistemas  de  Informação  (SI),  uma  das
+ferramentas de TI que trata os dados das organizações é:
+[...] parte de toda atividade de negócios de uma empresa
+que  oferece  um  produto  ou  serviço  –  desde  sua
+concepção,   planejamento   e   produção   até   a
+comercialização,  distribuição  e  suporte.  [..]  como
+resultado,  Sistemas  de  Informação  têm-se  tornado
+componente  crítico  do  planejamento  estratégico
+corporativo e da vantagem competitiva.
+Alguns  estudos  contemporâneos  especificam  as
+vantagens da adoção da TI pelas organizações. Leite (2004,
+p. 78) assume que os benefícios auferidos pela adoção da TI
+estão  compreendidos  em  dois  grupos:  (i)  benefícios
+tangíveis,  facilmente  identificáveis,  tais  como  redução  de
+custos, ganho de 
+market share
+, melhoramento na qualidade
+e  etc.  e  (ii)  benefícios  intangíveis,  um  tanto  subjetivos  e
+passíveis  de  interpret
+ações  ou  juízos  de  valor
+,  como  por
+exemplo,  melhorias  na  imagem  institucional,  melhoria  no
+relacionamento com os clientes entre outros. O autor propõe
+classificar   os   projetos   de   TI   em   cinco   categorias
+considerando os benefícios esperados. 
+As categorias são: (i)
+economias  decorrentes  da  mecanização,  (ii)  economias
+obtidas pela redução de perdas, (iii) economias obtidas pela
+expansão  da  capacidade  operacional,  (iv)  melhorias  no
+processo  decisório  e  (v)  ganhos  decorrentes  do  uso
+estratégico da TI.
+Nesse contexto, a TI torna-se ferramenta necessária
+para as organizações e de acordo com Walton (2003) é fator
+chave  na  competitividade  da  companhia.  Na  mesma  linha
+argument
+am  
+Albertin  e  
+Albertin  (2008,  p.  601)  que  a
+utilização  da  TI  pode  “oferecer  grandes  oportunidades  para
+as  empresas  que  têm  sucesso  no  aproveitamento  dos
+benefícios oferecidos por este uso”.
+Evidenciada a importância da TI para as organizações é
+fundament
+al avaliar o est
+ado da arte do imp
+acto da 
+Tecnologia
+da  Informação  nas  organizações,  por  meio  de  um  estudo
+bibliométrico.  Para  Martins,  Santos  e  Lima  (2009,  p.  1):
+estudos que se propõem a analisar as fontes utilizadas
+no  levantamento  bibliográfico  são  denominados  de
+bibliométricos, visto que analisam a produção científica
+de  determinada  área  ou  temática  observando  e
+examinando a literatura que subsidiou os pesquisadores
+no  desenvolvimento  de  seus  trabalhos.
+Em    estudos    conduzidos    com    a    abordagem
+bibliométrico,  de  acordo  com  Martins,  Santos  e  Lima  (2009,
+p.1)  “é  possível  levantar  especificidades  da  literatura  usada
+no  processo  de  construção  do  conhecimento  e  obter
+indicadores  que  possibilitam  uma  avaliação  do  estágio  de
+maturidade da produção científica de certa área ou programa
+de  pesquisa”.  Como  exemplos  destes  estudos  pode-se  citar
+os  estudos  de  Leite
+  et  al.  
+(2008),  Espejo  
+et  al.
+  (2009),
+Martins,  Santos  e  Lima  (2009),    Oliveira,  Silva  e  Gomes
+(2009).
+Conforme  observada  a  importância  da  TI  para  as
+organizações,  é  fundamental  levantar  informações  referente
+às  pesquisas  que  buscam  estudar  o  impacto  da  TI  nas
+empresas, obtendo indicadores que auxiliem na avaliação da
+maturidade  destas  e  propicie  estímulos  a  novas  pesquisas
+que agreguem novas informações a literatura da área.
+À  luz  dessas  considerações,  a  questão  orientadora  do
+presente  estudo  é:  
+Como  estão  sendo  estudados  os
+imp
+actos  da  T
+ecnologia  da  Informação  nas  organizações
+nos  periódicos  de  Administração  e  Contabilidade  nacional  e
+internacional veiculados entre 2005 a 2009?
+O  presente  estudo  está  estruturado  em  cinco  seções,
+iniciado  com  essa  introdução.  Na  seqüência  o  marco
+teórico,  e  em  seguida  são  abordados  os  procedimentos
+metodológicos  utilizados  no  presente  estudo.  Na  quarta  e
+quinta partes, respectivamente, são discutidas a análise dos
+resultados  e  as  conclusões  e  recomen
+dações  para  futuras
+pesquisas  sobre  o  tema  investigado.
+2  Marco  Teórico
+O  marco  teórico  do  presente  estudo  está  subdividido
+em  duas  p
+artes.  
+A  primeira  abordando  a  importância  da  
+TI
+para  as  organizações  e  a  segunda  faz  uma  breve
+conceituação   sobre   a   estrutura   classificatória   da
+metodologia  de  pesquisa  utilizada  pelos  autores  dos  artigos
+investigados.
+2.1 
+A importância da T
+ecnologia da Informação
+(TI) para as organizações
+Os  avanços  presenciados  nos  diversos  campos  do
+conhecimento  nos  últimos  anos  induzem  as  organizações
+para  que  estejam  em  constante  adaptação,  requisito  para
+permanecerem “vivas” no mercado. Um dos fatores indutores
+da  mutação  do  ambiente  no  qual  as  organizações  estão
+inseridas é a 
+Tecnologia da Informação, usualmente utilizada
+pelas  empresas  como  meio  de  obtenção  de  vantagens
+competitivas  e,  assim  se  destacarem  no  mercado.
+Para Fetzner e Freitas (2007a, p. 2), “desde meados do
+século  XX  as  organizações  experimentam  um  período  de
+intensa  inovação  e  emprego  de  tecnologias,  elementos
+críticos  para  a  busca  de  patamares  superiores  de
+desempenho  e  competitividade”.  Os  autores,  também
+argumentam  sobre  o  reconhecimento  do  potencial  de
+contribuição  da  TI  para  o  sucesso  organizacional.

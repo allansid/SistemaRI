@@ -1,0 +1,44 @@
+Com o crescimento da Internet, a globalização do comércio e a ascensão das economias da informação, a Tecnologia da Informação (TI) passou a atuar com papel essencial nos negócios e na administração. A TI está servindo de base a novos modelos empresariais, novos processos de negócio e novos modos de compartilhar informações. A Tecnologia da Informação viabiliza complexos processos de negócio, ao mesmo tempo, contribui para conhecer melhor o ambiente competitivo que a empresa encontra inserido. Assim, a TI é um “tipo” de tecnologia pensada para auxiliar o gerenciamento de informações necessárias para que os administradores tomem decisões corretas.
+
+Antes de tudo para conseguir êxito e uma posição de destaque no mercado nos dias atuais o Administrador necessita de flexibilidade e versatilidade, para uma melhor adaptação as condições presentes, dentro disso está o constante aperfeiçoamento pessoal e profissional que consiste na busca prática do termo “profissional conectado”, dessa forma seus métodos de trabalho e informações jamais estarão obsoletas. O conhecimento é sem dúvida a melhor estratégia de sobrevivência, através dele na maior parte do tempo se adquire as habilidades humanas de manipular, controlar e impor-se sobre o ambiente. Essa constante atualização que irá propiciar melhores chances em qualquer ambiente profissional, o poder associado ao controle da tecnologia torna-se mais visível nas confrontações e negociações que envolvem a mudança organizacional ou quando os grupos estão tentando melhorar seus destinos dentro da organização.
+
+Com o avanço da globalização o mundo competitivo vem cada vez mais tomando espaço, esse ambiente turbulento, que se transforma a todo instante, exige das empresas um sistema de informação ágil que acompanhe o ritmo das transformações.
+
+A TI provocou uma transformação na natureza do trabalho, que passou de manual para eletrônico, alterando o conteúdo das tarefas, sendo o impacto mais forte percebido nesta geração. Diminuindo o tempo de realização de uma tarefa, cada funcionário passou a ser mais cobrado sobre a qualidade de seus serviços e quantidade de procedimentos, práticas e relatórios, que foram possíveis graças à TI, aumentando assim o ritmo de trabalho e suas exigências. Em relação as habilidades dos funcionários, muitas outras foram exigidas, começando em como utilizar o computador. O impacto das novas tecnologias nas empresas tem sido um dos principais focos de estudo nos últimos anos, devido a sua rápida disseminação no ambiente empresarial e grande repercussão na sociedade, a qual recebe suas influências. Todo esse arsenal de inovações produz ‘impulsos’, estes se apresentam das mais variadas formas gerando ciclos como os impactos das novas tecnologias no trabalho, percebeu-se também, o impacto decorrente da implantação da TI na estrutura física das empresas, devido a evolução dos equipamentos, aumento do número de máquinas e mudanças na estrutura organizacional que ocasionam mudanças em diversas variáveis como:
+
+- Conteúdo e natureza das tarefas;
+
+- Pressões e ritmo de trabalho;
+
+- Interação entre os operários;
+
+- Quantidade de operários;
+
+- Distribuição e localização dos operários; Horários e duração das jornadas;
+
+- Alteração na estrutura organizacional, eliminando postos de supervisão e criando postos de nível de gerência;
+
+- Mudança no perfil da mão-de-obra, exigência de novas especializações, habilidades e qualificação.
+
+
+Essas novas tecnologias podem provocar alterações sobre o nível de emprego, stress e satisfação no trabalho, além de exigir novas habilidades do trabalhador. Nota-se, também, mudanças na gerência, com um controle maior de seu desempenho.
+
+O meio empresarial ficou digamos que mais fácil de ser controlado e muito mais rápido na execução de algumas tarefas, o controle de dados e busca de informações foi algo que trouxe um benefício enorme, além de controle de estoques, Fisco com NF sendo emitidas quase que momentaneamente com a interligação direta com sites governamentais, controle de estoques, monitoramento de tarefas e maior interação entre os mais diversos departamentos, além dos armazenamentos em nuvem que revolucionou a forma de ter acesso aos documentos.
+
+A TI está presente em todos os departamentos da empresa, e é tida como fundamental para a modernização dos processos internos. Seja através de usuários que utilizam o computador apenas para a criação de planilhas e documentos, seja para controles de transações internas ou para o empresário que precisa de um sistema que lhe dê informações para tomar decisões que definirão o rumo dos seus negócios.
+
+As novas ferramentas que a tecnologia da informação fornece necessita de capacitação, algo que tem que ser estudado constantemente, pelo fato de estar sempre em mudanças, nas empresas ela gera uma dependência das pessoas ao executar suas tarefas, obriga-as a ter especialização necessária para algumas funções que antes não era obrigatório não adianta ter um ambiente de trabalho totalmente informatizado se não tem alguém para opera-lo, as mudanças das tecnologias são frequentes, e as pessoas que trabalham com elas devem andar lado a lado, para que a empresa não invista em coisas que podem facilitar o meio do trabalho e que acabe sendo barrado na hora da execução por falta de capacitação.
+
+Contudo, com o barateamento dos recursos de TI (hardware e software), muitas empresas investiram em infraestrutura de TI sem o devido planejamento e acabaram amargando perdas substanciais e não tendo o resultado esperado. A falta de preparação interna (recursos humanos e processo eficiente) e externas (adequação ao ambiente de negócio dos concorrentes) transformaram investimentos em custos, nem sempre absorvidos pela receita da empresa. A subutilização dos recursos adquiridos ocorre principalmente nas empresas de pequeno porte, onde a falta de conhecimentos e de uma acessória mais efetiva sobre recursos necessários e a efetiva aquisição dos mesmos, pode levar a resultados inexpressivos e a falta de alinhamento desses investimentos às estratégias dessas empresas.
+
+A segurança das informações é uma parte negativa, antes somente quem estava na empresa podia ter acesso às informações, agora se um hacker acessar o servidor ele pode ter todas as informações tantos pessoais quanto financeiras, deste moto um sistema de segurança eficiente é fundamental para proteger os dados e informações que a empresa contém.
+
+Com a facilidade fornecida por ela em transformação dados em informações confiáveis, em tempo de resposta mínimo, auxilia na maneira como a empresa lida com os problemas enfrentados no dia-a-dia e permite um planejamento das ações a serem tomadas no futuro, a informação a cada dia se torna a ferramenta mais valiosa para se obter o sucesso no segmento ou mercado no qual se atua.
+
+A automatização de processos e transações que antes levavam horas para serem realizados por seres humanos, hoje são feitos em poucos segundos por computadores. Isto aumentou a competitividade e causou grande impacto nas estruturas organizacionais, pois o número de pessoas necessárias para uma determinada tarefa diminui.
+
+Por estas considerações, pode-se constatar que existe uma grande relação entre as mudanças organizacionais e a evolução da TI. A agilidade de consulta a informações e na execução de processos aumentou o nível de competitividade do mercado. A evolução tecnológica ocasiona mudanças significativas, afetando não somente a estrutura da organização como também a sua cultura e estratégia.
+
+O grande desafio das organizações será avaliar e implantar todas as mudanças que julguem necessárias, de forma natural, levando em consideração que este processo deverá ser contínuo para que a Organização obtenha sucesso no ambiente de competitividade global.
+
+Definitivamente, a TI exerce papel extremamente importante no que diz respeito ao aumento de produtividade e competitividade no mercado em que se atua, ou até mesmo para a descoberta de novos mercados em potencial.

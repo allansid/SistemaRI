@@ -1,0 +1,616 @@
+Artigo Original
+www.jhi-sbis.saude.ws
+Conhecimento e barreiras na utilização dos recursos da Tecnologia da
+Informação e Comunicação por docentes de enfermagem
+Expertise and barriers in the use of resources of Information and Communication Technology by nursing
+faculties
+Iza Sherolize Américo da Silva1, Isaac Rosa Marques2
+RESUMO
+Objetivo: Identificar o conhecimento e as barreiras quanto à utilização de recursos da informática no ensino de
+enfermagem por docentes de uma universidade privada da cidade de São Paulo. Método: Pesquisa descritivoexploratória
+com a participação de 27 docentes de enfermagem, sendo utilizado um questionário com 13 questões
+sobre a utilização dos recursos da Tecnologia da Informação e Comunicação (TIC) nas atividades acadêmicas.
+Resultados: Predomínio de sujeitos do sexo feminino (92,6%) e da faixa etária > 50 anos (25,9%). O nível de
+conhecimento sobre informática para 59,3% é o nível básico e para 44,4% é intermediário. A maior utilização da
+Internet é para o acesso do correio eletrônico (37,0%), seguido pela pesquisa de bibliográfica (18,5%). As maiores
+dificuldades relatadas incluem o desconhecimento das tecnologias existentes e a infraestrutura inadequada para sua
+utilização nas atividades acadêmicas. Conclusão: Os docentes têm atitudes positivas frente à TIC e familiaridade no
+uso da informática, mas concordam que com maior investimento na infraestrutura da instituição aumentaria a adoção
+das tecnologias nas atividades acadêmicas.
+ABSTRACT
+Objective: To identify the expertise and barriers in the use of computer resources in nursing education by nursing
+faculties at a private university in São Paulo, SP, Brazil. Method: Descriptive-exploratory survey conducted with 27
+nursing faculties using a questionnaire with 13 questions about the use of Information and Communication Technology
+(ICT) in academic activities. Results: Prevalence of female subjects (92,6%), with age > 50 years-old (25,9%). The
+level of expertise in informatics for 59,3% is basic, and for 44,4% is intermediate. The greater use of Internet is email
+(37,0%) followed by bibliographic research (18,5%). The greater difficulties reported include the lack of
+knowledge about existing technologies, and the inadequate infrastructure for its utilization in academic activities.
+Conclusion: Nursing faculties have positive attitudes to ICT and familiarity in the use of computers, but agree that
+more investment in the infrastructure of the institution would increase the adoption of technologies in the academic
+activities.
+RESUMEN
+Objetivo: Identificar el conocimiento y barreras sobre la utilización de los recursos de la informática en la enseñanza
+de enfermería por maestros de una universidad privada de la cuidad de São Paulo, SP, Brasil. Método: Investigación
+descriptivo-exploratoria con la participación de 27 maestros de enfermería, siendo utilizado un cuestionario con 13
+preguntas sobre la utilización de los recursos de la Tecnología de la Información y Comunicación en las actividades
+académicas. Resultados: Predominio de sujetos del sexo femenino (92,6%) y de edad mayor de 50 años (25,9%). El
+nivel de conocimientos acerca de la informática para 59,3% es básico y para 44,4% es intermediario. La mayor
+utilización de la Internet es para acceder el correo electrónico (37,0%) seguido por la búsqueda bibliográfica (18,5%).
+Las mayores dificultades reportadas incluyen el desconocimiento de las tecnologías existentes y la infra-estructura
+inadecuada para su utilización en las actividades académicas. Conclusión: Los maestros tienen actitudes positivas
+frente a las Tecnologías de la Información y Comunicación y familiaridad con el uso de la informática pero están de
+acuerdo que con mayor investimento en la infra-estructura de la institución aumentaría la adopción de las tecnologías
+en las actividades académicas.
+Descritores: Informática
+em enfermagem; Ciência da
+informação; Docente de
+enfermagem
+Keywords: Nursing
+informatics; Information
+science; Faculty, nursing
+1 Aluna do Curso de Enfermagem da Universidade de Santo Amaro - UNISA, São Paulo, (SP), Brasil.
+2 Mestre em Enfermagem. Professor Adjunto do Curso de Enfermagem da Universidade de Santo Amaro - UNISA, São Paulo, (SP), Brasil.
+Autor Correspondente: Iza Sherolize Américo da Silva
+e-mail: iza_sherolize@msn.com
+Artigo recebido: 07/10/2010
+Aprovado: 13/12/2010
+J. Health Inform. 2011 Jan-Mar; 3(1): 3-8
+Descriptores:
+Informática en
+enfermería; Ciencia de la
+información; Docentes de
+enfermería
+Conocimiento y barreras en la utilización de los recursos de la Tecnología de la Información y
+Comunicación por maestros de enfermería
+4
+www.jhi-sbis.saude.ws
+J. Health Inform. 2011 Jan-Mar; 3(1):3-8
+INTRODUÇÃO
+As Tecnologias da Informação e da Comunicação
+(TIC) estão cada vez mais presentes nas atividades
+profissionais(1). No mundo globalizado as informações
+são disponibilizadas de forma exacerbada e, inerente a
+elas, a tecnologia se faz presente, tornando necessário a
+adesão da TIC para processar essas informações da
+maneira mais rápida possível.
+A Sociedade de Informação foi calcada neste cenário
+pós-moderno, na qual o indivíduo percebe certa angústia
+diante do impacto gerado pela velocidade com que a
+tecnologia tem evoluído(2). Por outro lado, a Sociedade
+do Conhecimento assume contornos diferentes na medida
+em que, devido a esta explosão de informações
+disponibilizadas, o indivíduo é levado a desenvolver uma
+consciência crítica em relação ao que está sendo
+apresentado, a analisar a relevância disso para suas
+necessidades, a assumir posturas pró-ativas de busca e
+uso da informação e a estabelecer relações entre as
+informações processadas, para então produzir
+conhecimento(2).
+A tecnologia computacional tem mudado a prática
+de quase todas as atividades, das científicas as de negócio.
+E o conteúdo e prática educacionais também seguem essa
+tendência de mudança(3).
+Nesta conjuntura, em que a mudança tecnológica é a
+regra, buscar condições para ancorar a preparação do
+profissional do futuro requer uma estratégia diferenciada.
+Este profissional do futuro deverá interagir com máquinas
+sofisticadas e inteligentes, será um agente no processo de
+tomada de decisão. Além disso, o seu valor no mercado
+será estimado com base em seu dinamismo, em sua
+criatividade e em seu empreendedorismo. Todos esses
+fatores evidenciam que só a educação será capaz de
+preparar as pessoas para enfrentar os desafios dessa nova
+sociedade(4).
+É pertinente admitir que o profissional da área da
+saúde, em função das necessidades impostas pelo advento
+tecnológico contemporâneo, especialmente nesse setor,
+desenvolva competências e saberes relativo a um “pensar
+e agir” que inclua as TIC no intuito de enriquecer e ampliar
+sua prática profissional, sua educação permanente e sua
+participação social nos campos especiais em que vier a
+atuar(5).
+Com a disponibilização crescente de informações no
+meio digital, é necessário que os profissionais, em especial
+os de saúde, instrumentalizem-se para a utilização dos
+recursos de informática(6). Acredita-se que em sua
+formação, o docente da área de saúde necessita saber
+como usar a tecnologia, seja em situações didáticas, seja
+em sua vida pessoal, assim como também deve possuir
+uma contínua reflexão sobre as consequências sociais e
+éticas de suas escolhas tecnológicas(7).
+Tal cenário vislumbra a necessidade do educador da
+área da saúde apropriar-se de recursos da TIC na sua
+prática docente já que no processo educacional, no que
+tange conhecimento e discentes, ele é o principal mediador
+deste provimento. De um modo geral, os entusiastas da
+informatização do ensino de enfermagem defendem a
+importância de maiores investimentos nesta área, uma vez
+que o setor de educação não pode ficar à margem do
+atual processo de desenvolvimento tecnológico(8).
+Dessa forma, não cabe somente ao docente de
+enfermagem integrar os recursos da TIC em sua rotina
+acadêmica, mas a instituição também deve investir na
+implementação destes recursos, com políticas e
+disponibilização orçamentária que permitam estimular
+essa adesão. Além disso, a utilização de recursos
+computacionais como ferramenta efetiva no processo
+ensino-aprendizagem e a implementação deste instrumento
+no ambiente educacional vem se confirmando desde a
+pré-escola até o ensino universitário. Entretanto, muitos
+docentes e alunos apresentam-se ainda resistentes quanto
+ao emprego desses recursos, pois para poderem utilizálos
+são necessários alguns conhecimentos básicos sobre
+informática, o que pode tornar-se um transtorno para os
+avessos à tecnologia computacional, sempre em constante
+transformação(9).
+Sabendo da existência e evidente utilidade da
+tecnologia, a questão que norteou a realização desta
+pesquisa é: por que ainda há resistência na apropriação de
+recursos informatizados na prática docente?
+Considerando o contexto apresentado, esta pesquisa
+teve como objetivo identificar o conhecimento e barreiras
+quanto à utilização de recursos da informática no contexto
+do ensino de enfermagem por docentes de um curso de
+graduação em enfermagem de uma universidade privada
+da Zona Sul da Cidade de São Paulo.
+MÉTODO
+Tratou-se de uma pesquisa do tipo survey descritivoexploratório(
+10). A pesquisa foi realizada no âmbito do
+campus universitário de uma universidade privada
+localizada na Zona Sul da Cidade de São Paulo.
+Fizeram parte do estudo 27 docentes de um curso de
+graduação em enfermagem. A amostra foi do tipo nãoprobabilística
+de conveniência e a coleta de dados deu-se
+por meio de um questionário semi-estruturado composto
+por 13 questões sendo a maioria das respostas medidas
+por meio da escala Likert de quatro graus. O conteúdo
+do instrumento constituiu-se de dados demográficos e
+dados sobre o objeto de estudo como percepção dos
+docentes a respeito de suas aulas, preparação e
+compartilhamento das aulas, conhecimentos e habilidades
+e barreiras para com o uso dos recursos tecnológicos nas
+atividades acadêmicas.
+Os dados foram coletados no ambiente universitário
+durante uma das reuniões de planejamento no início do
+primeiro semestre letivo de 2010. Na abordagem dos
+docentes foi apresentada a Carta de Informação e, após
+a leitura da mesma, havendo anuência, os sujeitos
+assinaram o Termo de Consentimento Livre e Esclarecido.
+O projeto de pesquisa foi aprovado pelo Comitê de Ética
+em Pesquisa da Universidade de Santo Amaro por meio
+do parecer no. 132/2009 (CAAE - 0065.0.386.000-09).
+Os dados coletados foram organizados em uma
+planilha no aplicativo Microsoft Excel, sendo realizada a
+estatística descritiva para análise das variáveis.
+Silva ISA, Marques IR 5
+www.jhi-sbis.saude.ws
+RESULTADOS E DISCUSSÃO
+Caracterização da amostra
+Os docentes que participaram da pesquisa foram
+predominantemente do sexo feminino (92,6%); domínio
+deste g~enero este já evidenciado em outros estudos na
+enfermagem(11). Do sexo masculino apenas dois (7,4%)
+participaram. Quanto à variável idade, sete (25,9%) estão
+na faixa etária de 50 anos ou mais. Quanto ao tempo de
+docência, predominam entre 5 a 10 anos (22,2%) e 10 a
+15 anos (22,2%), sendo a maioria com formação básica
+em enfermagem (96,3%). Quanto à titulação, 14 (51,9%)
+têm especialização e nove (33,3%) lecionam até três
+disciplinas.
+A Tabela 1 demonstra que pelo tempo de docência
+dos participantes, a maioria tem acompanhado as
+mudanças que este advento da tecnologia tem gerado bem
+como a medida exponencial que as informações são
+processadas além de como tudo tem ficado cada vez
+mais acessível na educação através da TIC.
+A especialidade de Informática em Enfermagem foi
+introduzida no Brasil no início de 1990(11), e pelo fato de
+14 (51,9%) dos docentes serem especializados e seis
+(29,6%) serem mestres denota que tiveram contato com
+a disciplina na formação, mas tal feito não garante que
+apliquem efetivamente os recursos da TIC no processo
+de ensino-aprendizagem.
+Outro dado relevante é o número de disciplinas que
+lecionam, já que nove docentes são responsáveis por mais
+de uma disciplina, implicando na importância de se
+apropriarem destes recursos como facilitadores da rotina
+acadêmica dos mesmos.
+Quanto à utilização dos recursos das TIC para
+compartilhamento dos conteúdos utilizados nas disciplinas
+que lecionam, 18 (66,7%) referiram enviar por e-mail, sete
+(25,9%) referiram deixar o material impresso com o
+representante de sala e dois (7,4%) deixam no setor de
+cópias da instituição. A totalidade dos participantes referiu
+serem os responsáveis pela preparação dos materiais de
+suas aulas.
+Quanto ao nível de conhecimento adquirido sobre a
+TIC para utilizar os recursos de informática, 16 (59,3%)
+referiram ter aprendido sozinhos, seis (22,2%) aprenderam
+com a ajuda de outras pessoas e cinco (18,5%) fizeram
+cursos de informática. Tal aprendizado foi classificado
+pelos docentes predominantemente nos níveis básico
+(44,4%) e intermediário (40,7%).
+Observa-se que a faixa etária de maior prevalência,
+acima dos 50 anos (25,9%), sem ter feito qualquer curso
+de informática. Isto pode ser justificado pelo fato de que
+estes docentes, no início da carreira profissional, ainda
+não dispunham destes recursos à época. Certamente
+tiveram que se adaptar às mudanças exigidas, muitas vezes
+pela própria instituição com relação à utilização da
+informática. Com diferentes graus de dificuldade,
+adquirem esta adaptação, nem sempre sendo possível a
+realização de cursos básicos de informática, devido ao
+pouco tempo disponível em meio às diversas atividades
+acadêmicas.
+A maioria dos docentes tem computador pessoal,
+tanto do tipo desktop sendo 25 (92,6%) os que têm e dois
+(7,4%) os que não têm; quanto do tipo portátil (notebook)
+sendo 19 (70,4%) os que têm e oito (29,6%) os que não
+têm.
+Tabela 1 - Características dos docentes participantes do
+estudo. São Paulo, 2010.
+Variável n %
+Idade (em anos)
+20 – 25
+26 – 30
+31 – 35
+36 – 40
+41 – 45
+46 – 50
+> 50
+0
+5
+3
+5
+2
+5
+7
+0
+18,5
+11,1
+18,5
+7,4
+18,5
+25,9
+Formação
+Enfermagem
+Outros
+26
+1
+96,3
+3,7
+Tempo de docência (em anos)
+< 2
+De 2 a 5
+De 5 a 10
+De 10 a 15
+> 15
+Não preencheu
+4
+4
+6
+6
+5
+2
+14,8
+14,8
+22,2
+22,2
+18,5
+7,4
+Titulação
+Graduação
+Especialização
+Mestrado
+Doutorado
+Pós-doutorado
+Não preencheu
+0
+14
+8
+2
+0
+3
+0
+51,9
+29,6
+7,4
+0
+11,1
+Número de Disciplinas que leciona
+1
+2
+3
+4
+6
+6
+9
+6
+22,2
+22,2
+33,3
+22,2
+Observa-se também que 19 (70,4%) fazem uso de
+dispositivos móveis, como SmartPhone, e oito (29,6%) não
+o fazem; esta mesma proporção de valores se deu para
+os que fazem uso de Internet por meio de celular.
+Quanto à utilização de rede sem fio (wireless) nas
+dependências da instituição, 14 (51,9%) fazem uso e 13
+(48,1%) não o fazem. Já em suas respectivas residências
+aumentou para 17 (63,0%) os que fazem uso deste tipo
+de rede, sendo a frequência de acesso de 77,8% que referiu
+utilizar a Internet pelo menos uma vez por dia 14,8% que
+utiliza de quatro a cinco vezes por semana e 7,4% de
+duas a três vezes por semana.
+Os resultados de uma pesquisa em uma escola de
+bacharelado em enfermagem revelaram que embora quase
+100% desses profissionais sejam possuidores de
+computadores, os recursos disponíveis na Internet não são
+usados efetivamente(12). Em parte, este dado ainda é
+condizente com o momento atual, pois os docentes possuem,
+em sua maioria, computador pessoal, sendo a Internet um
+fator propulsor para a aquisição de equipamentos de
+microinformática e até mesmo pela facilidade de acesso
+subsidiado e oferecido nas instituições de ensino. Tais acessos
+se devem principalmente aos interesses que foram
+enumerados em ordem de importância e estão distribuídos
+6
+www.jhi-sbis.saude.ws
+J. Health Inform. 2011 Jan-Mar; 3(1):3-8
+na Tabela 2.
+Os resultados apresentados na Tabela 2 demonstram
+que o e-mail é tido como prioridade no acesso à Internet,
+seguido da pesquisa bibliográfica que, embora tenha
+resultado semelhante ao dos tópicos relacionados ao
+trabalho, destaca-se por também ser terceiro interesse junto
+com as notícias, os tópicos de trabalho como quarto
+interesse. Quanto aos tópicos relacionados ao trabalho,
+vale ressaltar que os registros acadêmicos de diários de
+classe e atas de prova são todos obrigatoriamente
+registrados no meio eletrônico na instituição onde a
+pesquisa foi realizada. Por fim, outros interesses não
+declarados. A maioria (66,7%) deixou em branco a opção
+de outros interesses, evidenciando que seus interesses
+principais já foram destacados nas quatro prioridades.
+No que se refere à frequência que os docentes
+costumam referir ou indicar para seus alunos algum
+material disponível na web, foram 21 (77,8%) os que sempre
+o fazem no transcorrer da disciplina, cinco (18,5%) o
+fazem ocasionalmente ou raramente e um (3,7%) não o
+faz.
+Os programas com quais há maior familiaridade são
+os editores de texto, sendo que 13 (48,1%) conceituaram
+sua habilidade como “ótima” e 11 (40,7%) como
+“razoável”; quanto ao uso de navegadores 13 (48,1%)
+conceituaram sua habilidade como “ótima” e 11 (40,7%)
+como “razoável”, quanto aos os editores de apresentação
+(PowerPoint) 10 (37,0%) conceituaram como “ótima” e
+12 (44,4%) como “razoável”.
+O elevado índice de conhecimento nestes programas
+específicos notoriamente deve-se à utilização dos mesmos
+nas atividades das disciplinas que lecionam e está em
+consonância com o conhecimento básico que a maior
+parte dos docentes referiu dominar.
+Já os programas para os quais há menor familiaridade
+são a planilha eletrônica, os editores gráficos, os
+processadores de dados estatísticos e os editores de página
+da web. Isto, em parte, reflete a pouca utilização destes
+aplicativos na prática acadêmica em si.
+As novas tecnologias aplicadas ao ensino, caracterizadas
+pelos recursos da Internet e de outras ferramentas
+sofisticadas que ainda estão em desenvolvimento como
+robótica e realidade virtual, possibilitam maior
+flexibilidade, criatividade, dinamicidade, interação e
+comunicação no processo ensino-aprendizagem,
+estimulando a participação ativa do aluno numa
+perspectiva construtivista(13). Essas ferramentas virtuais que
+permeiam a educação devem ser incorporadas com
+objetivos bem estabelecidos e transformadores, e não
+como mera forma adicional de transmitir conhecimento.
+Entretanto, estas tecnologias ainda estão distantes do foco
+e da realidade que é vista nas disciplinas de um curso de
+enfermagem. Mas, sabe-se que num futuro próximo elas
+deverão ser integradas na formação dos enfermeiros,
+como exemplo a simulação.
+Na Tabela 3 nota-se que a maioria dos docentes
+desconhece muitas modalidades de ensino que utilizam as
+TIC, principalmente o Video Streaming (77,8%) e a Instrução
+Assistida por Computador (63,0%). Muitos professores
+conhecem algumas modalidades, mas nunca as utilizaram,
+como a videoconferência (77,8%), os ambientes de
+Educação à Distância (74,1%), a simulação (85,2%), o
+fórum/lista de discussão (63,0%) e o portfólio na web
+(92,6%).
+O ponto de maior discussão é, sem dúvida, a disposição
+ou política das instituições de ensino para investir em
+recursos tecnológicos que permitam a implementação
+destas modalidades. Isto se aplica principalmente em países
+subdesenvolvidos e/ou em desenvolvimento onde ainda
+inexistem políticas definidas quanto ao acesso e utilização
+da Internet e, também, profissionais devidamente capazes
+de conduzir o processo ensino-aprendizagem sob a
+perspectiva da TIC(14).
+Depreende-se que os recursos mais conhecidos e
+utilizados são aqueles mais comumente usados e acessíveis
+na rotina acadêmica, pelo baixo custo e dispêndio de
+tempo. Embora os outros recursos sejam tão efetivos
+quanto estes na educação, ainda são pouco difundidos
+dentre os docentes que participaram desta pesquisa.
+É relevante salientar que a utilização do e-mail e do chat
+como recurso acadêmico evidencia o quanto a
+comunicação assíncrona tem se intensificado através dessas
+facilidades que os docentes pouco a pouco têm se
+apropriado.
+Ao abordar a opinião dos docentes acerca do uso dos
+recursos da TIC em suas atividades acadêmicas, 22 (81,5%)
+se sentem estimulados a usar a TIC nas suas disciplinas,
+três (11,1%) não se sentem estimulados e um (3,7%) não
+respondeu; 21 (77,8%) sentem que seus alunos têm interesse
+em usar os recursos da TIC, quatro (14,8%) sentem que
+os alunos não têm interesse e dois (7,4%) não
+responderam; 21 (7,8%) acham que a estrutura favorece
+o uso da TIC, quatro (14,8%) acham que não favorece e
+dois (7,4%) não responderam; 22 (81,5%) se sentem
+preparados para fazer uso dos recursos da TIC nas
+atividades acadêmicas, três (11,1%) não se sentem
+preparados e dois (7,4%) não responderam; 23 (85,2%)
+acham que não ter recursos próprios, como notebook, não
+é empecilho para usar a TIC, dois (7,4%) acham que é
+empecilho e dois (7,4%) não responderam; 23 (85,2%)
+vêem como incluir a TIC nas atividades das disciplinas
+que lecionam, dois (7,4%) não vêem como incluí-la e dois
+(7,4%) não responderam; 23 (85,2%) acham que a TIC
+colabora com o processo ensino-aprendizagem, dois
+Tabela 2 - Grau de interesse dos docentes nas utilizações da Internet. São Paulo, 2010.
+Grau de interesse %
+Utilizações da Internet
+1º 2º 3º 4º 5º Branco
+E-mail 37,0 14,8 3,7 11,1 25,9 7,4
+Notícias 7,4 18,5 29,6 22,2 11,1 11,1
+Pesquisa bibliográfica 18,5 29,6 29,6 14,8 0,0 7,4
+Tópicos relacionados ao trabalho 11,1 29,6 18,5 33,3 0,0 7,4
+Outros 11,1 0,0 3,7 3,7 14,8 66,7
+Silva ISA, Marques IR 7
+www.jhi-sbis.saude.ws
+(7,4%) acham que não colabora e dois (7,4%) não
+responderam; 17 (63,0%) acham que deveria ter mais
+investimento na infraestrutura para que pudessem usar
+mais os recursos da TIC nas atividades, oito (29,6%)
+acham que não precisa haver mais investimento para o
+uso e dois (7,4%) não responderam.
+Os professores demonstram conhecimento do quanto
+o computador poderia promover melhorias com
+mudanças positivas no processo de ensino e aprendizagem.
+Entendem e percebem em seus alunos vontade e
+curiosidade em poder utilizar o computador em suas
+práticas acadêmicas. No entanto, não basta esta consciência
+dos professores nem a vontade expressa dos alunos, pois
+é necessário que a infraestrutura da instituição de ensino,
+em sua totalidade, possibilite que as inovações tecnológica
+possam ser absorvidas e utilizadas em toda a sua
+potencialidade pelas instituições de ensino(15).
+Embora os docentes tenham uma atitude positiva
+frente à utilização da TIC nas atividades acadêmicas, 63%
+deles referiu que a instituição/universidade deve investir
+na infraestrutura, corroborando assim para uma efetiva
+apropriação da TIC na prática docente.
+CONCLUSÕES
+O presente estudo evidenciou que os docentes de
+enfermagem pesquisados assimilaram a utilização da TIC
+em algumas atividades de suas atividades acadêmicas, têm
+fácil acesso a muitos recursos da TIC e familiaridade no
+uso do computador, mas ainda existem modalidades de
+ensino desconhecidas ou pouco disseminadas dentre eles.
+Concluiu-se que, através da opinião dos docentes, que
+se houvesse maior investimento na infraestrutura da
+instituição aumentaria a adoção dos recursos, já que veem
+interesse por parte dos alunos, também acham que a TIC
+colabora no processo de ensino e aprendizagem e se
+sentem preparados e estimulados em fazê-lo.
+O conhecimento em microinformática esta aquém do
+esperado, pois a maioria dos docentes domina apenas os
+recursos básicos mais comumente utilizados na rotina
+acadêmica, assumindo atitudes pró-ativas insuficientes de
+uma educação permanente integrada à tecnologia com
+vistas a experimentar novas práticas pedagógicas através
+de novos recursos, já que a TIC está diretamente
+relacionada à enfermagem, pois se aplica em todas suas
+dimensões, seja ela de ensino, pesquisa, gerenciamento ou
+assistência.
+Nesse sentido, a capacitação tecnológica dos docentes
+não depende tão somente da instituição de ensino e dos
+recursos que esta venha a oferecer, haja vista que a TIC
+apenas auxilia na transmissão do conhecimento e otimiza a
+comunicação e a manipulação da informação, cabendo ao
+docente dar sentido e, de forma crítica, trabalhar estas
+informações para então gerar conhecimento e persuadir
+seus discentes a também perceber essa importância e utilizálas
+tanto na rotina acadêmica quanto na prática profissional.
+Mediante os resultados obtidos, pode-se concluir que
+o estudo tem limitações, sendo impossível fazer
+generalizações. No entanto, levando em conta o desenho
+do estudo, tais resultados permitiram compor um quadro
+situacional referente à utilização da TIC pelos docentes
+participantes da pesquisa.
+Tabela 3 - Conhecimento e utilização dos recursos da TIC nas atividades acadêmicas pelos docentes participantes do
+estudo. São Paulo, 2010.
+Recurso da TI
+Conhece
+%
+Desconhece
+%
+Já utilizou
+%
+Nunca Utilizou
+%
+Videoconferência 92,6 3,7 18,5 77,8
+Video streaming 18,5 77,8 0 96,3
+Ambientes de EAD 51,9 44,4 22,2 74,1
+Instrução Assistida por Computador 33,3 63,0 7,4 88,9
+Simulação 51,9 44,4 11,1 85,2
+Fórum de discussão 77,8 18,5 33,3 63,0
+Portfólio na web 51,9 44,4 3,7 92,6
+E-mail 96,3 0 81,5 14,8
+Chat/Sala de bate-papo 96,3 0 51,9 44,4
+Pesquisa em base de dados bibliográficos 96,3 0 96,3 0
+Download 96,3 0 96,3 0
+Ferramenta/site de busca 96,3 0 96,3 0
+Data-show 96,3 0 96,3 0
+REFERÊNCIAS
+1. Ribeiro NM, Gouveia LB, Rurato P, Moreira R. Informática e
+competências tecnológicas para a sociedade da informação. Rio
+de Janeiro: Edições Universidade Fernando Pessoa; 2003.
+2. Dudziak EA, Gabriel MA, Villela MCO. A educação de
+usuários de bibliotecas frente à sociedade do conhecimento
+e sua inserção nos novos paradigmas educacionais.
+Florianópolis: Seminário de Bibliotecas Universitárias; 2000.
+3. Valente JA, Freire FMP, Rocha HV, D’Abreu JV, Baranauskas
+MCC, Martins MC et al. O computador na sociedade do
+conhecimento. Cadernos Informática para a mudança em
+educação. Brasília: Ministério da Educação; 1999. [citado em
+2010 jun 04]. Disponível em: http://rxmartins.pro.br/
+teceduc/computador-sociedade-conhecimento.pdf
+4. Silva ELD, Cunha MV. A formação profissional no século
+XXI: desafios e dilemas. Cien Inform 2002; 31(3): 77-82.
+5. Cardoso JP, Rosa VA, Lopes CRS, Vilela ABA, Santana AS,
+Silva ST. Construção de uma práxis educativa em informática
+na saúde para ensino de graduação. Cien Saúde Colet 2008;
+13(1): 283-8.
+6. Leite MTM, Silva ALD, Carlini AL, Ramos MP. Curso de
+especialização em informática em saúde a distância: dados
+sobre uma prática inovadora. In: Anais do XI Congresso
+8
+www.jhi-sbis.saude.ws
+J. Health Inform. 2011 Jan-Mar; 3(1):3-8
+Brasileiro de Informática em Saúde; 2008 29 nov-3 dez;
+Campos do Jordão (SP), Brasil. São Paulo: SBIS; 2008.
+[citado em 2010 jun 04]. Disponível em: http://
+www.sbis.org.br/cbis11/arquivos/940.pdf
+7. Garcez RO. O uso da tecnologia de informação e comunicação,
+no ensino, por professores universitários. [dissertação]
+Pelotas (RS): Universidade Federal de Pelotas; 2007.
+8. Nichiata LYI, Takahashi RF, Fracolli LA, Gryschek LDFPL.
+Relato de uma experiência de ensino de enfermagem em saúde
+coletiva: a informática no ensino de vigilância epidemiológica.
+Rev Esc Enferm USP 2003; 37(7): 36-43.
+9. Zem-Mascarenhas SH, Cassiani SHB. Desenvolvimento e
+avaliação de um software educacional para o ensino de
+enfermagem pediátrica. Rev Latino-am Enfermagem 2001;
+9(6): 13-8.
+10. LoBiondo-Wood G, Haber J. Pesquisa em enfermagem –
+métodos, avaliação crítica e utilização. Rio de Janeiro:
+Guanabara-Koogan; 2001.
+11. Santos SR. Análise das atitudes de enfermeiros e estudantes
+de enfermagem na Paraíba-BR quanto à utilização do
+computador. Rev Latino-am Enfermagem 2001; 9(6): 56-61.
+12. Miller JJ, Piper L, Tucker DA. Strategies for getting students
+on the information superhighway. Nurse Educ 1997; 22(5):
+40-3.
+13. Peres HHC, Kurcgant P. O ser docente de enfermagem frente
+ao mundo da informática. Rev Latino-am Enfermagem 2004;
+12(1): 101-8.
+14. Santos SGF, Marques IR. Uso dos recursos de Internet na
+Enfermagem: uma revisão. Rev Bras Enferm 2006; 59(2):
+212-6.
+15. Tonidandel I, Maissiat J, Camargo LS. As demandas sociais e
+tecnológicas: o docente e a internet. Unirevista 2006; 1(2): 1-9.

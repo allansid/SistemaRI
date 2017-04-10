@@ -1,0 +1,197 @@
+
+95
+R. Un. Alfenas, Alfenas, 5:95-101, 1999
+OS IMPACTOS DA TECNOLOGIA DE INFORMAÇÃO NAS ORGANIZAÇÕES:
+UMA VISÃO POLÍTICA
+LUIZ GONZAGA RIBEIRO NETO 
+(*)
+* Professor  da UNIFENAS.  C. P. 23, CEP 37130-000 Alfenas-MG.  E-mail: luizalterosa@zipmail.com.br
+RESUMO
+O presente estudo analisou o impacto de novas tecnologias, principalmente o da Tecnologia de Informação,  sobre
+o ambiente organizacional de empresas.  Nesta análise, considerou-se as relações de poder existentes na organização.  Os
+objetivos do estudo foram: a) identificar quais os impactos percebidos quando da implantação da Tecnologia de Informação;
+b) analisar as influências da Tecnologia de Informação nas relações de poder dentro da organização. Este estudo justifica-se
+uma  vez  que  a  Tecnologia  de  Informação  alterou  drasticamente  a  realização  do  trabalho,  que  sua  utilização  está  muito
+disseminada  em  diversos  ambientes,  que  além  da  abrangência  de  seus  impactos  ser  muito  ampla,  o  poder  é  visto  como
+elemento dotado de energia capaz de moldar e transformar as organizações, sendo, pois, necessário analisá-lo neste contexto.
+Foi  realizado  um  estudo  qualitativo,  após  um  levantamento  bibliográfico,  buscando  verificar  as  relações  entre  os  dados
+obtidos em uma empresa da região do Sul de Minas em 1999 e a parte conceitual. Como conclusão, foram geradas hipóteses
+explicativas, mostrando os fatos e fenômenos percebidos na empresa em questão.
+DESCRITORES
+:  Novas tecnologias, impacto de novas tecnologias, tecnologia de informação, estrutura de
+poder nas organizações.
+SUMMARY
+THE  IMPACT  OF  INFORMATION  TECHNOLOGY  ON  THE  BUSINESS  ORGANISATION:  A  POLITICAL
+OVERVIEW
+This study presents an analysis of the impact of new technologies, especially the impact of the Information Technology
+on  the  business  organization  environment.    In  this  study,  the  relationship  of  power  within  the  companies  was  considered.
+The targets of this study were: a) identify which impacts were noticed by the time the Information Technology was implemented;
+b) analyze the influences of Information Technology on the relationship of power within the enterprise. This study was made
+once the Information Technology changed drastically the way the work was carried out; once the use of Information Technology
+is  spread  all  over  many  environments;  once  its  impact  range  is  very  wide;  and  once  the  power  is  foreseen  as  an  energy
+element  able  to  cast  and  to  transform  business  organizations.  As  a  consequence,  this  study  was  carried  out  within  this
+context. A qualitative study of data collect in a company located in the South of Minas Gerais, Brasil, in 99 was made, cross
+referring to a bibliographical research, in order to verify the real impact. As conclusion, hypotheses were stated, showing the
+facts and the phenomena perceived at the company were the data was collect.
+KEY WORDS
+: new technologies, impact of new technologies, Information Technology, power organization within
+business  enterprises.
+1.INTRODUÇÃO
+A  globalização  e  o  avanço  tecnológico
+trouxeram inúmeros obstáculos para as organizações.
+As empresas estão inseridas em um ambiente altamente
+competitivo  e turbulento, que se transforma a todo
+instante com uma velocidade alucinante, exigindo das
+empresas  um  sistema  de  informação  ágil  que
+acompanhe o ritmo das transformações.  A busca por
+competitividade, através de  redução de custos e ganhos
+de  produtividade,  está    fazendo  com  que  as
+organizações procurem por inovações tecnológicas que
+permitam uma vantagem competitiva.
+Neste contexto, a utilização de novas tecnologias
+tem  sido  considerada  vital  para  a  sobrevivência  da
+organização, principalmente a utilização da Tecnologia
+de Informação (TI), que já está presente no dia-a-dia
+das organizações, provocando mudanças profundas em
+toda a empresa, alterando a estrutura organizacional,
+as  relações  de  trabalho,  o  perfil  do  trabalhador  e  a
+cultura da organização. Para Gonçalves (1993), dentre
+as  diversas  tecnologias  que  tiveram  impacto  na
+realização do trabalho recentemente, a  informática é
+a que tem despertado maior atenção, uma vez que sua
+utilização é muito disseminada em diversos ambientes
+de trabalho e a abrangência de seus impactos é muito
+ampla. Para este mesmo autor (Gonçalves, 1994), a
+informática uniu-se às telecomunicações e a automação
+de  escritórios  para  dar  lugar  a    Tecnologia  da
+Informação. Segundo Rodrigues (1988), a tecnologia
+de informação ou informática são termos comumente
+atribuídos às atividades que envolvam processamento
+de informação e comunicação  integrada através de
+equipamento eletrônico. Porém, o êxito na implantação
+96
+R. Un. Alfenas, Alfenas, 5:95-101, 1999
+L. G. RIBEIRO NETO
+de uma nova tecnologia depende de uma análise de
+seus impactos nas relações de poder.
+O poder é visto como elemento dotado de energia
+capaz de moldar e transformar as organizações, sendo
+fundamental  sua  análise  no  processo  de  mudança
+organizacional, como afirmou Bertero (1989). Segundo
+Dahl (1957), o poder é uma relação de dependência,
+envolvendo a habilidade para se conseguir que outra
+pessoa  faça  alguma  coisa  que,  de  outra  forma,  não
+seria  feita.  Schein  (1985)  também  se  manifesta  em
+relação ao poder: “a atribuição principal do poder é
+manter  a  harmonia  e  o  equilíbrio  no  interior  da
+organização.  O  poder  ordena,  na  medida  em  que  é
+legítimo, e também porque estabelece as fronteiras,
+homologa os processos organizacionais e premia o que
+organizacionalmente é considerado bom desempenho.”
+Neste  contexto,  este  trabalho  objetivou
+identificar quais os impactos percebidos quando da
+implantação da Tecnologia de Informação e analisar
+as influências desta tecnologia nas relações de poder.
+O levantamento bibliográfico inicial procurou definir
+os principais tipos de impactos das novas tecnologias
+e determinar como estes impactos podem influenciar
+as  redes de poder existentes. Assim, foi criado um
+quadro  referencial para a pesquisa de campo em uma
+grande empresa da região do Sul de Minas atuante no
+ramo agrícola.
+2.MATERIAL E MÉTODOS
+2.1  IMPACTOS  DA  NOVAS  TECNOLOGIAS
+NAS ORGANIZAÇÕES
+O  impacto  das  novas  tecnologias  nas
+organizações  tem  sido  um  dos  principais  focos  de
+estudo dos pesquisados nos últimos anos devido a sua
+rápida disseminação no ambiente empresarial e grande
+repercussão  na  sociedade,  a  qual  recebe  suas
+influências.
+Gonçalves(1993),  realizou  uma  pesquisa
+bibliográfica sobre o impacto das novas tecnologias
+na realização do trabalho  e estruturou a preocupação
+dos diversos autores em  grandes grupos de temas que
+são o roteiro de nossa análise, a saber:
+?
+IMPACTOS  DAS  NOVAS  TECNOLOGIA
+NO TRABALHO
+   Os impactos das  novas tecnologias sobre o
+trabalho realizado nas empresas  podem ser percebidos
+como mudanças em diversas variáveis, como:
+-
+Conteúdo e natureza das tarefas;
+-
+Skill
+ requeridos;
+-
+Pressões e ritmo de trabalho;
+-
+Interação entre os operários;
+-
+Quantidade de operários;
+-
+Distribuição e localização dos operários;
+-
+Horários e duração das jornadas;
+      As  alterações  no  conteúdo  e  natureza  das
+tarefas, quando deixam de utilizar métodos manuais e
+passam  a  eletrônicos  ou  utilização  de  escritórios
+virtuais,  geram  reações  comportamentais  como
+resistências  e  medos.  Em  relação  às  habilidades  do
+trabalhador, os impactos podem ser de maior ou menor
+grau, dependendo do ramo da empresa, porém todos
+os  trabalhadores  deverão  sofrer  os  impactos  da
+tecnologia.
+Os  efeitos  da  TI  sobre    o  trabalho  e  o
+trabalhador são analisados por Rodrigues (1988) que
+destaca:
+-
+A Tecnologia da Informação altera profundamente
+as  relações  do  trabalhador  com  seu  trabalho.  A
+principal mudança ocorre na natureza da tarefa, que
+antes era manual, com contato direto e físico, e agora
+eletrônico,  abstrato  e  através  de  um  sistema  de
+informação.
+-
+A nova tecnologia pode provocar impactos sobre
+o nível de emprego, stress e satisfação no trabalho,
+além de exigir novas habilidades do trabalhador. Nota-
+se, também, mudanças na gerência , com um controle
+maior de seu desempenho.
+?
+NÍVEL DE EMPREGO
+   As evidências relativas à redução do numero
+de empregos devido à automatização de tarefas são
+contraditórias.  As  novas  tecnologias  podem  gerar
+desemprego e, ao mesmo tempo, novas oportunidades
+que equilibram os empregos perdidos até certo nível.
+Outra questão é o aumento na produção proporcionado
+pela  nova  tecnologia,  minimizando  a  questão  do
+desemprego, porém um aspecto é válido, o nível de
+emprego preocupa  toda a sociedade e  varia de setor
+para setor e empresa para empresa.
+?
+ESTRUTURA ORGANIZACIONAL
+   A tecnologia pode alterar profundamente as
+estruturas  organizacionais,  provocando  mudanças
+desde  a  forma  de  administração  até  o  
+layout  
+da
+empresa.  Um  discussão  importante  seria  se  estas
+mudanças nas estruturas seriam de baixo para cima
+ou de cima para baixo.
+Sobre o impacto da Tecnologia de Informação
+na estrutura e processos organizacionais,  Rodrigues
+(1988), destaca feitos principais:
+-
+Alteração  no  processo  de  trabalho,  onde  certos
+tipos  de  tarefas    diminuem  ou  cessam,  criando-se
+outros. Ex.: datilografia / digitação;
+-
+Alteração na estrutura organizacional, eliminando
+postos  de  supervisão  e  criando  postos  de  nível  de
+gerência;
+-
+Mudança no perfil da mão-de-obra, exigência de
+novas especializações, habilidades e qualificação;

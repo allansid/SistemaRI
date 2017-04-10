@@ -1,0 +1,58 @@
+Tecnologia da Informação como vantagem competitiva
+O crescimento explosivo do comércio eletrônico, comumente conhecido como e-commerce, à medida que esse tipo de comércio eletrônico avança em nossa sociedade. Por esses e por outros impactos é que a TI vem auxiliar as organizações sobre como devem se portar diante desse mutável comércio atual.
+Como base estratégica, a Tecnologia da Informação (TI) apregoa que, nas diversas maneiras de usar os recursos oferecidos pela TI, há como premissas os Sistemas de Informação (SI). Em meio a diferentes abordagens de ações, um caminho mais adequado a ser executado para alcançar os objetivos, os desafios e as metas da empresa (OLIVEIRA, 2009) se torna algo cada vez mais perene, à medida que as organizações não se adéquam aos avanços tecnológicos. Para sobrepujar a competitividade, é preciso conhecer bem todos os recursos da TI, assim como os seus Sistemas de Informação; Internet e Comércio Eletrônico.
+
+
+  Na introdução desta  obra  de que aqui se delínea estas linhas, evidencia-se o crescimento explosivo do comércio eletrônico, comumente conhecido como e-commerce, como também se indaga sobre quais e quantos serão os impactos no mercado convencional, à medida que esse tipo de comércio eletrônico avança em nossa sociedade. Por esses e por outros impactos é que a TI vem auxiliar as organizações sobre como devem se portar diante desse mutável comércio atual.
+
+O papel da tecnologia da informação no ambiente dos negócios
+
+  À proporção que a revolução tecnológica vai atingindo o ambiente dos negócios, pode-se perceber que os avanços da tecnologia causam um impacto razoável na impressão (papel), portanto o consumo de tinta e papel aumentou progressivamente. No entanto, é notório que um fato "meio contraditório" acontece, "pois, ao invés de ter a matéria impressa substituída pela TI é a impressa que vem adotando como canal de distribuições para informações impressas (OLIVEIRA, 2009)". Fazem parte de todo esse sistema de informações a TI – com seus hardwares e softwares –; a internet; a extranet – com comunicações específicas –; a intranet – com redes privadas – e o e-commerce – que são as transações que ocorrem via internet.
+
+Vale ressaltar que se pode citar a internet como principal centro de importância para novos tipos de negócios, como os que surgem a partir do e-commerce.
+
+  De acordo com o IBGE (1999): "Destaca-se também o alcance da web em 1998 no Brasil, nesta época limitava-se a 3.800.000 usuários da internet, que corresponde a apenas 2,35% do universo, considerando uma população atual de 161.819.462 de habitantes". Assim com o limitante número de usuários, têm-se os altos custos com páginas eletrônicas.
+
+  Entretanto, diante das limitações, vem-se notando o fascínio por programas de computadores, músicas, livros, pacotes de viagens, seguros, entre outros. Mesmo as transações mais resistentes, difíceis, em termos decisórios, estão se rendendo aos avanços da TI, a exemplo das transações residenciais. Esses fatores demonstram a importância da TI como papel estratégico para os negócios organizacionais.
+
+  O poder da internet pode ser usado como fonte de poder estratégico, e é importante salientar que os negócios dessa magnitude requisitam investimentos, competências, e estas são imprescindíveis, pois são produtos do processo de aprendizado por que passam as pessoas, as quais se organizam em torno de dois aspectos: Saber fazer e fazer (ALMEIDA, 2005).
+
+  Nesse sentido, para se identificar melhor as formas de competição, assim como métodos para avaliação de utilização de algumas metodologias a serem usadas nas mudanças da organização, segue modelo de Porter (1986):
+
+  Entrantes Potenciais: Como novos competidores poderão explorar tais tecnologias?Fornecedores: Como essas tecnologias afetam nossa cadeia de suprimentos?Concorrentes na Indústria: Como as empresas concorrentes estão explorando a TI e a Internet?Compradores: O que os clientes esperam de nossa empresa, através dessas tecnologias?Produtos Substitutos: Que produtos substitutos poderão estar disponíveis através dessas tecnologias?
+
+  Segundo Porter (1986), "O modelo de análise anterior apresentado, representa caminho sensato para a empresa se posicionar, partindo do conhecimento dos efeitos das tecnologias da informação e da Internet sobre sua indústria".
+
+  Após análise da melhor TI a ser utilizada, deve-se considerar o custo-benefício, pois nada adianta uma solução eficaz, uma vez que esta custará muito dinheiro e deixará a organização sem capital para movimentações. Por esse motivo, é importante sempre se atentar para a avaliação contínua dos novos canais de comunicação, segmentação e comunicação global versus o retorno ao novo método de tecnologia aplicada. Por isso, é extremamente importante pensar: "De quem é esta percepção? É o perceptor que tem a percepção ou é a percepção que tem o perceptor?" (ALMEIDA, 2005).
+
+O significado dos sistemas de informação no ambiente das organizações
+
+  Ao passo que a TI, juntamente com seus diversos SI, pode ajudar as organizações a obter sucesso, esse mesmo sucesso pode se transformar em fracasso, à medida que as organizações não se atêm às suas forças e fraquezas, como citado por Michael Porter (1979), ao criar os cinco fatores considerados como forças competitivas: "Uma empresa deve analisar as cinco forças de Porter para se desenvolver" (PORTER, 1979).
+
+  Ações, tomadas de decisões, atitudes, todas essas deverão ser iniciadas após um pleno conhecimento da TI, desde sua aplicação, desenvolvimento, previsões até o custo-benefício, forças da organização para implantar novos SI e se manter essas mudanças a seu favor, em contrapartida a um mercado bastante turbulento e mutável. Não adianta ser somente um empreendedor, ter um compromisso com sua prosperidade, deve se saber que a sobrevivência depende da persistência de esforços para enfrentar riscos e dificuldades, de acordo com Maximiano (2007).
+
+  Fazer diferente, inovar, ser competitivo, apostar em novas estratégias, desenvolver novos SI, modificar toda a TI da organização; tendências, mudanças, concorrentes, clientes exigindo além de suas necessidades e desejos; clientes buscando na satisfação das suas necessidades o verdadeiro papel da empresa atual. Com tudo isso, vale indagar: O que a organização está oferecendo para mudar todo o contexto de um efeito estufa? De uma poluição visual? De um ar limpo e puro? De água potável em abundância? O que podem mais oferecer?
+
+  Para acompanhar essas mudanças, solicitações, exigências do mercado atual, as organizações devem se organizar em torno de projetos e, em se tratando de TI, focar no ciclo de vida: "[...] a sequência de fases que vão do começo ao fim de um projeto" (MAXIMIANO, 2007, p. 178). Desde o projeto, as estratégias, perfazendo, conforme aponta Oliveira (2009): "Ação ou caminho mais adequado a ser executado para alcançar os objetivos, os desafios e as metas da empresa."
+
+  Pode-se perceber indubitavelmente que não se trata de simplesmente acompanhar a TI ou os concorrentes, mas sim de planejar, conhecer a si próprio e aos outros.
+
+  Por fim, fica nitidamente percebido que o caminho da vantagem competitiva não se desenvolve somente pela simples decisão em se implantar uma nova TI, mas sim em conhecer as forças e fraquezas da organização a ponto de poder explorar cada vez mais o mercado externo, traçar objetivos, decidir aonde se quer chegar, tudo isso voltado para uma estratégia entrelaçada a um projeto eficaz, sendo sempre esse o caminho mais próximo do sucesso para as organizações.
+
+  Para exemplificar essas mudanças, pode-se perceber notoriamente o crescimento em volta de todo esse assunto através do crescimento do número de usuários de internet no Brasil, desde 1998 até 2009, o qual, em 1998, era de 3.800.000 usuários (IBGE, 1999) e, em 2009, de 67.900.000 (PNAD/IBGE, 2010), para 161.819.462 de habitantes, em 1998, e 190.732.694, em 2010 (IBGE, 2010); havendo um aumento de aproximadamente 17,87% no número de habitantes e de 1.686,84% no número de usuários de internet.
+
+  "Sobretudo, para alcance do (alvo) – a vantagem competitiva, esta, não se acerta facilmente, é importante ter a certeza que algumas medidas, como, se antever ao mercado, não é uma opção, mas sim a única. Portanto, não manter a atenção, com foco voltado somente para uma implantação de TI, ou vantagens limitadas, já é uma grande vantagem competitiva. A estratégia, os SI, assim como outras tecnologias alinhadas às interações de setores, são indispensáveis".
+
+REFERÊNCIAS
+
+ALMEIDA, Sebastião. Negociação Técnica e arte. 1. ed. Rio de Janeiro: Qualitymark, 2005.
+
+Censo. Número de habitantes em 2010. Disponível em:
+
+LIMA, Antônio. Gestão de pessoas. 1. ed. São Paulo: Saraiva, 2005.
+
+MAXIMIANO, Antonio Cesar Amaru. Administração para empreendedores. 1. ed. São Paulo: Pearson, 2007.
+
+OLIVEIRA, Djalma de Pinho Rebouças. Administração de processos. 3. ed. São Paulo: Atlas, 2009.
+
+STEVEN, R.; JUDITH, R. Sistemas de informação. 3. ed. Rio de Janeiro: LTC, 2004.

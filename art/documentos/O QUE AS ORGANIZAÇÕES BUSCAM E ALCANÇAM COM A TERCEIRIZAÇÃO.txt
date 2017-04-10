@@ -1,0 +1,741 @@
+1
+O QUE AS ORGANIZAÇÕES BUSCAM E ALCANÇAM COM A TERCEIRIZAÇÃO
+EM TECNOLOGIA DA INFORMAÇÃO (TI)
+Autores: Vitor Hugo Bernstorff e João Carlos da Cunha
+RESUMO
+ Este artigo tem como objetivo caracterizar um processo de terceirização em áreas de
+Tecnologia da Informação (TI) e os resultados alcançados pelas organizações com este
+processo. Serão investigados os conceitos de terceirização, seu histórico, quais os fatores e os
+objetivos que levam à terceirização, o que as empresas deveriam ou não terceirizar e o que as
+organizações têm alcançado, ou seja, quais as vantagens percebidas pelo uso desta forma de
+gestão como estratégia. Os resultados de uma pesquisa de campo com 21 empresas quando
+comparado com os padrões encontrados na literatura especializada mostrou que a
+terceirização da informática, contrariando muitos autores, não reduz custos. Porém constatouse
+que a terceirização em TI, traz como principal vantagem, o acesso a novos recursos
+tecnológicos, tanto a nível de pessoal especializado como em tecnologias emergentes, o que
+pode levar à organização a melhor enfrentar a competitividade empresarial.
+1 - EM BUSCA DA DEFINIÇÃO
+ Os conceitos de terceirização levantados nos estudos já realizados apresentam grande
+diversidade. Aparentemente cada autor adaptou o conceito para seu estudo particular, não
+havendo ainda um padrão conceitual definido. Em seguida passamos a descrever os conceitos
+mais significativos visando construir o conceito que será utilizado nesse trabalho.
+ A terceirização ou outsourcing, do inglês (literalmente: fornecimento externo): “É um
+processo de transferência, dentro da firma (empresa-origem), de funções que podem ser
+executadas por outras empresas (empresa-destino).” (BRASIL, 1993, p.7). “Trata-se da
+transferência, para terceiros, de parte das atividades de uma empresa.” (LEITE, 1994, p.3). Ou
+ainda, pode ser considerada como “um processo de gestão pelo qual se repassam algumas
+atividades para terceiros, com os quais se estabelece uma relação de parceria, ficando a
+empresa concentrada apenas em tarefas essencialmente ligadas ao negócio em que atua.”
+(GIOSA, 1997, p.14).
+Embora hajam inúmeras semânticas para o termo, e novamente seguindo o raciocínio
+anterior, do consenso e da convergência, será adotada neste trabalho a expressão
+“terceirizante” para representar a contratante, empresa-mãe, empresa-origem ou
+subcontratante, e para enfatizar o relacionamento interfirma pautado na cooperação,
+adotaremos como “parceira” a contratada, empresa-destino, faccionista, fornecedora de
+serviços, provedora de serviços externos, subcontratada, terceira, terceirizada ou tomadora de
+serviços. Padronizaremos ainda, como “internos” para todo o pessoal da terceirizante e
+“externos” o pessoal da parceira.
+Para LEITE (1994), deve-se diferenciar a desverticalização da terceirização, sendo que
+na primeira, a extensão da cadeia produtiva é alterada (caso das montadoras de veículos) e a
+segunda, refere-se a transferências de atividades de apoio, como infra-estrutura, recursos
+humanos e tecnológicos.
+ PINHEIRO (1997), alerta para uma certa confusão de taxonomia acadêmica e prática
+entre terceirização (originalmente relacionada a atividade-meio da organização) e
+subcontratação (relacionada à cadeia produtiva, desverticalização), sugerindo o uso da
+expressão “externalização de atividades” para as estratégias que visam aumento de
+flexibilização, produtividade, competitividade e focalização através da redução de custos,
+afirmando que “A externalização de atividades é uma prática tão antiga quanto o capitalismo;
+todavia, adquire feições de ‘nova’ porque, ao mesmo tempo que vem rompendo com o
+predomínio do discurso da eficiência localizada e individual, apresenta, também, tendências a 
+2
+se consolidar como hegemônica. Alguns chegam a atribuir a esta mudança, uma dimensão
+paradigmática.” (PINHEIRO, 1997, p.4).
+Constatou-se na bibliografia estudada, que a terceirização pode ser ora percebida como
+cadeia de valor estendida (extended value chain), bem como desburocratização, downsizing,
+empresas modulares, enterprise webs, enxugamento, make or buy, necessidade de fazer caixa,
+organizações em rede, organizações em trevo, rightsizing, teias de empreendimentos,
+verticalização da cadeia produtiva, etc. Não serão analisadas todas as definições e suas
+interseções com a terceirização, embora algumas expressões possuam caráter claramente
+diferenciado como, por exemplo, o downsizing, que visa basicamente o enxugamento da
+estrutura organizacional com redução de níveis hierárquicos e agilização do processo
+decisório, sem prever o processo de busca de parceria externa.
+Sem o objetivo de discutir neste trabalho a validade das expressões sugeridas, o termo
+terceirização será utilizada para a forma estratégica de gestão abrangendo desde a
+aquisição de insumos até a concessão, franquia ou uso de prepostos para negociar
+marca, produto e qualquer tipo de prestação ou compra de serviços. Para o processo
+como um mercado, geralmente do ponto de vista do parceiro, usar-se-á a expressão "negócio
+de outsourcing".
+2 - HISTÓRICO DAS TERCEIRIZAÇÕES
+Para OLIVEIRA (1996) e LEIRIA (1995), a terceirização como nova forma de
+tecnologia de produção e gestão, originou-se na Segunda Grande Guerra Mundial, na
+indústria armamentista. O objetivo era aumentar a capacidade produtiva contratando de
+terceiros insumos básicos como componentes, embalagens, ferramentas, tintas e vernizes,
+deixando de atuar em toda a cadeia produtiva, consolidando-se na década de 50 nos Estados
+Unidos em seu desenvolvimento industrial. Observa-se porém, que tal estratégia possuía um
+certo caráter contingencial da indústria bélica para aquele momento, ou ainda como
+desverticalização conforme manifestado por LEITE (1994).
+Para SILVA & ALMEIDA (1997), a terceirização como subcontratação pode ter sido
+originado em 1859, que devido à abertura dos portos japoneses para a entrada de novas
+máquinas, principalmente da área têxtil, forçou grandes industrias a buscarem externamente
+pequenas empresas para viabilizar estas novas tecnologias entrantes naquele país. No contexto
+brasileiro, os mesmos autores constaram que a IBM já transferia parte de sua atividade meio
+para terceiros desde 1970. Embora o que faça da terceirização uma estratégia moderna seja o
+caráter de comprometimento e cooperação dada entre as empresas parceiras e terceirizantes,
+não se percebe na Big Blue, nas industrias bélica americana ou têxtil japonesa, o
+compromisso esperado em suas respectivas épocas.
+ Para LEIRIA (1995), no Brasil, a prática da terceirização aportou junto com as
+indústrias automobilísticas que não passavam de “simples” montadoras, adquirindo insumos
+de diversos parceiros e autorizando revendedores. Como estratégia de gestão moderna, o
+outsourcing, original em língua inglesa, passou a se chamar terceirização graças ao programa
+da Riocell S.A. que em 1982, transferiu para “terceiros” parte de sua atividade-meio. Embora
+esta organização já tivesse contratado em 1976 uma empresa para realizar o transporte de seu
+pessoal e na década de 60 empresas para terraplanagem e preparo do solo, o autor caracteriza
+a desverticalização como uma estratégia não moderna de gestão, e o transporte de pessoal e o
+preparo do solo como uma simples subcontratação. Para OLIVEIRA (1996), no final da
+década de 80, inúmeras empresas brasileiras já haviam passado a contratar terceiros para
+realizar serviços de alimentação, contabilidade, digitação, limpeza, manutenção, vigilância,
+etc., ou seja, para serviços gerais.
+Para HENDRY (1997), as mudanças tecnológicas (principalmente da informação)
+levaram as organizações integradas (verticalizadas) a se transformarem em organizações em 
+3
+rede. Ainda mais com a recessão econômica do final da década de 80, onde a ordem era cortar
+custos (importância no lucro gerado X capital imobilizado), mais a competitividade
+internacional, somaram os elementos determinantes para a terceirização como forma de
+gestão, relacionando esta nova estrutura organizacional com a ideologia política dos EUA e
+Inglaterra, baseada no individualismo, na eficiência, no profissionalismo e na orientação ao
+mercado, libertando o indivíduo das amarras organizacionais (determinando e gerindo sua
+própria carreira ou empresa) e transferindo funções do setor público para o privado.
+A primeira utilização da terceirização em TI foi constatada em 1989, quando a Kodak
+anunciou a terceirização da sua área de informática inteira, contratando a IBM, a Digital e a
+Businessland (KEYES, 1993). Ressalta-se que a EDS, uma das maiores empresas atuais do
+mercado de outsourcing, iniciou suas operações no início da década de 60 (LEITE, 1994),
+mas, na época, como bureau de serviços.
+No Brasil, segundo VIDAL (1993), a primeira empresa a anunciar a terceirização de
+todo seu serviço de processamento de dados foi a Shell em 1992, que contratou a Origin
+Brasil Participações (de origem holandesa desde 1990 no Brasil) por US$ 100 milhões para
+prestação dos serviços por oito anos, levando-a a dobrar sua capacidade de mão de obra em
+mais 200 funcionários. O mesmo autor ainda relata que a IBM e a EDS participaram da
+concorrência, mas que a EDS não ganhou devido à rigidez de suas normas e procedimentos.
+Portanto, tudo indica que a partir da década de 80, a desverticalização das empresas
+brasileiras, o crescente aumento das inovações tecnológicas, o início da globalização (entrada
+de novas empresas mais flexíveis no mercado mundial, onde tudo pode ser encontrado), e o
+empreendedorismo da Riocell S.A. deram início à demanda por terceirizações no Brasil, não
+significando uma reação direta de causa e efeito. Este novo modelo de gestão, estendeu-se, já
+no final daquela década, para áreas também estratégicas das organizações, como a da TI.
+3 - “O QUE” LEVA AS ORGANIZAÇÕES À TERCEIRIZAÇÃO EM TI
+Antes de abordar os aspectos decisórios contemplados num processo de terceirização
+da TI, deve-se conhecer o espaço de atuação, o ambiente tecnológico e de recursos humanos,
+produção, e os aspectos sociais e políticos. Em relação à estes últimos destaca-se que a
+terceirização é um processo de mudança e como tal, gera conflitos e resistências que deverão
+ser minimizados através do profissionalismo, conhecimento profundo e claro sobre os
+objetivos a serem alcançados (OLIVEIRA, 1996).
+A tecnologia da informação como qualquer outra atividade ou serviço também segue
+esta tendência, embora com muitas peculiaridades onde o custo e o foco na atividade central
+deixa de ser o principal fator decisivo, mas definido conforme a estratégia organizacional,
+especificamente para se manter o controle sobre prazos e qualidade dos serviços de TI
+(LEITE, 1994).
+Para EARL (1998), a terceirização em tecnologia da informação originou-se da
+necessidade de cortar custos e reduzir pessoal devido às crescentes despesas com o setor de
+informática, geralmente não compatível com seu resultado para as organizações, ou seja,
+insatisfações quanto ao custo, a qualidade e o desempenho das unidades de TI.
+Segundo WANG (1995), os quatro principais motivos que levam uma organização a
+terceirizar sua área de informática, referem-se a diminuição do custo da produção, o foco na
+atividade alvo, o desgaste com recrutamento e treinamento e as incertezas no ciclo de vida dos
+sistemas. Estes motivos devem ser cuidadosamente analisados para não se caracterizar numa
+simples justificativa para uma decisão sem embasamento, pois o mesmo autor contraargumenta
+que o custo pode ser diminuído com maior eficiência interna; a informação sempre
+é foco ou atividade alvo; a formação do talento por meio de treinamento é que traz vantagem
+competitiva e que a terceirização não elimina a incerteza, mas transfere o risco. 
+4
+Em Julho de 1997, o Gartner Group estimou que no ano 2000, 80% das grandes
+empresas utilizarão a terceirização para aumentar sua competitividade em TI, principalmente
+devido à falta de técnicos experientes (atualmente em Internet, desktop e telecomunicações) e
+a retomada de foco organizacional. Também apontam problemas de relacionamento entre
+terceirizantes e parceiros que, principalmente, devido à má definição de objetivos específicos
+(ou metas mal planejadas), acarretarão na desativação precoce de 10% dos acordos.
+Para SAVIANI (1998), terceirizar é modernizar culturas enraizadas e a
+conscientização desse modernismo cultural e profissional só será possível se a alta direção das
+empresas reavaliar suas posturas (geralmente centralizadoras, retrógradas e monopolizadoras),
+analisar criteriosamente o que deve ser terceirizado (não esquecendo dos talentos internos) e
+predispor-se com sinceridade à própria atualização profissional e cultural. Para ALVAREZ
+(1996), a mudança no estilo de gestão, transcende mudanças de cunho estruturais, e sem ela a
+terceirização não se torna possível.
+PINHEIRO (1997), descreve alguns fundamentos que levam as organizações a decidir
+pela terceirização:
+1. A teoria da racionalidade limitada: diz respeito à obtenção de uma solução
+satisfatoriamente eficiente, baseada em processos heurísticos, sendo influenciada por
+crenças, valores, motivações, oportunismo, conhecimentos ou experiências acumuladas
+individualmente ou do grupo decisor.
+2. A teoria dos custos de transação: é a busca pelo custo sempre menor, comparando-se o
+custo interno com os de mercado, dado somente pelo preço.
+3. O foco no core competence: tem como objetivo principal diminuir o risco face à
+instabilidade e às mudanças constantes e velozes, dirigindo a organização para atuar em
+sua competência principal, ou em sua "razão de ser".
+4. A cadeia produtiva: caracteriza-se pela busca de eficiência no pós guerra, como o caso da
+experiência japonesa, baseada na tecnologia gerencial melhor exemplificada pelos
+Programas de Controle da Qualidade Total e suprimento just in time (TQC/JIT) do sistema
+Toyota. Outro fato, foi a recessão de 70/80, caracterizada pela criação dos Distritos
+Industriais Localizados (DIL), principalmente os da Terceira Itália, onde os aglomerados
+localizados de indústrias atraíam diversas outras modalidades de organizações criando
+práticas coletivas de cooperação e informalidade, sendo a sinergia entre as firmas garantia
+de inovação empresarial e capacitação dos recursos humanos. Ambas caracterizadas pela
+parceria.
+5. O inter-relacionamento dos diversos enfoques: refere-se a soma dos enfoques
+“complementares” apresentados, embora o caráter ganhar-ganhar das parcerias não
+estejam tão claramente estampados nos processos de terceirizações, onde na verdade o
+sentimento de ganha-perde ainda prevalece a nível empresarial mundial.
+Para VIDAL (1993), o que leva as empresas a terceirização de seus centros de TI são:
+os custos, preocupações alheias ao foco principal, o fato de se ter uma empresa de informática
+dentro de outra (como fábrica), exigência de renovação constante de tecnologia, o advento dos
+microcomputadores, facilidade da utilização do software, progresso e profissionalismo do
+usuário e o tradicionalismo estancado nos “CPD’s”. É importante salientar que os quatro
+últimos fatores possam ser caracterizados como oriundos da inovação tecnológica.
+Para HENDRY (1997), o desafio para as organizações que pretendem adotar esta nova
+forma de gestão, reside em manter o equilíbrio dinâmico entre as variáveis da terceirização e
+da integração. Dentre as variáveis, o autor refere-se a eficiência (meta a curto prazo) e o
+aprendizado (cultura a longo prazo), o foco (na atividade central) e a conscientização (atenção
+nos sistemas de comunicação informal), a autonomia (agilidade e flexibilização) e a
+coordenação (garante benefício para toda a organização), o controle (facilitado pelo contrato
+externo frente ao vínculo empregatício) e a motivação (conflito e sentimento de rejeição pelo 
+5
+fato do funcionário não pertencer mais à organização). Observa-se ainda as referências
+cruzadas, como por exemplo, a autonomia que tende a reduzir controles.
+Segundo EARL (1998), os executivos medem o valor comercial da tecnologia ou
+recurso em relação ao desempenho operacional do serviço interno a ela associado. Se baixos,
+a terceirização é o caminho, mas se o valor comercial for alto e o desempenho baixo, um
+benchmarking será apropriado. Caso contrário, deve-se pensar duas vezes pois não há como
+garantir uma eficaz administração sobre as exigências dos parceiros por parte dos gerentes, se
+estes são ineficientes a nível operacional internamente. Portanto, uma nova postura gerencial
+adequada aos mecanismos de controle deve ser planejada, aprimorando o desempenho interno
+ou substituindo os gerentes antes de terceirizar.
+4 - A DECISÃO DE “O QUE” TERCEIRIZAR EM TI
+A CELEPAR (Empresa de Informática do Estado do Paraná), que tem como missão:
+“Promover soluções de melhoria da administração pública do Paraná e dos serviços prestados
+ao cidadão, utilizando tecnologia da informação e de gestão” (SILVA, 1995, p.12). É uma
+empresa que terceiriza desde a limpeza, o transporte e a vigilância, até a digitação, operação,
+suporte, desenvolvimento e manutenção de seus Sistemas de Informação (SI). Isto a torna
+mais flexível, competitiva, enxuta e focada na busca de soluções para a gestão pública. A
+missão da empresa deve estar bem clara para evitar dúvidas quanto a sua atividade central ou
+core competence (processos vitais de negócio) que nunca deverão ser terceirizados, segundo
+recomendam os estudos que veremos em seguida.
+Para GIL (1998), a área de consultoria interna organizacional em suas três funções
+(auditoria, segurança e informática) por fazerem parte da “força empresarial” não devem ser
+terceirizadas. A auditoria interna por ser responsável pela transferência de tecnologia entre as
+áreas empresariais, pois, circulando por toda a empresa adquire uma visão integrada. Outra
+atribuição diz respeito a manutenção da qualidade organizacional, que devido às suas
+recomendações minimizam a não conformidade dos processos e resultados. Por último existe
+a questão da lucratividade empresarial, que busca garantir a continuidade das vantagens dos
+negócios frente à espionagem industrial/comercial e a fidelidade do profissional à
+organização. Em relação à função da segurança e da informática, destacam-se apenas os
+aspectos logísticos quanto à segurança da própria informação como um recurso estratégico.
+ Para FEENY & WILLCOCKS (1998), em virtude da premissa que não se terceiriza
+atividades fins, alertam que não se deve despender esforços para descobrir se os Sistemas de
+Informação (SI) são centrais ou não para a organização, mas deve-se identificar quais as
+competências essenciais dos SI que capacitam a empresa a ser eficaz em sua Tecnologia da
+Informação (TI) ao longo prazo. Em pesquisa com 61 empresas dos Estados Unidos e da Grã-
+Bretanha, identificaram nove competências essenciais em TI que não se devem terceirizar .As
+mesmas serão descritas abaixo.
+1. A liderança: os líderes representados como CIO (chief information officer) ou diretor de
+tecnologia da informação, são o elo entre a área de TI e o restante da empresa, sendo
+responsáveis pelas estruturas, processos e recursos humanos possibilitando a formação de
+uma cultura, a fim de que os SI propiciam as soluções organizacionais.
+2. A inovação: relaciona-se a capacidade de projetar inovações tecnológicas, aprimorando
+processos empresariais. As decisões de investimentos em SI/TI devem ser eficientes.
+3. O relacionamento: o sentimento de posse e a satisfação da empresa (usuários da TI),
+mesmo que inexistente anteriormente, se dá através da confiança mútua e da transparência
+(treinamento e informação) frente a comunidade de SI (internos e externos).
+4. A evolução da arquitetura: a plataforma técnica, a integração e flexibilização dos serviços
+de SI, a infra-estrutura de TI devem ser coerentes à necessidade atual e futura da
+organização. O parceiro não fará nada eficaz se não obtiver lucro. 
+6
+5. A intromissão: a praticidade e o intrometimento que certos técnicos “da casa” possuem (os
+gurus), frente as soluções apresentadas, são insumos fundamentais para decisões.
+6. A coordenação (ou esclarecimento de compra): quem decide, escolhe a estratégia, contrata
+e gerencia o(s) parceiro(s) , principalmente quando se aproxima de 20% do orçamento de
+TI, deve estar numa função separada do CIO, assumindo todo o risco.
+7. O facilitador de contratos: é a competência para coordenar e negociar com externos
+(parceiros e fornecedores) e internos (usuários) devido a complexidade dos serviços de TI,
+solucionando conflitos tempestivamente, no dia-a-dia, eliminando-se a necessidade da
+quarteirização em SI.
+8. O controle (monitoração de contrato): proteção sobre o contrato em relação à posição da
+empresa em qualquer circunstância (não só no dia-a-dia), tornando os parceiros
+responsáveis pela eficácia e pelo desenvolvimento dos padrões de desempenho em
+comparação com o benchmark externo e padrões contratuais, embora o desempenho seja
+monitorado internamente. Observa-se que este item é o mais subestimado em virtude das
+terceirizações serem geralmente decididas apressadamente e sem muito planejamento pela
+alta administração.
+9. O aprimoramento da parceria: planejamento de meios para que o parceiro possa agregar
+valor aos serviços de SI/TI além das cláusulas contratuais.
+Ainda para FEENY & WILLCOCKS (1998), embora sugerido em seminários, o
+gerenciamento de projetos não é considerado essencial da área de SI, pois a eficiência é
+melhor alcançada em equipes multifuncionais. Especialistas para a gerência de projetos
+poderão ser encontrados fora do ambiente de TI (externos ou em outras unidades de negócio
+da empresa), a não ser que a tecnologia seja muito bem conhecida e a utilização de recursos
+humanos próprios seja financeiramente compensador.
+Segundo LEITE (1994), os serviços mais propícios à terceirização em TI são:
+manutenção de equipamentos; treinamento em microinformática; programação; manutenção
+de sistemas; treinamento de usuários; projeto e desenvolvimento de sistemas; microfilmagem;
+suporte técnico em software; serviço de comunicação de dados; projeto de redes de
+teleprocessamento; digitação; levantamento e diagnósticos; processamento; definição de
+metodologias; PDI (plano diretor de informática); editoração eletrônica e a área de
+informática inteira.
+Para BOSIK (1997), o foco na solução de problemas é fundamental, principalmente se
+houver vários parceiros ou muitas aplicações. Alertando que a maior ênfase da terceirização
+em TI deverá iniciar pelo help desk, pois a satisfação e a qualidade começa pela determinação,
+encaminhamento e atendimento rápido dos problemas.
+Conforme FEENY & WILLCOCKS (1998), não há um modelo único, pois depende
+do contexto organizacional, ou seja, do tamanho, da situação, da natureza e da demanda da
+área de SI. Entretanto, um grupo de pessoas altamente qualificadas e talentosas deverão
+comandar a parte estratégica da TI, garantindo a eficácia das atividades terceirizadas.
+ Não existe uma postura estratégica única ou padronizada para a implementação da
+terceirização, senão várias organizações teriam a mesma eficácia. Cada modelo é exclusivo e
+adequado às variáveis organizacionais como cultura, política, direção e limitações cognitivas,
+entre outras. A idealização estratégica da terceirização é racional, porém sua implementação é
+incremental, onde a ilógica, a ambigüidade e a intuição são componentes inerentes ao
+processo formal e informal presentes em qualquer organização. Estes processos são
+influenciados pela percepção das vantagens e desvantagens conforme os grupos de interesses,
+as subculturas, os esquemas interpretativos e os níveis de poder diferenciados (BRASIL,
+1993). 
+7
+ Através de pesquisa realizada na Internet, no site da IDG NOW sobre as principais
+notícias veiculadas para subsidiar as decisões sobre o processo de terceirização em TI no
+mundo todo nos últimos dois anos, destacaram-se:
+08.05.97 – A Caliber Systems anunciou a terceirização de seu EDI e help desk, num contrato
+de US$ 8 a 15 milhões por cinco anos com a Sterling Commerce que contratará pessoal da
+própria Caliber.
+22.07.97 - A Sprint Corp. (um dos três membros da Global One) investiu US$ 245 milhões na
+aquisição da Paranet, e pretende dominar o mercado de outsourcing da telemática até o
+desktop.
+22.07.97 – A IBM diminuiu em 3% o seu faturamento em software, em relação ao mesmo
+período do ano anterior. Na área de serviços, o mercado de terceirização e recuperação de
+desastres cresceu 23%.
+19.02.98 – A JD Edwards, em concorrência com a Baan, Oracle e SAP, anunciou a criação de
+uma unidade de outsourcing, a Network Application Services, visando terceirizar a
+administração de pacotes de gestão (ERP) das médias empresas (acima de US$ 100 mil nos
+EUA e de US$ 50 mil no Brasil). Em 11.12.98 a empresa anunciou seu faturamento de US$
+934 milhões, 44% acima de 1997.
+04.03.98 – A IBM anunciou a compra dos negócios de outsourcing de mainframe da GE
+Capital Service (subsidiária da General Eletric) oficiosamente em torno de US$ 3 bilhões, já
+com 24 grandes clientes, além de gerenciar os centros de dados da própria GE por dez anos. A
+GE comunicou que pretende diminuir seu custo operacional e ganhar em qualidade de seus
+serviços.
+26.03.98 - Unisys EUA anunciou a terceirização da produção de seus notebooks, micros e
+pequenos servidores (que rende cerca de US$ 500 milhões) num contrato com a HP. Com isso
+pretende focar a empresa em seu negócio principal, os grandes servidores corporativos.
+29.06.98 – O Citibank realizou contrato milionário por vários anos com a Security First
+Technologies (SFT), subsidiária da Security First Network Bank (SFNB) para proporcionar SI
+de serviços financeiros na Internet em sua própria estrutura, visando satisfazer ainda mais seus
+clientes.
+13.08.98 – A CPM (Cia de serviços de crédito direto ao consumidor), entra no mercado de
+outsourcing de processos de negócios (pagamento eletrônico) no Brasil assumindo 51% da
+CNS (que tem como clientes o Banco Volkswagen, o Bradesco, a Cia Real de Investimentos e
+Fininvest) e a totalidade da Settle (que terceiriza serviços de banco de dados, alocação de mão
+de obra, fábrica de software e updates para o ano 2000). Pretende chegar no século XXI com
+um faturamento de US$ 1 bilhão.
+08.09.98 – A Ingram Micro (uma das maiores distribuidoras de produtos de TI do mundo)
+anunciou que está terceirizando seu SI de pedidos on-line.
+23.09.98 – A Toshiba America Information (TAIS) anunciou que terceirizará seu suporte,
+gerenciamento e manutenção de software e hardware corporativos da Unisys.
+29.09.98 – A Varig anuncia que terceirizou por dez anos sua área de TI. A IBM com US$ 270
+milhões será responsável pelo processamento de dados, desenvolvimento e manutenção de
+aplicativos e gerenciamento de cerca de 6 mil micros. A Site com US$ 130 milhões fará a
+integração da rede global da Varig, que pretende se concentrar em seu negócio, o transporte
+aéreo.
+30.09.98 – A Baan (gigante de pacotes para gestão empresarial –ERP) anuncia a criação da
+Baan Midmarket Outsourcing estimando que a terceirização de ERP aumentará de US$ 1
+bilhão para US$ 8 bilhões em três anos, eliminando a necessidade dos clientes em especializar
+profissionais para implantar soluções de gestão empresarial. 
+8
+08.12.98 – A AT&T Solutions anunciou compra da unidade de redes da IBM por US$ 5
+bilhões. Em contratos separados a AT&T terceirizará seu processamento de aplicações para a
+IBM, que por sua vez terceirizará seu serviço de networking à AT&T resultando numa receita
+de US$ 2,5 bilhões para a AT&T que incorporará cerca de 5000 funcionários da IBM.
+Parece que as empresas estão preocupadas em utilizar a terceirização para habilitar-se
+a mudar de sistemas (insatisfação de clientes), erguer firewalls (proteção para suas redes),
+montar websites (grande filão para o século XXI), e utilizar os sistemas de gestão empresarial
+(ERP) que permitem o controle quantitativo para empresas que também terceirizam processos
+industriais.
+5 - VANTAGENS ESPERADAS COM A TERCEIRIZAÇÃO
+Após a decisão, a escolha do que terceirizar e a sua efetiva implantação, a organização
+deverá ganhar em vários aspectos, desde macro a microeconômicos (quanto a competitividade
+, ao custo e ao próprio desempenho da área de TI). Os itens abaixo são sintetizações das
+exposições de vários autores, entre eles: BRASIL (1993); HENDRY (1997); LEIRIA (1995);
+LEITE (1994); REZENDE (1997); SILVA & ALMEIDA (1997); VIDAL (1993); e outros,
+indiretamente, que indicam que a terceirização permite:
+No aspecto macroeconômicoa)
+a criação de novas empresas e mais arrecadações fiscais;
+b) o enxugamento de grandes organizações ineficientes (principalmente públicas);
+c) a geração de emprego e distribuição de renda;
+d) a transferência de tecnologia interfirma, aumentando a eficiência global.
+No aspecto microeconônico-
+¾ Em relação à competitividade organizacional:
+a) acabar com a acomodação e ineficácia da estabilidade no emprego;
+b) maior agilidade (resposta a curto prazo), conforme a demanda de entrada/saída de
+produtos/serviços no mercado ou para usuários. Também causada pela transformação
+do custo fixo em variável, e às estruturas mais leves;
+c) a agilidade no processo decisório, devido a simplificação da estrutura organizacional;
+d) o aumento nos lucros devido ao aumento de eficiência (redução de custos);
+e) o contato apenas de empresa para empresa;
+f) a diminuição do corporativismo;
+g) o enxugamento, redução de níveis hierárquicos e da largura da base na estrutura
+organizacional da terceirizante;
+h) o estabelecimento de parcerias e diminuição da burocracia;
+i) maior facilidade na implantação de programas de qualidade total (devido ao tamanho
+reduzido);
+j) a flexibilidade econômica (adaptabilidade a mudanças), devido à redução de custos
+fixos;
+k) a focalização com ganho de especialização e de eficácia, concentrando-se naquilo que
+a empresa faz de melhor (core-competence);
+l) maior proximidade com o mercado (melhor percepção das necessidades dos clientes);
+m) manter a competitividade, crescimento mais rápido;
+n) melhorar a administração do tempo da empresa;
+o) uma revisão estrutural e cultural da empresa.
+¾ Em relação ao custo:
+a) o corte no excesso de pessoal e acabar com a ociosidade quando em baixas demandas;
+b) a desmobilização de ativos;
+c) a diminuição de reclamatórias trabalhistas; 
+9
+d) o ganho e reaproveitamento do espaço físico ou colocados em disponibilidade;
+e) o ganho pela economia de escala (demanda) e aumento da curva de aprendizagem na
+parceira, aumentando eficiência e reduzindo custo, com reflexo na terceirizante;
+f) a pulverização da ação sindical ao reduzir sua base de representação e,
+consequentemente, seu poder político e econômico, criando condições de
+desmobilização para movimentos grevistas;
+g) a racionalização das compras e redução dos estoques com diminuição dos
+desperdícios;
+h) a redução do passivo trabalhista nas empresas terceirizantes;
+i) a transformação do custo fixo em variável. (com manutenção do faturamento e
+diminuição do imobilizado).
+¾ Em relação ao desempenho em TI:
+a) maior comodidade, aguardando apenas os resultados dos processos;
+b) a despreocupação com suprimentos para esta área;
+c) a elevação do nível de serviço de TI, com aumento da satisfação do usuário/cliente;
+d) a eliminação da preocupação de reciclagem no recrutamento e treinamento nesta área,
+exigidos constantemente pelo turn-over dos profissionais em informática;
+e) a redução do ciclo de vida de desenvolvimento de novos produtos;
+f) a facilidade de implantar outros sistemas sem prévio desenvolvimento, (se espera que
+muitos sistemas prontos possam auxiliar neste caso);
+g) a flexibilização técnica (adaptabilidade a mudanças), ou seja, a facilidade de
+desvinculação de tecnologias ultrapassadas (morosidade para especializar/treinar
+pessoal interno para nova tecnologia);
+h) a objetividade de análise custo x benefício em novos projetos de TI;
+i) a objetividade e definição das prioridades em TI;
+j) maior possibilidade de controle sobre especificações técnicas, prazo, preço, qualidade,
+volume da produção, etc. devido à visibilidade contratual e financeira, pois há um
+maior paternalismo com o pessoal da casa;
+k) a previsibilidade de gastos (custo x investimento) em TI, com ou sem diminuição;
+l) a transferência da responsabilidade pela operação dos sistemas.
+6 - PESQUISAS ANTERIORES
+GIOSA (1997), apresentou o resultado de uma pesquisa realizada entre nov./92 e
+mar./93 pelo CENAM (Centro Nacional de Modernização) com 2350 empresas (41% do ramo
+industrial, 32% serviços e 27% comercial) em São Paulo, Ceará e Santa Catarina onde
+constatou que 48% das empresas já aplicaram ou aplicavam a terceirização. Como resultado,
+70% obtiveram sucesso absoluto, 20% sucesso parcial e 10% insucesso. Com a falta de
+informações estatísticas, as áreas terceirizadas foram na maioria, a de limpeza, manutenção e
+segurança. A área de informática estava entre as que se pretendiam terceirizar no futuro.
+Segundo LEITE (1994), em pesquisa realizada no Brasil em 1992 pela Coopers &
+Librand junto a 105 empresas do ramo industrial, constatou-se que das atividades
+terceirizadas, 60% se relacionavam com recursos humanos e serviços gerais, 26% com
+operação e produção, 22% com suporte e assessoria, 21% com marketing e vendas, 17% com
+suprimento e logística, 13% com informática, 6% com finanças e controle e 1% com P&D.
+Para VIDAL (1993), num levantamento realizado em junho de 1992 pela Manager
+Assessoria em RH, entre 142 empresas de médio e grande porte em várias capitais brasileiras,
+22,5% estavam dispostas a terceirizar as suas funções do processamento de dados.
+Ainda para LEITE (1997), em pesquisa realizada no Brasil já em 1995 com 125
+empresas, constatou que embora em pequena escala, 80% tiveram alguma experiência
+relacionada com a terceirização em informática, e que dentre elas, 42% pretendiam 
+10
+intensificar, 23% continuar como estavam, 19% não tinham definição sobre o futuro, 10%
+reduzir e 6% continuar até terceirizar toda a área. O autor concluiu que havia uma
+desaprovação a cada sete satisfeitos, e que a terceirização total estava longe de ocorrer na
+grande maioria. Os demais resultados desta pesquisa estão abaixo descritos.
+A participação da terceirização no orçamento global de informática tende a
+permanecer na faixa dos 30%, sendo que os motivos que levaram a terceirização foram: 32%
+acesso imediato a novos recursos (físicos ou humanos); 20% focalização na atividade-fim;
+20% expectativa de redução de custos e 13% busca por eficácia (como forma de romper o
+status-quo).
+O principal critério para seleção de parceiros envolveu 35% excelência e qualificação
+do parceiro (capacidade de implementar soluções), 19% compatibilidade de filosofia
+(metodologia) de trabalho, 13% preço (geralmente serviços padronizados, como digitação),
+11% idoneidade, 8% disponibilidade de prestar serviços diversificados, 8% solidez a longo
+prazo (estabilidade). Estes aspectos, além de minimizar os possíveis problemas ou desgastes
+com o processo, ajudaram a enfatizar “o que” a empresa buscava na terceirização.
+Os segmentos terceirizados, em resposta múltipla, foram: 89% manutenção de
+equipamentos; 87% treinamento em microinformática; 74% programação; 62% manutenção
+de sistemas; 59% treinamento de usuários; 58% projeto e desenvolvimento de sistemas; 54%
+microfilmagem; 51% suporte técnico em software; 50% serviço de comunicação de dados;
+45% projeto de redes de teleprocessamento; 43% digitação; 34% análise e concepção de
+sistemas; 30% planos de contingência; 29% definição de metodologias; 26% editoração
+eletrônica; 25% levantamento e diagnósticos; 19% processamento (baixo custo do hardware);
+13% PDI; 5% área de informática inteira.
+Os benefícios percebidos (vantagens), foram que 80% atingiram a focalização na
+atividade-fim, 62% a previsibilidade dos gastos (custos X investimento), 58% a objetividade
+na análise custo X benefício, 58% agilidade na implementação de soluções, 55% a
+objetividade na definição de prioridades, 52% a redução de custos, 38% a previsibilidade de
+prazos e 10% outros, como a qualidade e o acesso a novos recursos tecnológicos.
+7 - A METODOLOGIA
+A pesquisa de campo aqui relatada foi conduzida entre 06.02.1999 e 23.02.1999,
+visando avaliar no contexto brasileiro a validade dos conceitos apresentados, bem como
+investigar em outro contexto as conclusões da pesquisa de Jaci C. Leite já mencionada. Foram
+pesquisadas através de questionários, 21 empresas cujo porte, ramo e demais características
+seguem descritas na amostragem abaixo. A pesquisa centrou-se principalmente no que leva as
+organizações a decidirem pela terceirização em TI, o que elas estão terceirizando e o qual o
+retorno obtido.
+Quanto ao universo da pesquisa, foram selecionadas empresas de todos os setores,
+baseando-se na pesquisa das 500 maiores empresas do país da revista EXAME de julho de
+1998, sem restrições quanto a órgãos públicos ou privados, faturamento, tamanho, origem de
+capital ou localização. Foram contatadas 178 empresas das quais 21 (12%) retornaram
+informações válidas.
+No questionário, quanto ao faturamento, considerou-se o patrimônio líquido para as
+instituições financeiras e o prêmio líquido para as seguradoras. O questionário foi elaborado
+com base na bibliografia e pesquisas apresentadas, endereçados aos diretores de TI e gerentes
+de informática de suas respectivas empresas.
+8 - CARACTERIZAÇÃO DA AMOSTRA
+a) Ramo: 52,4% industrial; 23,8% serviços; 19% instituições financeiras e 4,8% outros. 
+11
+b) Localização: 28,7% com sede no Estado de São Paulo; 19% Rio de Janeiro; 19% Rio
+Grande do Sul; 14,3% Paraná; 9,5% Minas Gerais; e 9,5% Distrito Federal e Santa
+Catarina juntos.
+c) Porte: 52,4% com faturamento entre US$ 100 milhões e US$ 500 milhões; 33,3% acima
+de US$ 500 milhões e 14,3% abaixo de US$ 100 milhões.
+d) Número de funcionários: 57,2% acima de 1000; 38% entre 100/1000; e 4,8% entre 10/99.
+e) Capital predominante: 61,9% nacional; 19% estrangeiro; 14,3% estatal e 4,8% misto
+(nacional e estrangeiro).
+f) Respondentes: 9,5% diretoria e chefia de divisão (nível estratégico); 85,7% cargos de
+gerencia de TI (nível tático); e 4,8% supervisão (nível operacional).
+g) Incidência de terceirização: 95,2% terceirizam a TI. Das que não terceirizam, todas
+pretendem terceirizar alguma área de TI no futuro.
+Observa-se que em sua maioria, a amostra é composta por grandes empresas
+nacionais, tanto em faturamento quanto em número de funcionários. Há também uma grande
+dispersão tanto em localização como em setores de atividades, pois mesmo o ramo industrial é
+representado por indústrias químicas, farmacêuticas, de bebidas, de alimentos,
+automobilísticas, siderúrgicas, mineração, materiais de construção e eletroeletrônica.
+A incidência de mais de 95% de empresas que utilizam a terceirização em TI,
+principalmente para ter um melhor e mais rápido acesso a novos recursos humanos
+especializados (manifestado em 60% das empresas pesquisadas) e obter a focalização em suas
+atividades essenciais (em 55%), vêm ratificar a estimativa do Gartner Group de 1997, de que
+no ano 2000, 80% das empresas terão alguma experiência com esta forma de gestão em TI.
+9 - RESULTADOS E ANÁLISE DA PESQUISA
+Todas as respostas abaixo referem-se as organizações que terceirizam a TI (20 empresas):
+1. Início da terceirização: as empresas iniciaram seu processo de terceirização entre 1 e 10
+anos com uma média de 5,3 anos e moda de 4 anos. Como apenas 20% das empresas
+pesquisadas iniciaram seu processo nos últimos 3 anos, as respostas podem ser
+consideradas com alto grau de maturidade, baseadas numa boa experiência prática.
+2. Participação da terceirização no orçamento global da área de informática: a média
+manteve-se próximo de 31%, sendo que 10% dos respondentes não possuíam a
+informação disponível. Este resultado tende para a estabilização neste patamar, e que
+coincide com que foi apresentado por LEITE (1997), em sua pesquisa em 1995.
+3. Os principais motivos que levaram à terceirização são (em torno de três por empresa):
+60% acesso imediato a novos recursos humanos especializados;
+55% focalização na atividade essencial da empresa;
+45% expectativa de redução de custos com a informática;
+45% busca por eficiência ou melhor desempenho em informática;
+35% melhorar o atendimento ao cliente ou a satisfação do usuário;
+30% custo + qualidade + desempenho da informática;
+25% controle sobre prazos e qualidade da informática;
+15% agilidade ou exigência da renovação constante da informática;
+15% flexibilidade ou busca por maior autonomia e adaptabilidade.
+Quase um terço das empresas pesquisadas apresentaram como motivo que levam à
+terceirização o trinômio custo, qualidade e desempenho, proposto por EARL (1998), que
+parece indicar uma considerável insatisfação pela área de informática interna, antes da
+terceirização.
+A formação de parcerias ou alianças, não foram consideradas por nenhuma das
+empresas, provavelmente por não estar claramente definida nas interpretações cognitivas dos
+dirigentes, ou por caracterizar certa inércia nas interações de "ganhar-ganhar", enfoque ainda 
+12
+não percebido pela alta administração, conforme relatado por PINHEIRO (1997). Da mesma
+forma, o processo heurístico também não apareceu, indicando certa dificuldade em se
+constatar a intuição no processo decisório.
+4. Os segmentos terceirizados, são (em respostas múltiplas):
+85% manutenção de equipamentos;
+70% manutenção de sistemas;
+60% treinamento em microinformática;
+55% projeto e desenvolvimento de sistemas;
+50% programação;
+35% digitação;
+30% suporte técnico em software e serviços de comunicação de dados;
+25% websites e microfilmagem ou digitalização de documentos;
+20% BUG do ano 2000, help desk e treinamento de usuários;
+16% ERP (Gestão empresarial), firewalls e projeto de redes de teleprocessamento;
+5% prospecção em TI, auditoria de sistemas, segurança lógica, análise e concepção de
+sistemas, levantamento e diagnósticos, planos de contingência, definição de
+metodologias, PDI, editoração eletrônica, documentação dos projetos, impressão
+de relatórios e backup.
+O resultado manteve certa ordem com a pesquisa de Jaci C. Leite em 1995. Entretanto,
+surgiram segmentos da terceirização esperados, como o de websites, BUG do ano 2000, help
+desk, ERP e firewalls, que com exceção do help desk são elementos da TI originados da
+inovação tecnológica dos últimos três anos.
+Observa-se também certa despreocupação com a importância de iniciar a terceirização
+através do help desk conforme relatado por BOSIK (1997), sendo que apenas um quinto da
+amostra terceiriza tal segmento.
+Ainda em relação à pesquisa anterior de Jaci C Leite em 1995, percebe-se uma
+diminuição da terceirização do processamento, do PDI e da área de informática inteira,
+provavelmente pela concepção cada vez mais estratégica destes segmentos, conforme GIL
+(1998) e FEENY & WILLCOCKS (1998).
+Quanto aos segmentos terceirizados, nenhuma das empresas terceiriza o
+processamento, a coordenação dos projetos, a liderança geral (CIO), toda a área de
+informática, ou o controle sobre vários contratos (quarteirização).
+5. O que não se deve terceirizar:
+35% liderança, como gerência e CIO;
+30% direcionamento estratégico da TI e análise, concepção e coordenação dos projetos
+de sistemas;
+20% inteligência do processo e o conhecimento do negócio;
+16% PDI;
+10% área de informática inteira e a prospecção em TI (P&D);
+ As respostas (abertas) foram de acordo com a pesquisa de FEENY e WILLCOCKS
+(1998), onde concluíram que a tomada de decisão, a liderança, a coordenação e o controle
+devem permanecer com a terceirizante. Houve ainda manifestações isoladas em relação a:
+projetos de redes de TP, definição de metodologias, processamento (produção), sistemas
+críticos e atividades essenciais da TI.
+6. Os benefícios alcançados:
+45% acesso a novos recursos tecnológicos;
+45% agilidade na implementação de novas soluções;
+40% previsibilidade dos gastos/custos e prazos, com conseqüente aumento de
+eficiência e desempenho; 
+13
+35% acesso a novos recursos humanos especializados com conseqüente mudança na
+cultura interna;
+30% focalização na atividade-fim;
+20% nenhum benefício percebido;
+15% redução de custos fixos; previsibilidade de prazos e melhoria da qualidade;
+10% término do vínculo empregatício proporcionando novo plano de carreira em outra
+empresa (onde ex-empregados são aproveitados nas parceiras);
+5% crescimento do mercado regional de TI, com maior satisfação pelo usuário/cliente
+e interação com o mercado/parceiro, com troca mútua de experiências e
+tecnologias.
+Para se obter a percepção dos benefícios alcançados, optou-se por solicitar uma
+resposta aberta, justamente para não induzi-las ao esperado, evitando-se assim, respostas
+tendenciosas para com o atingimento dos objetivos.
+A pesquisa constatou que os melhores benefícios alcançados, dos quais quase metade
+das empresas atingiram, como o acesso a novos recursos tecnológicos e o ganho em agilidade
+na implementação de novas soluções, foram justamente os menos esperados, segundo os
+objetivos que levaram à terceirização como a exigência da renovação em TI e a busca por
+maior flexibilidade ou autonomia em informática. Caracterizando o ganho de flexibilidade,
+adaptabilidade, renovação e crescimento da TI como o principal benefício adquirido pelo
+processo de terceirização em TI.
+Ainda em relação à pesquisa anterior, de Jaci C. Leite, observou-se um extraordinário
+aumento de 10% para 45% na obtenção de acesso a novos recursos tecnológicos.
+Provavelmente esta alteração foi devida ao exponencial aumento de soluções tecnológicas
+ocorrida nos últimos anos, não esperados na época da decisão pela terceirização.
+Dos dois principais motivos que levaram às organizações a terceirizar a TI, como o
+acesso a novos recursos humanos especializados e focalização na atividade essencial da
+empresa, mais da metade atingiram o objetivo esperado.
+Em relação à expectativa de redução de custos fixos com a informática, somente um
+terço das empresas pesquisadas alcançaram tal diminuição, onde segundo a pesquisa de Jaci C
+Leite em 1995, mais da metade atingia tal meta, sugerindo que ou a terceirização tende a não
+reduzir os custos, ou o orçamento da TI tem sido aquém do realizado.
+Outro alerta é que somente 5% percebeu uma melhoria na satisfação do cliente,
+esperada por 35% das empresas, o que remete à necessidade de pesquisas entre os usuários da
+TI terceirizada, pois ou não se está sendo eficaz com o processo de terceirização, ou não se
+está tendo a preocupação devida com o levantamento da real satisfação do usuário/cliente.
+Outra observação importante, é que também começam a serem percebidos benefícios
+de caráter macroeconômicos, elevando a maturidade não só técnica e administrativa, mas
+social, preocupada com a qualidade de vida como um todo.
+7. Os principais problemas enfrentados foram:
+35% falta de capacitação/qualificação do terceiro;
+30% dificuldades com interfaces, pessoal interno não sabe lidar com terceiros e perda
+de controle sobre a qualidade;
+15% resistência interna do pessoal técnico e perda do controle sobre os custos;
+10% resistência interna dos usuários, perda de controle sobre os prazos, cultura do
+terceiro não se adapta ao padrão da empresa, falta de idoneidade do terceiro e
+metas mal planejadas;
+5% reclamações trabalhistas, vazamento de informações confidenciais, aumento nos
+custos e o processo de licitação. 
+14
+Observou-se ainda que 30% das empresas não perceberam nenhum problema
+relevante. Outro aspecto importante, é o fato dos principais problemas estarem vinculados às
+questões de relacionamento interpessoal, comprometimento e parceria, onde uma provável
+causa seja a falta de esclarecimento interno antes da terceirização.
+Também observa-se um número considerável de empresas com problemas de perda de
+controle, principalmente com o da qualidade, que só foi percebido como vantagem da
+terceirização em 15% da amostra.
+Finalmente, não foi detectado na pesquisa, nenhum problema com a postura da alta
+administração ou com a perda do controle da estratégia da informatização, o que também
+pode caracterizar, um amadurecimento cultural e do estilo de gestão da cúpula administrativa.
+8. De modo geral o processo até o momento, obteve: 75% de sucesso parcial; 20% de
+sucesso absoluto; 5% não soube responder e nenhuma empresa constatou insucesso.
+9. Para o futuro: 30% pretende intensificar; 45% continuar como está; 20% sem definição; e
+5% reduzir.
+10 - CONCLUSÕES
+Este trabalho teve como objetivo identificar o que leva às organizações à escolha
+estratégica da terceirização de suas áreas de tecnologia da informação (TI), bem como os
+principais resultados obtidos.
+ Optou-se como metodologia de pesquisa, por um estudo quantitativo, realizado através
+de questionário, onde participaram 21 empresas de diversos ramos, localizadas no Brasil e
+possuidoras de endereço eletrônico para comunicação via Internet (e-mail).
+Dado o caráter incipiente da terceirização em TI em 1992, relatada nas pesquisas da
+época, observou-se que em sete anos, esta nova forma de gestão que propõe o atingimento
+mais eficaz dos objetivos organizacionais, passou a ser considerada como uma solução
+adequada para as unidades de informática. Os dados da pesquisa indicam que o aumento da
+velocidade da mudança tecnológica e o aumento do "volume" das atividades de TI nos
+últimos anos, remetem a terceirização como principal fomentador de recursos para o
+atingimento de melhoria na competitividade organizacional.
+De acordo com o levantamento realizado nesta pesquisa, constatou-se que os quatro
+primeiros motivos que levam as empresas a terceirizar sua TI, referem-se ao acesso imediato a
+novos recursos humanos, a focalização na atividade-fim, a expectativa de redução de custos e
+as questões relacionadas ao desempenho. Estes fatores coincidem em mesma ordem com os
+apresentados na pesquisa de Jaci C. Leite em 1995. Isto contraria a colocação do mesmo autor
+de que na tomada de decisão, a redução de custos é menos importante do que o controle sobre
+prazos e qualidade da informática (livro: "Terceirização em Informática", 1994, p.37), sendo
+que menos de um quarto da amostra assumiu esta posição enquanto que quase a metade
+buscava a redução de custos.
+Quanto ao alcance dos objetivos, a pesquisa revelou ainda que realmente a
+terceirização em TI não contribuiu para a redução de custos, nem tão pouco contribuiu para
+uma melhor previsibilidade dos prazos ou melhoria da qualidade, o que sugere novas
+pesquisas nessa linha: Qual a maneira mais eficaz de controlar os serviços terceirizados em
+TI?
+A resposta que parece estar bem clara é que a terceirização eficaz em TI possibilita
+obter, para as grandes organizações, acesso à novas soluções tecnológicas, em decorrência dos
+recursos humanos especializados ou pela maior facilidade de acesso às tecnologias
+emergentes.
+Cabe também pesquisar porquê que mesmo sem nenhuma empresa ter constatado
+insucesso no processo, 20% não perceberam benefício algum, enquanto que 30% não 
+15
+relataram um problema sequer. Estas observações nos levam a concluir que o processo de
+terceirização apesar de ser intensamente enfatizado é ainda pouco avaliado.
+11 - REFERÊNCIA BIBLIOGRÁFICA
+ALVAREZ, Manuel S. B. Terceirização: parceria e qualidade. Rio de Janeiro. Campus,
+1996.
+BRASIL, Haroldo Guimarães. A empresa e a estratégia da terceirização. RAE – Revista de
+Administração de Empresas, São Paulo, v. 33, n. 2, p. 6-11, Mar./Abr. 1993.
+BOSIK, Darren. Key recomendation for avoiding problems with outsourcing deals. Gartner
+Group, Julho 1997.
+EARL, Michael J. Deve-se terceirizar a informática? HSM Management, São Paulo, v. 1,
+n. 6, p. 126-132, Jan./Fev. 1998.
+FEENY, David F. e WILLCOCKS, Leslie P. O que não terceirizar. HSM Management, São
+Paulo, v. 2, n. 10, p. 132-138, Set./Out. 1998.
+FERREIRA-DA-SILVA, Eduardo Ramos. Terceirização no serviço público: o resgate da
+administração. RBA - Revista Brasileira de Administração, São Paulo, v. 8, n. 23, p. 36-
+39, Out. 1998.
+GIL, Antônio de Loureiro. Os equívocos da terceirização. Tecnologia Hoje, São Paulo, 04
+Dez. 1998. (www.techoje.com.br)
+GIOSA, Lívio Antonio. Terceirização: Uma Abordagem Estratégica. São Paulo: Ed.
+Pioneira, 1997.
+HENDRY, John. O custo oculto da terceirização. HSM Management, São Paulo, v. 0, n. 2,
+p. 82-90, Maio/Jun. 1997.
+KEYES, Jéssica. Infotrends – the competitive use of information. New York, USA:
+McGraw-Hill, 1993.
+LEIRIA, Jerônimo Souto e SARATT, Newton Dorneles. Terceirização: Uma Alternativa de
+Flexibilidade Empresarial. São Paulo: Editora Gente, 1995.
+LEITE, Jaci C. Terceirização em informática. São Paulo: Makron Books, 1994.
+LEITE, Jaci C. Terceirização em informática no Brasil. RAE – Revista de Administração de
+Empresas, São Paulo, v. 37, n. 3, p. 68-77, Jul./Set. 1997.
+OLIVEIRA, Paulo Antonio Fuck de. Terceirização como estratégia. Bate Byte, Curitiba, ed.
+52, p. 18-21, Mar. 1996.
+PERON-DE-SÁ, Melissa, BOMTEMPO, José Vitor e QUENTAL, Cristiane. Terceirização
+no processamento final da indústria farmacêutica e veterinária. RAC – Revista de
+Administração Contemporânea, Rio de Janeiro, v. 2, n. 2, p. 85-101, Maio/Ago. 1998.
+PINHEIRO, Ivan A . Dos fundamentos à prática da subcontratação. IN: XXI Encontro Anual
+da ANPAD, 1997, Rio das Pedras RJ. ANAIS. ANPAD, 1997.
+REZENDE, Wilson. Terceirização: a integração acabou? RAE – Revista de Administração
+de Empresas, São Paulo, v. 37, n. 4, p. 6-15, Out./Dez. 1997.
+SAVIANI, José Roberto. Basta terceirizar? “reengenhariar”? Tecnologia Hoje, São Paulo,
+29 Set. 1998. (www.techoje.com.br)
+SILVA, Lilia Pinheiro Cristaldi. Contratação de serviços pela Celepar. Bate Byte, Curitiba,
+ed. 49, p. 11-15, Dez. 1995.
+SILVA, Ronaldo A. R. da e ALMEIDA, Myrian C. de.. Terceirização e Quarteirização:
+indicativos estratégicos para implementação. IN: XXI Encontro Anual da ANPAD, 1997,
+Rio das Pedras RJ. ANAIS. ANPAD, 1997.
+VIDAL, Alcides Gabancho. Terceirização: a arma empresarial. São Paulo: Érica, 1993.
+WANG, Charles B. O novo papel do executivo de informática. São Paulo: Makron Books,
+1995.

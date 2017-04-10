@@ -1,0 +1,422 @@
+See discussions, stats, and author profiles for this publication at: https://www.researchgate.net/publication/267241386
+O VALOR DA TECNOLOGIA DA INFORMAÇÃO
+Como referenciar este artigo:
+GRAEML, Alexandre R. "O valor da tecnologia da informação" – Anais do I Simpósio de Administração
+da Produção, Logística e Operações Industriais, EAESP-FGV, São Paulo, setembro de 1998.
+O VALOR DA TECNOLOGIA DA INFORMAÇÃO
+ALEXANDRE REIS GRAEML
+SUMÁRIO
+1. As decisões envolvendo tecnologia e
+os riscos associados .................................. 2
+2. Novas metodologias são necessárias para
+a avaliação e justificativa de investimentos
+em TI........................................................ 3
+3. A percepção do custo da informação......... 4
+4. Gastos com TI: despesa ou investimento?......................................................
+5
+5. A intimidade virtual com os clientes .......... 5
+5.1. Escopo em substituição à escala ................ 6
+5.2. O tempo de aceitação pelo mercado.......... 7
+6. Os benefícios proporcionados pela TI ....... 8
+6.1. Os benefícios diretos................................. 8
+6.2. Os benefícios intangíveis e os benefícios
+futuros...................................................... 8
+7. Indicadores e métodos de avaliação
+que procuram capturar os intangíveis ........ 9
+8. Conclusão................................................. 9
+9. Referências bibliográficas........................ 10
+1. AS DECISÕES ENVOLVENDO
+TECNOLOGIA E OS RISCOS ASSOCIADOS
+A tecnologia da informação, na visão de alguns a
+panacéia para todos os problemas das empresas,
+tem sido tratada com reserva e cepticismo por
+outros. Embora existam empresas que, realizando
+investimentos maciços em informática, desfrutem
+de liderança em suas áreas de atuação, também há
+empresas que, apesar dos elevados investimentos
+em TI, apresentam os piores resultados em seus
+setores de atuação. Strassmann (1997) considera
+que não existe qualquer correlação entre os gastos
+com computadores e o desempenho das empresas.
+Para ele, não são os computadores, mas a forma
+como a empresa os utiliza, que faz a diferença.
+Os elevadíssimos custos incorridos no desenvolvimento
+e adoção de novas tecnologias e a
+sua rápida obsolescência (decorrente da introdução
+de tecnologias ainda mais recentes) aumentam
+sobremaneira os riscos envolvidos.
+O destino de uma organização pode ser afetado
+profundamente por suas decisões tecnológicas. A
+ousadia nestas horas pode levar a casos de
+sucesso de grande repercussão ou a estrondosos
+fracassos. Em tempos de competição tão acirrada,
+as decisões precisam, ainda, ser tomadas
+com muita agilidade. Postergar decisões pode
+acarretar em custo muito elevado.
+Dentro deste panorama, como assegurar-se de
+estar seguindo o rumo certo?
+Esta é uma pergunta para a qual provavelmente
+ninguém tenha uma resposta conclusiva. Mas
+existem formas de se minimizar a chance de uma
+má decisão. O administrador deve dispor de
+ferramentas que lhe permitam avaliar, da forma
+mais completa possível, dentro do quadro de
+incertezas em que as decisões normalmente
+precisam ser tomadas, as diversas alternativas
+que se lhe apresentam.
+Stager (1994) acredita que a principal falha nos esforços para avaliar projetos envolvendo TI está no
+fato de que, em geral, as empresas avaliam a própria tecnologia e se as pessoas gostam dela e a utilizam.
+Uma outra avaliação, muito mais importante é normalmente deixada de lado, que é descobrir se o
+projeto realmente faz diferença para a competitividade da empresa.
+Um primeiro passo para uma decisão acertada é ter consciência de que os benefícios advindos do
+investimento em TI não estão diretamente ligados ao investimento em si, mas ao uso que é feito dela. A
+tecnologia por si só não vale nada para o negócio. O que importa é como a informação gerada por ela é
+capaz de proporcionar melhor atendimento às necessidades dos seus clientes. São os novos produtos e
+serviços, ou o valor agregado a eles e aos processos de negócios afetados pela TI, que garantem o
+retorno do investimento para a empresa. Mas como será visto mais adiante, esses benefícios podem ser
+bastante intangíveis e, portanto, de difícil mensuração e avaliação.
+2. NOVAS METODOLOGIAS SÃO NECESSÁRIAS PARA A AVALIAÇÃO E JUSTIFICATIVA DE
+INVESTIMENTOS EM TI
+Em períodos de grandes mudanças, muitas decisões continuam a ser tomadas com base em paradigmas
+superados. O impacto disto é particularmente importante no caso de decisões sobre tecnologia. A
+utilização de tecnologia está, normalmente, associada a vultosos investimentos. Dentre as opções
+disponíveis aparecem soluções tradicionais e soluções que envolvem conhecimentos muito recentes,
+ainda não sedimentados e sem padronização imposta pelo mercado ou por entidades normalizadoras.
+Apostar nas soluções tradicionais pode amarrar a empresa aos conceitos que existiam por trás delas,
+criados para permitir a compreensão e a convivência com uma realidade momentânea, que não
+corresponde mais ao contexto de negócios em que a empresa está inserida.
+Por outro lado, jogar todas as fichas em tecnologias que desbravam as fronteiras do conhecimento é uma
+atitude ousada, que não é "paralisante" como a opção conservadora, mas que desfruta de seus próprios riscos:
+como o mercado ainda não definiu muito bem o espaço que vai conceder à nova tecnologia, ela pode tanto se
+consagrar pelo diferencial competitivo obtido por seus usuários, como ser abandonada face a outros
+desenvolvimentos mais promissores, deixando os seus primeiros entusiastas "a ver navios".
+Não existe uma recomendação definitiva, que possa satisfazer a todos, com relação ao grau de
+conservadorismo/ousadia a ser adotado nas decisões de investimento, quanto mais de investimento em
+TI. Isto depende da aversão ou susceptibilidade ao risco de cada decisor. Há, no entanto, formas de
+avaliar antecipadamente os impactos da decisão para a empresa, caso se configurem os cenários
+vislumbrados (otimista, realista e pessimista), orientando na decisão e evitando tanto o imobilismo,
+como a incorrência em um risco exagerado, que possam comprometer a saúde ou mesmo a
+sobrevivência da empresa.
+Embora exista uma metodologia tradicional, envolvendo indicadores financeiros para a tomada de
+decisões de investimento, esta está por demais comprometida com paradigmas que já não estão
+totalmente afinados com a realidade desses investimentos. Para isso contribuem diversos fatores: A
+sociedade exige, cada vez mais, que as empresas se preocupem com os interesses de um grupo de
+pessoas bastante mais abrangente que inclui, além dos acionistas (share holders), os funcionários,
+clientes, fornecedores, parceiros e a própria sociedade, enfim, todos os que interagem com a empresa e
+sofrem as conseqüências das suas ações (stake holders). Por mais que os financistas continuem a afirmar
+que, neste sentido, nada mudou e que qualquer iniciativa no sentido de melhorar o good will com
+relação à empresa tem como objetivo fundamental e definitivo melhorar os números dos demonstrativos
+financeiros em algum momento futuro, é inegável que a maioria dos objetivos intermediários, ligados à
+satisfação dos empregados, dos parceiros comerciais, dos clientes e da comunidade não são facilmente
+mensuráveis pelos métodos financeiros.
+O mesmo acontece com muitos dos ganhos da introdução de novas tecnologias ou com os danos
+acarretados por uma má decisão ou postergação de investimento em tecnologia, os quais apresentam
+difícil expressão numérica.
+Face ao exposto, torna-se importante que se estudem novos métodos para auxiliar as empresas na
+tomada de decisões adequadas para um novo ambiente, em que o aspecto financeiro continua a ser tão
+importante quanto no passado, mas no qual novos fatores mais subjetivos, geralmente ligados à
+estratégia competitiva de longo prazo das empresas, dentre eles os investimentos em TI, passam a
+desfrutar de maior relevância.
+3. A PERCEPÇÃO DO CUSTO DA INFORMAÇÃO
+DeLone (1993) salienta que muitas empresas tratam a informática como uma "mercadoria livre", sem custos
+discriminados e atribuídos a centros de custos específicos, ou seja, os gastos e investimentos envolvendo
+tecnologia da informação são overhead para a corporação como um todo, mas não pesam no bolso dos
+setores ou departamentos da empresa individualmente. Sem um custo direto e quantificável para disciplinar as
+solicitações de serviços de informática, os usuários costumam demandar muito mais do que precisam.
+Segundo DeLone, empresas que instituem esquemas de cobrança interna pelos serviços de informática
+acabam por ter usuários mais seletivos com relação às suas reais necessidades e, conseqüentemente,
+desfrutam de uma redução considerável do nível de serviços solicitados. O fato de departamentos e
+setores saberem exatamente quanto lhes custam os serviços de informática, e pagar por eles, pode ser
+um importante fator para evitar a utilização indiscriminada de tecnologia, sem que esta esteja
+efetivamente agregando valor ao produto ou serviço que se está produzindo.
+Por isso, existem empresas que responsabilizam suas unidades de negócio por cada centavo dos seus
+investimentos em TI. As UNs ficam tão comprometidas que devem justificar os benefícios prometidos
+pelo investimento em tecnologia através de redução de pessoal, melhoria da receita, etc. de acordo com
+o que foi previsto na fase de planejamento e avaliação da implantação do sistema.
+Muitos CIOs e diretorias de empresas, segundo Strassmann (1996), confundem a informação em si com a
+tecnologia da informação, que a proporciona ou viabiliza. Em conseqüência disto, seu esforço para aumentar
+a lucratividade da informação se concentra em cortar custos da tecnologia de informação. Seria muito mais
+eficaz focar-se em aumentar a produtividade do gerenciamento da informação. Para Strassmann, o gerenciamento
+da informação é algo bastante amplo, que envolve todas as atividades de alocação, simplificação ou
+redução de custos de processos de informação, ou atividades que aumentam a eficácia e qualidade,
+independentemente dos processos envolverem TI. Isto inclui a coordenação de fornecedores, funcionários e
+clientes em tarefas de gerenciamento, treinamento, aconselhamento, coordenação, registro e relatórios -
+tarefas essas que não estão diretamente relacionadas com a produção ou entrega de produtos ou serviços ao
+consumidor. Justamente por muitas destas atividades não estarem intrinsecamente ligadas ao produto ou
+serviço, normalmente o gerenciamento de informação é considerado como despesa e não como custo pelas
+empresas, o que torna sua justificativa muito mais difícil, por parecer, à primeira vista, um gasto improdutivo.
+A informação é um ativo e exige manutenção, assim como qualquer outro ativo de capital. Os diversos
+departamentos funcionais de uma organização tendem a ver a informação como despesa, ou como um
+produto residual de aplicações individuais. Segundo Watterson (1997), para que as diversas gerências da
+companhia de seguros norte-americana USAA deixassem de pensar na informação apenas como um
+gasto, foi necessário que elas recebessem um memorando da área de SI com a seguinte mensagem: "Nós
+dispomos da sua informação, mas você precisará pagar por ela".
+4. GASTOS COM TI: DESPESA OU INVESTIMENTO?
+Esta parece ser uma questão chave. A TI é vista pela empresa como despesa ou como investimento? A
+diferença é muito grande: despesas estão normalmente associadas a gastos recorrentes e os benefícios
+advindos são imediatos e de vida curta. Investimentos são gastos menos freqüentes, cujos benefícios
+estão usualmente associados à estratégia da empresa e não ocorrem tão rapidamente. A decisão de
+investimentos é normalmente mais complicada, não só pelas quantias envolvidas serem maiores, em
+geral, como pelo impacto que se pretende que tenham sobre o desempenho futuro da empresa. Más
+decisões relacionadas a despesas podem ser facilmente detectadas e o problema corrigido. Quando uma
+decisão errada é tomada com relação a investimentos, é possível que isto não seja detectado no curto
+prazo, e os danos provocados por maus investimentos, associados a estratégias capengas, podem
+ameaçar a saúde ou a própria existência da empresa, no longo prazo.
+Uma empresa pode jamais ter certeza de que acertou em uma decisão estratégica mas, quando
+definitivamente as coisas não saem como planejado, pode ser tarde demais para se descobrir que errou.
+Empresas que tomam decisões envolvendo TI como se fossem despesas, tendem a se concentrar no
+custo e não nas necessidades e benefícios pretendidos. Sua miopia estratégica prioriza o curto prazo,
+desprezando projetos que não apresentem resultados mensuráveis e imediatos. Essas empresas não
+conseguem enxergar o potencial estratégico da utilização da TI e avaliam apenas os ganhos operacionais
+que a tecnologia é capaz de oferecer.
+Percebe-se que uma empresa trata os gastos em TI como despesa quando:
+q o gerente de informática tem dificuldade de acesso aos homens de decisão na empresa;
+q os projetos são sempre discutidos com base nos custos envolvidos e as decisões de financiamento se
+estendem por longo tempo;
+q o orçamento de TI está sempre sujeito a cortes e paralisações;
+q a TI é tratada como recurso operacional e não como ativo estratégico.
+Empresas que tomam decisões envolvendo TI como se fossem investimentos, por sua vez, procuram utilizar a
+tecnologia para implementar processos que vinculem as atividades de TI aos objetivos do negócio e às metas
+estratégicas da empresa. A alta administração consegue comunicar a missão e a visão estratégica à empresa e,
+principalmente, à área de TI. Como o CIO é capaz de compreender claramente onde a empresa quer chegar,
+ele tem mais facilidade de escolher as ferramentas apropriadas. O acesso facilitado à diretoria é causa e efeito
+do melhor alinhamento da tecnologia com os negócios da empresa, nesses casos.
+5. A INTIMIDADE VIRTUAL COM OS CLIENTES
+A TI, que foi uma das responsáveis pela complexidade do mercado atual, pode se transformar em uma
+importante ferramenta para a atração e encantamento dos clientes pelas empresas. A tecnologia permite
+que as empresas estabeleçam um diálogo em tempo real com os consumidores dos seus produtos e
+serviços, fortalecendo o relacionamento entre as partes e a lealdade dos clientes para com a empresa.
+Essa interação com os clientes pode permitir que a empresa obtenha informações importantes para
+tornar os seus produtos mais aceitáveis pelo mercado. Quando os clientes são chamados a opinar, eles
+normalmente o fazem de bom grado. E quando eles vêem que a empresa está realmente preocupada com
+o que têm a dizer e utiliza essas informações para melhorar seus produtos, eles se tornam clientes mais
+fiéis, podendo inclusive desenvolver um sentimento de identificação típico de quem "toma parte" no
+desenvolvimento de um produto ou serviço.
+A TI colabora para que o produto seja aquilo que o cliente quer comprar pelo menos através de duas
+formas importantes:
+q na automação flexível da linha de produção, que pode receber informações a partir de bancos de
+dados ou em tempo real sobre os produtos a serem produzidos, alterando a configuração do produto
+e adequando-o às necessidades do cliente (item 5.1);
+q na redução do tempo até a aceitação pelo mercado, através da integração do marketing com o
+desenvolvimento de produtos, com a fábrica e com os próprios clientes (item 5.2).
+5.1. ESCOPO EM SUBSTITUIÇÃO À ESCALA
+O tipo de realimentação possibilitado pela "intimidade virtual" com o cliente era algo comum no tempo dos
+artesãos, que trabalhavam normalmente por encomenda e tinham uma interação muito grande com o cliente.
+A revolução industrial e o conceito de produção em escala fez com que as empresas praticamente
+esquecessem que os clientes tinham necessidades e desejos distintos uns dos outros. As empresas
+passaram a produzir os seus produtos de acordo com a sua própria idéia de valor. Os clientes que se
+identificassem com ela adquiriam os seus produtos. Os demais, é provável que também tivessem que
+comprá-los, por falta de opções.
+À medida que o mercado foi se desenvolvendo, contudo, e as opções começaram a aparecer, os clientes
+puderam começar a escolher. Ainda assim, as empresas continuaram a produzir em série, para os
+clientes que se enquadrassem ao perfil dos seus produtos. A produção em massa, apesar de não levar em
+conta os anseios individuais dos clientes sempre apresentou um grande atrativo: os grandes volumes
+permitiam preços muito mais baixos. A produção em série e em escala se transformou em um dos
+grandes paradigmas da era industrial.
+Isto não impede, contudo, que os clientes desejem atendimento personalizado e produtos exclusivos,
+principalmente em um mercado cada vez mais competitivo, o que coloca as empresas em uma situação
+muito difícil: sem a escala da produção em massa, os custos se tornam proibitivos. Por isso, toda a
+engenharia de produtos moderna, assim como as linhas de produção fabris, estão buscando oferecer
+produtos que tenham um núcleo básico homogêneo, mas cujos acessórios diferenciados permitam
+atender os clientes da forma mais individualizada possível.
+A tecnologia da informação permite uma revisão do paradigma da produção inflexível em escala. O que
+se busca é uma situação que representa o melhor dos dois mundos: os baixos preços dos artigos
+produzidos em escala associados à personalização, antes só viável através de processos artesanais. Surge
+a economia de escopo, em que itens são produzidos em série, como na produção em escala, mas
+diferenciados uns dos outros, com base em informações sobre as necessidades de grupos de clientes ou,
+no limite, de clientes individuais. Este tipo de diferenciação entre os produtos produzidos em uma
+mesma linha, possibilitado pela TI, é chamado de customização.
+Um grande desafio para as empresas passa a ser conseguir escala, para garantir o baixo custo, e
+customização, para garantir que o cliente tenha acesso a produtos a que valorize. Isto garante, em um
+primeiro estágio, o interesse do cliente pelos produtos da empresa e, em um segundo estágio, a
+possibilidade de prática de um melhor preço (do ponto de vista da empresa).
+A produção em grandes volumes, mas de forma mais flexível em termos do produto obtido ao fim da
+linha de produção, pode ser obtida através da implementação de sistemas de manufatura flexível (FMS)
+e manufatura integrada por computador (CIM), que permitem o atendimento de um mercado cada vez
+mais exigente e interessado em comprar produtos diferenciados, para suprir as suas necessidades ou
+desejos.
+5.2. O TEMPO DE ACEITAÇÃO PELO MERCADO
+McKenna (1995) observa que, tradicionalmente, o marketing se encontra na extremidade da cadeia de
+produção. As empresas lutam por reduzir o tempo até o mercado (time to market), que é o tempo que
+demora desde o início do desenvolvimento de um produto até o momento em que ele é colocado para
+fora das portas da empresa. A partir desse momento, cabe ao pessoal de marketing convencer o
+mercado a consumir o produto. Existe um outro lapso de tempo até que o produto seja aceito pelo
+mercado. Assim, pode-se falar em um tempo até a aceitação, que tradicionalmente incluiria o tempo de
+desenvolvimento do produto, mais o tempo de produção e mais o tempo de aceitação pelo mercado. Se,
+de alguma forma (e a TI pode contribuir em muito para isso), os clientes em potencial forem envolvidos
+pelo esforço de marketing desde a concepção do produto, o tempo de aceitação passa a correr em
+paralelo ao tempo de desenvolvimento e produção, de modo que se chega a um tempo até a aceitação
+menor.
+Tempo de
+desenvolvimento
+Tempo de
++ produção Tempo de
++ aceitação
+Tempo até o mercado
+Tempo até a aceitação
+Figura 5-1: Tempo até a aceitação, tradicional
+Tempo de
+desenvolvimento
+Tempo de
++ produção
+Tempo de aceitação
+Tempo até o mercado
+Tempo até a aceitação
+=
+Figura 5-2: Tempo até a aceitação, com envolvimento
+precoce dos clientes, possibilitado pela TI
+O diálogo entre a empresa e os clientes, tanto ao longo do desenvolvimento do produto quanto durante
+seu ciclo de vida, permitindo uma constante avaliação do produto e sua aceitação, será a forma como as
+empresas conseguirão fortalecer suas marcas no futuro, obtendo a lealdade dos clientes. Estabelecer e
+manter abertos os canais de comunicação entre a empresa e seus clientes é uma estratégia competitiva
+importante que precisa ser adotada pelas empresas e a TI tem papel fundamental como ferramenta de
+viabilização dessa estratégia.
+Normalmente, as empresas têm utilizado os recursos da TI unidirecionalmente, em sua tentativa de
+comunicação com os clientes, para transmitir suas mensagens, distribuir produtos e processar
+transações. O canal de retorno proporcionado pela tecnologia tem sido desprezado e com ele a
+possibilidade de a empresa cativar seus clientes, escutando o que eles têm a dizer sobre seus produtos.
+Mesmo este contato unidirecional, no sentido empresa-clientes é sub-utilizado quando a empresa trata
+todos os seus clientes como se fossem um só. A tecnologia encontra sua melhor utilização e agrega
+maior valor quando os clientes passam a ser tratados individualmente, deixando de fazer parte da
+"massa" e adquirindo "intimidade virtual" com a empresa. Algumas empresas têm percebido isso e
+recriado, eletronicamente e em tempo real, o diálogo que fazia parte das transações comerciais no
+passado, conseguindo fidelizar os clientes e criar vantagens competitivas em mercados em que,
+tradicionalmente, os clientes são pouco fiéis.
+6. OS BENEFÍCIOS PROPORCIONADOS PELA TI
+Clemons (1990) afirma que o desenvolvimento de um sistema de informação estratégico (que pretende
+tornar a empresa mais flexível para responder às mudanças nas necessidades dos clientes ou para se
+adaptar às novas condições impostas por um mercado em rápida evolução) é completamente diferente
+dos investimentos realizados para automatizar os processos existentes, reduzir custos ou aumentar a
+capacidade de produção.
+Por isso, a avaliação de investimento para o desenvolvimento de sistemas com grande impacto
+competitivo (estratégico) deve seguir uma metodologia distinta da metodologia normalmente utilizada
+para justificar investimentos menos complexos, para os quais os métodos financeiros tradicionais são
+plenamente aceitáveis.
+Assim, podemos separar os benefícios proporcionados pela TI em dois tipos:
+q benefícios diretos, normalmente de curto prazo e facilmente mensuráveis, mas que apresentam menor
+impacto sobre a capacidade competitiva da empresa e
+q benefícios intangíveis, menos diretos, normalmente de longo prazo e intimamente associados à
+estratégia competitiva da empresa.
+6.1. OS BENEFÍCIOS DIRETOS
+Estes benefícios são facilmente quantificáveis pelos métodos de análise financeira tradicional e podem
+ser diretamente associados a um produto ou serviço executado pela empresa. Eles estão, em geral,
+ligados à redução de custos dos processos, eliminação de mão-de-obra ou expansão da capacidade de
+produção.
+6.2. OS BENEFÍCIOS INTANGÍVEIS E OS BENEFÍCIOS FUTUROS
+Os benefícios intangíveis são aqueles que não podem ser associados diretamente a um produto ou
+serviço executado pela empresa, mas que contribuem para a melhoria do posicionamento da empresa no
+mercado. Dentre eles estão o aumento da capacidade de percepção das necessidades dos clientes
+(possibilitado pela TI através da "intimidade virtual"), melhor qualidade dos produtos, inovações etc.
+para os quais é difícil, quando não impossível, atribuir um valor financeiro determinado.
+A necessidade de considerar benefícios intangíveis e benefícios futuros ao avaliar os investimentos em TI
+poderia sugerir a criação de um conjunto de medidores e indicadores de desempenho ou valor
+específicos para a TI. No entanto, à medida que se tenta alinhar os objetivos do departamento de
+informática com os objetivos globais do negócio, torna-se cada vez mais razoável que se utilizem os
+indicadores de desempenho corporativos já existentes, ou pelo menos que se desenvolvam indicadores
+que supram as deficiências dos indicadores tradicionais em medir intangíveis, mas que sejam válidos para
+toda a empresa, e não somente para a informática. Uma outra razão para isto é que é impossível isolar as
+contribuições da TI das de outros fatores. Por isso, os sistemas de informação não devem ser vistos
+como algo estanque, mas como parte integrante do negócio.
+7. INDICADORES E MÉTODOS DE AVALIAÇÃO QUE PROCURAM CAPTURAR OS INTANGÍVEIS
+A avaliação dos benefícios intangíveis é, como a própria palavra "intangíveis" sugere, bastante subjetiva
+e controversa. Inúmeras abordagens têm sido propostas, embora nenhuma tenha conseguido aceitação
+ampla até o momento. Isto não se deve apenas à subjetividade envolvida, mas também ao fato de que,
+durante a maior parte do século XX industrial, não se sentiu a necessidade de avaliar investimentos de
+forma não objetiva. Os indicadores financeiros se demonstraram sempre muito adequados e suficientes
+para a justificativa dos investimentos da "era industrial".
+Estamos vivendo um período de transição em que, é natural, muitas coisas precisam ser revistas e
+paradigmas precisam ser superados. Tecnologias são fácil e rapidamente substituídas, mas as idéias
+sobre as quais se construíram as bases para a sociedade em que vivemos acabam sendo mais resistentes,
+porque estão na cabeça das pessoas e não podem ser trocadas "por um simples upgrade na versão do
+sistema". Muitas empresas podem só conseguir mudar sua forma de pensar os investimentos quando a
+atual geração de líderes for substituída. Para as que conseguirem ir se libertando das idéias antigas,
+algumas formas de avaliar benefícios estratégicos intangíveis que têm demonstrado resultados são o
+estudo das implicações na cadeia de valor expandida e a integração com clientes e fornecedores (Porter,
+1991), a análise das forças competitivas (Porter, 1985), os fatores críticos de sucesso do negócio
+(Rockart, 1979), a utilização do nível de satisfação do cliente como uma variável chave de avaliação do
+desempenho da empresa, o foco nas "capacidades" da organização (Baldwin, 1992) e a aplicação de
+balanced scorecards (Kaplan, 1993).
+8. CONCLUSÃO
+Com a virtualização do mercado, e da sociedade como um todo, as empresas precisam encontrar formas
+de valorizar benefícios que também são mais "virtuais" do que no passado. As empresas parecem
+encontrar certa dificuldade em perceber isso, quando se trata de justificar investimentos. Como não
+surgiram métodos novos de uso generalizado para este tipo de avaliação, muitos executivos mais
+conservadores, atuando como administradores dos investimentos alheios, preferem não se arriscar e
+seguir as regras consagradas pelo mercado, independentemente do fato de elas terem sido criadas para a
+realidade da era industrial e não se ajustarem mais tão bem à situação atual. Os paradigmas da era
+industrial estão sendo pouco a pouco superados pelo avanço de uma nova era, da informação, que
+começou a se estabelecer a partir do advento do computador.
+O curioso é que os próprios investidores, que pagam os salários dos executivos para gerir seu
+patrimônio, contribuem para que a maioria das empresas da era da informação (computadores e
+programas, telecomunicações, indústria farmacêutica etc.) cotadas em bolsa valha mais no pregão do
+que o custo de reposição dos seus ativos, o que aponta para a clara existência e percepção de fontes de
+valor intangível escondidas, que não são evidenciadas pelos indicadores financeiros usuais. Segundo
+uma pesquisa inglesa de 1995 (Handy, 1995), o valor de mercado das 200 principais empresas cujas
+ações são negociadas na Bolsa de Valores de Londres é em média três vezes superior ao valor dos seus
+ativos fixos visíveis. Quando se trata de empresas de alta tecnologia (em que a informação é uma parte
+importante dos produtos e serviços oferecidos), o valor das ações muitas vezes supera em vinte vezes os
+ativos do negócio. O mercado parece entender que empresas que baseiam seus negócios em tecnologia e
+na informação precisam ser avaliadas pelo seu potencial de lucro futuro e não pelos resultados passados
+discriminados na sua escrituração contábil. Muito do seu valor está embutido nas perspectivas de
+resultados de pesquisa e desenvolvimento, em sua marca, no know-how da empresa, nas suas redes de
+contatos e experiência, na sua integração com clientes e fornecedores etc.
+Quando as empresas realizam avaliações puramente financeiras para determinar seus investimentos,
+esses benefícios não são levados em consideração e não há garantias de que os investimentos estejam
+alinhados com os objetivos estratégicos de longo prazo da organização.
+Os investimentos em tecnologia são realizados freqüentemente com vistas a proteger as opções
+estratégicas da empresa e dotá-la de flexibilidade para introduzir produtos e serviços com maior rapidez,
+o que é tão necessário em tempos de rápidas e radicais mudanças, aumentando os níveis de integração
+internamente à empresa e com seus clientes e fornecedores.
+Só existem três motivos plausíveis para se investir em tecnologia da informação:
+q para se conseguir fazer mais daquilo que já se faz, porém, mais rápido e a menor custo;
+q para se conseguir fazer o mesmo que já se faz, mas com menor custo e melhor qualidade;
+q para conseguir fazer algo diferente do que se faz atualmente.
+As duas primeiras razões de investimento podem ser avaliadas através dos indicadores financeiros
+tradicionais. Se o custo direto do novo sistema (aquisição ou desenvolvimento) mais os custos indiretos
+a ele relacionados (manutenção, atualização, consultoria, etc.) for inferior às economias proporcionadas
+pelo investimento (resultantes do melhor aproveitamento dos recursos humanos e materiais) o
+investimento é facilmente justificável. A questão "qualidade", mencionada na segunda razão para
+investimento em TI, começa a agregar algum grau de subjetividade à decisão de investimento, já que não
+se pode precisar o quanto a qualidade impacta nos resultados obtidos pela empresa, embora não haja
+dúvida de impacta.
+A terceira razão é a que está ligada aos tão polêmicos "intangíveis", quando o objetivo do investimento
+passa a ser obter algo diferente do que se tem hoje. Se é diferente, e ninguém ainda o faz, como saber se
+vai proporcionar o retorno esperado? Talvez o motivo pelo qual ninguém tenha conseguido propor uma
+forma precisa de se avaliar este tipo de investimento até hoje seja, justamente, por não existir tal forma.
+Vivemos cada vez mais em um mundo de constantes mudanças em que as empresas de classe mundial já
+não competem mais em custos e qualidade, que passaram a ser requisitos mínimos para participar do
+mercado. Flexibilidade e inovação parecem ser as novas fontes de diferenciação. Se a tecnologia da
+informação for capaz de tornar a empresa mais ágil e flexível para se adaptar às constantes mudanças
+(que passaram a ser a única certeza do ambiente empresarial), permitir o estabelecimento de canais mais
+eficazes de comunicação com fornecedores e clientes e contribuir para a criação de novos produtos e
+serviços de interesse do mercado, não se deve hesitar. Embora esta terceira razão para se investir em
+tecnologia da informação seja a mais difícil de se justificar através dos procedimentos tradicionais, é
+também a que acena com as maiores recompensas para os que se aventurarem!
+9. REFERÊNCIAS BIBLIOGRÁFICAS
+BALDWIN, C e CLARK, K. "Capabilities and capital investment: new perspectives of capital
+budgeting". Journal of Applied Corporate Finance (1992).
+CLEMONS, E. K. e WEBER, B. W. "Strategic information technology investments: guidelines for
+decision making", Journal of Management Information Systems, vol. 7, núm. 2, outono de 1990,
+págs. 9 a 28.
+DELONE, William H. e McLEAN Ephraim R. "Assessing the business value of information systems",
+1993. http://lattanze.loyola.edu/lattanze/research/wp0493.017.html
+HANDY, Charles. "Trust and the virtual organization". Harvard Business Review, maio/junho de 1995.
+KAPLAN, R. S. e NORTON, D. P. "Putting the balanced scorecard to work". Harvard Business
+Review, setembro/outubro de 1993.
+McKENNA, Regis. "Real time marketing". Harvard Business Review, julho/agosto de 1995.
+PORTER, Michael E. Competitive advantage: creating and sustaining superior performance. Nova
+Iorque, Free Press, 1985.
+PORTER, Michael E. e Millar, V. E. "How information gives you competitive advantage". In Harvard
+Business Review, Revolution in real time. Boston: Harvard Business Review Press, págs. 59-82,
+1991.
+ROCKART, J. F. "Chief executives define their own data needs". Harvard Business Review, Boston, v.
+57, núm. 2, págs. 81-93, março/abril de 1979.
+STAGER, Susan F. et al. "Assessing the effectiveness of Information Technology". Anais da
+Conferência Anual da CAUSE, 1994.
+STRASSMANN, Paul. A. "The economics and politics of information management". KPMG Impact
+Program, junho de 1996. http://www.strassmann.com/pubs/econ-polim.html
+STRASSMANN, Paul. A. "Will big spending on computers guarantee profitability? Datamation,
+fevereiro de 1997.
+WATTERSON, Karen. "Parallel tracks - 10 cost-justification scenarios for data warehouses".
+Datamation, maio de 1997.
+View publication stats

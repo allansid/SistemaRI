@@ -1,0 +1,808 @@
+INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA
+
+FLUMINENSE CAMPUS CAMPOS-CENTRO
+
+CURSO DE BACHARELADO EM SISTEMAS DE INFORMAÇÃO
+
+ALEXANDRE DOS SANTOS SAMPAIO SILVA
+EDUARDO BONZI DA CONCEIÇÃO
+LAÍS STELLET DA SILVA
+
+DESENVOLVIMENTO DE UM SISTEMA DE CONTROLE DE ATIVIDADES
+COMPLEMENTARES EM RUBY ON RAILS - UM ESTUDO DAS GEMS BOOTSTRAP,
+DEVISE E PRAWN.
+
+CAMPOS DOS GOYTACAZES/RJ
+2016
+ALEXANDRE DOS SANTOS SAMPAIO SILVA
+EDUARDO BONZI DA CONCEIÇÃO
+LAÍS STELLET DA SILVA
+DESENVOLVIMENTO DE UM SISTEMA DE CONTROLE DE ATIVIDADES COMPLEMENTARES
+EM RUBY ON RAILS - UM ESTUDO DAS GEMS BOOTSTRAP, DEVISE E PRAWN.
+MONOGRAFIA APRESENTADA AO INSTITUTO
+FEDERAL FLUMINENSE CAMPUS CAMPOSCENTRO
+COMO REQUISITO PARCIAL PARA
+CONCLUSÃO DO CURSO SUPERIOR EM SISTEMAS
+DE INFORMAÇÃO.
+ORIENTADOR: PROF. D.SC. MAURICIO JOSÉ
+VIANA AMORIM.
+ CAMPOS DOS GOYTACAZES/RJ
+2016
+ALEXANDRE DOS SANTOS SAMPAIO SILVA
+EDUARDO BONZI DA CONCEIÇÃO
+LAÍS STELLET DA SILVA
+DESENVOLVIMENTO DE UM SISTEMA DE CONTROLE DE ATIVIDADES COMPLEMENTARES
+EM RUBY ON RAILS - UM ESTUDO DAS GEMS BOOTSTRAP, DEVISE E PRAW.
+MONOGRAFIA APRESENTADA AO INSTITUTO
+FEDERAL FLUMINENSE CAMPUS CAMPOSCENTRO
+COMO REQUISITO PARCIAL PARA
+CONCLUSÃO DO CURSO SUPERIOR EM SISTEMAS
+DE INFORMAÇÃO.
+ORIENTADOR: PROF. D.SC. MAURICIO JOSÉ
+VIANA AMORIM.
+APROVADA EM ___ DE ____________ DE 2016.
+BANCA AVALIADORA:
+PROF. ME. ANA SILVIA RIBEIRO ESCOCARD SANTIAGO
+PROF. DR. BRENO FABRÍCIO TERRA DE AZEVEDO
+PROF. DR. MAURÍCIO JOSÉ VIANA DE AMORIM(ORIENTADOR)
+“TUDO DEVE SER FEITO DA FORMA MAIS SIMPLES POSSÍVEL,
+MAS NUNCA DE FORMA SIMPLISTA” ALBERT EINSTEIN.
+Agradecimento
+Alexandre: Agradeço em primeiro lugar aos meus pais e parentes por sempre estarem me
+apoiando, me motivando e dando forças para conseguir superar todas as barreiras que obtive
+durante todo este percurso, aos professores pelo esforço e dedicação ao passar o
+conhecimento.
+Eduardo: Agradeço aos meus pais e minhas irmãs por sempre me incentivarem, pois foi
+graças ao apoio que me deram que consegui superar os obstáculos que encontrei, e aos
+professores, pelo conhecimento transmitido.
+Lais: Agradeço primeiramente a Deus por ter me dado força para percorrer essa longa
+jornada, aos meus pais e irmão, pelo amor, incentivo ? apoio incondicional, a amizade que fiz
+durante a trajetória deste curso que irá me acompanhar para o resto da minha vida me
+ajudando a superar todos os obstáculos impostos a mim, ao meu orientador, pelo empenho
+dedicado à elaboração deste trabalho. A todos que direta ou indiretamente fizeram parte da
+minha formação, ? meu muito obrigado.
+Resumo
+A proposta deste trabalho é descrever o desenvolvimento de um sistema de controle de
+Atividades Complementares (AC) e demonstrar a função das Gems utilizadas no processo no
+processo de desenvolvimento. O sistema foi proposto pela coordenação do curso de
+Bacharelado em Sistemas de Informação do Instituto Federal Fluminense, a fim de gerenciar a
+quantidade de horas realizadas pelos alunos com Atividades Complementares, que são de
+realização obrigatória durante a formação dos alunos do curso. Para desenvolvimento do
+Sistema foi utilizado a linguagem de programação Ruby com o framework Rails e MySQL
+como base de dados. Para agilizar o desenvolvimento foi necessário o aprendizado de
+bibliotecas do Rails denominadas Gems. Entre as diversas gems utilizadas no projeto, serão
+detalhadas didaticamente as Gems: 'bootstrap' - para formatação dinâmica do html, 'devise' -
+para autenticação dos usuários e a 'prawn' - para geração de arquivos PDF.
+Palavras-Chave: Atividades Complementares. Ruby on rails. Bootstrap. Devise.
+Prawn.
+Abstract
+The purpose of this paper is to describe the development of an activities control
+system (AC) and to demonstrate the function of the Gems that were used in the development
+process. The system was proposed by the coordination of the course of Bachelor of
+Information Systems of the Instituto Federal Fluminense in order to manage the amount of
+hours worked by students with additional enrichment activities, which are required by law, for
+students’ training. For the development of the system, the Ruby programming language with
+the Rails framework and MySQL as database provider were used. To speed up the
+development, study of the Rails libraries, called Gems, was necessary. Among the many
+Gems used in the project, three will be didactically detailed within this paper: 'bootstrap' - for
+dynamic formatting html, 'devise' - for user authentication, and the 'prawn' - for generating
+PDF files.
+Keywords: Additional activities, Ruby on rails, Bootstrap, Devise, Prawn.
+Lista de Figuras
+Figura 1 – Esquema de um SGBD simplificado. ...................................................14
+Figura 2 – Diagrama de Caso de Uso. ....................................................................18
+Figura 3 – Descrição de Caso de Uso. ....................................................................19
+Figura 4 – Diagrama de Classe. ..............................................................................20
+Figura 5 – Diagrama de Sequência. ........................................................................21
+Figura 6 – Cadastro de Atividades. .........................................................................22
+Figura 7 – Adicionar modalidade à Atividade. .......................................................22
+Figura 8 – Designar Atividade para o Avaliador. ...................................................23
+Figura 9 – Avaliar Atividade. ..................................................................................23
+Figura 10 – Uso do RegistrationsController da Devise. ..........................................24
+Figura 11 – ERB com bootstrap e código ruby embutido. ......................................26
+Figura 12 – BPMN - Controle de fluxo manual da entrega das atividades
+complementares. ......................................................................................................27
+Figura 13 – BPMN - Controle de fluxo automatizado pelo sistema de atividades
+complementares. ......................................................................................................28
+Figura 14 – Avaliação do método manual. .............................................................30
+Figura 15 – Avaliação do método automatizado. ...................................................31
+Lista de Abreviações
+1. AC - Atividades complementares.
+2. ROR - Ruby On Rails.
+3. UML - Unified Modeling Language.
+4. BSI - Bacharelado em Sistemas de Informações.
+5. SGBD - Sistema de Gerenciamento de Banco de Dados.
+6. ERB - Html com Ruby incorporado.
+7. BPMN - Business Process Modeling Notation.
+Sumário
+1. INTRODUÇÃO...............................................................................................................10
+1.1. OBJETIVO....................................................................................................................10
+1.2. MOTIVAÇÃO E JUSTIFICATIVA ....................................................................................11
+1.3. METODOLOGIA ...........................................................................................................11
+1.4. ORGANIZAÇÃO DO TRABALHO....................................................................................12
+2. ANALISE E ESCOLHA DAS TECNOLOGIAS.........................................................12
+2.1. RUBY ON RAILS ..........................................................................................................12
+2.2. CONTROLE DE VERSÃO................................................................................................13
+2.3. PERSISTÊNCIA DE DADOS ............................................................................................13
+3. ATIVIDADES COMPLEMENTARES...........ERRO! INDICADOR NÃO DEFINIDO.
+3.1. DESCRIÇÃO E DIAGRAMA DE CASOS DE USO ..............................................................17
+3.2. DIAGRAMA DE CLASSE ...............................................................................................20
+3.3. DIAGRAMA DE SEQUÊNCIA .........................................................................................21
+3.4. INTERFACES DO SISTEMA............................................................................................22
+4. PROGRAMAÇÃO..........................................................................................................24
+4.1. PLATAFORMATEC DEVISE...........................................................................................24
+4.2. BOOTSTRAP ................................................................................................................25
+4.2.1. O que é Bootstrap? .............................................................................................25
+4.2.2. Template .............................................................................................................25
+4.3. PRAWN........................................................................................................................26
+5. AVALIAÇÃO DO PROTÓTIPO ..................................................................................26
+5.1. MODELO BPMN.........................................................................................................26
+5.2. AVALIAÇÃO COM OS USUÁRIOS...................................................................................28
+5.3. CONCLUSÕES SOBRE O SISTEMA.................................................................................31
+6. CONSIDERAÇÕES FINAIS .........................................................................................32
+6.1. CAMINHOS TRILHADOS...............................................................................................32
+6.2. CONTRIBUIÇÕES PRIMÁRIAS .......................................................................................33
+6.3. OUTRAS CONTRIBUIÇÕES............................................................................................33
+6.4. DESAFIOS E LIMITAÇÕES.............................................................................................33
+6.5. A TRILHAR..................................................................................................................34
+7. REFERÊNCIAS ..............................................................................................................35
+10
+1. Introdução
+As atividades complementares nos cursos de ensino superior tem sido foco de algumas
+discussões. O parecer MEC CNE/CES 492/2001 define que atividades complementares têm a
+finalidade de enriquecer o processo de ensino-aprendizagem, privilegiando a complementação
+da formação social e profissional. O que caracteriza este conjunto de atividades é a
+flexibilidade de carga horária semanal, com controle do tempo total de dedicação do estudante
+durante o semestre ou ano letivo.
+São exemplos de atividades complementares: participação em cursos, eventos internos
+e externos à instituição de ensino superior, tais como: semana acadêmica, congressos,
+seminários, palestras, atividades de iniciação científica, assim como monitoria.
+O curso Superior em Bacharelado em Sistemas de Informações (BSI) do Instituto
+Federal Fluminense utiliza-se deste componente curricular na formação do seu egresso (IFF,
+2015). Porém todo o controle é realizado de forma manual, conforme detalhado adiante.
+Hoje em dia a tecnologia tem sido uma poderosa aliada para a implantação da gestão
+de processos de negócio. Através da tecnologia de automação dos processos, é possível tornar
+sua execução mais ágil e produtiva, otimizando os investimentos e trazendo para os usuários
+maior disponibilidade de tempo para gerenciar suas atividades sem se preocupar com
+atividades repetitivas de rotina e controle.
+Segundo Marques(2007), presidente do conselho de administração da Link
+Consulting, em uma entrevista feita pela Cadernos Link, “a automatização de processos é o
+caminho a seguir quando se pretende suportar melhor o negócio e controlar a complexidade e
+os custos da informática.”. Disse também que “A automatização de processos é uma
+designação abrangente que procura sintetizar a capacidade de definir e otimizar os processos
+de negócio e em seguida executá-los sobre as arquiteturas informáticas. Para precisar os
+termos que estou a utilizar é importante referir que a designação de processo de negócio não
+se limita à execução por computadores de atividades automáticas mas à visão mais abrangente
+de um processo de negócio que para além das atividades totalmente automáticas, realizadas
+por aplicações, bases de dados, etc., tem ampla intervenção de pessoas normalmente
+colaboradores da empresa, mas por vezes clientes ou parceiros”.
+1.1. Objetivo
+Desse modo, o objetivo principal deste trabalho, baseando-se na teoria da
+automatização de processos, é a criação de um sistema para melhorar as condições de
+gerenciamento de Atividades Complementares do curso superior de Bacharelado em Sistemas
+de Informação. Este trabalho propõe a implementação de um Sistema de Controle de
+Atividades Complementares para a coordenação do curso superior Bacharelado em Sistemas
+de Informação.
+Além do objetivo principal esta monografia define os seguintes objetivos específicos:
+11
+? Apresentar um Survey acerca das tecnologias utilizadas;
+? Modelar o Sistema de Controle de Atividades através de diagramas da UML;
+? Detalhar didaticamente as principais bibliotecas (gems) utilizadas na implementação
+do sistema proposto.
+1.2. Motivação e Justificativa
+Desenvolver um sistema não é uma tarefa trivial. Trata-se de um contrato de risco por
+parte de todos os stakeholders envolvidos durante processo: desde o levantamento dos
+requisitos até a implantação do mesmo.
+Segundo Ferreira(2006), sistemas de software têm desempenhado um papel cada vez
+mais abrangente e preponderante do cotidiano da vida de muitas pessoas, e em diversas
+ocasiões o funcionamento correto ou incorreto desses sistemas pode fazer a diferença entre
+uma estimativa de custo e o tempo gasto necessário para entregar o produto conforme os
+requisitos levantados no ato da confecção dos mesmos.
+A motivação para o trabalho proposto se faz mediante as condições atuais de envio das
+atividades complementares dos alunos da coordenação dos cursos superiores de informática
+do Instituto Federal Fluminense que são feitas de forma manual. Para tal está sendo proposto
+um sistema para ajudar tanto aos estudantes quanto ao coordenador que avalia as atividades
+de todos os alunos.
+1.3. Metodologia
+Segundo Sommerville(2003), existem diversos processos de desenvolvimento de
+software, dentre os quais para este trabalho se encontra dividido entre as seguintes fases:
+? Levantamento dos requisitos e das restrições;
+? Modelagem e estudo das tecnologias;
+? Analise da usabilidade das tecnologias escolhidas;
+? Analise e documentação do Projeto;
+? Projeto e implementação do Sistema;
+“A arquitetura de software consiste na definição de seus componentes, as propriedades
+externamente visíveis destes elementos e os relacionamentos entre eles enfatizando a
+separação de interesses.” (BASS, 2003).
+Para o propósito deste trabalho foram selecionadas e estudadas algumas tecnologias
+tais como: ROR como framework de desenvolvimento de aplicações Web, MySQL como
+persistência de dados e Git como controle de versão. Como plataforma e ambiente de
+desenvolvimento para o sistema proposto foi utilizado o sistema operacional Linux, para
+efetuar a implementação dos requisitos do sistema, levantados durante as reuniões ocorridas
+dentro do período letivo do Instituto Federal Fluminense, e com esse índice de requisitos
+levantados, tarefas foram criadas para se obter um melhor entendimento sobre os módulos que
+compõem o sistema.
+12
+Durante a etapa do Desenvolvimento foram criados e analisados alguns modelos de
+diagramas com base na UML 2.0 para compor um melhor entendimento de como o
+Atividades Complementares deveria se comportar.
+Segundo (OMG, 2005), o uso da UML é vantajoso, pois ela apresenta e representa um
+fácil entendimento sob situações diversas, proporciona diversas perspectivas de visualização e
+facilita a comunicação de todas as pessoas envolvidas no processo de desenvolvimento de um
+sistema de software.
+1.4. Organização do Trabalho
+Este trabalho está organizado segundo a seguinte forma:
+Capítulo 2 – Analise e Escolha das Tecnologias: Será realizado um pequeno survey a
+respeito das tecnologias escolhidas e utilizadas para compor e construir a aplicação.
+Capítulo 3 – Modelagem do Sistema e Elaboração do Protótipo: serão exibidos os
+diagramas e telas que explicam o funcionamento do sistema proposto.
+Capítulo 4 - Programação e principais gems
+Capítulo 5 – Avaliação do Protótipo
+Capítulo 6 – Conclusões.
+2.Analise e Escolha das Tecnologias
+Como parte da metodologia utilizada para o desenvolvimento do sistema proposto se
+fez necessário à utilização de ferramentas que agilizassem o trabalho e que possuam a
+capacidade de criação e organização das principais funcionalidades do projeto.
+Para isso foi escolhido pelo coordenador do curso e orientador deste trabalho as
+seguintes ferramentas:
+? Linguagem Ruby versão 2.1.5p273
+? Framework Rails 4.2.1
+? Controle de Versão GIT
+? SGBD MySQL 5.6
+? Modelagem UML 2.0 com ferramenta Astah
+2.1. Ruby on Rails
+Dentre as diversas ferramentas existentes no mundo do desenvolvimento de software,
+como linguagem de programação foi escolhida a Ruby com o Framework Rails.
+A linguagem Ruby foi escolhida pela facilidade de aprendizado, agilidade no
+desenvolvimento, por oferecer suporte para a implementação das funcionalidades necessárias
+ao funcionamento do sistema, além de ser totalmente open source.
+Também utilizamos o Rails, um framework do Ruby que é baseado na estrutura
+Model-View-Controller e oferece formas adicionais de se validar as informações, além de 
+13
+possuir diversos mecanismos automatizados que facilitam o desenvolvimento e a manutenção
+dos sistemas web (RUBY; THOMAS; HANSSON, 2013).
+Segundo (Márcio, 2014), o framework rails vem ganhando grande destaque na mídia
+especializada nos últimos anos. Muitos programadores e profissionais têm migrado de outras
+linguagens, atraídos cada vez mais pelas vantagens e também pela crescente demanda da mão
+de obra especializada. O uso de Rails no desenvolvimento oferece uma produtividade muito
+superior a outras linguagens de programação encontradas. Muito disso graças as ferramentas
+que o Ruby possui para geração de código (code generation) e também pelo forte incentivo à
+reutilização de código, que deixa o código limpo e otimizado.
+Neste projeto é utilizada a versão 2.2.1 do Ruby e 4.2.1 do Rails, além de diversas
+rubygems ou simplesmente gems como são conhecidas, que nada mais são que bibliotecas,
+plugins, conjuntos reusáveis de arquivos Ruby, onde suas dependências se localizam em um
+arquivo denominado. gemspec (AKITA, 2009).
+Neste projeto utilizamos algumas gems como: bootstrap para formatação, devise para
+autenticação e usamos a prawn para emissão de relatório em PDF. Como um dos objetivos
+deste trabalho é o aprendizado destas gems, o código correspondente ao seu funcionamento
+será detalhado no capítulo 4.
+2.2. Controle de versão
+Sistemas de controle de versão são ferramentas que permitem o armazenamento de
+aplicações e projetos, mantendo um repositório que contém todas as versões da aplicação.
+Esses sistemas fazem o controle das alterações de cada arquivo do projeto, detectando e
+mesclando as modificações feitas neles, além de identificar conflitos, tudo de forma
+automática (AQUILES, FERREIRA, 2014).
+O Git é um sistema de controle de versões distribuídas livre e de código aberto,
+projetado para lidar com qualquer projeto, desde o menor ao maior com rapidez e eficiência
+(CHACON, 2009).
+Criado em 2005 por Linus Torvalds, criador do Linux, o Git é um dos sistemas de
+versionamento mais utilizado em projetos de código aberto, e o escolhido para esse projeto
+pela facilidade do uso e aprendizado.
+Como repositório, foi escolhido o Bitbucket, que também é gratuito e permite que os
+membros do projeto visualizem de forma organizada e bem detalhada todos os commits e
+alterações feitas no projeto. O Bitbucket também possui recursos para criação de um wiki, que
+pode guardar a documentação e outras informações do projeto.
+2.3. Persistência de dados
+Para Mannimo (2008), Sistemas Gerenciadores de Banco de Dados se constitui em um
+conjunto de elementos, que dispõe de recursos que dão suporte à criação, manutenção e
+utilização de banco de dados. No princípio, os SGBDs proporcionavam somente o
+armazenamento e acesso eficiente de dados, porém, devido a exigências do mercado, eles
+evoluíram e atualmente são bastante completos, complexos, robustos e mesmo assim fáceis de
+manipular. Como demonstrado na Figura 1, os SGBDs servem de interface entre as aplicações 
+14
+e usuários para com os dados. Dessa forma o desenvolvedor não precisa se preocupar com
+detalhes do armazenamento. Date (2004) cita com uma das suas principais características a
+independência entre os dados e as linguagens de programação.
+FIGURA 1 - ESQUEMA DE UM SGBD SIMPLIFICADO
+Para este projeto foi escolhido o MySQL, que segundo a (Oracle, 2015) é o SGBD
+open source mais utilizado, principalmente por dar suporte a vários sistemas operacionais, ter
+uma ótima velocidade, ser confiável e fácil de administrar (Kofler,2007). O MySQL é um
+SGBD, que usa a linguagem SQL como interface, e foi criado em 1980 na Suécia por David
+Axmark, Allan Larsson e o finlandês Michael Widenius.
+3.Descrição do Sistema
+As Atividades Complementares indicadas na legislação compreendem práticas
+pedagógicas, que devem ser estimuladas para dar ênfase à necessidade de se reduzir o tempo
+em sala de aula, favorecendo o trabalho individual e em grupo dos estudantes. (CNE/CES,
+2002).
+No caso específico do Curso de Bacharelado em Sistemas de Informações do Instituto
+Federal Fluminense - campus Campos-Centro, um conjunto de regras foi descrita acerca do
+assunto e podem ser examinadas no portal do Instituto (IFF, 2015).
+Segundo as regras vigentes, no curso de Sistemas de Informação cada aluno deve
+contemplar uma carga horária de 360 horas de Atividades Complementares (AC).
+15
+As ACs visam estimular a ampliação do conhecimento e da formação dos alunos para
+além das fronteiras da sala de aula. Sendo este componente obrigatório, essa carga horária
+deve compor a carga horária máxima da Matriz Curricular do curso, totalizando estas 3600
+horas.
+Dentre as Atividades Complementares previstas para o curso, encontram-se: palestras,
+workshops, seminários ou congressos; bolsas de iniciação científica ou tecnológica; estágio
+em empresas; certificações; publicação de artigos, contabilizando, neste caso, a carga horária
+de participação na conferência; monitoria; aulas; publicação em periódico, onde a carga
+horária a ser contabilizada será decidida pelo Colegiado de acordo com a classificação do
+periódico; e visitas técnicas.
+Vale ressaltar que todas as atividades devem envolver temas ou tarefas na área do
+curso, ou seja, que façam uso dos conhecimentos adquiridos em disciplinas do curso. As
+Diretrizes Curriculares do curso de BSI definem o estágio com item opcional na área de
+Computação. Dessa forma, não deve constar na matriz curricular. Porém, pode compor a
+carga horária das Atividades Complementares.
+Para comprovar a execução das ACs, o aluno deve apresentar certificado
+comprovando a realização da atividade, sendo que esta deve ocorrer no período em que ele
+estiver matriculado no curso. O aluno pode começar a estagiar a partir do quarto período, uma
+vez que neste momento já terá concluído 25% da carga horária total do curso no que se refere
+às disciplinas obrigatórias. Casos omissos são analisados pelo Colegiado do curso.
+O Quadro 1 apresenta as atividades aceitas no computo das Atividades
+Complementares dos alunos.
+Quadro 1: Atividades Complementares aceitas pelo Curso Bacharelado Sistemas de Informação
+Grupo Paridade Limite
+ 1
+PARTICIPAÇÃO EM CURSO (OFICINA, MINICURSO, EXTENSÃO,
+CAPACITAÇÃO, TREINAMENTO) E SIMILAR, DE NATUREZA
+ACADÊMICA, PROFISSIONAL.
+1H = 1H 125H
+ 2
+MINISTRANTE DE CURSO DE EXTENSÃO, DE PALESTRA; DEBATEDOR
+EM MESA-REDONDA E SIMILAR.
+1H = 1H 70H
+ 3 ATIVIDADE DE MONITORIA DE, NO MÍNIMO, 38 HORAS. 1H = 1H 152H
+ 4
+ATIVIDADE ACADÊMICA OU DISCIPLINA NÃO APROVEITADA COMO
+CRÉDITOS NO CURSO (INCLUSIVE DISCIPLINAS CURSADAS EM
+OUTRAS UNIVERSIDADES)
+50H - 60H 180H
+ 5
+ATIVIDADE DE INICIAÇÃO CIENTÍFICA OU EQUIVALENTE DE, NO
+MÍNIMO, 150 HORAS.
+1H = 1H 125H
+ 6
+PUBLICAÇÃO DE ARTIGO CIENTÍFICO COMPLETO (ARTIGO
+EFETIVAMENTE PUBLICADO OU COM ACEITE FINAL DE PUBLICAÇÃO)
+EM PERIÓDICO.
+50H POR
+PUBLICAÇÃO
+150H
+ 7 PUBLICAÇÃO DE ARTIGO CIENTÍFICO OU RESUMO EM ANAIS DE 30H POR 90H
+16
+EVENTO CIENTÍFICO COMO AUTOR OU COAUTOR. PUBLICAÇÃO
+ 8
+PUBLICAÇÃO DE PRODUÇÃO AUTORAL (FOTO, ARTIGO,
+REPORTAGEM OU SIMILAR), EM PERIÓDICO OU SITE.
+20H POR
+PUBLICAÇÃO
+60H
+ 9
+ESTÁGIO NÃO OBRIGATÓRIO DE, NO MÍNIMO, 60 HORAS. 1H = 1H 125H
+ 10 AUTOR OU COAUTOR DE CAPÍTULO DE LIVRO. 50H POR
+PUBLICAÇÃO
+100H
+ 11
+PARTICIPAÇÃO EM CONCURSO ACADÊMICO. 10H POR
+INSCRIÇÃO E
+30H POR PRÊMIO
+80H
+ 12
+PARTICIPAÇÃO EM EVENTO (CONGRESSO, SEMINÁRIO, SIMPÓSIO,
+WORKSHOP, PALESTRA, CONFERÊNCIA, FEIRA) E SIMILAR, DE
+NATUREZA ACADÊMICA.
+1H = 1H 50H
+ 13
+SERVIÇO VOLUNTÁRIO DE CARÁTER SOCIOCOMUNITÁRIO,
+DEVIDAMENTE COMPROVADO, REALIZADO CONFORME A LEI 9.608
+DE 18/02/1998.
+1H = 1H 70H
+ 14
+APRESENTAÇÃO DE TRABALHO CIENTÍFICO (INCLUSIVE PÔSTER) EM
+EVENTO DE ÂMBITO REGIONAL, NACIONAL OU INTERNACIONAL,
+COMO AUTOR.
+10H POR
+APRESENTAÇÃO
+50H
+ 15 VIAGEM DE ESTUDO E VISITA TÉCNICA. 1 DIA = 6H 60H
+ 16 REALIZAÇÃO DE CURSO DE IDIOMA. 1H = 1H 125H
+ 17
+PARTICIPAÇÃO COMO OUVINTE, EM BANCA DE TRABALHO DE
+CONCLUSÃO DE CURSO DE GRADUAÇÃO, DISSERTAÇÃO DE
+MESTRADO E TESE DE DOUTORADO.
+1H POR BANCA 10H
+ 18 PARTICIPAÇÃO EM COMISSÃO ORGANIZADORA DE EVENTO E
+SIMILAR.
+10H POR EVENTO 10H
+ 19 EXERCÍCIO DE CARGO ELETIVO NA DIRETORIA DO DCE OU DO CA
+DO CURSO.
+20H POR
+EXERCÍCIO
+20H
+ 20 PARTICIPAÇÃO EM EQUIPE ESPORTIVA DO IFF. 20H POR
+SEMESTRE
+40H
+ 21
+CERTIFICAÇÃO PROFISSIONAL NA ÁREA DO CURSO. 30H POR
+CERTIFICAÇÃO
+90H
+O sistema proposto busca contemplar um meio rápido e eficaz para os alunos
+solicitarem uma avaliação para suas atividades complementares para conclusão de horas
+curriculares. Ao enviar as atividades para o sistema, estas serão avaliadas de acordo com os
+tipos de modalidades permitidas pela instituição citadas no Quadro 1.
+O sistema de atividades complementares é composto por três módulos básicos:
+? Módulo Aluno: Cada aluno ao acessar o sistema, visualizará um histórico contendo
+todas as suas avaliações. Eles poderão imprimir este histórico de atividades avaliadas;
+Durante o cadastro de uma nova atividade, o aluno logado no sistema, deverá informar 
+17
+o nome da atividade, escolher dentre as categorias previamente cadastradas pelo
+administrador a modalidade ao qual a atividade decorrente se encaixa e por final a
+quantidade de horas recebidas no comprovante desta atividade. Nesta solicitação ele
+deverá anexar um comprovante seja em: .pdf ou jpg, .png, ou ainda .doc. Para cada
+atividade avaliada um somatório é gerado para que o aluno possa acompanhar suas
+horas obtidas.
+? Módulo Administrador: possui a habilidade de manter os alunos; manter os
+avaliadores; manter os tipos de atividades aceitas pelos sistemas; visualizar todas as
+avaliações realizadas e a realizar; atribuir uma avaliação a um determinado avaliador.
+? Módulo Avaliador: os avaliadores visualizarão apenas as avaliações a eles designadas.
+Podendo ver todos os dados da atividade, inclusive seus anexos. Por fim, eles deverão
+registrar um quantitativo das horas merecidas pela aquela atividade não sendo
+necessariamente de acordo com a tabela de horas por atividade. Caso o avaliador não
+possa realizar a avaliação o administrador alterará o destino da avaliação, passando
+assim para outro avaliador que estiver disponível. Assim que o somatório das horas de
+todas as atividades complementares avaliadas de um aluno alcançarem o máximo
+permitido de 360 horas, o avaliador deverá imprimir o histórico de suas atividades
+complementares, e deverá encaminhar ao coordenador do curso para validação e logo
+após entregar ao funcionário do registro acadêmico.
+Para descrever melhor o funcionamento do Sistema optou-se pelos diagramas de UML
+2.0. Os seguintes diagramas foram escolhidos para representar o sistema: Diagrama de Caso
+de Uso, Diagrama de Classes e Diagrama de Sequência; os quais serão apresentados a seguir.
+3.1. Descrição e Diagrama de Casos de Uso
+A Figura 2 apresenta o Diagrama de Casos de Uso. Pode-se observar a presença dos
+principais atores: Usuário, Aluno, Avaliador, Administrador e Registro Acadêmico (RA) e as
+principais tarefas executadas pelo sistema (elipses amarelas). A seguir serão detalhados os
+casos de uso considerados mais críticos em nível de funcionalidades, para tal, será utilizado à
+ferramenta "Descrição de Casos de Uso" da UML.
+18
+FIGURA 2: DIAGRAMA DE CASO DE USO
+19
+FIGURA 3: DESCRIÇÃO DE CASO DE USO
+Cadastro do Avaliador
+Ator Administrador
+Objetivo Ator cadastra avaliadores no site
+Pré
+Condição
+Administrador deve estar logado.
+Fluxo
+Principal
+1. Administrador escolhe opção Cadastrar Avaliador
+2. Aplicação apresenta formulário de cadastro
+3. Administrador preenche os dados
+4. Administrador confirma os dados
+5. Aplicação apresenta confirmação de cadastro efetuado
+Fluxo Alternativo 1. No passo 5 a mensagem “Cadastro Existente” é apresentada
+2. A aplicação retorna ao passo 2.
+Exceções Cadastro não é confirmado se informações forem inválidas.
+Garantia
+de
+Sucesso
+(ou PósCondiçã
+o)
+Avaliador Cadastrado com sucesso e pronto para começar a avaliar
+atividades.
+20
+3.2. Diagrama de Classe
+FIGURA 4: DIAGRAMA DE CLASSE
+21
+3.3. Diagrama de Sequência
+FIGURA 5: DIAGRAMA DE SEQUÊNCIA
+22
+3.4. Interfaces do Sistema.
+Na sessão a seguir estão algumas interfaces do sistema em sua fase beta, exibindo
+algumas das principais funções que o aluno e o avaliador possuem no sistema. A figura 6
+apresenta o formulário base do cadastro de atividades com suas respectivas datas de inicio e
+de fim. E logo em seguida, após o aluno informar tais dados, ele deverá adicionar
+modalidades e a quantidade de horas adquiridas em tal modalidade como mostra a figura 7.
+Para uma atividade ser avaliada no sistema de atividades complementares, é obrigatório que
+seja inserido um comprovante de participação do evento, podendo ser em: .doc, .pttx, .png,
+.jpeg.
+FIGURA 6: CADASTRO DE ATIVIDADE
+FIGURA 7: ADICIONAR MODALIDADE À ATIVIDADE
+23
+Após existirem atividades cadastradas, o administrador do sistema, pode seleciona-las
+na lista de atividades em espera e designa-las para que um determinado avaliador possa
+averiguar se tal ou determinadas atividades valem o total de horas informado pelos alunos no
+ato do cadastro das atividades. Ao enviar atividades para avaliação um alerta é enviado, via email
+tanto para o aluno quanto para o avaliador que irá apurar as horas das atividades. Da
+mesma forma quando uma ou mais atividades são avaliadas cada uma com sua respectiva
+carga-horaria informada pelo avaliador, uma mensagem é enviada via e-mail para informar ao
+aluno correspondente que sua atividade já foi avaliada, e esse quantitativo de horas também
+pode ser visualizado diretamente no sistema na página do histórico de atividades.
+FIGURA 8: DESIGNAR ATIVIDADE PARA O AVALIADOR
+FIGURA 9: AVALIAR ATIVIDADE
+24
+4.Programação
+4.1. Plataformatec Devise
+Em ROR já é possível encontrar muitas gems para auxiliar no desenvolvimento de
+sistemas e aplicações como blogs, sites etc. Para facilitar a busca pelas gems existe um site
+de busca https://rubygems.org que pode ser utilizado como referencia para busca das
+maiores e principais gems que todo desenvolvedor ROR provavelmente irá utilizar em seus
+projetos.
+Um dos principais focos para se concretizar o pleno funcionamento da aplicação de
+modo que cada usuário possa logar em sua conta no sistema de forma independente, foi à
+utilização de algum meio de autenticação. Para tal escolhemos a gem devise da
+plataformatec que se mostrou bastante eficiente e eficaz no que diz respeito à manutenção da
+sessão do usuário no sistema. Sua documentação é bastante eficiente e pode ser encontrada
+no repositório https://github.com/plataformatec/devise.
+Segundo Kehoe (2014), quase todas as aplicações web precisam de um sistema de
+autorização, caso haja partes que sejam restritas para alguns usuários. A maioria dos web-sites
+possuem regras de restrição; ou seja grupo de usuários com privilégio. As aplicações web
+verificam se o usuário possui acesso à determinada parte do sistema.
+A Devise além de ser fácil de manipular é totalmente customizável, a tornando
+praticamente uma grande fonte de desenvolvimento rápido sem muito esforço. Ela é
+responsável pelo cadastro, validade e envio de e-mail controlando todo o acesso ao sistema.
+FIGURA 10: USO DO REGISTRATIONSCONTROLLER DA DEVISE
+25
+O RegistrationController é o controller base da devise que permite operações de um
+CRUD básico. Podendo ser totalmente customizado de acordo com a necessidade do
+desenvolvedor. Neste trecho de código acima se pode reparar o controller
+RegistrationController composto pelo módulo Aluno que consequentemente está herdando de
+Devise::RegistrationsController. O método configure_permitted_parameters é um método
+base da gem que neste caso está sendo sobrescrito para acoplar os parâmetros do módulo em
+questão de acordo com a action.
+Em Ruby On Rails há muitos métodos como devise_parameter_sanitizer tipico da
+devise que ao herdar de sua super classe automaticamente se tem acesso a ele, podendo ser
+alterado, ou simplesmente só reutilizado, conforme a documentação da gem.
+4.2. Bootstrap
+4.2.1. O que é Bootstrap?
+Bootstrap é um framework que facilita ao desenvolvedor criar bons layouts para
+websites ou aplicações web. Existem classes predefinidas de css para criar componentes
+comuns tais como widgets, forms, elementos etc. O framework também conta com vasta
+biblioteca javascrit que tornam ainda mais fácil o desenvolvimento de aplicações através de
+modal, popover, tooltip etc. Sua documentação é muito profunda e abrangente, fornecendo
+exemplos variados de código para a maioria se não de todos os componentes que o Bootstrap
+possui, podendo ser encontrada no repositório https://github.com/twbs/bootstrap-sass.
+Por ser totalmente feito utilizando HTML/Javascript/CSS, o Bootstrap é amplamente
+customizável e adaptável, dando liberdade ao desenvolvedor para criar o layout que desejar a
+partir da base fornecida pelo framework, principalmente se for levada em consideração a
+possibilidade de integração com outros frameworks e ferramentas, o que o torna uma ótima
+escolha para qualquer aplicação MVC.
+4.2.2. Template
+Ao criar uma aplicação ROR, por padrão à mesma vem com o gerenciador de layout
+padrão o ERB (Ruby encorporado), um recurso Ruby, que permite ao desenvolvedor gerar
+convenientemente, qualquer tipo de texto em qualquer quantidade, a partir de modelos. Os
+modelos combinam-se da escrita de HTML com código Ruby, para a substituição de variáveis
+de fluxo, o que torna mais fácil de escrever e manter. Embora o ERB, seja comumente
+utilizado para gerar HTML na maioria dos casos, é possível ainda gerar, documentos XML,
+RSS feeds, entre outras formas de arquivo estruturado. Apesar de o ERB vir por padrão como
+gerenciador de template, existem outros gerenciadores de template tais como: Slim-Rails e
+HAML. 
+26
+Figura 11 - ERB com bootstrap e código ruby embutido.
+4.3. Prawn
+Prawn é uma biblioteca ruby de fácil manuseio para geração de arquivos, relatórios em
+PDF com o mínimo possível de esforço. Fornecendo uma documentação extensa para o
+desenvolvedor, além de possuir uma sintaxe simplificada para uma configuração rápida e
+eficiente, dependendo da situação desejada, tornando a Prawn uma ótima e apropriada
+solução para geração de relatórios entre outros artefatos.
+Segundo Vieira(2011), Trabalhar com PDF é um problema em quase todas as
+linguagens. Existem mais alternativas, mas quase sempre o processo é trabalhoso ou as
+ferramentas são caras demais. E foi justamente pensando em resolver este problema que o
+Gregory Brown criou a Prawn, com o fator de ser extremamente simples de usar, muito
+rápida e completa e eficiente. Assim como as outras gems sua documentação pode ser
+encontrada em seu repositório https://github.com/prawnpdf/prawn além de um arquivo pdf
+com dados considerados importantes para a construção é encontrado em
+http://prawnpdf.org/manual.pdf.
+5.Avaliação do Protótipo
+5.1. Modelo BPMN
+Assim como temos a UML como uma notação padrão para modelagem orientada a
+objetos, o BPMN (Business Process Modeling Notation) é uma notação padrão que representa
+processos de negócios por meio de diagramas. Escolhemos utilizar esta notação
+principalmente pela facilidade de entendimento, o que é uma característica marcante do
+BPMN. Os diagramas abaixo representam o processo de entrega e avaliação das atividades
+complementares, tanto do modo manual como através do sistema de atividades
+complementares implementado por nosso grupo (OMG, 2011).
+27
+A razão da escolha deste tema foi a mudança no processo de submissão e avaliação
+das atividades complementares. O objetivo foi que o sistema passasse do método manual para
+algo um pouco mais otimizado e rápido, evitando a necessidade de xerox dos comprovantes e
+entrega física (em papel) destes na coordenação.
+Antes da implementação do sistema o aluno teria que imprimir o certificado de horas
+complementares e entregar na coordenação. O coordenador avaliava os certificados entregues
+e verificava se o aluno já havia completado às 360 horas, caso não houvesse completado às
+360 horas o coordenador arquivava o certificado até que o aluno completasse as horas
+exigidas. Após o aluno completar às 360 horas o coordenador lançava as horas no Registro
+Acadêmico e deixava arquivado todos os certificados entregue pelo aluno, como mostra a
+figura 13.
+Figura 12 - BPMN - Controle de fluxo manual da entrega das atividades complementares
+Após a implementação do sistema o aluno se cadastra no sistema e adiciona os
+certificados de horas complementares no sistema. O sistema envia o certificado ao avaliador
+que realiza a avaliação dos certificados. Após o aluno completar as 360 horas exigidas o
+sistema envia uma notificação ao avaliador que lança as horas no Registro Acadêmico,
+representado na figura 14.
+28
+Figura 13 - BPMN - Controle de fluxo automatizado pelo sistema de atividades Complementares.
+5.2. Avaliação com os usuários
+Uma vez construído o novo sistema e tendo em mente uma pesquisa de campo foi
+realizada para evidenciar os seguintes aspectos:
+? Praticidade
+? Eficiência
+? Disponibilidade do método de entrega e avaliação
+? Facilidade de Execução
+? Avaliação do sistema como um todo
+No que diz respeito a essa pesquisa, foram elaboradas duas questões de múltipla
+escolha avaliando ambas as metodologias, manual ou pelo sistema, na seguinte escala:
+1. Muito Ruim
+2. Ruim
+3. Regular
+4. Bom
+5. Muito Bom
+Os itens abaixo estão numerados de 1 a 10, sendo os 5 primeiros referentes ao modo
+de entrega manual das atividades e os 5 últimos referentes à utilização do sistema, com os
+gráficos representando o resultado da avaliação de cada um.
+29
+Considerando a entrega de suas Atividades Complementares executada de forma
+manual pela coordenação, avalie os seguintes quesitos:
+30
+Figura 14 - Avaliação do método manual.
+Considerando a entrega de suas Atividades Complementares executada de forma
+automatizada pelo sistema, avalie os seguintes quesitos:
+ 
+31
+Figura 15 - Avaliação do método automatizado.
+5.3. Conclusões Sobre o Sistema
+Foi identificado que a maioria dos usuários percebeu uma melhoria no processo, com
+relação ao método anterior. Após a pesquisa, foi feita uma entrevista coletiva com os usuários,
+a maioria deles teceram elogios com relação ao novo Sistema de Atividades Complementares.
+Mesmo assim, avaliações negativas foram também relatadas e são citadas abaixo:
+? Site lento;
+? Demora no recebimento do email de confirmação de cadastro;
+? Sistema fora do ar;
+32
+Nenhuma das avaliações negativas teve como foco as funcionalidades no novo
+Sistema e sim a indisponibilidade ou lentidão dos serviços. O sistema é hospedado pelo setor
+de TI do Campus Campos Centro. Esse setor informou que durante o mês de dezembro,
+houve um fluxo alto de uso dos portais por ele hospedados, ocasionando as devidas falhas.
+Eles corrigiram as falhas através do alocamento de mais CPU e Memória RAM ao servidor
+que hospeda este serviço. Os coordenadores que também utilizam o sistema para validação
+das "Atividades Enviadas" foram entrevistados e afirmaram que os problemas foram
+realmente sanados.
+6. Considerações Finais
+“Realiza o teu trabalho. Não desconsideres a crítica que te aperfeiçoa o esforço, mas não consintas que ela te
+paralise a ação. Não cogites de grande feitos. Simplesmente, cumpres da melhor maneira possível, o dever que
+te cabe. Tua tarefa, pequenina embora, é tua maior benção. É por ela que passo a passo, palmilhas a senda que
+te conduz aos Páramos Superiores..”
+Carlos A. Baccelli
+Dias Melhores 2004 (pág. 185)
+A principal contribuição deste trabalho é a criação de um sistema para melhorar as condições
+de gerenciamento de Atividades Complementares do curso superior de Bacharelado em
+Sistemas de Informação. Este trabalho propõe a implementação de um Sistema de Controle de
+Atividades Complementares para a coordenação do curso superior de Bacharelado em
+Sistemas de Informação. Para isso algumas ferramentas de desenvolvimento foram estudadas
+e utilizadas:
+? Linguagem Ruby versão 2.1.5p273
+? Framework Rails 4.2.1
+? Controle de Versão GIT
+? SGBD MySQL 5.6
+? Modelagem UML 2.0 com ferramenta Astah
+O estudo destas ferramentas serviu de guia para o caminho trilhado. Os frutos deste
+caminho, suas principais contribuições, suas limitações são o tema deste capítulo.
+6.1. Caminhos Trilhados
+ Este trabalho fez parte de um projeto de Apoio Tecnológico da Coordenação de
+Informática. Seu foco principal é automatizar tarefas hoje designadas aos coordenadores. O
+trabalho traçou um caminho que percorreu por diversas áreas de conhecimento:
+? Análise de Sistemas - contribuindo com as metodologias de conhecimento do
+problema (sistema) e a modelagem do sistema com ferramentas apropriadas;
+? Modelagem de Processo de Negócio, embasando o processo de automatização;
+? Linguagens de Programação, através do uso de ferramentas computacionais de
+desenvolvimento de sistemas;
+33
+? Desenvolvimento Web, fornecendo conhecimento necessário para o desenvolvimento
+de portais, sites e sistemas apropriados para o estudo de caso em questão;
+? Projeto Orientado a Objetos, de onde o padrão de projeto MVC, utilizado no projeto, é
+originário;
+? Segurança de Sistemas, contribuindo com medidas e soluções para que o sistema
+tenha a robustez e segurança necessária;
+Além do objetivo principal este projeto realizou os seguintes objetivos específicos:
+? Apresentou um Survey acerca das tecnologias utilizadas;
+? Modelou o Sistema de Controle de Atividades através de diagramas da UML;
+? Detalhou didaticamente as principais bibliotecas (gems) utilizadas na implementação
+do sistema proposto.
+6.2. Contribuições Primárias
+ Fim do trabalho, volta-se ao objetivo que o norteou:
+Desenvolver um Sistema de Atividades Complementares?
+ A resposta está postada no site "http://inf.centro.iff.edu.br/ativ". Neste endereço está
+em funcionando em produção, à 5 meses o sistema de atividades complementares.
+Aproximadamente 14 alunos já o utilizaram para submeter seus comprovantes de atividades
+complementares. A coordenação do curso de Bacharelado em Sistemas Informações do IFF,
+aprovou este processo e desde dezembro, o utiliza como único meio de interação entre os
+alunos e os avaliadores para o controle das Atividades Complementares.
+6.3. Outras Contribuições
+ Além dos objetivos primários alcançados, este trabalho trouxe outras contribuições, as
+quais podem citar:
+? Analise e Escolha das Tecnologias.
+? Modelagem do Sistema e Elaboração do Protótipo, apresentando os diagramas e telas
+que explicam o funcionamento do sistema proposto.
+? Programação destacando as Gems Bootstrap, Devise e Prawn.
+? Avaliação do Protótipo, exibindo as percepções dos usuários acerca do sistema
+construído;
+6.4. Desafios e Limitações
+ Por ser de cunho interdisciplinar este trabalho incorreu em dificuldades de ordem
+metodológica, teórica e prática. As quais são destacadas:
+? Grande dificuldade na instalação do projeto no servidor: o setor de tecnologia do IFF
+campus Campos centro, criou uma máquina virtual com o Linux 14.04 e acesso via 
+34
+ssh, onde o grupo instalou as ferramentas necessárias para hospedagem do sistema.
+Inicialmente houveram problemas de performance e estabilidade, já corrigidos.
+? Bloqueio dos emails enviados: o envio de email também enfrentou problemas pois o
+firewall o bloqueava, este problema também já foi corrigido.
+? Pouca bibliografia acerca de "deploy" com Gems.
+? Período curto de testes: os testes só podem ser realizados ao final de um período
+letivo, fazendo com que qualquer problema no projeto o adiasse até o próximo final de
+semestre letivo.
+6.5. A Trilhar
+ Os resultados obtidos neste trabalho já influenciam a dinâmica de trabalho da
+Coordenação do Curso de Sistemas de Informações do Instituto Federal Fluminense. Mesmo
+assim, foram relatadas algumas melhorias que fogem do escopo do atual projeto e são aqui
+consideradas como trabalhos futuros:
+? Documentação do processo de montagem do servidor, deploy da aplicação e tuning da
+mesma.
+? Alteração no sistema para prever a possibilidade de enviar mais de um comprovante
+para a mesma atividade;
+? Provimento de um sistema de envio de mensagens entre os usuários do sistema,
+principalmente entre o avaliador e o aluno.
+? Construção de um aplicativo para que o aluno possa submeter e acompanhar o status
+de suas atividades complementares.
+? Integração do Sistema de Atividades Complementares com o Sistema Acadêmico,
+com o lançamento automático do conceito.
+35
+7.Referências
+Aquiles, A.; Ferreira, R. Controlando versões com Git e Github. Casa do Código, 2014.
+Akita, Fabio, 2009 . Entendendo Ruby Gems
+<http://www.akitaonrails.com/2009/2/2/entendendo-rubygems#.VWz7bM9VhBc>, Acesso
+em 01/06/2015.
+Bass L; Clements P; Kazman R. Software Architecture in Practice, Second Edition, 2003.
+Chacon S. , Pro Git. Acesso em “data aqui”. <http://ramgarlic.net/ebooks/pro-gitchacon.pdf>.
+2009.
+CNE/CESnº 492/2001 Atividades Complementares, Disponível em:
+<http://portal.mec.gov.br/index.php?option=com_content&view=article&id=14384:pergunt
+as-frequentes-sobre-educacao-superior&catid=127&Itemid=230> Acesso em 31 de Março
+de 2015.
+Date, C.J. Introdução a sistemas de Bancos de dados. 2004.
+Direção de Ensino Superior Cordenação do Curso Superior de Tecnologia em
+Informática, Disponível em: <http://portal1.iff.edu.br/nossos-campi/itaperuna/cursos/nivelsuperior-bacharelado/sistemas-de-informacao/atividades-complementares.pdf>
+Acessado em
+1 de Abril de 2015.
+Ferreira L. A Metodologia de Desenvolvimento de Software
+<http://www.devmedia.com.br/metodologia-de-desenvolvimento-de-software/1903>
+Acesso em 30 de Março de 2015.
+Kehoe, Daniel - Rails Authorization - role based authorization. Acesso em 08/09/2015
+<http://railsapps.github.io/rails-authorization.html>.
+Kofler, M. What are the top MySQL features? What is MySQL?. Acesso em 17 de junho
+de 2015. <http://searchitchannel.techtarget.com/feature/What-are-the-top-MySQL-featuresWhat-is-MySQL>.
+Mannino, M. V. Projeto, desenvolvimento de aplicações de banco de dados. 3ed. São
+Paulo: McGraw-Hill, 2008.
+Márcio M, Porque usar Rails. Acessado em 09 de Junho de 2015.
+<http://caixadeideias.com.br/blog/por-que-usar-rails>.
+Marques J. A. Automatização de Processos, Disponível em:
+<http://www.link.pt/upl/%7Bd6dfd44a-3c8a-43ec-9276-9a1bb4baa4f9%7D.pdf> Acesso
+em 30 de Março de 2015.
+36
+OMG, 2011 - Business Process Model and Notation (BPMN) - Version 2.0. Acesso em
+19/04/2016 <http://www.omg.org/spec/BPMN/2.0/PDF>.
+OMG. OCL 2.0 Specification. 2005.
+Oracle, Oracle and Open Source. Acesso em 17 de Junho de 2015.
+<http://www.oracle.com/us/technologies/open-source/overview/index.html>.
+Resolução CNE/CES 11, de 11 de Março de 2002, 2002.
+<http://portal.mec.gov.br/cne/arquivos/pdf/CES112002.pdf> Acesso em 01 de Julho de
+2015.
+Ruby, S.; Thomas, D.; Hansson, D.H. Agile Web Development with Rails, 4th ed. Pragmatic
+Bookshelf, 2010.
+Sommervile, A. Introdução à Engenharia de Software. Editora Addison-Wesley. 592p,
+2003.
+Stuart Ellis, 2015 - An Introduction to ERB Templating. Acesso em 20/01/2016
+<http://www.stuartellis.eu/articles/erb/>.
+Vieira, Nando, 2011 - Gerando PDF no Ruby com Prawn. Acesso em 09/11/2015
+<https://nandovieira.com.br/gerando-pdfs-no-ruby-com-prawn>.
