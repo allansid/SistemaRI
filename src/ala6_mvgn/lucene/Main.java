@@ -12,6 +12,7 @@ public class Main {
 	private static Scanner input = new Scanner(System.in);
 	private static boolean stopword = false;
 	private static boolean stemming = false;
+	private static int totalHits = 0;
 
 	public static void createIndex() throws IOException {
 		IndexFiles indexer = new IndexFiles(stopword, stemming);
@@ -21,10 +22,10 @@ public class Main {
 		System.out.println(numIndexed + " indexed files");
 	}
 
-	public static void search(String query) throws IOException, ParseException {
+	public static int search(String query) throws IOException, ParseException {
 
 		SearchFiles searcher = new SearchFiles(query, stopword, stemming);
-		searcher.searcher(indexDirectoryPath); // onde foram salvo os indexados
+		return searcher.searcher(indexDirectoryPath); // onde foram salvo os indexados
 	}
 
 	public static void loadInfo() {
@@ -55,6 +56,21 @@ public class Main {
 
 		return input.nextInt();
 	}
+	
+	public static void calculateRelevance() {
+		System.out.println("Enter total relevant documents of base: ");
+		int totalDocsOK = input.nextInt();
+		System.out.println("Enter number relevant documents found: ");
+		int docsOK = input.nextInt();
+		System.out.println("Avaliation:");
+		double p = (double) docsOK/totalHits;
+		double c = (double) docsOK/totalDocsOK;
+		double f = (double) 2*p*c/(p+c);
+		
+		System.out.println("Precision: " + p);
+		System.out.println("Recall: " + c);
+		System.out.println("F-measure: " + f);
+	}
 
 	public static void main(String[] args) throws IOException, ParseException {
 		loadInfo();
@@ -64,7 +80,9 @@ public class Main {
 		System.out.println("Enter your query:");
 		String query = input.nextLine();
 
-		search(query);
+		totalHits = search(query);
+		
+		calculateRelevance();
 
 		input.close();
 	}

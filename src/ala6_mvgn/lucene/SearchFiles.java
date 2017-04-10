@@ -63,7 +63,7 @@ public class SearchFiles {
 	}
 
 	
-	public void searcher(String indexDirectoryPath) throws IOException, ParseException {
+	public int searcher(String indexDirectoryPath) throws IOException, ParseException {
 		Path p = Paths.get(indexDirectoryPath);
 		Directory d = FSDirectory.open(p);
 		IndexReader ir = DirectoryReader.open(d);
@@ -110,6 +110,8 @@ public class SearchFiles {
 		}
 		
 		printResult();
+		
+		return hits.scoreDocs.length;
 	}
 
 	public void printResult() throws IOException {
