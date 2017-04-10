@@ -76,7 +76,7 @@ public class IndexFiles {
 		try {
 			Directory d = FSDirectory.open(p);
 			
-			Analyzer analyzer = getAnalyzer(false, true);
+			Analyzer analyzer = getAnalyzer(stopword, stemming);
 			
 			IndexWriterConfig iwc = new IndexWriterConfig(analyzer);
 			writer = new IndexWriter(d, iwc);

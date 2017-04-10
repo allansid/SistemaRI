@@ -4,6 +4,7 @@ import java.io.IOException;
 import java.nio.file.Path;
 import java.nio.file.Paths;
 import java.util.Collections;
+import java.util.StringTokenizer;
 
 import org.apache.lucene.analysis.Analyzer;
 import org.apache.lucene.analysis.CharArraySet;
@@ -15,6 +16,9 @@ import org.apache.lucene.index.IndexReader;
 import org.apache.lucene.index.Term;
 import org.apache.lucene.queryparser.classic.ParseException;
 import org.apache.lucene.queryparser.classic.QueryParser;
+import org.apache.lucene.search.BooleanClause;
+import org.apache.lucene.search.BooleanQuery;
+import org.apache.lucene.search.BooleanQuery.Builder;
 import org.apache.lucene.search.IndexSearcher;
 import org.apache.lucene.search.PhraseQuery;
 import org.apache.lucene.search.Query;
@@ -66,19 +70,45 @@ public class SearchFiles {
 		indexSearch = new IndexSearcher(ir);
 	
 		Analyzer analyzer = getAnalyzer();
-
-//		PhraseQuery phraseQuery = new PhraseQuery(1,"contents", "julgamento", "deve", "ocorrer");
-//		
-//		hits = indexSearch.search(phraseQuery, 10);	
-		QueryParser queryParser = new QueryParser("contents", analyzer);
 		
-		Term term = new Term("contents", query); 
-		Query termQuery = new TermQuery(term);
 		
-		Query query = queryParser.parse(this.query);
+		if(query.startsWith("\"")){
+			String str = query.substring(1, query.length()-1);
+			String[] terms = str.split("\\s");
+			PhraseQuery phraseQuery = new PhraseQuery(1,"contents", terms);
+			hits = indexSearch.search(phraseQuery, 30);	
+		} else if(query.contains("and ") || query.contains("not")) {
+			Builder builderQuery = new BooleanQuery.Builder();
+			StringTokenizer tokenizer = new StringTokenizer(query);
+					
+			while(tokenizer.hasMoreTokens()){
+				String str = tokenizer.nextToken();
+				Term term; 
+				Query q;
+				if(str.equals("not")){
+					str = tokenizer.nextToken();
+					term = new Term("contents",str);
+					q = new TermQuery(term);
+					builderQuery.add(q, BooleanClause.Occur.MUST_NOT);
+				}else {
+					if(str.equals("and")){
+						str = tokenizer.nextToken();
+					}
+					term = new Term("contents", str); 
+					q = new TermQuery(term);
+					builderQuery.add(q, BooleanClause.Occur.MUST);
+				}
+			}
+			
+			hits = indexSearch.search(builderQuery.build(), 30);
+		} else {
+			QueryParser queryParser = new QueryParser("contents", analyzer);
+			
+			Query query = queryParser.parse(this.query);
+			
+			hits = indexSearch.search(query, 30);
+		}
 		
-		hits = indexSearch.search(query, 30);	
-
 		printResult();
 	}
 

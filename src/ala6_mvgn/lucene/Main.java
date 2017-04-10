@@ -7,7 +7,7 @@ import org.apache.lucene.queryparser.classic.ParseException;
 
 public class Main {
 
-	private static String indexDirectoryPath;// "C:\\Users\\Milton\\Documents\\Mineração Web\\Tarefa 1\\index";
+	private static String indexDirectoryPath = "C:\\Users\\Milton\\Documents\\Mineração Web\\Tarefa 1\\index";
 	private static String path;
 	private static Scanner input = new Scanner(System.in);
 	private static boolean stopword = false;
