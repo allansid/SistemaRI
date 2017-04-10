@@ -29,6 +29,7 @@ import org.apache.lucene.store.Directory;
 import org.apache.lucene.store.FSDirectory;
 
 public class SearchFiles {
+	
 	private boolean stopword;
 	private boolean stemming;
 	private String query;
@@ -40,6 +41,7 @@ public class SearchFiles {
 		this.stemming = stemming;
 		this.query = query;
 	}
+	
 	
 	private Analyzer getAnalyzer() {
 		Analyzer analyzer = null;
@@ -62,7 +64,6 @@ public class SearchFiles {
 		return analyzer;
 	}
 
-	
 	public int searcher(String indexDirectoryPath) throws IOException, ParseException {
 		Path p = Paths.get(indexDirectoryPath);
 		Directory d = FSDirectory.open(p);
@@ -125,24 +126,46 @@ public class SearchFiles {
 		}
 	}
 
+	
 
 	public boolean isStopword() {
 		return stopword;
 	}
 
-
 	public void setStopword(boolean stopword) {
 		this.stopword = stopword;
 	}
-
 
 	public boolean isStemming() {
 		return stemming;
 	}
 
-
 	public void setStemming(boolean steamming) {
 		this.stemming = steamming;
+	}
+
+	public String getQuery() {
+		return query;
+	}
+
+	public void setQuery(String query) {
+		this.query = query;
+	}
+
+	public IndexSearcher getIndexSearch() {
+		return indexSearch;
+	}
+
+	public void setIndexSearch(IndexSearcher indexSearch) {
+		this.indexSearch = indexSearch;
+	}
+
+	public TopDocs getHits() {
+		return hits;
+	}
+
+	public void setHits(TopDocs hits) {
+		this.hits = hits;
 	}
 	
 }
