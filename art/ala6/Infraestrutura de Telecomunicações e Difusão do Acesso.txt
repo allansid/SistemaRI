@@ -1,0 +1,513 @@
+Bolaño et al. Infraestrutura de Telecomunicações e Difusão do Acesso no Brasil
+Anais da VI Conferência ACORN-REDECOM, Valparaiso (Chile), 17-18 de maio de 2012 211
+Infraestrutura de Telecomunicações e Difusão do Acesso
+no Brasil
+César Ricardo Siqueira Bolaño
+Universidade Federal de Sergipe (UFS-Brasil)
+bolano@ufs.br
+Diego Araujo Reis
+Universidade Federal de Sergipe (UFS-Brasil)
+diegoaraujoreis@hotmail.com
+BIOGRAFIAS
+César Ricardo Siqueira Bolaño: Jornalista formado pela Universidade de São Paulo (USP). Doutor em Economia pela
+Universidade Estadual de Campinas (UNICAMP). Professor Adjunto IV da UFS. Atual presidente da Associação Latinoamericana
+de Investigadores da Comunicação (ALAIC). Coordena a rede internacional de Economia Política das Tecnologias
+da Informação e da Comunicação (EPTIC) o site EPTIC e a revista EPTIC ON LINE.
+Diego Araujo Reis: Economista formado pela UFS. Mestrando em Desenvolvimento Regional pelo Programa de PósGraduação
+em Economia da UFS. Bolsista de Mestrado FAPITEC/SE e pesquisador voluntário do Observatório de Economia
+e Comunicação (OBSCOM).
+RESUMO
+Em 2010 o Brasil instituiu o Plano Nacional de Banda Larga (PNBL), com o objetivo de massificar o acesso à internet em
+banda larga até 2014. Para tanto, é necessário que a maioria tenha condições de acesso, o que constitui um problema para o
+Brasil, devido à alta concentração de renda. O objetivo deste trabalho é avaliar os esforços do governo brasileiro para a
+construção de uma infraestrutura de telecomunicações, com capacidade de ofertar serviços de internet em banda larga
+adequadamente e a baixo preço. Conclui-se que, embora o Brasil tenha intensificado a sua política de fomento à internet em
+banda larga pelo PNBL, que revitalizou a TELEBRAS e estabeleceu o preço de R$ 35 mensal com velocidade mínima de 1
+Mbps para as camadas de baixa renda, essa política pode apresentar estrangulamentos relativos a reajustes de preço e
+insuficiência de demanda por microcomputadores pelas classes de baixa renda.
+Palavras-chaves
+Telecomunicações; Banda Larga; Massificação.
+INTRODUÇÃO
+O desenvolvimento de inovações técnicas e a intensificação do progresso tecnológico tem sido a solução para a saída da crise
+do padrão de acumulação vigente durante o longo período expansivo do pós-guerra. Nesse processo, de reestruturação
+capitalista, as indústrias de telecomunicações, informática e eletrônica adquiriram tal importância que a ideia de uma
+“Sociedade da Informação” acabou por impor-se, não como um novo tipo de sociedade diferente do capitalismo, mas como
+projetos nacionais, articulados em nível global, sob o comando dos Estados Unidos, para a construção de toda uma nova base
+técnica comunicacional necessária para o desenvolvimento no século XXI (Bolaño, 2003).
+Para Chesnais (1996) e Santos (2008), o processo de reestruturação capitalista, que ocorreu a partir dos anos 60 do século
+XX, se apresenta sob a forma de três processos diferenciados, porém interdependentes: a mundialização do capital, o
+neoliberalismo e a reestruturação produtiva. Esta última tem impactos sobre todas as esferas de atividade humana, moldando
+relações sociais e transformando a economia, que passa a depender ainda mais do que antes dos avanços científicos, a ponto
+de se falar hoje em uma “economia do conhecimento”, na qual os sistemas de informação, as redes telemáticas,
+principalmente a internet, adquiriram uma importância fundamental na organização dos processos produtivos, na circulação
+das mercadorias, do dinheiro e na organização da cultura. O desenvolvimento passa a depender, em um sentido fundamental,
+da capacidade que cada nação tem de garantir a incorporação da nova cultura informática, ou seja, de garantir o mais amplo
+acesso às condições necessárias para a sua apropriação por parte da população.
+A construção de uma infraestrutura de comunicação de grande capacidade e alta velocidade, capaz de transmitir voz, dados,
+textos, imagens e vídeo, exige uma postura ativa por parte dos governos. Além de oferecerem as condições de base para a
+integração do país às chamadas infraestruturas globais de informação (GII), devem, especialmente, propiciar às suas
+populações o desenvolvimento cultural e social acima referido (Wohlers, 1998; Bolaño, 2003). 
+Bolaño et al. Infraestrutura de Telecomunicações e Difusão do Acesso no Brasil
+Anais da VI Conferência ACORN-REDECOM, Valparaiso (Chile), 17-18 de maio de 2012 212
+O presente trabalho tem por finalidade apresentar as particularidades do desenvolvimento das telecomunicações brasileiras,
+sobretudo avaliar os esforços do governo brasileiro para a construção de uma infraestrutura de telecomunicações, com
+capacidade de ofertar serviços de internet em banda larga de forma adequada e a baixo preço para a população. Para tanto,
+serão utilizados como recursos metodológicos, pesquisa bibliográfica, documental e dados estatísticos. O estudo orientar-se-á
+a partir de um esquema explicativo, que contempla dois níveis de análise interdependentes: o desenvolvimento das
+telecomunicações brasileiras, considerando suas particularidades, e, o Plano Nacional de Banda Larga, que institui os
+objetivos e diretrizes para massificação da Banda Larga até 2014.
+AS TELECOMUNICAÇÕES BRASILEIRAS
+As particularidades do desenvolvimento das telecomunicações brasileiras pode ser apresentado cronologicamente, partindo
+das metas de atendimento, evolução e investimentos para o setor de telecomunicações do Programa de Recuperação e
+Ampliação do Sistema de Telecomunicações e do Sistema Postal (PASTE), fixadas para o período de 1995 a 2003. Esse
+programa fazia parte da política setorial do Governo Fernando Henrique Cardoso (FHC), que redundaria na privatização de
+1997, através da qual o país acaba por incorporar-se à linha de força da reestruturação do capitalismo.
+Vistas como um setor chave para a reestruturação, a partir de 1980, as telecomunicações sofreram uma transformação
+intensa, incluindo – de forma diferenciada nos diferentes países desenvolvidos e subdesenvolvidos – desregulamentação,
+privatização, reposicionamento do Estado, constituição de novas formas e novas instâncias de regulação, passando em geral a
+atuar segundo a lógica de acumulação capitalista (Bolaño, 2007).
+No Brasil, o monopólio estatal das telecomunicações (Sistema TELEBRAS), desde a sua constituição em 1960, logrou
+avanços notáveis em termos de expansão da rede, integração nacional, atendimento à população e desenvolvimento
+tecnológico. A universalização da rede básica, no entanto, jamais foi atingida e, a partir dos anos 1980, a demanda reprimida
+no setor e a sua deterioração financeira, devido à política de preços do Governo Sarney, colocava o modelo em cheque.
+Nessas condições, o Governo FHC acaba, no bojo de uma política mais ampla de cunho marcadamente neoliberal, cedendo às
+pressões privatizantes do setor, de instituições como o FMI e o Banco Mundial.
+O argumento, que se pode ler, por exemplo, na exposição de motivos da Lei Geral de Telecomunicações (LGT), principal
+instrumento da privatização, que substituiria o velho Código Brasileiro de Telecomunicações (CBT), de 1962, como principal
+fundamento regulatório do setor, é fortemente centrado na perspectiva de um sistema altamente concorrencial, que garantiria
+a universalização e o atendimento geral às demandas da população pelos diferentes tipos de serviço. As alterações estavam
+relacionadas ao objetivo de aumento do índice de penetração da telefonia fixa, por meio de empresas concessionárias que
+operariam em um mercado competitivo, assegurando o desenvolvimento industrial e tecnológico do país.
+Assim, em 1995, foi aprovada a Emenda Constitucional n° 8, alterando o inciso XI do artigo 21 da Constituição Federal, que
+quebra o monopólio estatal dos serviços de telecomunicações e permite a entrada de capitais privados no setor. Uma vez
+aprovada a modificação constitucional relativa à quebra do monopólio público, o Ministério das Comunicações realizou a
+abertura do mercado de telefonia celular privada - Banda B - por intermédio da Lei Mínima, aprovada em 1996. Elaborou e
+aprovou a LGT, que dispõe sobre a organização dos serviços de telecomunicações, a criação e funcionamento de um órgão
+regulador – a Agência Nacional de Telecomunicações (ANATEL) - e outros aspectos institucionais, dentre eles a criação do
+Plano Geral de Metas de Universalização, além de estabelecer os leilões de privatização da telefonia fixa e da banda A da
+telefonia celular.
+Apesar de todos os esforços realizados, o Brasil ainda possui um baixíssimo nível de universalização na telefonia fixa. Entre
+2002 e 2010 observou-se um encolhimento no número de domicílios com telefone fixo, que passou de 52,9% para 40,8%, e
+uma penetração que pouco avançou entre 2003 e 2010, de 21,8 para 22 acessos em serviço por 100 habitantes (Teleco, 2012).
+O setor apresenta uma alta capacidade ociosa, que resultou no aumento de custos e prejuízos (Dantas, 2002). Muitos lares
+brasileiros deixam de ter acesso à telefonia fixa devido ao seu alto custo mensal, relacionado sobretudo ao alto valor da
+assinatura básica.
+A expansão das telecomunicações brasileiras vem sendo restringida pelo regime tarifário (price-cap), ainda vigente na
+telefonia fixa. O price-cap
+1
+não tem incorporado eficientemente o aumento de produtividade do setor de telecomunicações, o
+que tem levado a menor incremento na penetração da telefonia fixa, dificultando a expansão do acesso à internet por essa via
+(Reis, 2009).
+
+1 O price-cap consiste no estabelecimento de um teto para o reajuste dos preços dos serviços de telefonia fixa, tendo como parâmetros, um
+índice geral de preços e um fator de produtividade desejado, fator X.
+Bolaño et al. Infraestrutura de Telecomunicações e Difusão do Acesso no Brasil
+Anais da VI Conferência ACORN-REDECOM, Valparaiso (Chile), 17-18 de maio de 2012 213
+Uma alternativa seria a utilização da telefonia móvel através de planos de tipo pré-pago que alcançaram, no Brasil, a marca
+de 123,9 telefones móveis por 100 hab. em 2011 (Teleco, 2012). No entanto, esse aparente sucesso mascara justamente o
+problema central da exclusão digital, pois esse sistema, conhecido popularmente como o “telefone do pobre” é relativamente
+bem mais caro, tornando impeditivo o acesso efetivo por essa via para a população de baixa renda. Como a rede de telefonia
+fixa vem caindo, e tendo em vista a necessidade de acesso à banda larga como índice de inclusão, pode-se dizer que a
+tendência atual – deixado, o sistema ao livre sabor das forças de mercado –, é de marginalização dos setores de baixa renda.
+Nem a ANATEL, nem o governo ou as empresas concessionárias foram capazes, até o momento, de articular um projeto de
+inclusão desses setores.
+A superação dessa tendência é indispensável para que o país possa explorar o potencial do acesso à internet em banda larga
+como meio para dinamizar a economia e trazer benefícios sociais para a população. A consciência dessa necessidade tem
+levado à adoção, por diversos países, de programas nacionais de expansão da banda larga. A União Internacional de
+Telecomunicações, por exemplo, já em 2003, apontava a importância da infraestrutura de acesso à internet em banda larga,
+reconhecida por muitos países como “infraestrutura crucial para que se consiga atingir as metas sociais, econômicas e
+científicas” (UIT, 2003).
+De acordo com estudo elaborado pela McKinsey, um aumento na penetração da banda larga de 10% tem o potencial de
+acarretar um acréscimo de 0,8 a 1,4% no PIB dos países da América Latina. Em números absolutos, trata-se de elevar o PIB
+em 50 a 70 bilhões de dólares na região, bem como gerar de 1,1 a 2,7 milhões de novos empregos. O Banco Mundial projeta
+números similares. Segundo a entidade, nas nações em desenvolvimento, um aumento de 10% nas conexões em banda larga
+sugere um crescimento de 1,38% no PIB (Buttkerelt, Enriquez, Grijpink, Moraje, Torfs & Vaheri-Delmulle, 2009).
+Assim, por exemplo, Alemanha e Finlândia já tinham estabelecido meta de levar banda larga de 1 Mbps a 100% dos
+domicílios em 2010 (Qiang, 2009). Nos Estados Unidos, ao tomar posse, em 2009, o presidente Barack Obama anunciou a
+implementação de um programa para universalizar o acesso à banda larga, com ênfase no atendimento às zonas rurais. O
+valor orçado para o projeto foi estimado inicialmente em mais de sete bilhões de dólares (Brasil, 2009). Também o Brasil se
+insere nesse esforço internacional para massificar a oferta de banda larga através de uma adequada política pública.
+A BANDA LARGA NO BRASIL
+Ao longo dos últimos anos, o mercado de banda larga no país vem apresentando uma trajetória de expansão. No gráfico 1,
+pode-se observar que o número de assinantes em banda larga elevou-se de 200 mil, em 2000, para 16,5 milhões, em 2010.
+Gráfico 1. Evolução do Número de Assinantes em Banda Larga no Brasil
+Fonte: TELECO, 2012.
+Apesar desse acréscimo, observa-se que a densidade ainda permanece muito aquém dos índices de penetração da telefonia
+fixa, sobretudo a telefonia móvel. Conforme o gráfico 2, enquanto o acesso em telefonia em fixa foi de 22 acessos por 100
+hab. em 2011, observou-se uma forte expansão dos acessos por telefonia móvel, que saltaram de 21,8 acessos por 100 hab.
+em 2003 para 123,9 em 2011. Por outro lado, a banda larga em 2011 representou menos da metade dos acessos fixos, isto é,
+8,5 acessos por 100 habitantes.
+0 5,000,000 10,000,000 15,000,000
+2000
+2001
+2002
+2003
+2004
+2005
+2006
+2007
+2008
+2009
+2010
+2011
+Banda Larga
+Bolaño et al. Infraestrutura de Telecomunicações e Difusão do Acesso no Brasil
+Anais da VI Conferência ACORN-REDECOM, Valparaiso (Chile), 17-18 de maio de 2012 214
+Gráfico 2. Densidade da Banda Larga, Telefonia Fixa e Telefonia Móvel
+Fonte: TELECO, 2012.
+O gráfico 3 apresenta a penetração da banda larga por região. O Sudeste, com 12,13 acessos por 100 hab. lidera o ranking,
+seguido da região Sul, com 11,70 acessos por 100 hab. Em terceiro lugar, e ainda acima da média brasileira, aparece a região
+Norte, com 10,06 acessos por 100 hab. Nordeste e Centro-Oeste estão abaixo da média brasileira.
+Gráfico 3. Penetração da Banda Larga no Brasil por Região em 2009
+Fonte: Atlas Brasileiro de Telecomunicações, 2010. Base dos dados: set/2009.
+Do gráfico 4, que apresenta a densidade da banda larga de 20 países nos anos de 2007 e 2010, pode-se inferir que apenas
+alguns países apresentam uma trajetória de efetiva massificação da banda larga, a saber: Estados Unidos, Coréia do Sul,
+França, Alemanha e Canadá, que já possuem uma densidade acima de 30 acessos por 100 hab.. Se utilizarmos como critério o
+nível de desenvolvimento dos países para pensar a densidade da banda larga, fica claro que os países de maior grau de
+desenvolvimento lideram o ranking. Os países em desenvolvimento selecionados possuem um baixo nível de densidade, uma
+média de 7,9 acessos por 100 hab. em 2010, ou seja, cinco ou seis vezes menor do que a dos países desenvolvidos.
+0.7 1.3 2.1 3.1 4.1 5.3 5.9 7.1 8.5
+21.8 21.7 21.6 20.8 20.9 21.6 21.6 21.7 22 25.8
+36
+46.8 53.6
+64.2
+79.2
+90.5
+104.7
+123.9
+0
+20
+40
+60
+80
+100
+120
+140
+2003 2004 2005 2006 2007 2008 2009 2010 2011
+Banda Larga Telefone Fixo Telefone Móvel
+12.13
+11.7
+10.06
+2.54
+2.15
+Sudeste
+Sul
+Nordeste
+Norte
+Centro-Oeste
+Acessos por 100 hab.
+Bolaño et al. Infraestrutura de Telecomunicações e Difusão do Acesso no Brasil
+Anais da VI Conferência ACORN-REDECOM, Valparaiso (Chile), 17-18 de maio de 2012 215
+Gráfico 4. Densidade da banda larga fixa e móvel em países selecionados (2007)
+Fonte: Ministério das Comunicações, 2010. TELECO, 2012. *Com exceção dos EUA cujo dado é de 2009.
+O Brasil apresentou uma densidade ainda abaixo da média dos países em desenvolvimento em 2010, inclusive os da America
+Latina, cuja média de densidade em 2010 foi de 8,4 acessos por 100 hab. (Teleco, 2012). O atraso relativo do Brasil pode ser
+explicado em boa medida pelo alto valor cobrado pela assinatura básica (Reis, 2009). A expansão da banda larga via telefonia
+fixa é impeditiva, pois o alto valor da assinatura básica restringe a ampliação do número de assinantes de banda larga nas
+localidades que permitem a convergência entre os serviços.
+O custo associado à aquisição de microcomputadores representa uma restrição à difusão do acesso à internet por banda larga.
+Conforme a tabela 1, em 2001, 87,4%, ou seja, 40,6 milhões dos domicílios não possuíam microcomputadores. De 2001 a
+2009, esse déficit se reduziu. Em 2009, a porcentagem de domicílios sem microcomputadores passou a ser de 65,3%,
+correspondentes a 38,2 milhões de domicílios, o que indica uma redução importante no período, da ordem de 5,9%, ou 2,4
+milhões de novos domicílios com microcomputadores, em termos absolutos.2
+Se considerarmos que o crescimento do número
+de domicílios no país se deu a uma taxa média de 2,9%, essa expansão deve ser relativizada.
+
+2 Dentre os fatores que contribuíram para o aumento do número de acessos foi a Lei do Bem 11.196, de 2005, que reduziu a zero as
+alíquotas da contribuição para o Pis/Pasep e Cofins incidentes sobre a comercialização de equipamentos de informática com valor inferior a
+R$ 2,5 mil (Brasil, 2009).
+24
+30.5
+24.6
+24
+15.7
+28.2
+21.6
+17.6
+18.4
+14.2
+6.6
+4.9
+7.9
+4.3
+2.8
+5
+3.1
+3.5
+0
+0.03
+43.3
+35.2
+32.3
+31.6
+31.2
+30.4
+24
+23
+22.1
+19.6
+12.9
+11.41
+10.51
+10.5
+10
+9.4
+8.2
+7.1
+0.9
+0.6
+EUA
+Coreia do Sul
+França
+Alemanha
+Reino Unido
+Canadá
+Austrália
+Espanha
+Itália
+Portugal
+Argentina
+Uruguai
+Chile
+México
+Rússia
+China
+Venezuela
+Brasil
+Índia
+Paraguai
+ banda larga por 100 habitantes em 2010* banda larga por 100 habitantes em 2007
+Bolaño et al. Infraestrutura de Telecomunicações e Difusão do Acesso no Brasil
+Anais da VI Conferência ACORN-REDECOM, Valparaiso (Chile), 17-18 de maio de 2012 216
+2001 2002 2003 2004 2005 2006 2007 2008 2009
+Total de Domicílios
+(milhares) 46.507 48.036 49.712 51.753 53.053 54.610 56.344 57.557 58.577
+Sem
+Microcomputadores 87,4% 85,8% 84,7% 83,7% 81,4% 77,9% 73,4% 68,8% 65,3%
+Com
+Microcomputadores 12,6% 14,2% 15,3% 16,3% 18,6% 22,1% 26,6% 31,2% 34,7%
+Total 100% 100% 100% 100% 100% 100% 100% 100% 100%
+Tabela 1. Déficit de Microcomputadores nos Domicílios do Brasil
+Fonte: Elaboração própria com base na TELECO, 2012.
+Do total dos domicílios com microcomputadores, observa-se na tabela 2, que, apenas 8,6% (3,9 milhões) dispunham de
+acesso à internet, em 2001. Ao final de 2009, 27,4% (16 milhões) das residências possuíam microcomputadores conectados à
+internet.3 A porcentagem de domicílios sem microcomputadores com acesso à internet se reduziu de 91,4%, em 2001, para
+72,6%, em 2009, ainda que, em termos absolutos, o número de domicílios sem microcomputadores ligados à internet tenha
+aumentado levemente no período, de 42,50 para 42,52 milhões.
+2001 2002 2003 2004 2005 2006 2007 2008 2009
+Total de Domicílios (milhares) 46.507 48.036 49.712 51.753 53.053 54.610 56.344 57.557 58.577
+Sem Microcomputadores com
+acesso a Internet 91,4% 89,7% 88,5% 87,8% 86,3% 83,1 79,8% 76,2% 72,6%
+Microcomputadores com acesso
+a internet 8,6% 10,3% 11,5% 12,2 13,7% 16,9% 20,2% 23,8% 27,4%
+Total 100% 100% 100% 100% 100% 100% 100% 100% 100%
+Tabela 2. Déficit de Microcomputadores ligados à Internet nos Domicílios do Brasil
+Fonte: Elaboração própria com base na TELECO, 2012.
+Pela ótica da taxa de crescimento ver-se-á que o número de domicílios com microcomputadores apresentou um maior ritmo
+de crescimento em 2005, 2006 e 2007 (gráfico 5), com taxas de 16,98%, 22,30% e 24,18%, respectivamente. Nos anos
+posteriores observa-se uma perda no ritmo desse crescimento. Por outro lado, a taxa de crescimento dos domicílios sem
+microcomputadores apresentou uma expansão em 2002, 2003 e 2004, com taxas de 1,40%, 2,16% e 2,88%, respectivamente.
+Todavia, a partir de 2005, apresentou uma trajetória de crescimento negativa, o que indica que o aumento do número de
+domicílios com microcomputadores foi de tal ordem que, além de compensar o aumento da taxa de crescimento do número
+de domicílios totais, reduziu o número de domicílios sem microcomputadores. No entanto, a perda de fôlego, evidenciada nos
+últimos anos pode ser um sinal do enfraquecimento da expansão do número de domicílios com microcomputadores. No geral,
+a taxa de crescimento geométrica do número de domicílios sem microcomputadores no período de 2001 a 2009 foi de -
+0,76%, isto é, uma redução pífia para o setor. Convém destacar que foi encontrado um elevado índice de correlação positiva,
+de 0,99, entre o número de assinantes em banda larga e domicílios com microcomputadores, no período de 2001 a 2009.
+
+3 Consideram-se aqui todos os tipos de acesso à internet, inclusive a conexão discada.
+Bolaño et al. Infraestrutura de Telecomunicações e Difusão do Acesso no Brasil
+Anais da VI Conferência ACORN-REDECOM, Valparaiso (Chile), 17-18 de maio de 2012 217
+Gráfico 5. Taxa de Crescimento dos Domicílios Com e Sem Microcomputadores
+Fonte: Elaboração própria.
+As taxas de crescimento dos domicílios com acesso à internet, por sua vez, apresentaram um ritmo de expansão maior do que
+o do número de domicílios com microcomputadores. A maior variação percentual ocorreu em 2007, com relação a 2006, com
+um crescimento de 27%, reduzindo-se nos anos seguintes, como se pode observar no gráfico 6. A taxa média de crescimento
+no período de 2001 a 2009 foi de 19%, ou seja, superior à taxa de crescimento média dos domicílios com microcomputadores
+(16,82%). Os domicílios sem microcomputadores com acesso à internet apresentaram uma trajetória de expansão negativa
+somente a partir de 2006 (-0,88% com relação a 2005) e até 2009 (com -3% em relação a 2008). A taxa média de crescimento
+foi de 0,1% no período de 2001 a 2009, o que sugere que o aumento do número de domicílios com microcomputadores com
+acesso à internet foi insuficiente para compensar a taxa de crescimento total dos domicílios.
+Gráfico 6. Taxa de Crescimento dos Domicílios Com e Sem Microcomputadores Conectados à internet
+Fonte: Elaboração própria.
+Sobre a questão distributiva, a tabela 3 mostra que, em 2009, 94% dos domicílios com rendimentos acima de 20 salários
+mínimos possuíam microcomputadores, enquanto as residências com rendimentos entre 10 e 20 salários mínimos possuíam
+mais de 81%. No caso dos domicílios com rendimentos até 10 salários mínimos, há um aumento de 15,6% para 34,7% no
+período, consequência, em parte, da redução dos preços e, em parte, da tendência dos últimos anos, de ascensão daquilo que
+-5
+0
+5
+10
+15
+20
+25
+Taxa de Crescimento (%)
+Domicílios sem
+Microcomputadores
+Domicílios com
+Microcomputadores
+Taxa de Crescimento
+do Nº de Domicílios
+-5.00
+ -
+ 5.00
+ 10.00
+ 15.00
+ 20.00
+ 25.00
+ 30.00
+Taxa de Crescimento (%)
+Domicílios sem
+Microcomputadores
+conectados a
+internet
+Domicílios com
+Microcomputadores
+conectados a
+internet
+Taxa de Crescimento
+do Nº de Domicílios
+Bolaño et al. Infraestrutura de Telecomunicações e Difusão do Acesso no Brasil
+Anais da VI Conferência ACORN-REDECOM, Valparaiso (Chile), 17-18 de maio de 2012 218
+vem sendo chamando “nova classe média”,4
+que passou a demandar e adquirir equipamentos eletrônicos, inclusive
+microcomputadores.
+Microcomputadores / Salário Mínimo Número de
+Residências
+Total % Até 10 10 a 20 mais de 20
+2006 54.610 22,1 15,6 73,8 87
+2007 56.344 26,6 20,5 78,1 87,4
+2008 57.557 31,2 25,1 81,9 91,1
+2009 58.577 34,7 29,1 85,2 94
+Tabela 3. Domicílios com Microcomputadores por Nível de Renda
+Fonte: TELECO, 2012.
+Na mesma direção, a tabela 4 mostra o comportamento dos domicílios com microcomputadores com acesso à internet, por
+nível de renda. Em 2009, 90,8% das residências com mais de 20 salários mínimos tinham microcomputadores com acesso à
+internet, enquanto nos domicílios com 10 a 20 salários mínimos, a marca era de 78,8%. Nas residências com rendimento de
+até 10 salários mínimos, apenas 27,4% possuíam microcomputadores com acesso à internet. Reforça-se a ideia de que a
+expansão das residências com microcomputadores com acesso à internet foi impulsionada pelas residências de maior renda.
+A queda no ritmo dessa expansão, por outro lado, revela os limites dessa expansão, pois, quando analisamos as faixas de
+menor poder aquisitivo, os níveis de penetração pioram sensivelmente, ao passo que as faixas superiores de renda já estão
+amplamente atendidas.
+Microcomputadores com acesso a internet /
+Salário Mínimo
+Número de
+Residências
+Total % Até 10 10 a 20 mais de 20
+2006 54.610 16,9 10,7 64,2 83
+2007 56.344 20,2 14,1 68,7 83
+2008 57.557 23,8 17,6 74,3 87
+2009 58.577 27,4 21,6 78,8 90,8
+Tabela 4. Domicílios com Microcomputadores com Internet por Nível de Renda
+Fonte: TELECO, 2012.
+Esbarra-se, assim, com a alta concentração de renda no Brasil, que faz com que as camadas de baixa renda sejam
+marginalizadas do acesso à banda larga. Só uma ação decidida de políticas públicas poderá mudar essa situação.
+O PLANO NACIONAL DE BANDA LARGA
+A principal tentativa de universalização da internet por banda larga a preços acessíveis é o PNBL, lançado pelo Ministério
+das Comunicações em 2010, com o objetivo de massificar, até 2014, a oferta de acessos e promover o crescimento da
+capacidade da infraestrutura de telecomunicações do país. Na verdade, o conceito de universalização é abandonado,
+substituído pelo de massificação. Por esse artifício, a banda larga não é considerada serviço público, ou seja, não é definido
+como direito fundamental da sociedade, o acesso de qualidade, com obrigação de continuidade do serviço, promovendo a
+acessibilidade econômica a partir do reconhecimento das desigualdades sociais do país.
+Em todo caso, o PNBL trouxe consigo um novo modelo de atuação do Estado regulador. Não apenas pelos seus objetivos,5
+mas ainda pela revitalização da Telebrás, a antiga estatal privatizada em 1998.6 A intenção do Governo Lula era que a
+
+4 Ascensão socioeconômica de cerca de 30 milhões de brasileiros que migraram das classes de renda D e E para a C, resultado do aumento
+do nível de emprego, da elevação do salário mínimo acima da inflação, da ampliação do acesso ao crédito e da valorização do real.
+5 O Decreto nº 7.175 em seu artigo 1° declara que, “fica instituído o PNBL com o objetivo de fomentar e difundir o uso e o fornecimento de
+bens e serviços de tecnologias de informação e comunicação, de modo a: I - massificar o acesso a serviços de conexão à Internet em banda
+larga; II - acelerar o desenvolvimento econômico e social; III - promover a inclusão digital; IV - reduzir as desigualdades social e regional -
+entre outros objetivos” (Brasil, 2010).
+6 O Decreto nº 7.175 em seu artigo 4° afirma que, “para a consecução dos objetivos previstos no art. 1°, nos termos do inciso VII do art. 3°
+da Lei no 5.792, de 11 de julho de 1972, caberá à Telecomunicações Brasileiras S.A. - TELEBRÁS: I - implementar a rede privativa de 
+Bolaño et al. Infraestrutura de Telecomunicações e Difusão do Acesso no Brasil
+Anais da VI Conferência ACORN-REDECOM, Valparaiso (Chile), 17-18 de maio de 2012 219
+Telebrás participasse apenas no atacado, oferecendo capacidade de rede por R$ 230/Mbps (links). Para ter acesso à rede
+estatal, as empresas privadas teriam que assegurar a oferta do serviço ao consumidor pelo preço de R$ 35 mensal, por uma
+velocidade de, no mínimo, 512 Kbps. Posteriormente, no Governo Dilma Rousseff, em 2011, o compromisso assinado pelas
+concessionárias foi o de levar a banda larga a R$ 35 mensal a uma velocidade de, no mínimo, 1 Mbps a todos os municípios
+do Brasil.
+Somado a isso, foram aprovadas pela ANATEL, as metas de qualidade para a banda larga fixa e móvel, que deverão entrar
+em vigor em outubro de 2012. As metas de qualidade obrigam as operadoras a elevarem seus investimentos na rede móvel e
+principalmente na fixa, cuja situação é mais complexa, devido à extensa malha de rede de cobre. Isso significa um importante
+ganho para os consumidores de baixa renda, mas tem se tornado alvo de críticas pelas empresas que terão, segundo alegam, o
+retorno dos novos investimentos de forma lenta nos mais de 5 mil municípios brasileiros.
+Estrategicamente, as empresas pretendem cumprir as exigências através da oferta de banda larga móvel. Todavia, o governo
+se antecipou e, para garantir que não usem apenas a rede móvel para realizar a oferta, as operadoras terão que fazer a oferta
+pela rede de Serviço de Comunicação Multimídia (SCM)7
+em 15% da base de assinantes residenciais do STFC, e a oferta
+deverá estar disponível em todas as localidades em que já existe a oferta de serviço a 512 Kbps. Pela rede fixa, o preço não
+poderá ser superior a R$ 65 (fixo + banda larga).
+Ademais, as alterações feitas no projeto inicial também esboçam um conjunto de restrições. A primeira delas afeta
+diretamente o consumidor e está relacionada aos limites de tráfego. A velocidade de 1 Mbps só é garantida até o cliente
+atingir um determinado volume de tráfego, que será ampliado para 1 GB em 2013. Caso o limite seja ultrapassado, a empresa
+poderá reduzir a velocidade de conexão a patamares que “não impeçam a fruição do serviço pelo consumidor”. O governo
+não conseguiu garantias firmes de que a velocidade não será reduzida drasticamente.
+No entanto, a TELEBRAS pode, com base no parágrafo IV do artigo 4°, prestar serviço de conexão à internet em banda larga
+para usuários finais em localidades nas quais a oferta não seja adequada ou inexistente pela iniciativa privada. Em todo caso,
+a TELEBRÁS cumprirá papel importante no PNBL também por fomentar a concorrência na oferta de internet por banda
+larga, ajudando a minimizar as distorções decorrentes do sistema de compartilhamento de meios, implantado no processo de
+privatização, que redundou no fracasso das chamadas empresas-espelho.
+O que poderia contribuir, por outro lado, para o barateamento da assinatura de banda larga pelas famílias das classes de baixa
+renda é o Fundo de Universalização dos Serviços de Telecomunicações (FUST)8
+. Mas a Lei que dispõe sobre a aplicação dos
+recursos do FUST encontra-se ainda em processo de revisão pelo Legislativo. No que tange ao fomento da demanda por
+banda larga vale destacar o Programa Computador para Todos, que objetiva estimular a aquisição de computadores por meio
+de isenção fiscal do Governo Federal e disponibilização de linha de crédito para financiamento de computadores pessoais de
+baixo custo.
+CONSIDERAÇÕES FINAIS
+O Brasil tem intensificado a sua política para a construção de uma infraestrutura de telecomunicações com capacidade de
+oferecer conexão à internet por banda larga. Com vistas à inclusão do país na chamada “sociedade da informação”, o
+conjunto de políticas elencadas pelo governo através do PNBL traz consigo uma tentativa de incluir as camadas de baixa
+renda no acesso ao mundo digital. Um avanço importante nesse sentido foi dado com a revitalização da Telebrás, que além de
+ser responsável por parte das redes de telecomunicações poderá ofertar serviços de banda larga em localidades de baixa renda
+e baixa densidade populacional.
+O estabelecimento de um Plano Nacional de Banda Larga no valor de R$ 35 mensal com velocidade de 1 Mbps e download
+limitado, bem como o Programa Computador para Todos, direcionados para os segmentos de baixa renda, embora
+representem um avanço em termos de política pública, podem vir a apresentar estrangulamentos se, como vivenciado na
+telefonia fixa (Reis, 2009), os investimentos necessários para a universalização vierem a ser em parte financiados por
+
+comunicação da administração pública federal; IV - prestar serviço de conexão à Internet em banda larga para usuários finais, apenas e tão
+somente em localidades onde inexista oferta adequada daqueles serviços.” (Brasil, 2010).
+7
+SCM é um serviço fixo de telecomunicações de interesse coletivo que possibilita a oferta de capacidade de transmissão, emissão e
+recepção de informações multimídia (dados, voz e imagem), utilizando quaisquer meios, a assinantes dentro de uma área de prestação de
+serviço (Teleco, 2012).
+8 O FUST foi instituído por meio da Lei 9.998, de 17 de agosto de 2000, para financiar a implantação de serviços do setor de
+telecomunicações - especialmente para a população mais carente - que não seriam normalmente prestados pelas empresas privadas em
+razão de custos e do baixo retorno.
+Bolaño et al. Infraestrutura de Telecomunicações e Difusão do Acesso no Brasil
+Anais da VI Conferência ACORN-REDECOM, Valparaiso (Chile), 17-18 de maio de 2012 220
+reajustes tarifários da assinatura básica, o que contribuirá decisivamente para a exclusão das camadas de menor poder
+aquisitivo.
+Por outro lado, por mais que o governo estabeleça isenção fiscal para a compra de computadores, estes podem ainda não ser
+adquiridos devido à alta restrição orçamentária das classes D e E. Assim sendo, possivelmente, a oferta de banda larga
+ultrapassará a demanda, o que, como consequência, pode gerar uma alta capacidade ociosa.
+REFERÊNCIAS BIBLIOGRÁFICAS
+1. Atlas Brasileiro de Telecomunicações. Teletime. São Paulo, 2010.
+2. Bolaño, C. R. S. (2003) Políticas de Comunicação e Economia Política das Telecomunicações no Brasil: Convergência,
+Regionalização e Reforma. 2. ed. Aracaju.
+3. ______, C. R. S. (2007) Qual a Lógica das Políticas de Comunicação no Brasil? 1ª ed. São Paulo: Editora PAULUS, v.
+01. 128 p.
+4. Brasil, (2009) Alternativas de Políticas Públicas para a Banda Larga. Relator: Paulo Henrique Lustosa; José de Souza
+Paz Filho (coord.). – Brasília : Câmara dos Deputados, Edições Câmara, 291 p. – (Série Caderno de Altos Estudos; n. 6)
+5. ______, (2010) Um Plano Para Banda Larga: O Brasil em Alta Velocidade. Ministério das Comunicações.
+Organizadores: Átila Augusto Souto; Daniel B. Cavalcanti; Roberto Pinto Martins.
+6. Chesnais, F. (1996) A Mundialização do Capital. 1. ed. São Paulo: Xamã.
+7. Dantas, M. (2002) A lógica do capital-informação. A fragmentação dos monopólios e monopolização dos fragmentos
+num mundo de comunicações globais. 2ª. ed. Rio de Janeiro: Contraponto. v. 1. 262 p.
+8. Buttkerelt, S., Enriquez, L., Grijpink, F., Moraje, S., Torfs, W. & Vaheri-Delmulle, T. (2009). Mobile broadband for the
+masses: regulatory levers to make it happen. McKinsey&Company.
+9. Qiang, C. (2009) Broadband Infrastructure Investiment in Stimulus Packages: Relevance for Developing Countries.
+Disponível em http://siteresources.worldbank.org. Acesso em abril de 2010.
+10. Reis, D. A. (2009) A Eficiência do Modelo Básico de Assinatura para a Expansão. 150 f. Monografia (Graduação em
+Economia) – DEE, Universidade Federal de Sergipe, São Cristóvão, Sergipe, Brasil.
+11. Santos, R. T. (2004) A Diversidade Regional e o Dilema do Modelo Regulatório na Telefonia Fixa do Brasil. Nova
+Economia, Belo Horizonte, v. 14, p. 153-182.
+12. Santos, V. A. (2008) A Firma-rede e as Novas Configurações do Trabalho nas Telecomunicações Brasileiras.1. ed. São
+Cristóvão: Editora da UFS. v. 1. 248 p.
+13. Teleco, (2012) Dados obtidos em: http://www.teleco.com.br, acesso em Janeiro de 2012.
+14. União Internacional de Telecomunicações (UIT). (2003) Background paper to ITU New Initiatives Workshop on
+Promoting Broadband. Genebra.
+15. Wohlers, M. (1998) Investimento e privatização das telecomunicações no Brasil: dois vetores da mesma estratégia. São
+Paulo: Unicamp.

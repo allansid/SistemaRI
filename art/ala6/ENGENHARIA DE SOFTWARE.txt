@@ -1,0 +1,718 @@
+ENGENHARIA DE SOFTWARE
+VERSÃO 1.5
+Autor: André Luiz Carvalho Ottoni
+Técnico em Planejamento e Gestão em T. da Informação (CEFET-MG)
+ Departamento de Software - Equipe UaiSoccer Robot Team
+ Graduando em Engenharia Elétrica
+ Universidade Federal de São João del-Rei
+Baseado em apostilas e slides de:
+Edson Machetti da Silva
+Professor do Centro Federal de Educação Tecnológica de Minas
+Gerais – CEFET-MG
+Bacharel em Ciências da Computação (FUMEC)
+Especialista em Engenharia de Software (PUCMINAS)
+Mestre em Administração (FUMEC)
+São João del-Rei, 2010 
+ André Luiz C.Ottoni – UaiSoccer Robot Team – UFSJ – 2010
+2
+EMENTA DO CURSO
+Capítulo 1 – Introdução
+1.1 Teoria dos Sistemas
+1.2 Constituição dos sistemas
+1.3 Natureza dos sistemas
+1.4 Parâmetros do sistema
+1.5 Descrição de sistemas
+1.6 Desafios enfrentados no desenvolvimento
+1.7 Perfil do analista de sistemas
+1.8 Solução de problemas complexos
+1.9 Componentes de um sistema informatizado
+1.10 Desenvolvimento de software X Engenharia de software
+Capítulo 2 – Metodologia de desenvolvimento de software
+2.1 Análise Essencial
+2.1.1 Descrição do propósito do sistema
+2.1.2 Diagrama de contexto
+2.1.3 Lista de eventos
+2.1.4 Dicionário de dados
+2.1.5 DFD – Diagrama de Fluxo de dados
+2.1.6 DER – Diagrama de Entidade e Relacionamento.
+2.1.7 DTE – Diagrama de Transição Estado
+2.2 UML
+2.2.1 Diagramas Estruturais
+2.2.1.1 Diagrama de Classes
+2.2.2 Diagramas Comportamentais
+2.2.2.1 Diagrama de Caso de Uso
+2.2.2.2 Diagrama de Atividade
+2.2.2.3 Diagrama de Transição Estado
+Capítulo 3 – Modelo de Dados
+3.1 Diagrama de Entidade e Relacionamento
+3.1.1 Entidades
+3.1.2 Relacionamento
+3.2 Linguagem de Consulta SQL
+Capítulo 4 – Desenvolvimento de Software Orientado Objetos OO
+4.1 Fundamentos da OO
+4.2 Paradigmas da OO 
+ André Luiz C.Ottoni – UaiSoccer Robot Team – UFSJ – 2010
+3
+4.3 UML – Classes X Objetos
+4.4 Etapas do processo de desenvolvimento de software OO
+Capítulo 5 – UML - Diagrama de Classes
+5.1 Relacionamentos entre classes
+5.1.1 Associação
+5.1.2 Agregação
+5.1.3 Composição
+5.1.4 Dependência
+5.1.5 Generalização (Herança)
+4.2 Visibilidade de uma classe
+4.3 Visibilidade dos atributos
+1. INTRODUÇÃO
+1.1 TEORIA DOS SISTEMAS
+A Teoria de Sistemas (TS) é um ramo específico da Teoria Geral de Sistemas
+(TGS). A TGS surgiu com os trabalhos do biólogo alemão Ludwig von Bertalanffy.
+Bertalanffy criticava a visão que se tem do mundo dividido em diferentes áreas,
+como física, química, biologia, etc. São divisões arbitrárias. E com fronteiras solidamente
+definidas. E espaços vazios entre elas. A natureza não está dividida em nenhuma dessas
+partes.
+A TGS fundamenta-se em três premissas básicas:
+• Os sistemas existem dentro de sistemas;
+• Os sistemas são abertos;
+• As funções de um sistema dependem de sua estrutura;
+ “A soma das partes é menor que o todo”. Bertalanffy, 1976.
+ Todo = Soma das partes + Relacionamento entre partes.
+1.2 CONSTITUIÇÃO DOS SISTEMAS
+• Sistemas físicos ou concretos: quando são compostos de equipamentos, de
+maquinaria e de objetos ou coisas reais, como hardware.
+ André Luiz C.Ottoni – UaiSoccer Robot Team – UFSJ – 2010
+4
+• Sistemas abstratos ou conceituais: quando compostos de conceitos, planos,
+hipóteses e idéias, como software.
+1.3 NATUREZA DOS SISTEMAS
+• Sistemas fechados: são os sistemas que não apresentam intercâmbio com o meio
+ambiente que os circunda, pois são herméticos a qualquer influência ambiental.
+• Sistemas abertos: são sistemas que apresentam relações de intercâmbio com o
+ambiente, através de entradas e saídas.
+ 1.4 PARÂMETROS DOS SISTEMAS
+Os sistemas abertos são compostos por seus elementos (partes) e as relações entre
+eles. São eles:
+• Entrada ou insumo - é à força de arranque de um sistema; permite a operação
+do sistema;
+• Processamento ou transformador - é o fenômeno que produz mudança,
+converte entradas em saídas;
+• Saída ou resultado - é a finalidade para qual se reuniram elementos e relações
+do sistema. Devem ser coerentes com a finalidade do sistema;
+• Retroação - função que visa comparar a saída a determinados padrões
+estabelecidos. Visa manter ou aperfeiçoar o desempenho do processo;
+• Ambiente - é o meio que envolve externamente o sistema. 
+ André Luiz C.Ottoni – UaiSoccer Robot Team – UFSJ – 2010
+5
+1.5 DESCRIÇÃO DE SISTEMAS
+• Objetivos do Sistema: o que o sistema deve fazer.
+• Ambiente: onde o sistema está inserido (fronteira com o meio exterior).
+• Recursos: insumos retirados do ambiente para executar transformações.
+• Componentes: elementos essenciais para seu funcionamento.
+• Administração: métodos ou componentes que utilizam os recursos para atingir os
+objetivos.
+1.6 DESAFIOS ENFRENTADOS NO DESENVOLVIMENTO DE SOFTWARE
+• Produtividade da equipe.
+• Correção da especificação.
+• Confiabilidade do sistema.
+• Manutenibilidade do código-fonte.
+• Segurança dos dados.
+• Desempenho.
+• Falta da participação do usuário final no processo.
+• Priorização do dia-a-dia, sem focar o projeto.
+• Falta de comunicação.
+• Falta de entendimento.
+1.7 PERFIL DO ANALISTA DE SISTEMAS 
+ André Luiz C.Ottoni – UaiSoccer Robot Team – UFSJ – 2010
+6
+• Capacidade de gerir a alocação dos recursos humanos e materiais diante da
+disponibilidade financeira e de tempo.
+• Capacidade de especificar sistemas de informação, utilizando ferramentas de
+modelagem, conhecimento da linguagem de implementação, do banco de dados, da
+arquitetura de sistemas e de redes.
+• Capacidade de aprender.
+1.8 SOLUÇÃO DE PROBLEMAS COMPLEXOS
+1º - Decompor o problema em subproblemas de menor complexidade, desde que seja
+possível reconstituir o todo.
+Ex: Sistema venda - dividir em subprocessos:
+• Venda a vista (dinheiro, cheque, vale, cartão débito);
+• Venda a prazo (cartão crédito, convênio, crediário), etc.
+2º - Decompor o problema por pontos de vista diferentes.
+Ex: Sistema venda - dividir em foco de análise:
+• Fluxo do processo, interface com os usuários;
+• Integração com sistemas afins, etc.
+1.9 COMPONENTES DE UM SISTEMA INFORMATIZADO
+• “É um mecanismo composto por um conjunto de partes inter-relacionadas”;
+• “Disposição das partes ou dos elementos de um todo coordenado entre si e que
+funcionam como estrutura organizada”. 
+ André Luiz C.Ottoni – UaiSoccer Robot Team – UFSJ – 2010
+7
+1.10 DESENVOLVIMENTO DE SOFTWARE VERSUS ENGENHARIA DE
+SOFTWARE
+“Processo de desenvolvimento de software, pode ser definido como um conjunto de
+atividades, métodos, práticas e transformações que pessoas utilizam para desenvolver ou
+dar manutenção em softwares ou seus produtos associados (projetos, manuais, código,
+etc.)”.
+(SEI-Carnegie Mellon University. The Capability Maturity Model: guidelines for improving the software
+process.Addison Wesley. 1995 p.8)
+“Engenharia de Software, é a disciplina que integra processos, métodos e ferramentas para
+o desenvolvimento de software”.
+(PRESSMAN, Roger S. Software Engineering: a practioner´s approach. Fouth edition. McGraw-Hill, 1997.
+Chapter 2: the process. P. 49)
+2. METODOLOGIA DE DESENVOLVIMENTO DE SOFTWARE
+Percebido que as deficiências das especificações, eram decorrentes da falha da
+comunicação, adota-se metodologias para o desenvolvimento de software.
+• Metodologia: Descrição sobre a maneira de se utilizar um conjunto coerente e
+coordenado de métodos para atingir um objetivo, de modo a se evitar a
+subjetividade na execução do trabalho. Ou seja, relação entre método, técnica e
+notação. 
+ André Luiz C.Ottoni – UaiSoccer Robot Team – UFSJ – 2010
+8
+• Método: Procedimento adotado para se atingir um objetivo.
+• Técnica: Modo apropriado de se investigar sistematicamente um determinado
+universo de interesse do problema.
+• Notação: É um conjunto de caracteres, símbolos e sinais formando um sistema
+convencionado de representação.
+Metodologia
+“Quem” faz “o que”, “quando”, “como” e “onde”.
+Algumas metodologias de software:
+• Análise Estruturada;
+• Análise Essencial;
+• UML.
+ 
+ André Luiz C.Ottoni – UaiSoccer Robot Team – UFSJ – 2010
+9
+2.1 ANÁLISE ESSENCIAL
+• Usa uma lista de eventos externos como base para o particionamento do sistema. Os
+eventos geram fluxos de dados (estímulos) para o sistema.
+• O modelo essencial é construído sem considerar restrições de implementação
+(assume uma tecnologia perfeita) – o que permite uma solução ideal para o
+problema.
+• Na análise essencial um sistema de informação é visto como um sistema de resposta
+planejado.
+Estrutura do modelo essencial
+Modelo Ambiental – define a fronteira entre
+o sistema e o ambiente.
+Modelo Comportamental – descreve o
+comportamento interno do sistema em
+função de estímulos que ocorrem no
+ambiente externo.
+Descrição do propósito do sistema.
+Diagrama de contexto.
+Lista de eventos.
+Modelo de Entidade e Relacionamento
+(conceitual).
+Dicionário de dados.
+DFD – Diagrama de Fluxo de Dados.
+DER – Diagrama de Entidade e
+Relacionamento.
+DTE – Diagrama de Transição de Estado.
+Dicionário de Dados.
+Especificação de processos, etc.
+2.2 UML – ANÁLISE ORIENTADO OBJETOS
+O que é?
+• Uma linguagem de modelagem unificada que rapidamente se tornou um padrão para
+a construção de software orientado a objetos.
+• Padronizada pela Object Management Group (www.omg.org).
+Segundo a especificação da OMG:
+• “UML é uma linguagem gráfica para visualizar, especificar, construir e
+documentar artefatos de um sistema software-intensivo”. 
+ André Luiz C.Ottoni – UaiSoccer Robot Team – UFSJ – 2010
+10
+• UML oferece um modo padrão descrever um sistema, incluindo tanto coisas
+conceituais, tais como modelos de processo e funções de sistema, como coisas concretas,
+tais como declarações de linguagens de programação, esquemas de bases de dados e
+componentes reusáveis de software”.
+Finalidade:
+• A UML define um número de diagramas que permitem dirigir o foco para
+aspectos diferentes do sistema de maneira independente.
+• Facilita a comunicação de todas as pessoas envolvidas no processo de
+desenvolvimento de um sistema – gerentes, coordenadores, analistas, desenvolvedores –
+por apresentar um vocabulário de fácil entendimento.
+UML 2.0 define 13 diagramas básicos, distribuídos em dois conjuntos gerais:
+• Diagrama de Modelagem Estrutural.
+• Diagramas de Modelagem Comportamental.
+Diagramas Estruturais Diagramas Comportamentais
+Definem a arquitetura estática de um
+modelo;
+Descrevem “coisas” que fazem parte de um
+modelo (classes, objetos, interfaces e
+componentes físicos);
+Modelam a relação e interdependência entre
+elementos.
+Capturam as variedades de interação e
+estados instantâneos em um modelo, à
+medida que este “executa” no tempo.
+3. MODELO DE DADOS
+3. 1 – Diagrama de Entidade e Relacionamento
+O Diagrama de Entidade e Relacionamento é a representação gráfica do modelo de dados.
+Devido a sua forma de apresentação visual, representação através de símbolos, ele é de fácil
+compreensão podendo ser utilizado como uma importante ferramenta de trabalho para
+interação com usuário. Diante de um DER fica mais fácil modelar o mini-mundo. Portanto,
+o DER pode ser utilizado como um importante instrumento na fase de levantamento de
+requisitos, criando modelos conceituais preliminares que vão se refinando e incorporando
+novos requisitos. Depois de criado o modelo conceitual de dados o mapeamento para o 
+ André Luiz C.Ottoni – UaiSoccer Robot Team – UFSJ – 2010
+11
+esquema de construção física pode ser feito dependendo do nível de detalhe que se chegou
+de forma quase que direta. Onde cada entidade irá virar uma tabela implementada no banco
+de dados. Portanto, o DER é uma ferramenta que transita desde os primórdios do
+levantamento de requisitos até como documentação de um sistema já implantado. Existem
+no mercado diversas ferramentas CASE que permitem trabalhar em nível conceitual onde a
+partir do desenho do diagrama seja possível gerar o esquema DDL – data dictionary
+language (conjunto de comandos que permite gerar a construção física da estrutura do
+banco de dados criando as tabelas e as restrições). Como também, a maior parte destas
+ferramentas, permite que a partir do esquema exportado a partir de um banco de dados
+existente seja possível gerar o desenho de forma automática. Obviamente que, neste caso
+dependendo do número de tabelas, da ferramenta e da versão do software o desenho gerado
+pode se tornar um pouco ilegível sendo necessário se fazer alguns ajustes na distribuição da
+tabelas pelo desenho evitando assim as linhas dos relacionamentos que apareçam cruzados
+ou sobrepostos.
+3.1.1 - Entidades
+Uma entidade é representada no modelo por um retângulo. O nome da entidade, que deve
+ser único no contexto, deve ser escrito dentro do retângulo. Por exemplo, ao criarmos uma
+entidade Cliente ela deverá ser representada conforme mostrado na fig 2.1.
+Figura 2.1 - Representação de uma entidade - Cliente.
+Conforme já foi dito entidade é um conjunto de dados inter-relacionados que representam
+um conceito de algo físico ou abstrato que deve ser armazenado e manipulado pelos
+sistemas de informação. Sendo que, estes conjuntos de dados inter-relacionados são
+denominados atributos da entidade. Os atributos são átomos de informação que habitam as
+entidades. São elementos de dados que conferem identificação e qualificação aos objetos
+entidades e relacionamentos. Na implementação física são definidos por nome,
+tipo/tamanho, obrigatoriedade e opcionalmente por restrição de domínio que delimitam
+quais são os valores válidos que podem ser atribuídos ao atributo.
+No que diz respeito à entidade poder representar coisas físicas ou abstratas, podemos tecer
+mais alguns comentários para elucidar melhor estes conceitos. Qualquer conjunto de
+atributos que represente algo que necessite ser persistido/armazenado no banco de dados,
+independente de ser algo tangível como uma peça, um fornecedor, um cliente, ou intangível
+como uma conta contábil pode ser definido como sendo uma entidade. Cada entidade deve
+possuir uma chave de identificação única, chave primária, que é composta por um atributo
+ou um conjunto mínimo de atributos que identificam uma única ocorrência da entidade de
+forma unívoca. As entidades podem ainda ser classificadas como:
+
+Entidade Forte – São aquelas entidades independentes com relação a sua existência de
+identificação. A formação de sua chave primária é composta por atributos próprios,
+exclusivos da entidade.
+Cliente 
+ André Luiz C.Ottoni – UaiSoccer Robot Team – UFSJ – 2010
+12
+Entidade Fraca – São aquelas entidades que possuem dependência de existência em
+relação a uma entidade forte. A formação de sua chave primária é composta em parte pelos
+atributos da chave primária da entidade forte com a qual ela está associada, podendo ter
+outros atributos próprios na composição de sua chave primária. A fig 2.2 esboça uma
+representação de uma entidade fraca. Note que a notação de entidade fraca é representada
+por um retângulo duplo e o traço que a liga a entidade forte conecta-se ao retângulo mais
+interno. Esta representação tem um significado semântico expressando que a chave
+primária da entidade forte é levada para compor a chave primária da entidade fraca. Note
+que, os demais relacionamentos se dão no retângulo externo.
+Figura 2.2 – Representação de uma entidade fraca Dependente.
+Como podemos observar a figura 2.2 apresenta duas formas de representar o
+relacionamento entre as entidades Funcionário e Dependente. A opção (b) é uma
+simplificação da opção (a). Em todo relacionamento onde existe uma dependência de
+existência teremos uma cardinalidade onde uma ocorrência da entidade forte possui de zero
+a “N”, ou de uma a “N” ocorrências na entidade fraca e por sua vez, uma ocorrência da
+entidade fraca possui uma e somente uma ocorrência na entidade forte. Portanto, por
+questão de simplificação do modelo, usualmente representamos as entidades com
+dependência de existência, conforme mostrado na opção (b) da figura 2.2.
+Para representarmos a obrigatoriedade de existência, onde ao existir uma ocorrência da
+entidade forte implica em que deve haver pelo menos uma ocorrência na entidade fraca,
+grafamos um risco conforme mostrado na fig. 2.3. Onde a opção (b) é uma simplificação da
+opção (a).
+NotaFiscal
+ItemNotaFiscal
+e
+a) b) NotaFiscal
+ItemNotaFiscal
+=
+1,1
+1,N
+Funcionario
+Dependente
+a) b) Funcionario
+Dependente
+1,1
+0,N
+ André Luiz C.Ottoni – UaiSoccer Robot Team – UFSJ – 2010
+13
+Figura 2.3 – Representação de uma entidade fraca ItemNotaFiscal.
+Na verdade, definir se uma entidade é forte ou fraca está totalmente baseada no contexto
+semântico no qual se deseja modelar. A princípio sem conhecer as regras do negócio e a
+representação que cada entidade tem no mundo real, não é possível preconceber que uma
+determinada entidade é fraca ou forte, baseado em um modelo anterior. A condição que
+cada entidade terá depende do mini-mundo que se deseja modelar.
+Entidade Relacionamento – São aquelas criadas para representar relacionamentos entre
+duas ou mais tabelas. Possuem atributos de identificação das entidades envolvidas nos
+relacionamentos por elas representados. Podem possuir atributos próprios denominados
+atributos de interseção ou ter como atributos apenas as chaves primárias das relações
+envolvidas no relacionamento, neste caso é chamada de entidade all key. Podem existir
+alguns casos onde o relacionamento entre as chaves primárias de duas relações pode
+ocorrer mais de uma vez ou longo do tempo. Neste caso o que estamos representando é um
+que está ocorrendo um relacionamento ternário onde uma das dimensões é a entidade
+virtual tempo. Esta situação pode ser representa no DER conforme mostrado na figura 2.4.
+Note que os traços (relacionamentos) que se ligam à entidade atendimento o fazem sempre
+nos vértices do losango interno, significando que estes relacionamentos compõem a chave
+primária. Demais relacionamentos, se houverem, deverão estar ligados às demais partes do
+retângulo externo.
+Figura 2.4 - Representação da entidade virtual Data, compondo um relacionamento
+ternário.
+Entidade de Tipo e Subtipo – Este tipo de entidade está relacionado ao conceito de
+generalização e especialização. A generalização significa tornar geral. Ou seja, agrupar em
+uma entidade entidades correlatas que possuem um conceito similar, mas que, entretanto,
+possuem alguns atributos distintos. A especialização significa exatamente o inverso.
+Significar separar uma entidade única em duas ou mais entidades específicas. A decisão
+entre até que ponto se deve generalizar e até que ponto se deve especializar é uma decisão
+de projeto. Uma possível solução é de criar uma tabela geral e a partir dela criar visões
+especializadas que têm um melhor significado semântico para o usuário final. Quando se
+opta pela especialização uma entidade geral contem os atributos comuns e as entidades
+especializadas contêm os atributos específicos. Veja o exemplo da figura 2.5. Note que a
+expressão “Is a” dentro do triângulo traduzindo para português significa “é um”. No
+exemplo: Conta é uma Conta Corrente ou Conta é uma Conta Poupança
+Serviço Cliente
+Data
+Atendimento 
+ André Luiz C.Ottoni – UaiSoccer Robot Team – UFSJ – 2010
+14
+Figura 2.5 - Representação gráfica de Generalização (a) e Especialização (b).
+3.1.2 - Relacionamento
+Definida a entidade, seus atributos e a sua chave primária, o primeiro questionamento que
+surge é como que uma entidade se relaciona com as demais. Esta tarefa está totalmente
+baseada no contexto semântico no qual se deseja modelar. Em outras palavras, as formas de
+como as entidades se relacionam, depende de como isto ocorre no contexto que se deseja
+modelar. Pois o DER deve ser a expressão da realidade. Antes de falarmos em
+relacionamento é importante entender o conceito de cardinalidade. Cardinalidade de um
+relacionamento é o número de ocorrências de uma entidade relacionado com o número de
+ocorrências uma ou mais entidades. O número de entidades participante de um
+relacionamento define o grau do relacionamento. Os relacionamentos poderão ser binários,
+ternários ou n-ários. Vejamos inicialmente quais os tipos de relacionamento binários podem
+ocorrer, considerando duas entidades A e B:
+Relacionamento Um-para-Um – Significa que, para cada ocorrência da relação A podem
+existir de zero a um elementos na relação B. Neste caso a chave primária de ambas as
+entidades são a mesma. Quando se diz que o relacionamento é de zero até um escreve-se
+(0,1) significa dizer que nem todo ocorrência de uma entidade estará relacionado com uma
+ocorrência da outra entidade. Isto somente irá ocorrer quando a cardinalidade do
+relacionamento estiver representada como sendo (1,1). Como a chave primária de ambas as
+relações é a mesma, não faz muito sentido a não ser por questões de redução de espaço de
+armazenamento ou de performance implementarmos na prática este tipo de relacionamento.
+Ou seja, estas entidades deveriam se tornar uma só. Podemos entender este tipo de
+relacionamento com sendo um caso particular do Um-para-Muitos. Veja na figura 2.6
+entidade Cliente é considerada principal e a entidade ClienteComplemento é considerada
+dependente. São mostrados em (a) uma cardinalidade onde as ocorrências da entidade
+Cliente Complemento não existem obrigatoriamente para todas as ocorrências da entidade
+Cliente; em (b) a obrigatoriedade existe.
+Conta
+Is a
+Conta Corrente Conta Poupança
+a) Conta b) 
+ André Luiz C.Ottoni – UaiSoccer Robot Team – UFSJ – 2010
+15
+Figura 2.6 – Representação gráfica do relacionamento Um-para-Um.
+Na figura 2.6, podemos perceber que o relacionamento está representado pelo losango.
+Muitos autores inserem dentro do losango um texto que representa o relacionamento. Neste
+exemplo poderíamos usar “possui” ou “tem”. A modelo da letra (a) pode ser lido como: um
+Cliente possui de zero a um ClienteComplemento. Um ClienteComplemento pertence a um,
+e somente um, Cliente. No exemplo (b) um Cliente possui um, e somente um,
+ClienteComplemento,. Um Cliente Complemento pertence a um, e somente um, Cliente.
+Neste texto não adotaremos esta conduta de inserir um texto dentro do losango por achar
+desnecessário esta representação. Note que a cardinalidade de uma entidade que está sendo
+considerada, sempre está representada no lado oposto da entidade em questão em relação ao
+losango.
+Relacionamento Um-para-Muitos - Significa que, para cada ocorrência da relação A
+podem existir de zero a muitas ocorrências na relação B. Neste caso a chave primária da
+entidade referenciada aparece como chave estrangeira na entidade que faz a referência.
+Quando se diz que o relacionamento é de zero até N escreve-se (0,N) significa dizer que a
+chave estrangeira que faz referência a outros entidade referenciadas aceita nulo. Portanto, o
+relacionamento é parcial. Nem todo ocorrência de uma entidade possui uma referência para
+a outra. Entretanto quando o relacionamento for de uma até N escreve-se (1,N), significa
+dizer que o relacionamento é total. O atributo chave estrangeira sempre estará preenchido.
+Veja na figura 2.7, a entidade Empregado possui uma referência para entidade Cargo. Ou
+seja, para se saber o cargo que um empregado ocupa, temos na entidade Empregado, apenas
+uma referência às informações do Cargo, como por exemplo, a descrição completa e
+atribuições do cargo. Como vários empregados podem ter um mesmo cargo, todos eles irão
+referenciar à mesma ocorrência da entidade Cargo. Caso haja qualquer alteração na
+descrição ou atribuição, basta acertar as informações é um único lugar. Pois, empregado
+não possui as informações do seu cargo, possui apenas uma referência de onde as
+informações estão armazenadas. Na figura 2.6, são mostrados em (a) uma cardinalidade
+onde as ocorrências da entidade a chave estrangeira em na entidade Empregado não é
+obrigatório e em (b) onde é obrigatória.
+Cliente
+Cliente
+Complemento
+(1,1)
+(0,1)
+(a) Cliente
+Cliente
+Complemento
+(1,1)
+(1,1)
+(b) 
+ André Luiz C.Ottoni – UaiSoccer Robot Team – UFSJ – 2010
+16
+Figura 2.7 – Representação gráfica do relacionamento Um-para-Muitos.
+Na fig 2.6, podemos perceber que o relacionamento está representado pelo losango. No
+modelo da letra (a) pode ser lido como: um Empregado ocupa nenhum ou um Cargo. Um
+Cargo é ocupado por nenhum ou até por vários empregados No exemplo (b) um Empregado
+ocupa um e somente um cargo. Um Cargo é ocupado por pelo menos um ou até vários
+empregados. Note que no caso (a) dizermos que um pode ocupar nenhum cargo, significa
+dizer que o atributo chave estrangeira que faz referência à entidade cargo irá aceitar nulos
+significando relacionamento parcial. No caso (b) dizermos que um cargo é ocupado por
+pelo menos um empregado, significa relacionamento total. Isto implica que nenhum cargo
+poderia ser cadastrado se não houvesse um ocupante para ele. Neste caso, normalmente
+primeiro cadastramos todos os cargos existentes na empresa depois é que iremos cadastrar
+os empregados e então fazemos referência ao cargo.
+Relacionamento Muitos-para-Muitos - Significa que, para cada ocorrência da relação A
+podem existir de muitas ocorrências na relação B e vice-versa. Neste caso a chave primária
+de cada uma das entidades participantes do relacionamento irão compor a chave primária
+de uma nova entidade que será criada a partir deste relacionamento. Esta nova entidade terá
+como atributo, as chaves estrangeiras, que são as chaves primárias de cada uma das
+entidades que compõem o relacionamento, considerando que o relacionamento pode ser n-
+ário. O relacionamento muitos-para-muitos escreve-se (N,M) é gerado a partir de dois
+relacionamentos (1,N). Veja na figura 2.8.
+Figura 2.8 – Representação gráfica do relacionamento Muitos-para-Muitos.
+3.2 Linguagem de Consulta SQL
+Ao analisar a sintaxe dos comandos SQL, considere a expressão entre colchetes como
+sendo opcional e expressões entre “|” como sendo mutuamente exclusivas.
+Select - A claúsula select é utilizada para fazer uma consulta no banco de dados. Ao
+submeter um comando DML, o SGBD analisa a sintaxe, define a melhor estratégia de
+recuperação dos dados, executa o comando e retorna um result set. Toda expressão da
+Empregado Alocação Projeto (0,N) (0,N)
+Empregado
+Cargo
+(0,N)
+(0,1)
+(a) (b) Empregado
+Cargo
+(1,N)
+(1,1)
+ André Luiz C.Ottoni – UaiSoccer Robot Team – UFSJ – 2010
+17
+álgebra relacional produz uma relação, que nada mais é que o result set. A sintaxe básica do
+comando select é:
+Insert - A claúsula insert possibilita inserir dados (linha) em uma tabela. Cada comando
+insert inclui apenas uma única linha em uma única tabela de cada vez. Ele retorna somente
+a confirmação da inserção ou a mensagem de erro ocorrida na tentativa de inserção de uma
+linha. Todos os campos que são obrigatórios e que não possuírem um valor de inserção
+default, deverão ser informados no momento da inserção. Ou seja, não poderão estar nulos.
+A sintaxe do comando insert é:
+Update – A cláusula update possibilita atualizar dados, (colunas), em uma ou mais linha
+de uma única tabela. Ele retorna somente a confirmação da atualização ou a mensagem de
+erro ocorrida na tentativa de atualizar a(s) linha(s). A sintaxe do comando update é:
+Obs: Caso a condição definida na cláusula where não selecione nenhuma linha para
+atualizar, mesmo assim o comando é considerado como executado com sucesso.
+
+Delete – A cláusula delete possibilita remover dados da tabela, uma ou mais linhas de
+uma única tabela. Ele retorna somente a confirmação da remoção ou a mensagem de erro
+ocorrida na tentativa de remover a(s) linha(s). A sintaxe do comando delete é:
+Select [ All | Distinct ] coluna1 [, coluna2]
+ From tabela1
+ [Where <condições de seleção> ]
+ [Order by coluna1, coluna2 [asc | desc] ]
+Insert into tabela [coluna1, coluna2] values ( “valor1”, “valor2”);
+Update tabela
+ set campo1 = “valor1”
+ , campo2 = “valor2”]
+[ where “condições” ]
+Delete from tabela
+ [ Where “condições” ] 
+ André Luiz C.Ottoni – UaiSoccer Robot Team – UFSJ – 2010
+18
+4. DESENVOLVIMENTO DE SOFTWARE ORIENTADO OBJETOS
+4.1 FUNDAMENTOS DA ORIENTAÇÃO A OBJETOS
+• Qualquer coisa é um objeto.
+• Objetos realizam tarefas através da requisição de serviços a outros objetos.
+• Cada objeto pertence a uma determinada classe. Uma classe agrupa objetos
+similares.
+• A classe é um repositório para comportamento associado ao objeto.
+• Classes são organizadas em hierarquias.
+4.2 PARADIGMA DA ORIENTAÇÃO A OBJETOS
+• Um sistema é visto como uma coleção de agentes interconectados chamados
+objetos.
+• Cada objeto é responsável por realizar tarefas específicas.
+• É através da interação entre objetos que uma tarefa computacional (funcionalidades
+do sistema) é realizada. 
+ André Luiz C.Ottoni – UaiSoccer Robot Team – UFSJ – 2010
+19
+4.3 ETAPAS DO PROCESSO DE DESENVOLVIMENTO DE SOFTWARE
+ORIENTADO OBJETOS
+4.4 UML – CLASSES X OBJETOS
+Classes Objetos
+Tipo abstrato de dado;
+São como plantas de objetos;
+São definições estáticas, que possibilitam o
+entendimento de um grupo de objetos.
+Contém métodos e dados.
+Um caso particular de uma classe;
+São instâncias de uma classe;
+São abstrações de entidades que existem no
+mundo real.
+Contém métodos e dados.
+ 
+ André Luiz C.Ottoni – UaiSoccer Robot Team – UFSJ – 2010
+20
+5. UML – DIAGRAMA DE CLASSES
+É um dos principais diagramas da UML, pois está relacionado ao modelo de solução
+do problema a partir de uma visão estática da estrutura do sistema. Ele descreve os tipos de
+kitchen
+Living Room
+Bath Office
+Dining
+Room Family
+Room
+Covered
+Porch
+Classe
+Objetos
+Classe
+Objetos
+ André Luiz C.Ottoni – UaiSoccer Robot Team – UFSJ – 2010
+21
+objetos no sistema e os vários tipos de relacionamentos estáticos que existem entre eles.
+Mostram também atributos e operações de uma classe.
+5.1 RELACIONAMENTO ENTRE CLASSES
+1. Associação /Agregação e composição;
+2. Dependência;
+3. Generalização (herança).
+ 5.1.1 ASSOCIAÇÃO
+São relacionamentos entre duas classes representados por uma linha sólida.
+Especificam que objetos de uma classe estão ligados a objetos de outras classes.
+cd trunk\src\graphicalClient
+QGraphicsPathItem
+Robot
++ orientation: double
++ teamID: int
++ id: int
++ x: double
++ y: double
++ conf: double
++ key: int
++ robotLabel: QString
+- brush: QBrush*
+- pen: QPen*
+- *: QPen*
+- robotOutline: QPainterPath
+- robotOutlineCircle: QPainterPath
+- robotID: QPainterPath
+- drawFont: QFont
++ tStamp: unsigned long int
++ boundingRect() : QRectF
++ shape() : QPainterPath
++ paint(QPainter*, QStyleOptionGraphicsItem*, QWidget*) : void
++ update(qreal, qreal, qreal, qreal) : void
++ update(QRectF&) : void
++ Robot()
++ Robot(double, double, double, int, int, int, double)
++ SetPose(double, double, double, double) : void
++ ~Robot()
+Nome
+Atributos
+Métodos
+ André Luiz C.Ottoni – UaiSoccer Robot Team – UFSJ – 2010
+22
+Associação Unária - Quando há um relacionamento de uma classe para ela mesma.
+
+
+Associação Binária - Quando há duas classes envolvidas na forma direta de uma para a
+outra.
+
+
+Multiplicidade das associações - Indica quantos objetos podem participar de um
+dado relacionamento.
+• “*” – Representa uma variação de zero a infinito.
+• “1” – Indica relacionamento obrigatório único.
+• “0..1” – Pode ser nenhum ou um (relacionamento único não obrigatório).
+• “1..5” – Entre 1 e 5.
+• “2,4” – Dois ou quatro.
+Funcionário 1..*
+888*
+1
+gerencia
+Cliente Pedido
+faz
+1 0..*
+Usuário Senha
+ André Luiz C.Ottoni – UaiSoccer Robot Team – UFSJ – 2010
+23
+5.1.2 AGREGAÇÃO
+Tipo de associação (é parte de, todo/parte) onde o objeto parte é um atributo do
+todo. A agregação faz sentido quando duas classes quando associadas têm um sentido
+próprio e quando separadas continuam existindo como unidades autônomas: Ex: Uma
+garagem está associada a um apartamento.
+
+
+OBS: O diamante vazio fica do lado da classe dominante.
+5.1.3 COMPOSIÇÃO
+Relacionamento entre um elemento (o todo) e outros elementos (as partes) onde as
+partes só podem pertencer ao todo e são criadas e destruídas com ele. A associação com
+forte dependência de composição implica que se a instância da classe deixar de existir todas
+as outras instâncias associadas a ela deixarão de existir também. Ex: Notas fiscais e itens de
+nota fiscais.
+Classe dominada
+Classe dominante 
+ André Luiz C.Ottoni – UaiSoccer Robot Team – UFSJ – 2010
+24
+
+
+
+5.1.4 DEPENDÊNCIA
+Uma mudança na especificação de um elemento pode alterar a especificação do
+elemento dependente. A dependência entre classes indica que os objetos de uma classe
+usam serviços dos objetos de outra classe.
+Existe um relacionamento de dependência entre duas classes quando uma classe
+utiliza outra somente como parâmetro de entrada na assinatura de ao menos uma de suas
+operações.
+
+Classe dominada
+Classe dominante 
+ André Luiz C.Ottoni – UaiSoccer Robot Team – UFSJ – 2010
+25
+
+
+5.1.5 GERALIZAÇÃO (HERANÇA)
+Relacionamento entre um elemento mais geral e um mais específico. Onde o
+elemento mais específico herda as propriedades e métodos do elemento mais geral. Ou seja,
+herança é a possibilidade de uma classe utilizar atributos e métodos de uma outra como se
+fossem seus.
+ Herança Simples
+
+ Herança Múltipla
+
+ 
+ André Luiz C.Ottoni – UaiSoccer Robot Team – UFSJ – 2010
+26
+
+5.2 VISIBILIDADE DE UMA CLASSE
+• Pública – Qualquer outra classe poderá acessar os atributos e operações da classe.
+• Privada – Pode ser uma classe que foi declarada como parte de outra classe.
+• Pacote – Tem sua visibilidade restrita ao pacote que reside.
+5.3 VISIBILIDADE DOS ATRIBUTOS
+• Public (+) – Atributo pode ser visto pelos membros internos da classe e por
+qualquer membro externo à classe.
+• Private (-) – Atributo somente operações da classe podem retornar e alterar o seu
+valor. (é o mais comum em OO).
+• Protected (#) – Somente é acessível pelas classes que estejam participando de sua
+estrutura de herança.
+• Package (~) – (default) É acessível pelas classes que fazem parte do pacote que a
+classe pertence. 
+ André Luiz C.Ottoni – UaiSoccer Robot Team – UFSJ – 2010
+27
+6 Referências Bibliográficas:
+SILVA, Edson Marchetti da. Metodologia de Desenvolvimento de Software – Análise
+Essencial. 2008.
+SILVA, Edson Marchetti da. Metodologia de Desenvolvimento de Software – UML –
+Análise Orientada Objetos. 2008.
+SILVA, Edson Marchetti da. Metodologia de Desenvolvimento de Software – UML –
+Diagrama de Classes. 2008.
+SILVA, Edson Marchetti da. Modelagem de Dados no Ciclo de Vida de um Sistema. 2008.
+MEDEIROS, Ernani S.: Desenvolvendo software com UML 2.0: definitivo. Pearson
+Makron Books 2004.
+FOWLER, M & SCOTT, K. UML essencial: um breve guia para linguagem-padrão de
+modelagem de objetos. 2ª ed. Bookman, 2000.
+LARMAN, Craig. Utilizando UML e Padrões. 3ª ed. Bookman, 2007.
+MCMENAMIM, Sthephen M., PALMER John F. Análise essencial de sistemas. São
+Paulo:McGraw-Hill, 1991.
+POMPILHO, S. Análise Essencial: guia prático de análise de sistemas. Rio de Janeiro:
+Infobook, 1994.
+YORDON, Edward. Análise estruturada moderna. Rio de Janeiro: Campus, 1990.
+SEI-Carnegie Mellon University. The Capability Maturity Model: guidelines for improving
+the software process.Addison Wesley. 1995.
+PRESSMAN, Roger S. Software Engineering: a practioner´s approach. Fouth edition.
+McGraw-Hill, 1997. Chapter 2: the process.

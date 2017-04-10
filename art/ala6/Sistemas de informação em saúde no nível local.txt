@@ -1,0 +1,379 @@
+267
+Cad. Saúde Públ., Rio de Janeiro, 12(2):267-270, abr-jun, 1996
+OPINIÃO OPINION
+
+Sistemas de informação em saúde no nível local
+
+Health information systems at the local level
+
+
+Núcleo de Estudos em Saúde
+Coletiva, Centro de Pesquisas
+Aggeu Magalhães,
+Fundação Oswaldo Cruz.
+Rua dos Coelhos, s/no, Recife,
+PE, 50070-550, Brasil.
+
+
+Maria Alice Fernandes Branco
+
+
+Abstract Information systems have assumed paramount importance in modern society, becoming
+an strategic resource of power in all areas. Therefore, it is important that the process of decentralization
+of the health sector should not be limited to services, but should also consider the decentralization
+of information. The author discusses the sharing of political and technical responsibility between
+various governmental spheres, and the need to rethink and redirect the process of making accessible
+information on health. This is a matter of overcoming vertical relations between government
+and society and of moving toward cooperative management capable of minimizing regional
+inequalities and optimizing the utilization of resources.
+Key words Health information System; Decentralization; Municipalization; Public Health
+
+Resumo A importância que a informação vem assumindo na sociedade moderna transformou-a
+em recurso estatégico de poder em todas as áreas. É fundamental, portanto, que o processo de descentralização
+no setor saúde não se restrinja a ações em serviços, mas contemple também a descentralização
+da informação. A autora discute o compartilhamento da responsabilidade política e técnica
+entre esferas governamentais e a necessidadede de repensar e redirecionar ações no tocante ao
+processo de descentralização da informação em saúde. Trata-se de superar a prática da relação vertical
+entre esferas de governo, e caminhar no sentido da parceria gerencial, capaz de contribuir para
+minimizar as desigualdades regionais e otimizar a utilização de recursos.
+Palavras-chave Sistema de Informação em Saúde; Descentralização; Municipalização; Saúde
+Pública
+68 BRANCO, M. A. F.
+Cad. Saúde Públ., Rio de Janeiro, 12(2):267-270, abr-jun, 1996
+
+
+As prerrogativas legais hoje vigentes no setor
+saúde determinam a descentralização e a participação
+popular como diretrizes de atuação
+político-administrativa que devem ser acatadas
+pelas três instâncias de governo. Os municípios
+são reconhecidos como entes governamentais
+autônomos que devem responsabilizar-se
+pelo planejamento, organização, controle
+e avaliação das ações e serviços de saúde de
+sua região. Para tanto, a produção, gerenciamento
+e divulgação de informação são elementos
+estratégicos que podem servir tanto
+para o fortalecimento dos objetivos e ações estatais
+quanto para a eficácia e oportunidade
+das ações de controle social.
+Dessa forma, o processo de descentraliza-
+ção não deve restringir-se a ações e serviços de
+saúde, mas contemplar também a descentralização
+da informação, elemento imprescindível
+à busca de maior autonomia municipal.
+A finalidade da informação em saúde consiste
+em identificar problemas individuais e
+coletivos do quadro sanitário de uma popula-
+ção, propiciando elementos para análise da situação
+encontrada e subsidiando a busca de
+possíveis alternativas de encaminhamento. Assim,
+as informações em saúde devem abranger
+as relativas ao processo saúde/doença e as de
+caráter administrativo, todas essenciais ao processo
+de tomada de decisão no setor.
+Conceitualmente, o sistema de informação
+em saúde pode ser entendido como um instrumento
+para adquirir, organizar e analisar dados
+necessários à definição de problemas e riscos para
+a saúde, avaliar a eficácia, eficiência e influ-
+ência que os serviços prestados possam ter no
+estado de saúde da população, além de contribuir
+para a produção de conhecimento acerca da
+saúde e dos assuntos a ela ligados (White, 1980).
+No Brasil, tradicionalmente, a produção e
+utilização da informação em saúde, dando origem
+a diagnósticos sobre a situação sanitária
+de cada município, quase sempre foram realizadas
+pelos governos federal ou estadual, sem
+participação local. As administrações municipais
+foram ficando atrofiadas nesta e em outras
+dimensões de sua capacidade técnica, todas fundamentais
+como subsídio ao processo de planejamento
+em saúde (Medici, 1991; Possas, 1989).
+Contudo, a própria lei orgânica da saúde
+prevê, como competência e atribuição comuns
+à União, estados e municípios, a organização e
+coordenação do sistema de informação em
+saúde. Ao município é atribuído, portanto, juridicamente,
+um papel bem mais amplo do que
+o de mero coletor de dados. Espera-se que ele
+seja capaz de produzir, organizar e coordenar a
+informação em saúde de sua região.
+A importância que possuem as esferas locais
+em relação ao governo central, não se dá
+apenas porque são estes níveis a fonte da
+maior parte dos dados, mas pela possibilidade
+de, então, estabelecerem suas prioridades e
+alocação de recursos (White, 1980). O sistema
+de informações reflete estas prioridades, na
+medida em que a informação é fundamentalmente
+política, uma vez que “[...] a questão
+central do Sistema de Informação: os indicadores
+‘escolhidos’ tendem a refletir a própria concepção
+de saúde que norteia o Sistema. Ou seja,
+escolher este ou aquele indicador, quantificar
+esta ou aquela variável pressupõe, antes de
+se constituir uma questão estatística ou epidemiológica,
+a explicitação da concepção, dos
+objetivos e metas a serem atingidos pelo Sistema
+Nacional/Único de Saúde” (MCT, 1988:85).
+Mas como a maioria dos sistemas de informação
+em saúde (SIS) federais foram concebidos
+antes da implantação do Sistema Único de
+Saúde (SUS) e sem a participação estadual e
+municipal, tal concepção, objetivos e metas estavam
+voltados para outro delineamento polí-
+tico no que diz respeito à atuação das três instâncias
+governamentais.
+Dessa forma, a simples transposição de sistemas
+concebidos no plano federal para o âmbito
+estadual ou local, como tem ocorrido com
+os sistemas de mortalidade, nascidos vivos e
+cólera, não implica descentralização da informação.
+Trata-se, a rigor, de desconcentração da
+digitação, do processamento e do acesso aos
+dados. Afinal, está se levando para o âmbito local
+a concepção e prioridades definidas centralmente.
+Não se trata de defender a idéia de que cada
+município brasileiro deva conceber e desenvolver
+seus próprios sistemas. Mas, apenas,
+de enfatizar que o modelo de sistema de informação
+em saúde com que se conta atualmente
+não atende aos princípios definidos constitucionalmente
+para o setor, consolidados na lei
+orgânica. Claro que é fundamental a existência
+de sistemas de informação de concepção federal
+para o adequado acompanhamento, controle,
+avaliação e produção de conhecimento
+em nível nacional. Mas esta é a perspectiva de
+uma esfera de governo com atribuições legais
+que implicam uma visão de conjunto com
+abrangência nacional, com o intuito de subsidiar
+o SUS na formulação da política nacional
+de saúde. Contudo, os governos estaduais necessitam
+de um conhecimento mais detalhado
+da situação de saúde dos municípios sob sua
+jurisdição. Como unidades federadas devem
+acompanhar, avaliar e divulgar indicadores, no
+âmbito de sua região, que permitam uma aná-
+SISTEMAS DE INFORMAÇÃO EM SAÚDE 269
+Cad. Saúde Públ., Rio de Janeiro, 12(2):267-270, abr-jun, 1996
+lise das condições de saúde com que se defronta
+a população do estado, coordenando ações e
+promovendo apoio técnico e financeiro. Os municípios,
+por sua vez, necessitam de informa-
+ções que permitam o delineamento da situa-
+ção sanitária e forneçam subsídios para o melhor
+desempenho técnico.
+Dessa forma, para o atendimento dos princípios
+que regem o SUS e cumprimento dos
+dispositivos legais, a definição de sistemas de
+informação em saúde de âmbito nacional deveria
+ter sua concepção discutida nas três instâncias
+de governo, com os correspondentes
+desdobramentos compatíveis no plano estadual
+e municipal, cabendo simultaneamente a
+cada um a responsabilidade pela definição, estruturação
+e execução de subsistemas necessá-
+rios ao desempenho das atribuições de sua responsabilidade,
+observando a compatibilização
+com os sistemas nacionais.
+No âmbito federal, as informações em saú-
+de encontram-se dispersas em vários órgãos e
+ministérios (MCT, 1988; Possas, 1989). Observa-se
+falta de padronização nos procedimentos
+de obtenção, tratamento e disseminação e
+a periodicidade adotada nem sempre é a mais
+adequada. A oportunidade, qualidade e cobertura
+das informações variam de acordo com as
+áreas geográficas onde são produzidas, guardando
+estreita relação com o grau de desenvolvimento
+dos sistemas estaduais de informação.
+Nem todas encontram-se desagregadas no âmbito
+de município e há dificuldades para que a
+instância local consiga acessá-las (Baldijão,
+1992; CONASEMS, 1991).
+Na esfera estadual, é possível dizer que,
+atualmente, todas as secretarias estaduais de
+saúde possuem alguma estrutura específica
+para informação, ainda que nem sempre com
+o grau de desenvolvimento adequado. E entre
+os principais problemas que enfrentam para
+produzir a informação em saúde de sua região,
+encontram-se: falta ou deficiência de infra-estrutura
+de informática; insuficiência de recursos
+humanos qualificados; falta de padroniza-
+ção e normatização dos procedimentos de coleta
+de dados; falta de hierarquização na produção
+e uso das informações nos diversos ní-
+veis da rede; insuficiente grau de utilização dos
+dados para análise do sistema e dos serviços de
+saúde (MCT, 1988).
+Em âmbito local, os problemas são ainda
+maiores. Há uma heterogeneidade muito mais
+acentuada entre a infra-estrutura das secretarias
+municipais do que entre as estaduais. Embora
+muitos municípios já venham “[...] trabalhando
+com seus sistemas de informação, como
+forma de subsidiar o planejamento e a programação
+dos serviços, [...] a maioria deles não
+sabe sequer como definir adequadamente suas
+necessidades” (Medici, 1991:28). Assim, a maioria
+dos municípios brasileiros efetua apenas
+procedimentos de coleta de dados para os sistemas
+de âmbito federal ou estadual. Em outro
+extremo, há secretarias que além dessa função,
+já produzem, processam, organizam e analisam
+a informação em saúde de seu município,
+apresentando seus resultados em periódicos
+especializados e eventos científicos. Num ponto
+intermediário, encontram-se as estruturas
+locais que ainda buscam consolidar seus pró-
+prios sistemas de informação, encontrando dificuldades
+quanto à montagem de infra-estrutura
+de informática (incluindo recursos, equipamentos
+e pessoal); definição adequada de
+procedimentos de coleta; conhecimento e acesso
+restritos quanto às alternativas de processamento
+e falta ou deficiência de recursos humanos
+qualificados para a análise das informa-
+ções obtidas.
+Embora as atribuições municipais definidas
+legalmente apresentem uma abrangência e
+complexidade que ultrapassam em muito a
+atual capacidade técnica, administrativa e institucional
+de grande número de municípios
+brasileiros, o envolvimento destes com a produção,
+processamento e análise da informação
+tenderia a melhorar, em muito, a qualidade e
+confiabilidade dos dados, além de poder gerar
+ganhos no que diz respeito à qualidade da
+prestação de serviços e à capacidade de autoavaliação
+do nível local. Podem ser levantados,
+ainda, outros aspectos positivos, como a facilitação
+das funções de planejamento, programa-
+ção, acompanhamento e avaliação; incentivo à
+participação no esforço de aperfeiçoar o SIS e
+estímulo à retroalimentação da informação.
+O relacionamento integrado entre os três
+entes governamentais é fundamental para o
+sucesso de tais ações. Sem o concurso e esfor-
+ço dos planos federal, estadual e municipal é
+impossível alcançar um sistema de informação
+eficiente, eficaz e adequado às atuais necessidades
+das três esferas de atuação. O SIS deve
+privilegiar cada uma dessas instâncias com informações
+úteis, confiáveis e oportunas ao desempenho
+de suas respectivas atribuições no
+Sistema Único de Saúde. Assim, competirá a
+cada esfera de atuação a responsabilidade pela
+definição, estruturação e execução do sistema
+de informação necessário ao desempenho das
+funções sob sua responsabilidade, observando,
+contudo, a compatibilização com as atribui-
+ções dos demais entes envolvidos e suas respectivas
+necessidades na organização e gerência
+dos serviços.
+70 BRANCO, M. A. F.
+Cad. Saúde Públ., Rio de Janeiro, 12(2):267-270, abr-jun, 1996
+Dessa forma, embora tanto a esfera federal
+quanto a estadual devam definir os dados de que
+precisam para alimentar seus sistemas, bem como
+seu formato e lay-out, não podem mostrarse
+impermeáveis às necessidades das instâncias
+locais. É fundamental trabalhar com uma
+concepção aberta, adotando normas flexíveis e
+adaptáveis, que permitam às demais instâncias
+desenvolver experiências locais, mantendo
+grau mínimo de compatibilização (MS, 1994).
+As autoridades de saúde locais têm come-
+çado a procurar por dados que os guiem na
+meta de atividades que eles devem empreender
+para melhorar a saúde de suas populações.
+A esfera local parte, então, para a tentativa de
+criar sistemas de informação que dêem conta
+do que entende como especificidades locais,
+quer sejam políticas, administrativas, técnicas
+ou sanitárias (Branco, 1995).
+É preciso, contudo, equilibrar desejo, factibilidade
+e custos, estabelecendo prioridades. É
+necessário ter clareza sobre quem serão os
+usuários da informação e o que, precisamente,
+eles querem. Existe a necessidade de garantir
+que a informação requerida seja mensurável,
+que haja codificação correta na fonte e que a
+mesma se dê sobre uma base consistente; bem
+como, que o interesse pela informação seja suficiente
+para garantir incentivos à coleta, e que
+a coleta, processamento e análise dos dados
+sejam factíveis (Willmer, 1992). Afinal, informação
+de má qualidade informa tanto quanto
+a ausência de informação.
+Há outros equívocos a serem evitados. Muitas
+vezes, a falta de clareza quanto à informa-
+ção realmente necessária faz com que sejam
+coletados dados que não terão qualquer utilidade,
+sobrecarregando sistemas. Grande quantidade
+de dados parece dar a ilusória sensação
+de que a situação está sob controle ou de que se
+tem tudo o que é necessário para conhecer um
+problema. A disseminação da microinformática
+e as facilidades de uso que oferece acabam
+por propiciar que esse engano seja muito freqüente.
+É comum, também, que a cada mudan-
+ça de chefia sejam criados novos sistemas, desconsiderando
+o trabalho desenvolvido pelo antecessor
+e ignorando o aproveitamento de qualquer
+componente dos sistemas então existentes.
+Isto pode gerar desmotivação e descompromisso
+nas equipes técnicas envolvidas. Outra
+situação a ser evitada é a ausência de intercâmbio
+entre os sistemas da própria institui-
+ção, gerando duplicação de dados e esforços.
+É fundamental, ainda, que as três esferas de
+atuação governamental permitam e facilitem
+o acesso às informações por elas produzidas,
+inclusive às instâncias acadêmicas e de controle
+social, e promovam o intercâmbio de dados
+e experiências. A adoção de diretrizes e práticas
+que permitam a utilização das informações
+existentes nos três segmentos e o livre fornecimento
+de dados pode contribuir, significativamente,
+para a ampliação e aperfeiçoamento do
+relacionamento entre as estruturas que compõem
+o SUS.
+Referências
+BALDIJÃO, M. F. de A., 1992. Sistemas de informação
+em saúde. São Paulo em Perspectiva, 6:21-28.
+BRANCO, M. A. F., 1995. Sistema de Informação em
+Saúde em Âmbito Local e Organização de Interesses
+Sociais: Um Estudo de Caso no Município do
+Rio de Janeiro. Dissertação de Mestrado. Intituto
+de Medicina Social, Universidade do Estado do
+Rio de Janeiro.
+CONASEMS (Conselho Nacional de Secretários Municipais
+de Saúde), 1991. Secretários pedem informações.
+É uma longa lista. Presença, 7.
+MEDICI, A. C., 1991. Descentralização e informação
+em saúde. Planejamento e Políticas Públicas,
+5:5-29.
+MCT (Ministério da Ciência e Tecnologia), 1988. Proposta
+de Plano Setorial de Informática em Saúde;
+Relatório da Comissão Especial de Informática
+em Saúde. Brasília: Secretaria Especial de Informática.
+MS (Ministério da Saúde), 1994. Uso e Disseminação
+de Informações em Saúde. Subsídios para a Elaboração
+de uma Política de Informações em
+Saúde para o SUS. Relatório final. Rio de Janeiro:
+Abrasco.
+POSSAS, C. A., 1989. Sistemas Estaduais de Informa-
+ção em Saúde no Brasil: Situação Atual e Perspectivas.
+Rio de Janeiro: Fundação Oswaldo Cruz.
+WHITE, K. L., 1980. Information for health care: an
+epidemiological perspective. Inquiry – The Journal
+of Health Care Organization, Provising and
+Financing, 17:296-312.
+WILMER, R., 1992. Discussion of the paper by Thunhurst
+and MacFarlane. Journal of Royal Statistical
+Society, 155(part 3):338-352.
