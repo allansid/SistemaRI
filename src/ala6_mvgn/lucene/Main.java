@@ -7,7 +7,7 @@ import org.apache.lucene.queryparser.classic.ParseException;
 
 public class Main {
 
-	private static String indexDirectoryPath = "C:\\Users\\Milton\\Documents\\Minera��o Web\\Tarefa 1\\index";
+	private static String indexDirectoryPath;
 	private static String path;
 	private static Scanner input = new Scanner(System.in);
 	private static boolean stopword = false;
@@ -30,7 +30,7 @@ public class Main {
 	public static void loadInfo() {
 		String temp;
 		System.out.println("Enter path: ");
-		path = input.nextLine();
+		path = input.nextLine(); //C:\Users\Allan\Google Drive\doing\Mineração da Web ~if796\Mineração da Web - 2017.1\Tarefa_1\SistemaRI\art\ala6
 		System.out.println("Stopwords? ");
 		temp = input.nextLine();
 		if (temp.equalsIgnoreCase("sim")) {
