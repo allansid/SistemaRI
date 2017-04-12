@@ -13,16 +13,18 @@ public class Main {
 	private static boolean stopword = false;
 	private static boolean stemming = false;
 	private static int totalHits = 0;
-	private static final int NEW_QUERY = 1;
-	private static final int NEW_BASE = 2;
-	private static final int QUIT = 3;
+	private static final int NEW_BASE = 1;
+	private static final int QUIT = 2;
 
 	private static String[] paths = {
 			"C:\\Users\\Allan\\Desktop\\",
 			"C:\\Users\\Allan\\Google Drive\\Mineração da Web ~if796\\Tarefa_1\\result",
 			"C:\\Users\\Allan\\Google Drive\\Mineração da Web ~if796\\Tarefa_1\\SistemaRI\\art",
-			"C:\\Users\\Milton\\Documents\\Mineração Web\\Tarefa 1\\index",	
 			"C:\\Users\\Milton\\Documents\\Mineração Web\\Tarefa 1\\documentos",
+			"C:\\Users\\Milton\\Documents\\Mineração Web\\Tarefa 1\\index",
+			"C:\\Users\\Milton\\Documents\\Mineração Web\\Tarefa 1\\index2",
+			"C:\\Users\\Milton\\Documents\\Mineração Web\\Tarefa 1\\index3",
+			"C:\\Users\\Milton\\Documents\\Mineração Web\\Tarefa 1\\index4",
 			"next"
 	};	
 
@@ -40,26 +42,13 @@ public class Main {
 
 		return searcher.searcher(indexDirectoryPath); // onde foram salvo os
 														// indexados
-
 	}
 
-	public static void pathChoice(String number, boolean aux) {
+	public static void pathChoice(int number, boolean aux) {
 		if (aux == false) {
-			if (number.equals("0"))	{
-				path = paths[0];
-			} else if (number.equals("2")) {
-				path = paths[2];
-			} else if (number.equals("4")) {
-				path = paths[4];
-			}
+			path = paths[number];
 		} else if (aux == true) {
-			if (number.equals("0"))	{
-				indexDirectoryPath = paths[0];
-			} else if (number.equals("1")) {
-				indexDirectoryPath = paths[1];
-			} else if (number.equals("3")) {
-				indexDirectoryPath = paths[3];	
-			}
+			indexDirectoryPath = paths[number];
 		}
 	}
 	
@@ -69,8 +58,14 @@ public class Main {
 		
 		input = new Scanner(System.in);
 
-		path = input.nextLine();
-		pathChoice(path, false);
+		int pathNumber = input.nextInt();
+		pathChoice(pathNumber, false);
+		
+		System.out.println("indexDirectoryPath ? ");
+		int indexPathNumber = input.nextInt();	 
+		pathChoice(indexPathNumber, true);
+		
+		input = new Scanner(System.in);
 
 		System.out.println("Stopwords? ");
 		temp = input.nextLine();
@@ -83,10 +78,6 @@ public class Main {
 		if (temp.equalsIgnoreCase("sim")) {
 			stopword = true;
 		}
-
-		System.out.println("indexDirectoryPath ? ");
-		indexDirectoryPath = input.nextLine();		 
-		pathChoice(indexDirectoryPath, true);
 
 	}
 
