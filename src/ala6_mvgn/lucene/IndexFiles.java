@@ -31,6 +31,7 @@ public class IndexFiles {
 		this.stopword = stopword;
 	}
 	
+	
 	private Analyzer getAnalyzer(boolean stopword, boolean stemming) {
 		Analyzer analyzer = null;
 		
@@ -104,7 +105,8 @@ public class IndexFiles {
 		}
 		return writer.numDocs();
 	}
-
+	
+	
 	
 	public boolean isStopword() {
 		return stopword;
@@ -129,6 +131,5 @@ public class IndexFiles {
 	public void setWriter(IndexWriter writer) {
 		this.writer = writer;
 	}
-
-
+	
 }
