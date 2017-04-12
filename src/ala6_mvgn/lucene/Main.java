@@ -13,8 +13,8 @@ public class Main {
 	private static boolean stopword = false;
 	private static boolean stemming = false;
 	private static int totalHits = 0;
-	private static final int NEW_BASE = 1;
-	private static final int QUIT = 2;
+	private static final int NEW_BASE = 2;
+	private static final int QUIT = 3;
 
 	private static String[] paths = {
 			"C:\\Users\\Allan\\Desktop\\",
