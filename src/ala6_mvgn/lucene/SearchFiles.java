@@ -76,7 +76,7 @@ public class SearchFiles {
 			String str = query.substring(1, query.length()-1);
 			String[] terms = str.split("\\s");
 			PhraseQuery phraseQuery = new PhraseQuery(1,"contents", terms);
-			hits = indexSearch.search(phraseQuery, 15);	
+			hits = indexSearch.search(phraseQuery, 200);	
 		} else if(query.contains("and ") || query.contains("not")) {
 			Builder builderQuery = new BooleanQuery.Builder();
 			StringTokenizer tokenizer = new StringTokenizer(query);
@@ -100,13 +100,13 @@ public class SearchFiles {
 				}
 			}
 			
-			hits = indexSearch.search(builderQuery.build(), 15);
+			hits = indexSearch.search(builderQuery.build(), 200);
 		} else {
 			QueryParser queryParser = new QueryParser("contents", analyzer);
 			
 			Query query = queryParser.parse(this.query);
 			
-			hits = indexSearch.search(query, 15);
+			hits = indexSearch.search(query, 200);
 		}
 		
 		printResult();
