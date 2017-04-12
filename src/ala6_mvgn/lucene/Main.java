@@ -71,12 +71,16 @@ public class Main {
 		temp = input.nextLine();
 		if (temp.equalsIgnoreCase("sim")) {
 			stopword = true;
+		} else {
+			stopword = false;
 		}
 
 		System.out.println("Stemming? ");
 		temp = input.nextLine();
 		if (temp.equalsIgnoreCase("sim")) {
-			stopword = true;
+			stemming = true;
+		} else {
+			stemming = false;
 		}
 
 	}
